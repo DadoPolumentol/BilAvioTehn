@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+mere	centi = 10^-2<br>nano = 10^-9<br>piko = 10^-12
+centi = 10^-2<br>nano = 10^-9<br>piko = 10^-12	mere
+intenzitet	E=(1/(4*π*ℇ₀*ℇᵣ))*(|Q|/r^2)&nbsp; [N/C]<br>E=(k/ℇᵣ)*(|Q|/r^2)
+E=(1/(4*π*ℇ₀*ℇᵣ))*(|Q|/r^2)&nbsp; [N/C]<br>E=(k/ℇᵣ)*(|Q|/r^2)	intenzitet
+Q	Kolicina naelektrisanja [C]
+Kolicina naelektrisanja [C]	Q
+r	Rastojanje tacke u prostoru od naelektrisanog tela
+Rastojanje tacke u prostoru od naelektrisanog tela	r
+ℇ₀	Apsolutna dielektricna konstanta vazduha / vakuma<br>ℇ₀=8,85*10^-12&nbsp; [C^2/Nm^2]
+Apsolutna dielektricna konstanta vazduha / vakuma<br>ℇ₀=8,85*10^-12&nbsp; [C^2/Nm^2]	ℇ₀
+ℇᵣ	Relativna dielektricna konstanta vazduha / vakuma<br>ℇᵣ=1 za vazduh i vakum
+Relativna dielektricna konstanta vazduha / vakuma<br>ℇᵣ=1 za vazduh i vakum	ℇᵣ
+k	k=1/(4*π*ℇ₀)=9*10^9&nbsp; [Nm^2/C^2]<br>Nema ime
+k=1/(4*π*ℇ₀)=9*10^9&nbsp; [Nm^2/C^2]<br>Nema ime	k
+Potencijal	V ili 𝜑 [V]<br>V=Ep/𝓆<br>V=(k/ℇᵣ)*(Q/𝓈)
+V ili 𝜑 [V]<br>V=Ep/𝓆<br>V=(k/ℇᵣ)*(Q/𝓈)	Potencijal
+Potencijalna energija	Ep=(k/ℇᵣ)*((Q*𝓆)/𝓈)&nbsp; [J]
+Ep=(k/ℇᵣ)*((Q*𝓆)/𝓈)&nbsp; [J]	Potencijalna energija
+Aₐ→ᵦ	Rad koji izvršavaju elektrostaticke sile prilikom premeštanja naelektrisanja iz tačke A u tačku B<br>[J]
+Rad koji izvršavaju elektrostaticke sile prilikom premeštanja naelektrisanja iz tačke A u tačku B<br>[J]	Aₐ→ᵦ
+Razlika u potencijalnoj energiji	𝛥Ep=Epa-Epb
+𝛥Ep=Epa-Epb	Razlika u potencijalnoj energiji
+Napon	Razlika potencijala<br>Uab=Va-Vb [V]
+Razlika potencijala<br>Uab=Va-Vb [V]	Napon
+Elektrostaticka sila	F=(k/ℇᵣ)*((|Q1|*|Q2|)/(𝓈^2))
+F=(k/ℇᵣ)*((|Q1|*|Q2|)/(𝓈^2))	Elektrostaticka sila
+Kad je dijagonala	Samo stranica * 1,41
+Samo stranica * 1,41	Kad je dijagonala
