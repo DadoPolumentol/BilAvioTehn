@@ -1,0 +1,62 @@
+#separator:tab
+#html:true
+Aviation	a branch of aviation that includes activities related to the use of aircraft heavier than air
+a branch of aviation that includes activities related to the use of aircraft heavier than air	Aviation
+Military aviation division	Fighter,fighter-bomber/attack,bomber,reconnaissance,transport,school
+Fighter,fighter-bomber/attack,bomber,reconnaissance,transport,school	Military aviation division
+fighter aviation	Task: achieving supremacy in the airspace
+Task: achieving supremacy in the airspace	fighter aviation
+fighter-bomber/attack aviation	Task: support ground troups / navy in performing tasks and can also act independently and destroy targets on the ground / in the air
+Task: support ground troups / navy in performing tasks and can also act independently and destroy targets on the ground / in the air	fighter-bomber/attack aviation
+bomber aviation	Task: destroy targets on earth<br>Strategic: deep in the enemy background<br>Tactical: on the front line or in it's immediate vicinity
+Task: destroy targets on earth<br>Strategic: deep in the enemy background<br>Tactical: on the front line or in it's immediate vicinity	bomber aviation
+Transport aviation	Task: transport of troops / military equipement
+Task: transport of troops / military equipement	Transport aviation
+School aviation	Task: Pilot training
+Task: Pilot training	School aviation
+Periods of history	prehistory,age of pioneers, world war 1, interwar period / golden age, world war 2, post-war / jet era
+prehistory,age of pioneers, world war 1, interwar period / golden age, world war 2, post-war / jet era	Periods of history
+prehistory:	until wright brothers flight in 1903
+until wright brothers flight in 1903	prehistory:
+age of pioneers:	1903-1914
+1903-1914	age of pioneers:
+world war 1:	1914-1918
+1914-1918	world war 1:
+interwar period / golden age:	1919-1939
+1919-1939	interwar period / golden age:
+world war 2:	1939-1945
+1939-1945	world war 2:
+post-war / jet age:	1945-present
+1945-present	post-war / jet age:
+First flying device	Chinese fire arrows
+Chinese fire arrows	First flying device
+Greeks	Daedalus and Icarus
+Daedalus and Icarus	Greeks
+Who made the 1st scientific work on flying	Roger Bacon
+Roger Bacon	Who made the 1st scientific work on flying
+Da Vinci devices	Ornithopter, Aerial Screw, Glider, Parachute
+Ornithopter, Aerial Screw, Glider, Parachute	Da Vinci devices
+Who invented the steam engine	James Watt
+James Watt	Who invented the steam engine
+Steam engine in aviation	Used by William Henson for his model the Aerial Steam Carriage
+Used by William Henson for his model the Aerial Steam Carriage	Steam engine in aviation
+First attempt at making a plane	Alexander Fyodorovich Mozhaisky - letuchka
+Alexander Fyodorovich Mozhaisky - letuchka	First attempt at making a plane
+Who created the Aeolous and L'avion	Clement Adere
+Clement Adere	Who created the Aeolous and L'avion
+1st balloon flight	21.11.1783., Paris, Mongolfie brothers, hot air balloon
+21.11.1783., Paris, Mongolfie brothers, hot air balloon	1st balloon flight
+1st Hydrogen Balloon	Jacques Alexander Charles
+Jacques Alexander Charles	1st Hydrogen Balloon
+First death of aviation	Pilatr de Rosie
+Pilatr de Rosie	First death of aviation
+First flight over english channel	Jean-Pierre Blanchavre
+Jean-Pierre Blanchavre	First flight over english channel
+1st Military use of aviation	1794 Battle of Fluery
+1794 Battle of Fluery	1st Military use of aviation
+1st Air Force	Campagnie d' aerostiers
+Campagnie d' aerostiers	1st Air Force
+Who made the Dirigible	Henri Giffard 1852
+Henri Giffard 1852	Who made the Dirigible
+1st commercial air company	DELAG 1909
+DELAG 1909	1st commercial air company
