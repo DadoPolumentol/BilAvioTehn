@@ -1,0 +1,84 @@
+#separator:tab
+#html:true
+First flight	Flyer I 17.12.1903. USA
+Flyer I 17.12.1903. USA	First flight
+Father of Aerodynamics	George Cayley
+George Cayley	Father of Aerodynamics
+Father of gliding	Otto Lilienthal
+Otto Lilienthal	Father of gliding
+Who created aerodrome	Samuel Langley
+Samuel Langley	Who created aerodrome
+1st flight in europe	Alberto Santos Dumont 1906, plane 14-bis
+Alberto Santos Dumont 1906, plane 14-bis	1st flight in europe
+1st flight in plane over English Channel	Louis Bleriot, 1909, plane Bleriot-11
+Louis Bleriot, 1909, plane Bleriot-11	1st flight in plane over English Channel
+First looping manuever	Pyotr Nesterov
+Pyotr Nesterov	First looping manuever
+Aircraft factories	Fokker, Albatros, Nieuport
+Fokker, Albatros, Nieuport	Aircraft factories
+1st educated aviator in Serbia	Kosta Miletic
+Kosta Miletic	1st educated aviator in Serbia
+First flight in Serbia	Rudolf Simon 1910, Belgrade, plane Loner-Simon
+Rudolf Simon 1910, Belgrade, plane Loner-Simon	First flight in Serbia
+First aviation death in Serbia	Edvard Rusjan, Kalemegdan, 1911
+Edvard Rusjan, Kalemegdan, 1911	First aviation death in Serbia
+Aerostats	Aircraft lighter than air
+Aircraft lighter than air	Aerostats
+Aerodyne	Aircraft heavier than air
+Aircraft heavier than air	Aerodyne
+Figher aviation	task is achieving supremacy in the airspace
+task is achieving supremacy in the airspace	Figher aviation
+Fighter/Bomber aviation	task is to support ground troops or the navy in performing tasks and can also act independently and destroy targets on the ground or in the air
+task is to support ground troops or the navy in performing tasks and can also act independently and destroy targets on the ground or in the air	Fighter/Bomber aviation
+Bomber aviation	task is to destroy targets on earth
+task is to destroy targets on earth	Bomber aviation
+Bomber aviation division	Strategic, Tactical
+Strategic, Tactical	Bomber aviation division
+Strategic bomber aviation	Carries out operations deep in the enemy background
+Carries out operations deep in the enemy background	Strategic bomber aviation
+Tactical bomber aviation	Carries out operations on the front line or in it's immediate vicinity
+Carries out operations on the front line or in it's immediate vicinity	Tactical bomber aviation
+Periods of aviation history	prehistory, age of pioneers, world war 1, interwar or golden age, world war 2, post-war or jet era
+prehistory, age of pioneers, world war 1, interwar or golden age, world war 2, post-war or jet era	Periods of aviation history
+Prehistory of aviation	Until wright brothers flight in 1903
+Until wright brothers flight in 1903	Prehistory of aviation
+Age of pioneers	From Wright brothers flight to world war 1; 1903-1914
+From Wright brothers flight to world war 1; 1903-1914	Age of pioneers
+World war 1	1914-1918
+1914-1918	World war 1
+Interwar period / golden age	1919-1939
+1919-1939	Interwar period / golden age
+World war 2	1939-1945
+1939-1945	World war 2
+Post-war / jet era	1945-present
+1945-present	Post-war / jet era
+Greek myth	Daedalus and Icarus
+Daedalus and Icarus	Greek myth
+First scientific work on flight	Roger Bacon
+Roger Bacon	First scientific work on flight
+First flying device	Chinese fire arrows
+Chinese fire arrows	First flying device
+Leonardo da Vinci's devices	Ornithopter, Aerial Screw, Glider, Parachute
+Ornithopter, Aerial Screw, Glider, Parachute	Leonardo da Vinci's devices
+Who created the Aerial Steam Carriage	William Henson
+William Henson	Who created the Aerial Steam Carriage
+First attempt to make an airplane	Alexander Fyodorovich Mozhaisky - Letuchka
+Alexander Fyodorovich Mozhaisky - Letuchka	First attempt to make an airplane
+Who created Aeolus and L'avion	Clement Adere
+Clement Adere	Who created Aeolus and L'avion
+First flight	21. Nov 1783, Paris, Mongolfie brothers
+21. Nov 1783, Paris, Mongolfie brothers	First flight
+Who created the Hydrogen balloon	Jacques Alexander Charles
+Jacques Alexander Charles	Who created the Hydrogen balloon
+First flight over English channel	Jean-Pierre Blanchavre, 1785
+Jean-Pierre Blanchavre, 1785	First flight over English channel
+First Airforce	France, Campagnie d'Aerostiers
+France, Campagnie d'Aerostiers	First Airforce
+First use of aviation in warfare	1794 Battle of Fluery
+1794 Battle of Fluery	First use of aviation in warfare
+Dirigible	1852, Henri Giffard, France
+1852, Henri Giffard, France	Dirigible
+First commercial air transport company	DELAG
+DELAG	First commercial air transport company
+Aviation definition	A branch of aviation that includes activities related to the use of aircraft heavier than air
+A branch of aviation that includes activities related to the use of aircraft heavier than air	Aviation definition
