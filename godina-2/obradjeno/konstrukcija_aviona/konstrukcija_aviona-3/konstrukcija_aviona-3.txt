@@ -1,0 +1,25 @@
+Zastita od udara groma i elektricno spajanje
+
+Mere predostroznosti se uvode kako bi se osigurala bezbedna i kontinuirana upotreba vazduhoplova u slucaju da ga pogodi grom. 1 udar groma sadrzi 100K ampera struje. Ne sme se dozvoliti elektricni luk od jedne do druge tacke strukture vazduhoplova. Pilotova duznost je da udar groma prijavi kontrolnom tornju, kao i ostalim letelicama koje se nalaze u blizini podrucja gde se udar desio, kako bi ostale avionske posade bile upoznate sa vremenskim uslovima na kojima se nalaze, ukoliko meteroloski radar nije precizno pokazao situaciju. Statisticki ispraznjivaci su instalirani na avionima da se ne bi desilo naglo praznjenje elektricnog luka i da bi se smanjile smetnje radio prijemnika. Montirani su uglavnom na izlaznim ivicama komandnih povrsina, krajevima krila i vertikalnim stabilizatora.
+
+Grafik
+
+Drenaza
+
+Skupljanje vode i drugih tecnosti u mnogim supljinama koje se nalaze u avionu moze dovesti do korozije i moze predstavljati opasnost od pozara. Da ne bi doslo do toga koristi se drenaza i ventilacija. Odvodi su unutrasnji ili spoljasnji. Unutrasnji odvodni putevi sluze za usmeravanje tecnosti prema spoljnim mestima odvoda. Npr. cevi, kanali, brane i unutrasnji otvori za odvod. Spoljni odvodi imaju otvore prema spoljnjem delu vazduhoplova. Nalaze se na krilima, repu, trupu i motornim gondolama. Ispusta tecnost van aviona. U vazduhoplovima bez pritiska odvodi mogu ostati otvoreni stalno. Drenazni ventili se koriste u delovima vazduhoplova pod pritiskom, tako da mogu ostati zatvoreni tokom  presurizacije. Tipicno se nalaze duz grede aviona, neki spoljni odvodi koriste vazduh pod pritiskom da zadrze ventil zatvoren. Гумени модулишући вентил, вентил са клипом или обични вентил са опругом затворен је ваздухом под притиском. Када није под притиском, на пример када је авион на тлу, вентили за одвод се отварају. Јединица за изравнавање се понекад користи за прављење ниског подручја у близини одводног вентила како би се осигурало да нигде не скупља, и да истиче кроз отвор за одвод. То је обично водоотпорни заптивач (гумени) без структуралних карактеристика. Неке течности се накупљају током времена и потребно их је исушити. Опрема за одводњавање кухиња и тоалета морају се загревати како би се спречило стварање леда и зачепљења услед ниских температура на великој висини. Дренажни испуст (drain mast) није ништа друго до цев у аеродинамичкој облози за усмеравање течности ван авиона. Већина има електричне грејаче или користе врући ваздух из пнеуматског система за спречавање залеђивања.
+
+Grafik
+
+Ventilacija
+
+Систем за пресуризацију и климатизацију кабина или скраћено АС - систем (Air Conditioning System) има задатак да обезбеди животне услове (притисак, температуру и влажност) у кабинама ваздухоплова, без обзира на режим лета (висину и брзину). Поред ова три параметра АС систем мора да обезбеди и проветравање кабина и климатизацију појединих одељака са опремом. Такође, неопходно је добро заптивање прозора и врата.
+Вентилација ваздухоплова укључује следеће:
+1. Коришћење спољашњег ваздуха за путничку и пилотску кабину
+2. Проветравање места са могућим испарењима (гориво, уље, масти), да би техничари могли несметано радити
+Обично се АС систем на путничким авионима састоји из два независна система који се налазе са леве и десне стране трупа авиона, чији рад је синхронизован и који равноправно снабдевају кабине климатизованим ваздухом
+„Bleed air”sistem је главни извор свежег ваздуха у авионима са турбомлазним погоном. То је веома мала количина ваздуха која се узима директно са мотора  и касније путем PACK - ова, припрема за климатизацију кабина. P.A.C.K. - Pneumatic Air Conditioning Kits
+Климатизовани ваздух, који се доводи из коморе за мешање, разводи се по кабинама ваздухоплова посебним систем цеви које се налазе у плафону авиона (могу се налазити и у зидовима). Постоје и фенови за рециркулацију, хлади се и електронска опрема у носу авиона, а ваздух даље пролази и кроз оба багажника. 
+Притисак у пилотској и путничкој кабини се регулише аутоматски преко излазног вентила (outflow valve) који се налази у задњем делу трупа.
+Техничар треба да осигура да сви отвори намењени за вентилацију не буду блокирани.
+Ваздух који пролази кроз вентилациони систем се филтрира и елимише 99% честица, као што су микроби и вируси. Ваздух се рециклира у просеку на свака 3-4 минута.
+HEPA (High-Efficency Particle Air) је врста филтера који се користи за пречишћавање свежег ваздуха који кружи у кабинама. Ови филтери се морају редовно мењати и није их могуће чистити.

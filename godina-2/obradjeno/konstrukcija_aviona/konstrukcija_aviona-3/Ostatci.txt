@@ -1,0 +1,8 @@
+#separator:tab
+#html:true
+Šta je funkcija jedinice za izravnavanje u drenaznom sistemu?	Jedinica za izravnavanje se koristi za pravljenje niskog područja u blizini odvodnog ventila kako bi se osiguralo da se tečnost ne nakuplja, već da ističe kroz otvor za odvod.
+Jedinica za izravnavanje se koristi za pravljenje niskog područja u blizini odvodnog ventila kako bi se osiguralo da se tečnost ne nakuplja, već da ističe kroz otvor za odvod.	Šta je funkcija jedinice za izravnavanje u drenaznom sistemu?
+Kako se reguliše pritisak u kabinama aviona?	Pritisak se automatski reguliše preko izduvnog ventila koji se nalazi u zadnjem delu trupa.
+Pritisak se automatski reguliše preko izduvnog ventila koji se nalazi u zadnjem delu trupa.	Kako se reguliše pritisak u kabinama aviona?
+Koja je funkcija HEPA filtera u ventilacionom sistemu aviona?	HEPA filteri prečišćavaju vazduh u kabinama aviona, eliminišući 99% čestica poput mikroba i virusa.
+HEPA filteri prečišćavaju vazduh u kabinama aviona, eliminišući 99% čestica poput mikroba i virusa.	Koja je funkcija HEPA filtera u ventilacionom sistemu aviona?

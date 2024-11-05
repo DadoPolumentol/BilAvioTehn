@@ -1,0 +1,248 @@
+Који је циљ захтева за пловидбеност конструкције?
+Cilj je dozvoliti samo vazduhoplovima koji ispunjavaju minimalne zahteve plovidbenosti da dobiju sertifikat o plovidbenosti radi zastite vazduhoplovnog osoblja i javnosti
+
+Ко поставља захтеве за пловидбеност конструкције ваздухоплова?
+EASA / nadlez drz org
+
+На који ваздухоплов примењује EASA део 25 (CS25) стандарде за конструктивну пловидбеност?
+max U m > 5700kg
+
+Шта се дешава са ваздухопловима који не испуњавају стандарде према EASA делу 25?
+n d d s o p
+
+Које су неке од структурно повезаних тема обухваћених у CS25 стандардима?
+cvrstoca, kontrola, lakoca odrzavanja, masa, ventilacija, faktori sigurnosti, funkcionisanje vrata
+
+Који су примери специфичних захтева за перформансе компоненти у CS25?
+efekat trimera, uredjaj za povecanje uzgona, karakteristike stabilnosti i zaustavljanja
+
+Које су категорије структуре ваздухоплова?
+pri,sek,ter
+
+Зашто се структура ваздухоплова дели на три категорије?
+Radi procene steta i primena popravki po postupcima adekvatnim za datu kategoriju
+
+Ко одређује под коју категорију потпада структура ваздухоплова?
+Proizvodjac u prirucnicima
+
+Шта је дужност техничара у вези са структуром ваздухоплова?
+-
+
+Шта је примарна конструкција у авиону?
+Usled loma, katastrofalni lom, povreda osoblja ili putnika, gubitak kontrole aviona, nezeljno komandovanje, krav na motoru, onemoguceno pravilno koriscenje
+
+Наведи неке примере примарне конструкције у авиону.
+ramenjace krila, nosaci motora
+
+Шта су принципијелни структурални елементи (ПСЕ-ови)?
+Elementi primarne strukture vazduhoplova koji nose opterecenje na zemlji, u letu i od napona presurizacije
+
+Шта су структурно значајни делови (ССИ)?
+Elementi primarne strukture vazduhoplova koji su specificirani u dopunskom dokumentu o strukturnoj inspekciji, mogu zahtevati dodatni pregled i imaju odredjena ogranicenja popravke
+
+Шта је пример структурно значајног дела (ССИ)?
+APU (Auxiliary Power Unit)
+
+Шта је секундарна конструкција у авиону?
+U slucaju loma ne mora doci do katastrofalnog ishoda, ali se narusava bezbednost leta
+
+Наведи примере секундарне конструкције у авиону.
+Uzduznici trupa, rebra krila
+
+Како лом секундарне конструкције утиче на лет?
+Ne mora doci do fatalnog ishoda, ali se narusava bezbednost leta
+
+Која је разлика између примарне и секундарне конструкције у погледу безбедности?
+znam
+
+Шта је терцијарна структура у авиону?
+konstrukcija lakog naprezanja koja ima aerodinamicke ili funkcionalne uloge
+
+Наведи примере терцијарне структуре у авиону.
+Aerodinamicke obloge, fileti, razni nosaci, zakivci
+
+Која је улога терцијарне структуре у авиону?
+znam
+
+Шта значи концепт 'Fail Safe' у конструкцији ваздухоплова?
+U slucaju delimicnog kvara, avion moze da nastavi da leti bez rizika od katastrofalnog kvara dok se kvar ne nadje u redovnoj inspekciji
+
+Ко осигурава да је конструкција 'Fail Safe'?
+Proizvodjac
+
+Како је структура ваздухоплова дизајнирана у складу са 'Fail Safe' концептом?
+znam
+
+Шта се користи за развој сигурних конструкцијских елемената?
+fuck off
+
+Шта подразумева концепт толеранције на оштећења?
+Elementi se smatraju tolerantnim na ostecenja ako mogu da pretrpe delimican kvar bez narusavanja bezbednosti leta
+
+Шта значи концепт 'Safe Life' у конструкцији ваздухоплова?
+Da se elementi zamene da ne bi doslo do kvara ili zamora materijala
+
+Који фактори се узимају у обзир код 'Safe Life' концепта?
+Ucinak korozije, habanja, zamora materijala
+
+Шта је основна разлика између 'Fail Safe' и 'Safe Life' концепта?
+znam
+
+Шта се користи за прецизно лоцирање сваке структурне компоненте авиона?
+brojni sistem numerisanja stanica
+
+Шта представља 'нулта станица' у обележавању станица?
+Obicno se nalazi na nosu i od nje se levo ili desno mere druge stanice u razdaljini od nulte u incima ili milimetrima
+
+Како се мере растојања десно или лево од средишње линије авиона?
+lepo
+
+Које су уобичајене ознаке локације у авионским системима означавања станица?
+STA,FS,BL,WL
+
+Шта је референтни датум и како се користи у авионским системима нумерације?
+Zamisljena vertikalna ravan koja se nalazi na ili u blizini nosa aviona, paralelna je sa sredisnjom linijom aviona i od nje se napred i nazad mere ostale stanice u razdaljini od nje u incima
+
+Како се мери висина у авионским системима?
+WL koja je vertikalna ravan paralelna na horizontalnu ravan koja je tlo ili pod kabine
+
+Шта је важна комбинација за извршавање прегледа или одржавања у авиону?
+fuck off
+
+Шта су панели за приступ и прегледе?
+Otvori na avionu koji sluze za preglede i servisiranje strukturnih komponenti
+
+Каква је разлика између малих и великих панела?
+Mali paneli su sarkasti ili uklonjivi dok veliki ili vrata sluze za uklanjanje komponenti i njihovom pristupu
+
+Где се обично налазе мали панели на авиону?
+Na donjoj povrsini krila
+
+Зашто горња површина крила има мање приступних панела?
+Zato sto je gornja povrsina veoma glatka da bi proizvodila najvise moguce laminarnog strujanja koji stvara uzgon, pa ako tu stavis pristupnu panelu, poremetices to laminarno strujanje i smanjujes efikasnost
+
+Како се механичарима и инспекторима олакшава приступ критичним структурама на великим ваздухопловима?
+Pomocu panela
+
+Како су панели и врата на авионима означени?
+Numerisani su a mogu i biti numerisani za zone i podzone
+
+Како се обележавају леве и десне бочне локације у ваздухоплову?
+L i R ili su panele na jednoj strani paralelno numerisane, a na drugoj neparno
+
+Где се може наћи систем нумерисања панела?
+U prirucniku koji je napisao proizvodjac
+
+Шта представља напон у материјалу?
+Napon je stanje u materijalu koje nastaje kada spoljasnje sile deluju na njega
+
+Шта је деформација?
+Promena oblika i dimenzija masinskih elemenata
+
+Шта је анализа напона?
+Odredjivanje sila pod kojima su izlozeni delovi letelice
+
+Зашто је важно да техничар разуме оптерећења делова?
+Da ne bi napravio nepravu popravku, pa se onda mora menjati originalni dizajn
+
+Каква је разлика између напона и напрезања?
+Napon je unutrasnji otpor materijala na deformaciju, dok je naprezanje stepen deformacije
+
+Које су пет главних напрезања којима су изложени ваздухоплови?
+Uvijanje,savijanje,sabijanje,istezanje,smicanje
+
+Шта се дешава при истезању?
+P.P. -, l+
+
+Шта се дешава при сабијању?
+P.P+,L-
+
+Шта представља увијање?
+Kada se poprecni presek rotira suprotno od drugog. Deformacija se zove ugao uvijanja
+
+Шта је смицање?
+Napon u materijalu koji nastaje kada na njega deluje sila koja tezi da jedan sloj materijala klizne po susednom sloju
+
+Шта је савијање?
+Zbir sabijanja i istezanja
+
+Када се јавља извијање?
+Kada je visina veoma velika u odnosu na p.p.
+
+Koji je zadatak zaštitnih mera protiv udara groma u vazduhoplovstvu?
+Mere predostroznosti postoje da bi i usled udara groma vazduhoplov nastavio sa sigurnim i bezbednim letom
+
+Koliko struje sadrži jedan udar groma?
+100K Ampera
+
+Zašto se ne sme dozvoliti električni luk od jedne do druge tačke strukture vazduhoplova?
+Jer se moze ostetiti struktura vazduhoplova i narusiti bezbednost leta
+
+Koja je dužnost pilota u slučaju udara groma?
+Da javi kontrolnom tornju i svim letelicama u blizini da ga je udario grom.
+
+Koje uređaje avioni koriste da bi smanjili smetnje radio prijemnika uzrokovane električnim lukovima?
+Statisticki ispraznjivaci
+
+Gde su obično montirani statistički ispražnjivači?
+Na izlaznim ivicama kontrolnih povrsina, krajevima krila, vertikalnim stabilizatorima
+
+Koji su glavni problemi koje može izazvati skupljanje tečnosti u šupljinama aviona?
+Korozija i rizik od nastanka pozara
+
+Kako se sprečava nakupljanje tečnosti u avionu?
+Ventilacionim i drenaznim sistemima
+
+Koja je uloga unutrašnjih odvodnih puteva u drenaznom sistemu?
+Da preusmere tecnost prema mestima spoljasnjeg odvoda
+
+Gde se nalaze spoljni odvodi na avionima?
+Na trupu, repu, krilima i gondolama motora
+
+Kako se drenazni ventili ponašaju u delovima aviona pod pritiskom?
+Kada je avion pod pritiskom, zatvaraju se, a kada nije, otvaraju se
+
+Šta je funkcija jedinice za izravnavanje u drenaznom sistemu? ********************************************************
+Jedinica za izravnavanje pruza deo niskog podrucja kod izlaza spoljanjeg odvodnog sistema i tako sprecava netrazenu akumulaciju tecnosti i pruza adekvatno ispraznjivanje
+
+Zašto oprema za odvodnjavanje kuhinja i toaleta mora biti zagrevana?
+Da ne bi doslo da stvaranja leda i zapusavanja, koji nastaju zbog niskih temperaturama na velikim visinama
+
+Šta je drenazni ispust (drain mast)? POGLEDAJ JEL TACNO************************************************************
+Odvodna cev u aerodinamickoj oblozi koja koristi elektricne grejace ili topao vazduh iz pneumatickog sistema da zagreje tecnost da se ne bi zaledila
+
+Šta je glavna funkcija Air Conditioning System (AC sistema) u avionu?
+Da odrzava zivotne uslove, pritisak, temperatura, vlaznost u kabini, nezavisno od rezima leta
+
+Kako AC sistem obezbeđuje ventilaciju i klimatizaciju?
+Pomocu spoljasnjeg vazduha
+
+Šta je „Bleed air” sistem i koja je njegova funkcija?
+Bleed air sistem je glavni izvor vazduha u avionima sa turbomlaznim pogonom. Uzima malo vazduha direktno iz motora i salje ga dalje PACK sistemu koji ce ga spremiti za ventilaciju
+
+Kako se klimatizovani vazduh dovodi do kabina aviona?
+Iz preciscavajuce komore idu specijalne cevi do zidova i plafona kabine, gde se vazduh ispusta
+
+Kako se reguliše pritisak u kabinama aviona? POGLEDAJ JEL TACNO************************************************************
+Na zadnjem delu trupa ima odvodni otvor
+
+Koja je funkcija HEPA filtera u ventilacionom sistemu aviona? *******************************************************
+Preciscava vazduh od 99% cestica kao sto su virusi i mikrobi
+
+skin na srpskom
+oplata
+
+assembly na srpskom
+sklop
+
+retainer na srpskom
+kuciste
+
+drain path na srpskom
+odvodni put
+
+Fuselage skin na srpskom
+oplata trupa
+
+Hexagonal drain hole na srpskom
+heksagonalna odvodna rupa

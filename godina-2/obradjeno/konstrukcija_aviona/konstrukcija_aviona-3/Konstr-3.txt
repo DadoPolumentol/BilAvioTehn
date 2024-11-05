@@ -1,0 +1,170 @@
+#separator:tab
+#html:true
+Који је циљ захтева за пловидбеност конструкције?&nbsp;<strong></strong>	Циљ је дозволити само ваздухопловима који испуњавају минималне стандарде пловидбености да лете, у покушају заштите ваздухопловног особља и јавности.
+Циљ је дозволити само ваздухопловима који испуњавају минималне стандарде пловидбености да лете, у покушају заштите ваздухопловног особља и јавности.	Који је циљ захтева за пловидбеност конструкције?&nbsp;<strong></strong>
+Ко поставља захтеве за пловидбеност конструкције ваздухоплова?&nbsp;<strong></strong>	Захтеве поставља EASA и сертификациони орган у земљи произвођача ако није члан EASA.
+Захтеве поставља EASA и сертификациони орган у земљи произвођача ако није члан EASA.	Ко поставља захтеве за пловидбеност конструкције ваздухоплова?&nbsp;<strong></strong>
+На који ваздухоплов примењује EASA део 25 (СS25) стандарде за конструктивну пловидбеност?&nbsp;<strong></strong>	EASA део 25 примењује се на ваздухоплове са максималном укупном масом изнад 5700 кг.
+EASA део 25 примењује се на ваздухоплове са максималном укупном масом изнад 5700 кг.	На који ваздухоплов примењује EASA део 25 (СS25) стандарде за конструктивну пловидбеност?&nbsp;<strong></strong>
+Шта се дешава са ваздухопловима који не испуњавају стандарде према EASA делу 25?	Ваздухоплови који не испуњавају ове стандарде не могу добити сертификат о пловидбености.
+Ваздухоплови који не испуњавају ове стандарде не могу добити сертификат о пловидбености.	Шта се дешава са ваздухопловима који не испуњавају стандарде према EASA делу 25?
+Које су неке од структурно повезаних тема обухваћених у CS25 стандардима?	Неке од тема су чврстоћа, контрола, лакоћа одржавања, маса, вентилација, фактори сигурности и функционисање врата.
+Неке од тема су чврстоћа, контрола, лакоћа одржавања, маса, вентилација, фактори сигурности и функционисање врата.	Које су неке од структурно повезаних тема обухваћених у CS25 стандардима?
+Који су примери специфичних захтева за перформансе компоненти у CS25?&nbsp;<strong></strong>	Примери су ефекат тримера, уређај за повећање узгона, карактеристике стабилности и заустављања.
+Примери су ефекат тримера, уређај за повећање узгона, карактеристике стабилности и заустављања.	Који су примери специфичних захтева за перформансе компоненти у CS25?&nbsp;<strong></strong>
+Које су три категорије структуре ваздухоплова?	Примарна, секундарна, терцијарна.
+Примарна, секундарна, терцијарна.	Које су три категорије структуре ваздухоплова?
+Зашто се структура ваздухоплова дели на три категорије?	Ради процене штете и примене процедура за поправке које су погодне за дату конструкцију.
+Ради процене штете и примене процедура за поправке које су погодне за дату конструкцију.	Зашто се структура ваздухоплова дели на три категорије?
+Ко одређује под коју категорију потпада структура ваздухоплова?	Произвођач у својим приручницима.
+Произвођач у својим приручницима.	Ко одређује под коју категорију потпада структура ваздухоплова?
+Шта је дужност техничара у вези са структуром ваздухоплова?	Техничар је дужан да поправља и одржава структуру у складу са правилима за категорију под коју спада.
+Техничар је дужан да поправља и одржава структуру у складу са правилима за категорију под коју спада.	Шта је дужност техничара у вези са структуром ваздухоплова?
+Шта је примарна конструкција у авиону?	Примарна конструкција је део структуре авиона који би, у случају лома, могао изазвати губитак контроле авиона, катастрофални лом, повреде путника и особља, квар на моторима, нежељено командовање или немогућност правилног коришћења.
+Примарна конструкција је део структуре авиона који би, у случају лома, могао изазвати губитак контроле авиона, катастрофални лом, повреде путника и особља, квар на моторима, нежељено командовање или немогућност правилног коришћења.	Шта је примарна конструкција у авиону?
+Наведи неке примере примарне конструкције у авиону.	Рамењаче крила, носачи мотора.
+Рамењаче крила, носачи мотора.	Наведи неке примере примарне конструкције у авиону.
+Шта су принципијелни структурални елементи (ПСЕ-ови)?	ПСЕ-ови су елементи примарне структуре који носе оптерећења у лету, на земљи, и напоне пресуризације.
+ПСЕ-ови су елементи примарне структуре који носе оптерећења у лету, на земљи, и напоне пресуризације.	Шта су принципијелни структурални елементи (ПСЕ-ови)?
+Шта су структурно значајни делови (ССИ)?	ССИ су елементи примарне структуре који су специфицирани у допунском документу о структурној инспекцији и могу захтевати посебан преглед и имати одређена ограничења поправке.
+ССИ су елементи примарне структуре који су специфицирани у допунском документу о структурној инспекцији и могу захтевати посебан преглед и имати одређена ограничења поправке.	Шта су структурно значајни делови (ССИ)?
+Шта је пример структурно значајног дела (ССИ)?	APU (Auxiliary Power Unit).
+APU (Auxiliary Power Unit).	Шта је пример структурно значајног дела (ССИ)?
+Шта је секундарна конструкција у авиону?	Секундарна конструкција су делови ваздухоплова који нису примарни, али имају интегрални значај и чврстоћу која прелази конструкцијске захтеве.
+Секундарна конструкција су делови ваздухоплова који нису примарни, али имају интегрални значај и чврстоћу која прелази конструкцијске захтеве.	Шта је секундарна конструкција у авиону?
+Наведи примере секундарне конструкције у авиону.	Ребра крила, уздужници трупа.
+Ребра крила, уздужници трупа.	Наведи примере секундарне конструкције у авиону.
+Како лом секундарне конструкције утиче на лет?	Лом секундарне конструкције не значи фаталан исход, али нарушава безбедност лета.
+Лом секундарне конструкције не значи фаталан исход, али нарушава безбедност лета.	Како лом секундарне конструкције утиче на лет?
+Која је разлика између примарне и секундарне конструкције у погледу безбедности?	Примарна конструкција, у случају лома, може изазвати катастрофалне последице, док секундарна конструкција може ослабити без фаталног исхода, али нарушава безбедност.
+Примарна конструкција, у случају лома, може изазвати катастрофалне последице, док секундарна конструкција може ослабити без фаталног исхода, али нарушава безбедност.	Која је разлика између примарне и секундарне конструкције у погледу безбедности?
+Шта је терцијарна структура у авиону?	Терцијарна структура су конструкције са лаким напрезањем које се постављају на авион из различитих разлога.
+Терцијарна структура су конструкције са лаким напрезањем које се постављају на авион из различитих разлога.	Шта је терцијарна структура у авиону?
+Наведи примере терцијарне структуре у авиону.	Аеродинамичке облоге, филети, разни носачи, закивци.
+Аеродинамичке облоге, филети, разни носачи, закивци.	Наведи примере терцијарне структуре у авиону.
+Која је улога терцијарне структуре у авиону?	Терцијарна структура има мање оптерећење у поређењу са примарном и секундарном, али се користи за аеродинамичке и функционалне сврхе.
+Терцијарна структура има мање оптерећење у поређењу са примарном и секундарном, али се користи за аеродинамичке и функционалне сврхе.	Која је улога терцијарне структуре у авиону?
+Шта значи концепт 'Fail Safe' у конструкцији ваздухоплова?	'Fail Safe' значи да се део конструкције може користити након делимичног квара, без вероватноће катастрофалног квара.
+'Fail Safe' значи да се део конструкције може користити након делимичног квара, без вероватноће катастрофалног квара.	Шта значи концепт 'Fail Safe' у конструкцији ваздухоплова?
+Ко осигурава да је конструкција 'Fail Safe'?	Произвођач испитује конструкцију како би осигурао да катастрофални квар није вероватан након квара услед замора или делимичног лома.
+Произвођач испитује конструкцију како би осигурао да катастрофални квар није вероватан након квара услед замора или делимичног лома.	Ко осигурава да је конструкција 'Fail Safe'?
+Како је структура ваздухоплова дизајнирана у складу са 'Fail Safe' концептом?	Структура је дизајнирана тако да авион може наставити да се користи са сигурношћу све док се квар не открије у редовној контроли одржавања.
+Структура је дизајнирана тако да авион може наставити да се користи са сигурношћу све док се квар не открије у редовној контроли одржавања.	Како је структура ваздухоплова дизајнирана у складу са 'Fail Safe' концептом?
+Шта се користи за развој сигурних конструкцијских елемената?	Испитивање произвођача и анализа замора користе се за развој сигурних конструкцијских елемената.
+Испитивање произвођача и анализа замора користе се за развој сигурних конструкцијских елемената.	Шта се користи за развој сигурних конструкцијских елемената?
+Шта подразумева концепт толеранције на оштећења?	Елементи конструкције се сматрају толерантним на оштећења ако могу поднети делимични квар без угрожавања безбедности лета.
+Елементи конструкције се сматрају толерантним на оштећења ако могу поднети делимични квар без угрожавања безбедности лета.	Шта подразумева концепт толеранције на оштећења?
+Шта значи концепт 'Safe Life' у конструкцији ваздухоплова?	'Safe Life' концепт подразумева да део конструкције мора бити замењен пре него што се материјал замори или доживи квар.
+'Safe Life' концепт подразумева да део конструкције мора бити замењен пре него што се материјал замори или доживи квар.	Шта значи концепт 'Safe Life' у конструкцији ваздухоплова?
+Који фактори се узимају у обзир код 'Safe Life' концепта?	Учинак корозије, хабања и замора материјала.
+Учинак корозије, хабања и замора материјала.	Који фактори се узимају у обзир код 'Safe Life' концепта?
+Шта је основна разлика између 'Fail Safe' и 'Safe Life' концепта?	'Fail Safe' дозвољава наставак коришћења структуре након делимичног квара, док 'Safe Life' подразумева замену дела пре него што дође до замора материјала или квара.
+'Fail Safe' дозвољава наставак коришћења структуре након делимичног квара, док 'Safe Life' подразумева замену дела пре него што дође до замора материјала или квара.	Шта је основна разлика између 'Fail Safe' и 'Safe Life' концепта?
+Шта се користи за прецизно лоцирање сваке структурне компоненте авиона?	За прецизно лоцирање структурних компоненти користе се бројни системи означавања станица.
+За прецизно лоцирање структурних компоненти користе се бројни системи означавања станица.	Шта се користи за прецизно лоцирање сваке структурне компоненте авиона?
+Шта представља 'нулта станица' у обележавању станица?	Нос авиона се обично означава као 'нулта станица', а остале станице су на измереним растојањима у инчима или милиметрима иза нулте станице.
+Нос авиона се обично означава као 'нулта станица', а остале станице су на измереним растојањима у инчима или милиметрима иза нулте станице.	Шта представља 'нулта станица' у обележавању станица?
+Како се мере растојања десно или лево од средишње линије авиона?	Средишња линија авиона се сматра нултом станицом, од које се мерења врше десно или лево ради проналажења чланова структуре.
+Средишња линија авиона се сматра нултом станицом, од које се мерења врше десно или лево ради проналажења чланова структуре.	Како се мере растојања десно или лево од средишње линије авиона?
+Које су уобичајене ознаке локације у авионским системима означавања станица?	<div>Уобичајене ознаке су:</div><ul><li>Станице трупа (STA или FS)</li><li>Линија задњице (Butt Line или BL)</li><li>Водена линија (Water Line или WL)</li></ul>
+<div>Уобичајене ознаке су:</div><ul><li>Станице трупа (STA или FS)</li><li>Линија задњице (Butt Line или BL)</li><li>Водена линија (Water Line или WL)</li></ul>	Које су уобичајене ознаке локације у авионским системима означавања станица?
+Шта је референтни датум и како се користи у авионским системима нумерације?	Референтни датум је замишљена вертикална раван на или близу носа авиона, из које се мере све удаљености напред и назад, паралелно са средишњом линијом авиона.
+Референтни датум је замишљена вертикална раван на или близу носа авиона, из које се мере све удаљености напред и назад, паралелно са средишњом линијом авиона.	Шта је референтни датум и како се користи у авионским системима нумерације?
+Како се мери висина у авионским системима?	Висина се мери у инчима преко водене линије (WL), која је нормално од хоризонталне равни као што је тло или под кабине.
+Висина се мери у инчима преко водене линије (WL), која је нормално од хоризонталне равни као што је тло или под кабине.	Како се мери висина у авионским системима?
+Шта је важна комбинација за извршавање прегледа или одржавања у авиону?	Знање о локацији структурних компоненти треба комбиновати са приступом тим подручјима.
+Знање о локацији структурних компоненти треба комбиновати са приступом тим подручјима.	Шта је важна комбинација за извршавање прегледа или одржавања у авиону?
+Шта су панели за приступ и прегледе?	Панели за приступ и прегледе су отворе на авиону који омогућавају преглед и сервисирање структурних компоненти.
+Панели за приступ и прегледе су отворе на авиону који омогућавају преглед и сервисирање структурних компоненти.	Шта су панели за приступ и прегледе?
+Каква је разлика између малих и великих панела?	Мали панели су обично шаркасти или уклоњиви, док велики панели и врата омогућавају уклањање компоненти и приступ за одржавање.
+Мали панели су обично шаркасти или уклоњиви, док велики панели и врата омогућавају уклањање компоненти и приступ за одржавање.	Каква је разлика између малих и великих панела?
+Где се обично налазе мали панели на авиону?	На доњој страни крила, где се могу надгледати контролни делови и подмазанити спојнице.
+На доњој страни крила, где се могу надгледати контролни делови и подмазанити спојнице.	Где се обично налазе мали панели на авиону?
+Зашто горња површина крила има мање приступних панела?	Због глатке површине која подстиче боље ламинарно струјање ваздуха, што производи узгон.
+Због глатке површине која подстиче боље ламинарно струјање ваздуха, што производи узгон.	Зашто горња површина крила има мање приступних панела?
+Како се механичарима и инспекторима олакшава приступ критичним структурама на великим ваздухопловима?	Стазе су понекад означене на горњој површини крила ради сигурног кретања до критичних компоненти.
+Стазе су понекад означене на горњој површини крила ради сигурног кретања до критичних компоненти.	Како се механичарима и инспекторима олакшава приступ критичним структурама на великим ваздухопловима?
+Како су панели и врата на авионима означени?	Панели су нумерисани ради лаке идентификације, а обично су секвенцијално нумерисани са информацијама о зонама и подзонима.
+Панели су нумерисани ради лаке идентификације, а обично су секвенцијално нумерисани са информацијама о зонама и подзонима.	Како су панели и врата на авионима означени?
+Како се обележавају леве и десне бочне локације у ваздухоплову?	Леве и десне бочне локације често су означене са „L“ или „R“, или панели на једној страни могу бити непарни, а на другој парни.
+Леве и десне бочне локације често су означене са „L“ или „R“, или панели на једној страни могу бити непарни, а на другој парни.	Како се обележавају леве и десне бочне локације у ваздухоплову?
+Где се може наћи систем нумерисања панела?	У приручнику за одржавање произвођача летелице, који објашњава систем нумерисања и садржи дијаграме и табеле.
+У приручнику за одржавање произвођача летелице, који објашњава систем нумерисања и садржи дијаграме и табеле.	Где се може наћи систем нумерисања панела?
+Шта представља напон у материјалу?	Напон је стање у материјалу које се јавља услед дејства спољашњих сила.
+Напон је стање у материјалу које се јавља услед дејства спољашњих сила.	Шта представља напон у материјалу?
+Шта је деформација?	Деформација је промена облика и димензија машинских делова.
+Деформација је промена облика и димензија машинских делова.	Шта је деформација?
+Какви делови авиона морају бити дизајнирани да носе оптерећење?	Сви конструкцијски делови авиона, укључујући крила, труп, ребра, осовине и металне спојеве.
+Сви конструкцијски делови авиона, укључујући крила, труп, ребра, осовине и металне спојеве.	Какви делови авиона морају бити дизајнирани да носе оптерећење?
+Шта је анализа напона?	Одређивање оптерећења којима су изложени делови летелице.
+Одређивање оптерећења којима су изложени делови летелице.	Шта је анализа напона?
+Зашто је важно да техничар разуме оптерећења делова?	Да би избегли промене оригиналног дизајна неправилним поправкама.
+Да би избегли промене оригиналног дизајна неправилним поправкама.	Зашто је важно да техничар разуме оптерећења делова?
+Каква је разлика између напона и напрезања?	Напон је унутрашњи отпор материјала на деформацију, док је напрезање степен деформације материјала.
+Напон је унутрашњи отпор материјала на деформацију, док је напрезање степен деформације материјала.	Каква је разлика између напона и напрезања?
+Које су пет главних напрезања којима су изложени ваздухоплови?	<li>Истезање</li><li>Сабијање</li><li>Увијање</li><li>Смицање</li><li>Савијање</li>
+<li>Истезање</li><li>Сабијање</li><li>Увијање</li><li>Смицање</li><li>Савијање</li>	Које су пет главних напрезања којима су изложени ваздухоплови?
+Шта се дешава при истезању?	Дешава се смањење попречног пресека и издужење неког дела структуре ваздухоплова.
+Дешава се смањење попречног пресека и издужење неког дела структуре ваздухоплова.	Шта се дешава при истезању?
+Шта се дешава при сабијању?	Дешава се повећање попречног пресека и смањење дужине неког дела ваздухоплова.
+Дешава се повећање попречног пресека и смањење дужине неког дела ваздухоплова.	Шта се дешава при сабијању?
+Шта представља увијање?	Заокретање попречног пресека у односу на други, а деформација се зове угао увијања.
+Заокретање попречног пресека у односу на други, а деформација се зове угао увијања.	Шта представља увијање?
+Шта је смицање?	Напон који се одупире сили која тежи да један слој материјала клизне по суседном слоју.
+Напон који се одупире сили која тежи да један слој материјала клизне по суседном слоју.	Шта је смицање?
+Шта је савијање?	Комбинација истезања и сабијања; деформација код савијања се зове угиб.
+Комбинација истезања и сабијања; деформација код савијања се зове угиб.	Шта је савијање?
+Када се јавља извијање?	Код делова којима је попречни пресек мали у односу на висину.
+Код делова којима је попречни пресек мали у односу на висину.	Када се јавља извијање?
+Koji je zadatak zaštitnih mera protiv udara groma u vazduhoplovstvu?	Mere predostrožnosti se uvode kako bi se osigurala bezbedna i kontinuirana upotreba vazduhoplova u slučaju da ga pogodi grom.
+Mere predostrožnosti se uvode kako bi se osigurala bezbedna i kontinuirana upotreba vazduhoplova u slučaju da ga pogodi grom.	Koji je zadatak zaštitnih mera protiv udara groma u vazduhoplovstvu?
+Koliko struje sadrži jedan udar groma?	Jedan udar groma sadrži 100K ampera struje.
+Jedan udar groma sadrži 100K ampera struje.	Koliko struje sadrži jedan udar groma?
+Zašto se ne sme dozvoliti električni luk od jedne do druge tačke strukture vazduhoplova?	Ne sme se dozvoliti električni luk kako bi se izbegla šteta na strukturi vazduhoplova i osigurala bezbednost leta.
+Ne sme se dozvoliti električni luk kako bi se izbegla šteta na strukturi vazduhoplova i osigurala bezbednost leta.	Zašto se ne sme dozvoliti električni luk od jedne do druge tačke strukture vazduhoplova?
+Koja je dužnost pilota u slučaju udara groma?	Pilotova dužnost je da udar groma prijavi kontrolnom tornju i ostalim letelicama koje se nalaze u blizini područja gde se udar desio.
+Pilotova dužnost je da udar groma prijavi kontrolnom tornju i ostalim letelicama koje se nalaze u blizini područja gde se udar desio.	Koja je dužnost pilota u slučaju udara groma?
+Koje uređaje avioni koriste da bi smanjili smetnje radio prijemnika uzrokovane električnim lukovima?	Statistički ispražnjivači su instalirani na avionima da bi smanjili smetnje radio prijemnika i sprečili naglo pražnjenje električnog luka.
+Statistički ispražnjivači su instalirani na avionima da bi smanjili smetnje radio prijemnika i sprečili naglo pražnjenje električnog luka.	Koje uređaje avioni koriste da bi smanjili smetnje radio prijemnika uzrokovane električnim lukovima?
+Gde su obično montirani statistički ispražnjivači?	Montirani su uglavnom na izlaznim ivicama komandnih površina, krajevima krila i vertikalnom stabilizatoru.
+Montirani su uglavnom na izlaznim ivicama komandnih površina, krajevima krila i vertikalnom stabilizatoru.	Gde su obično montirani statistički ispražnjivači?
+Koji su glavni problemi koje može izazvati skupljanje tečnosti u šupljinama aviona?	Skupljanje vode i drugih tečnosti u šupljinama aviona može dovesti do korozije i predstavlja opasnost od požara.
+Skupljanje vode i drugih tečnosti u šupljinama aviona može dovesti do korozije i predstavlja opasnost od požara.	Koji su glavni problemi koje može izazvati skupljanje tečnosti u šupljinama aviona?
+Kako se sprečava nakupljanje tečnosti u avionu?	Sprečava se korišćenjem drenaznih sistema i ventilacije.
+Sprečava se korišćenjem drenaznih sistema i ventilacije.	Kako se sprečava nakupljanje tečnosti u avionu?
+Koja je uloga unutrašnjih odvodnih puteva u drenaznom sistemu?	Unutrašnji odvodni putevi služe za usmeravanje tečnosti prema spoljnim mestima odvoda.
+Unutrašnji odvodni putevi služe za usmeravanje tečnosti prema spoljnim mestima odvoda.	Koja je uloga unutrašnjih odvodnih puteva u drenaznom sistemu?
+Gde se nalaze spoljni odvodi na avionima?	Spoljni odvodi se nalaze na krilima, repu, trupu i motornim gondolama, ispuštajući tečnost van aviona.
+Spoljni odvodi se nalaze na krilima, repu, trupu i motornim gondolama, ispuštajući tečnost van aviona.	Gde se nalaze spoljni odvodi na avionima?
+Kako se drenazni ventili ponašaju u delovima aviona pod pritiskom?	Drenazni ventili u delovima aviona pod pritiskom ostaju zatvoreni tokom presurizacije, a otvaraju se kada avion nije pod pritiskom.
+Drenazni ventili u delovima aviona pod pritiskom ostaju zatvoreni tokom presurizacije, a otvaraju se kada avion nije pod pritiskom.	Kako se drenazni ventili ponašaju u delovima aviona pod pritiskom?
+Šta je funkcija jedinice za izravnavanje u drenaznom sistemu?	Jedinica za izravnavanje se koristi za pravljenje niskog područja u blizini odvodnog ventila kako bi se osiguralo da se tečnost ne nakuplja, već da ističe kroz otvor za odvod.
+Jedinica za izravnavanje se koristi za pravljenje niskog područja u blizini odvodnog ventila kako bi se osiguralo da se tečnost ne nakuplja, već da ističe kroz otvor za odvod.	Šta je funkcija jedinice za izravnavanje u drenaznom sistemu?
+Zašto oprema za odvodnjavanje kuhinja i toaleta mora biti zagrevana?	Oprema mora biti zagrevana kako bi se sprečilo stvaranje leda i začepljenja usled niskih temperatura na velikoj visini.
+Oprema mora biti zagrevana kako bi se sprečilo stvaranje leda i začepljenja usled niskih temperatura na velikoj visini.	Zašto oprema za odvodnjavanje kuhinja i toaleta mora biti zagrevana?
+Šta je drenazni ispust (drain mast)?	Drenazni ispust je cev u aerodinamičkoj oblozi koja usmerava tečnost van aviona, obično sa električnim grejačima ili korišćenjem toplog vazduha iz pneumatskog sistema za sprečavanje zaleđivanja.
+Drenazni ispust je cev u aerodinamičkoj oblozi koja usmerava tečnost van aviona, obično sa električnim grejačima ili korišćenjem toplog vazduha iz pneumatskog sistema za sprečavanje zaleđivanja.	Šta je drenazni ispust (drain mast)?
+Šta je glavna funkcija Air Conditioning System (AC sistema) u avionu?	AC sistem obezbeđuje životne uslove (pritisak, temperaturu i vlažnost) u kabinama vazduhoplova, bez obzira na režim leta.
+AC sistem obezbeđuje životne uslove (pritisak, temperaturu i vlažnost) u kabinama vazduhoplova, bez obzira na režim leta.	Šta je glavna funkcija Air Conditioning System (AC sistema) u avionu?
+Kako AC sistem obezbeđuje ventilaciju i klimatizaciju?	AC sistem koristi spoljašnji vazduh za putničku i pilotsku kabinu, kao i ventilaciju odeljaka sa opremom i mesta sa mogućim isparenjima.
+AC sistem koristi spoljašnji vazduh za putničku i pilotsku kabinu, kao i ventilaciju odeljaka sa opremom i mesta sa mogućim isparenjima.	Kako AC sistem obezbeđuje ventilaciju i klimatizaciju?
+Šta je „Bleed air” sistem i koja je njegova funkcija?	„Bleed air” sistem je glavni izvor svežeg vazduha u avionima sa turbomlaznim pogonom. Uzimaju malu količinu vazduha direktno sa motora i pripremaju ga za klimatizaciju kabina putem PACK sistema.
+„Bleed air” sistem je glavni izvor svežeg vazduha u avionima sa turbomlaznim pogonom. Uzimaju malu količinu vazduha direktno sa motora i pripremaju ga za klimatizaciju kabina putem PACK sistema.	Šta je „Bleed air” sistem i koja je njegova funkcija?
+Kako se klimatizovani vazduh dovodi do kabina aviona?	Klimatizovani vazduh se dovodi iz komore za mešanje kroz specijalne sisteme cevi u plafonu ili zidovima aviona.
+Klimatizovani vazduh se dovodi iz komore za mešanje kroz specijalne sisteme cevi u plafonu ili zidovima aviona.	Kako se klimatizovani vazduh dovodi do kabina aviona?
+Kako se reguliše pritisak u kabinama aviona?	Pritisak se automatski reguliše preko izduvnog ventila koji se nalazi u zadnjem delu trupa.
+Pritisak se automatski reguliše preko izduvnog ventila koji se nalazi u zadnjem delu trupa.	Kako se reguliše pritisak u kabinama aviona?
+Koja je funkcija HEPA filtera u ventilacionom sistemu aviona?	HEPA filteri prečišćavaju vazduh u kabinama aviona, eliminišući 99% čestica poput mikroba i virusa.
+HEPA filteri prečišćavaju vazduh u kabinama aviona, eliminišući 99% čestica poput mikroba i virusa.	Koja je funkcija HEPA filtera u ventilacionom sistemu aviona?
+skin na srpskom	oplata na engleskom
+oplata na engleskom	skin na srpskom
+assembly na srpskom	sklop na engleskom
+sklop na engleskom	assembly na srpskom
+retainer na srpskom	kuciste na engleskom
+kuciste na engleskom	retainer na srpskom
+drain path na srpskom	odvodni put na engleskom
+odvodni put na engleskom	drain path na srpskom
+Fuselage skin na srpskom	Oplata trupa na engleskom
+Oplata trupa na engleskom	Fuselage skin na srpskom
+Hexagonal drain hole na srpskom	Heksagonalna odvodna rupa na engleskom
+Heksagonalna odvodna rupa na engleskom	Hexagonal drain hole na srpskom

@@ -1,0 +1,86 @@
+Koji je zadatak zaštitnih mera protiv udara groma u vazduhoplovstvu?
+
+Mere predostrožnosti se uvode kako bi se osigurala bezbedna i kontinuirana upotreba vazduhoplova u slučaju da ga pogodi grom.
+
+Koliko struje sadrži jedan udar groma?
+
+Jedan udar groma sadrži 100K ampera struje.
+
+Zašto se ne sme dozvoliti električni luk od jedne do druge tačke strukture vazduhoplova?
+
+Ne sme se dozvoliti električni luk kako bi se izbegla šteta na strukturi vazduhoplova i osigurala bezbednost leta.
+
+Koja je dužnost pilota u slučaju udara groma?
+
+Pilotova dužnost je da udar groma prijavi kontrolnom tornju i ostalim letelicama koje se nalaze u blizini područja gde se udar desio.
+
+Koje uređaje avioni koriste da bi smanjili smetnje radio prijemnika uzrokovane električnim lukovima?
+
+Statistički ispražnjivači su instalirani na avionima da bi smanjili smetnje radio prijemnika i sprečili naglo pražnjenje električnog luka.
+
+Gde su obično montirani statistički ispražnjivači?
+
+Montirani su uglavnom na izlaznim ivicama komandnih površina, krajevima krila i vertikalnom stabilizatoru.
+
+Koji su glavni problemi koje može izazvati skupljanje tečnosti u šupljinama aviona?
+
+Skupljanje vode i drugih tečnosti u šupljinama aviona može dovesti do korozije i predstavlja opasnost od požara.
+
+Kako se sprečava nakupljanje tečnosti u avionu?
+
+Sprečava se korišćenjem drenaznih sistema i ventilacije.
+
+Koja je uloga unutrašnjih odvodnih puteva u drenaznom sistemu?
+
+Unutrašnji odvodni putevi služe za usmeravanje tečnosti prema spoljnim mestima odvoda.
+
+Gde se nalaze spoljni odvodi na avionima?
+
+Spoljni odvodi se nalaze na krilima, repu, trupu i motornim gondolama, ispuštajući tečnost van aviona.
+
+Kako se drenazni ventili ponašaju u delovima aviona pod pritiskom?
+
+Drenazni ventili u delovima aviona pod pritiskom ostaju zatvoreni tokom presurizacije, a otvaraju se kada avion nije pod pritiskom.
+
+Šta je funkcija jedinice za izravnavanje u drenaznom sistemu?
+
+Jedinica za izravnavanje se koristi za pravljenje niskog područja u blizini odvodnog ventila kako bi se osiguralo da se tečnost ne nakuplja, već da ističe kroz otvor za odvod.
+
+Zašto oprema za odvodnjavanje kuhinja i toaleta mora biti zagrevana?
+
+Oprema mora biti zagrevana kako bi se sprečilo stvaranje leda i začepljenja usled niskih temperatura na velikoj visini.
+
+Šta je drenazni ispust (drain mast)?
+
+Drenazni ispust je cev u aerodinamičkoj oblozi koja usmerava tečnost van aviona, obično sa električnim grejačima ili korišćenjem toplog vazduha iz pneumatskog sistema za sprečavanje zaleđivanja.
+
+Šta je glavna funkcija Air Conditioning System (AC sistema) u avionu?
+
+AC sistem obezbeđuje životne uslove (pritisak, temperaturu i vlažnost) u kabinama vazduhoplova, bez obzira na režim leta.
+
+Kako AC sistem obezbeđuje ventilaciju i klimatizaciju?
+
+AC sistem koristi spoljašnji vazduh za putničku i pilotsku kabinu, kao i ventilaciju odeljaka sa opremom i mesta sa mogućim isparenjima.
+
+Šta je „Bleed air” sistem i koja je njegova funkcija?
+
+„Bleed air” sistem je glavni izvor svežeg vazduha u avionima sa turbomlaznim pogonom. Uzimaju malu količinu vazduha direktno sa motora i pripremaju ga za klimatizaciju kabina putem PACK sistema.
+
+Kako se klimatizovani vazduh dovodi do kabina aviona?
+
+Klimatizovani vazduh se dovodi iz komore za mešanje kroz specijalne sisteme cevi u plafonu ili zidovima aviona.
+
+Kako se reguliše pritisak u kabinama aviona?
+
+Pritisak se automatski reguliše preko izduvnog ventila koji se nalazi u zadnjem delu trupa.
+
+Koja je funkcija HEPA filtera u ventilacionom sistemu aviona?
+
+HEPA filteri prečišćavaju vazduh u kabinama aviona, eliminišući 99% čestica poput mikroba i virusa.
+
+
+
+
+
+
+
