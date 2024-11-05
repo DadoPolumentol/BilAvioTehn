@@ -1,0 +1,117 @@
+Trup
+
+	Noseću strukturu - kostur čini prostorna rešetka iz cevnih elemenata sa delimičnom primenom zateznih žica 
+	preko koga se prevlači noseća oplota koja služi samo radi obezbeđenja aerodinamičkih obloga.
+	Noseća konstrukcija može biti izrađena od lakih metala ili čelika.
+	Najosetljivija su spojna mesta, čvorovi rešetke, koji mogu biti zatvoreni ili zakovani.
+	Ovakav tip trupa odlikuje se veoma jednostavnom izradom.
+	Jeftin je, lako se izdržava u eksploataciji, ali ima veliki aerodinamički otpor, 
+	pa se primenjuje samo kod lakih i sporijih aviona.
+
+	Skica 1
+
+	Monokok (tip noseće ljuske - oplata)
+	Ljuskasti tip nastao je zbog težnje za maksimalno iskorišćenje oplate kao nosećeg elementa.
+	U konstruktivnom pogledu ljuskosti trup može se smatrati tupljom gredom koja 
+	može da podnese znatno veće momente otpornosti, kako na savijanje tako i na uvijanje.
+	Teoretski je najbolje kad ne bi postojala unutrašnja kontrukcija, već samo noseća oplota, ali to je nemoguće iz sledećih razloga:
+	Nemoguća potpuna stabilnost oblika poprečnoh preseka pri opterećenju ba savijanje, pa se zbog toga oplata ojačava; 
+	Zbog neizbežnosti raznih otvora i izreza koji ujedno postaju i izvori koncentracije napona, 
+	neophodno je na tim mestima ojačati oplatu putem:
+	Lokalnog pojačanja samih zidova oplate, dodavanjem dopunskih okvira, dodavanjem dopunskih uzdužnica.
+	Osnove konstrukcije elementa ljuskastog trupa su: jaki i slabi okviri, uzdužnice, noseća oplata i okovi.
+	Metode konstrukcije su rešetkasta, monokok i polumonokok 
+
+	Skica 2
+
+	Longeroni se protežu preko nekoliko članova okvira i pomažu oplati da podrži primarna opterećenja savijanja.
+	Obično su napravljeni od legure Aluminijuma i iz jednog komada.
+	Stringeri (uzdužnice) se takože koriste kod ove koncepcije.
+	Ti uzdužni članovi su obično mnogobrojni i lakši u odnosu na longerone.
+	Dolaze u različitim oblicima i obično se prave od jednodelnih vučenih legura aluminijuma.
+	Stringeri se uglavnom koriste za oblikovanje i pričvršćivanje oplate.
+	Uzdužnici i longeroni zajedno sprečavaju preterano istezanje i kompresiju pri savijanju trupa.
+	Okviri su poprečni elementi trupa koji daju oblik trupu.
+	Opterećeni su na uvijanje i zajedno sa uzdužnicama smanjuju slobodnu površinu oplate.
+	Polumonokok trup je napravljen prvenstveno od legura aluminijuma i magnezijuma, 
+	mada se čelik i titanijum ponekad nalaze u oblastima visoke temperature.
+	Magnezijum je najlakši od svih tehničkih materijala.
+	Gustina mu je 1,8 kg/dm3.
+	Čist magnezijum ima malu čvrstoću i zbog toga se ne koristi kao konstrukcioni materijal, ali legirani se koristi.
+	Legirani magnezijum ima najpovoljniji odnos čvrstoće na gustinu, 
+	od svih materijala koji se mogu koristiti kao konstrukcioni MgA19 - (jedna prirodna legura magnezijuma koji se koristi u vazduhoplovu), 
+	dosta velika čvrstoća na savijanje i udarna opterećenja.
+	Važno je naglasiti da oplata nosi deo tereta.
+	Debljina oplate trupa može da varira u zavisnosti od opterećenja i napona prisutnih na određenoj lokaciji.
+	Prednost polumonokok trupa su mnogobrojne pregrade, okviri, uzdužnici i longeroni koji olakšavaju dizajn i konstrukciju aerodinamičkog trupa, 
+	koji postaje čvrst i dovro podnosi razna opterećenja.
+	Da bi se prevazišao problem čvrstoće i težine konstrukcije monokoka, razvijena je modifikacija nazvana polumonokok konstrukcija.
+	Sastoji se od sklopova okvira, pregrada i oblika koji se koriste u dizajnu monokoka, ali oplata je ojačana uzdužnim elementima zvanim longeroni.
+	
+	Skica 3
+
+
+Greda
+
+	Gredne podne strukture vazduhoplova
+	Pri izgradnji vazduhoplova često se koriste dodatne grede podne konstrukcije, kao i razni drugi elemenati za ojačanje.
+	Podne grede se nalaze u putničkoj, kao i u pilotskoj kabini. Posebno su važni za strukturu, jer se na njih postavljaju šine.
+
+	Skica 4
+
+	Podupirač je ojačanje strukture koje trpi opterećenja na sabijanje.
+	Podna greda je projektovana da podnosi naprezanje na savijanje i istezanje.
+
+	Skica 5
+
+	Pod za putničku kabinu se sastoji od panela sa saćastom strukturom, a podni paneli za pilotsku kabinu mogu biti izrađeni od durala.
+
+	Skica 6
+
+	Trup sadrži neke segmente koji moraju biti presurizovani tokom leta.
+	Tu se ubrajaju pilotska kabina i putnički odeljci kao i prtljažni prostori.
+	Zbog toga postoje pregradni zidovi (bulkhead), koji su i hermetizovani, kako bi se ujedno i sprečio protok gasova i tečnosti kroz male, 
+	neizbežne otvore po strukturi vazduhoplova.
+	Obično područje ispod poda komercijalnog putničkog aviona nije pod pritiskom, osim prtljažnih prostora.
+	Spajanje oplate sa ostalim elementima trupa, vrši se pomoću zakivaka. Tip zakivaka kojim se zakiva oplata zavisi od položaja oplate na trupu, 
+	njene debljine i opterećenja koje vlada u toj zoni.
+	Oplata mora da poseduje visoku otpornost na korozivno dejstvo.
+	Kod presurizovanih aviona na mestima spojeva i kod rupa za zakivanje, postavljaju se zaptivne smese koje sprečavaju curenje vazduha.
+	Koriste se zakivci sa ravnom glavom, kako se ne bi stvarao dodatni aerodinamički otpor.
+	Razlika pritiska između kabine i spoljne atmosfere npr. na visini od 12000m iznosi oko pola bara, 
+	otprilike predstavlja približno 5 tona pritiska po metru kvadratnom u unutrašnjoj kabini prema spolja.
+	Razlika pritiska se reguliše automatski za vreme leta u zavisnosti od visine leta. Ove činjenice trebamo da budemo svesni, 
+	jer kabina trpi veliki pritisak iznutra za vreme leta.
+	Niska temperatura na velikim visinama može izazvati zamrzavanje delova komandnih površina, 
+	napadnih iviica i senzora aviona, pa se stoga koristi i sistem protiv zaleđivanja.
+	Pajloni ili nosači motora služe da čvrsto vežu motor za krilo ili trup.
+	U prostoru za pričvršćivanje pajlona se koriste jaki elemenati strukture, koji se često nazivaju i gornja, srednja i donja ramenjača
+	Pajlon je vezan za aerodinamičku oblogu motora.
+	Izrađeni su od legiranih čelika sa jakom otpornošću na koroziju.
+	Pajlon se spaja u dve tačke sa motorom, a sa krilom putem ramenjača.
+
+	Skica 7
+
+Stabilizatori i pajloni
+	Vertikalni i horizontalni stabilizatori su pričvršćeni slično kao i krila.
+
+	Skica 8
+
+	Za spoj se koriste okovi sa uškama za spajanje.
+	Okovi se nalaze na krajevima ramenjača stabilizatora, a kod trupa na okvirima ili pregradama.
+	Izrađuju se od titanijuma ili legiranih čelika.
+
+	Skica 9
+
+	Kod repnih površina razlikujemo nepokretni deo - stabilizator i pokretni deo - krmilo.
+	Kod horizontalnih repnih površina imamo horizontalni stabilizator i krmilo visine, 
+	a kod vertikalnih imamo vertikalni stabilizator i krmilo pravca.
+	Stabilizator odgovara konstrukciji krilaca.
+	Strukturalnu stabilnost čine dve ramenjače, rebra, uzdužnice i oplata.
+	Stabilizator se učvršćuje pomoću okova na ramenjačama za okvire trupa.
+
+	Skica 10
+
+	Skica 11
+
+	
