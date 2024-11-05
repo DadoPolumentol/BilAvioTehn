@@ -1,0 +1,6 @@
+Koje su uobicajene oznake lokacije u avionskim sistemima oznacavanja stanica?
+
+Uobicajene oznake lokacije u avionskim sistemima oznacavanja stanica su:
+Stanice trupa (STA ili FS)
+Linija zadnjice (Butt Line ili BL)
+Vodena linija (Water Line ili WL)
