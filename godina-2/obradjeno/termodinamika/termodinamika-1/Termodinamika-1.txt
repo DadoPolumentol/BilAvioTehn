@@ -1,0 +1,50 @@
+#separator:tab
+#html:true
+Dva osnovna oblika postojanja materije	supstanca, fizicko polje
+supstanca, fizicko polje	Dva osnovna oblika postojanja materije
+Molekuli	Najsitniji delici koji jos uvek zadrzavaju osobine posmatranog tela
+Najsitniji delici koji jos uvek zadrzavaju osobine posmatranog tela	Molekuli
+Atomi	Sitniji delovi od molekula, koji ih sacinjavaju
+Sitniji delovi od molekula, koji ih sacinjavaju	Atomi
+Medjumolekularni prostor	Prazan prostor izmedju molekula
+Prazan prostor izmedju molekula	Medjumolekularni prostor
+Makroskopske fizicke velicine koje se koriste za opisivanje gasa	pritisak,temperatura, zapremina
+pritisak,temperatura, zapremina	Makroskopske fizicke velicine koje se koriste za opisivanje gasa
+Karakteristicne velicine koje opisuju toplotne pojave	Unutrasnja energija, temperatura, kolicina toplote
+Unutrasnja energija, temperatura, kolicina toplote	Karakteristicne velicine koje opisuju toplotne pojave
+Toplota	Deo energije tela koji sa visom temperaturom prelazi na telo sa nizom temperaturom
+Deo energije tela koji sa visom temperaturom prelazi na telo sa nizom temperaturom	Toplota
+Kolicina toplote	Energije koju telo primi ili otpusti u procesu toplotne razmene.
+Energije koju telo primi ili otpusti u procesu toplotne razmene.	Kolicina toplote
+Toplotna razmena	Prilikom toplotne razmene dolazi do promene temperature
+Prilikom toplotne razmene dolazi do promene temperature	Toplotna razmena
+Temperatura	Fizicka velicina kojom se opisuje stepen zagrejanosti tela.
+Fizicka velicina kojom se opisuje stepen zagrejanosti tela.	Temperatura
+Kelvin u Celzijus	0K=-273°C<br>T[K]=t[°C]+273
+0K=-273°C<br>T[K]=t[°C]+273	Kelvin u Celzijus
+Pritisak	p=F/S [Pa]<br>Pa=N/m^2
+p=F/S [Pa]<br>Pa=N/m^2	Pritisak
+Avogadrov broj	Broj molekula koje sadrzi jedan mol bilo koje supstance<br>Nₐ=6.02*10²³*1/mol
+Broj molekula koje sadrzi jedan mol bilo koje supstance<br>Nₐ=6.02*10²³*1/mol	Avogadrov broj
+Srednja kvadratna brzina molekula	v̅=((3kT)/(m₀))^(1/2)<br>v̅ - srednja kvadratna brzina<br>m₀ - masa 1 molekula<br>k - bolcmanova konstanta
+v̅=((3kT)/(m₀))^(1/2)<br>v̅ - srednja kvadratna brzina<br>m₀ - masa 1 molekula<br>k - bolcmanova konstanta	Srednja kvadratna brzina molekula
+bolcmanova konstanta	k=1.38*10^-23 [J/K]
+k=1.38*10^-23 [J/K]	bolcmanova konstanta
+Difuzija	Pojava pri kojoj se supstance mesaju bez spoljasnjeg uticaja
+Pojava pri kojoj se supstance mesaju bez spoljasnjeg uticaja	Difuzija
+Bojl-Maritov zakon	Pri stalnoj temperaturi, proizvod pritiska i zapremine stalne kolicine se ne menja
+Pri stalnoj temperaturi, proizvod pritiska i zapremine stalne kolicine se ne menja	Bojl-Maritov zakon
+Jednacina stanja idealnog gasa	p*V=nₘ*R*T
+p*V=nₘ*R*T	Jednacina stanja idealnog gasa
+Sarlov zakon	Kolicnik pritiska i apsolutne temperature stalne kolicine gasa u izohorskom procesu je konstantan<br>p/T=const
+Kolicnik pritiska i apsolutne temperature stalne kolicine gasa u izohorskom procesu je konstantan<br>p/T=const	Sarlov zakon
+izobarski proces	Kada je pritisak gasa stalan (p=const)
+Kada je pritisak gasa stalan (p=const)	izobarski proces
+Izohorski proces	Kada je zapremina konstantna (V=const)
+Kada je zapremina konstantna (V=const)	Izohorski proces
+Izotermski proces	Kada je temperatura konstantna (T=const)
+Kada je temperatura konstantna (T=const)	Izotermski proces
+Gej Lisakov zakon	Pri konstantom pritisku, zapremina stalne kolicine gasa zavisi od temperature
+Pri konstantom pritisku, zapremina stalne kolicine gasa zavisi od temperature	Gej Lisakov zakon
+Kineticka energija	Ek=(mv²)/2<br>E̅ₖ=(3/2)*kT
+Ek=(mv²)/2<br>E̅ₖ=(3/2)*kT	Kineticka energija
