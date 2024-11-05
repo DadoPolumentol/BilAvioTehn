@@ -1,0 +1,124 @@
+#separator:tab
+#html:true
+Koji je vremenski period trajao barok?	1600-1750 godine
+1600-1750 godine	Koji je vremenski period trajao barok?
+Koji su neki od predstavnika baroka u srpskoj književnosti?	Ivan Gundulić (Osman), Zaharije Orfelin (Plač Srbije), Gavril Stefanović Venclović, Jovan Radić (Boj zmaja i orlovi)
+Ivan Gundulić (Osman), Zaharije Orfelin (Plač Srbije), Gavril Stefanović Venclović, Jovan Radić (Boj zmaja i orlovi)	Koji su neki od predstavnika baroka u srpskoj književnosti?
+"Ko je napisao ""Slovensko-serbski magazin""?"	Zaharije Orfelin
+Zaharije Orfelin	"Ko je napisao ""Slovensko-serbski magazin""?"
+Ko je Gavril Stefanović Venclović?	Monah manastira Rača i učenik Kiprijana Račanina
+Monah manastira Rača i učenik Kiprijana Račanina	Ko je Gavril Stefanović Venclović?
+Koja tri slova je uveo Gavril Stefanović Venclović?	Ć, Đ, Dž
+Ć, Đ, Dž	Koja tri slova je uveo Gavril Stefanović Venclović?
+Na kojim jezicima je pisao Gavril Stefanović Venclović?	Pisao je na srpsko-slovenskom i narodnom jeziku
+Pisao je na srpsko-slovenskom i narodnom jeziku	Na kojim jezicima je pisao Gavril Stefanović Venclović?
+Šta je pisao Gavril Stefanović Venclović?	Pisao je besede, pohvale i poeziju
+Pisao je besede, pohvale i poeziju	Šta je pisao Gavril Stefanović Venclović?
+Koja je zbirka poezije Gavrila Stefanovića Venclovića?	"Zbirka poezije ""Crni bivo u srcu"""
+"Zbirka poezije ""Crni bivo u srcu"""	Koja je zbirka poezije Gavrila Stefanovića Venclovića?
+Kada je trajalo prosvetiteljstvo?&nbsp;	Od kraja 17. i ceo 18. vek&nbsp;
+Od kraja 17. i ceo 18. vek&nbsp;	Kada je trajalo prosvetiteljstvo?&nbsp;
+Koji su filozofi započeli prosvetiteljstvo?&nbsp;	Francuski filozofi&nbsp;
+Francuski filozofi&nbsp;	Koji su filozofi započeli prosvetiteljstvo?&nbsp;
+Koja je osnovna ideja prosvetiteljstva?&nbsp;	Kult zdravog razuma&nbsp;
+Kult zdravog razuma&nbsp;	Koja je osnovna ideja prosvetiteljstva?&nbsp;
+Ko je osnovao prosvetiteljstvo?&nbsp;	Rene Dekart&nbsp;
+Rene Dekart&nbsp;	Ko je osnovao prosvetiteljstvo?&nbsp;
+Šta predstavlja prosvetiteljstvo?&nbsp;	Prosvetiteljstvo je racionalizam&nbsp;
+Prosvetiteljstvo je racionalizam&nbsp;	Šta predstavlja prosvetiteljstvo?&nbsp;
+Kako francuski filozofi gledaju na ljudsku prirodu?&nbsp;	Smatraju da se čovek rađa kao Tabula rasa (prazan list papira) i da ga obrazuje iskustvo&nbsp;&nbsp;
+Smatraju da se čovek rađa kao Tabula rasa (prazan list papira) i da ga obrazuje iskustvo&nbsp;&nbsp;	Kako francuski filozofi gledaju na ljudsku prirodu?&nbsp;
+Koji su predstavnici prosvetiteljstva?&nbsp;&nbsp;	Monteskje, Volter, Zan Zak Ruso&nbsp;
+Monteskje, Volter, Zan Zak Ruso&nbsp;	Koji su predstavnici prosvetiteljstva?&nbsp;&nbsp;
+Koji su glavni aspekti pokreta prosvetiteljstva?&nbsp;&nbsp;	Pokret je kulturni, naučni, umetnički i politički&nbsp;
+Pokret je kulturni, naučni, umetnički i politički&nbsp;	Koji su glavni aspekti pokreta prosvetiteljstva?&nbsp;&nbsp;
+Kada je osnovana prva srpska štamparija i gde?&nbsp;	1770. godine u Beču&nbsp;
+1770. godine u Beču&nbsp;	Kada je osnovana prva srpska štamparija i gde?&nbsp;
+Ko je osnovao prvo pozorište?&nbsp;	Joakim Vujić&nbsp;
+Joakim Vujić&nbsp;	Ko je osnovao prvo pozorište?&nbsp;
+Koji su kulturni doprinosi prosvetiteljstva u Srbiji?&nbsp;&nbsp;	Prvi politički listovi i naučno-zabavna štiva, osnivanje Karlovačke gimnazije 1791. godine&nbsp;
+Prvi politički listovi i naučno-zabavna štiva, osnivanje Karlovačke gimnazije 1791. godine&nbsp;	Koji su kulturni doprinosi prosvetiteljstva u Srbiji?&nbsp;&nbsp;
+Koji su predstavnici prosvetiteljstva u Srbiji?&nbsp;	"Dositej Obradović, sa delima ""Život i priključenija"", ""Saveti zdravog razuma"", ""Basne""&nbsp;"
+"Dositej Obradović, sa delima ""Život i priključenija"", ""Saveti zdravog razuma"", ""Basne""&nbsp;"	Koji su predstavnici prosvetiteljstva u Srbiji?&nbsp;
+Šta je Jozefinizam?&nbsp;	Kulturni period za vreme vladavine Jozefa II od Austrije&nbsp;
+Kulturni period za vreme vladavine Jozefa II od Austrije&nbsp;	Šta je Jozefinizam?&nbsp;
+Šta je manifest?&nbsp;	Tekst u kome je izložen književni program date epohe&nbsp;
+Tekst u kome je izložen književni program date epohe&nbsp;	Šta je manifest?&nbsp;
+Koja škola je osnovana u Srbiji i kada?&nbsp;	Velika škola, 1808.-1813. godine, Dositej Obradović&nbsp;
+Velika škola, 1808.-1813. godine, Dositej Obradović&nbsp;	Koja škola je osnovana u Srbiji i kada?&nbsp;
+"Šta je ""Pismo Haralampiju""?&nbsp;"	Manifest prosvetiteljstva upućen Haralampiju&nbsp;
+Manifest prosvetiteljstva upućen Haralampiju&nbsp;	"Šta je ""Pismo Haralampiju""?&nbsp;"
+Koje delo je autobiografija Dositeja Obradovića?&nbsp;	"""Život i priključenija""&nbsp;"
+"""Život i priključenija""&nbsp;"	Koje delo je autobiografija Dositeja Obradovića?&nbsp;
+"Koja je tema i vreme radnje ""Života i priključenija""?&nbsp;"	Tema je detinjstvo i život Dositeja, pouke i saveti za vaspitavanje dece, vreme radnje je 18. vek&nbsp;
+Tema je detinjstvo i život Dositeja, pouke i saveti za vaspitavanje dece, vreme radnje je 18. vek&nbsp;	"Koja je tema i vreme radnje ""Života i priključenija""?&nbsp;"
+"Gde je Dositej boravio u svom delu ""Život i priključenija""?&nbsp;"	Boravio je u manastiru Hopovo na Fruškoj Gori&nbsp;
+Boravio je u manastiru Hopovo na Fruškoj Gori&nbsp;	"Gde je Dositej boravio u svom delu ""Život i priključenija""?&nbsp;"
+"Ko je Teodor Milutinović u delu ""Život i priključenija""?&nbsp;"	Starešina manastira, iguman, koji je kriv za Dositejev odlazak u Beč&nbsp;
+Starešina manastira, iguman, koji je kriv za Dositejev odlazak u Beč&nbsp;	"Ko je Teodor Milutinović u delu ""Život i priključenija""?&nbsp;"
+"Koji je žanr ""Tvrdice"" i kada se dešava radnja?&nbsp;"	Drama, komedija, radnja se dešava u Parizu u 17. veku&nbsp;
+Drama, komedija, radnja se dešava u Parizu u 17. veku&nbsp;	"Koji je žanr ""Tvrdice"" i kada se dešava radnja?&nbsp;"
+"Koja je tema i ideja Molijerove ""Tvrdice""?&nbsp;&nbsp;"	Tema je opsesija novcem, ideja je da je štedljivost vrlina, a tvrdicluk mana&nbsp;
+Tema je opsesija novcem, ideja je da je štedljivost vrlina, a tvrdicluk mana&nbsp;	"Koja je tema i ideja Molijerove ""Tvrdice""?&nbsp;&nbsp;"
+"Kada i gde se dešava radnja ""Kir Janje""?&nbsp;"	U prvoj polovini 19. veka u srpskim delovima Austrije&nbsp;
+U prvoj polovini 19. veka u srpskim delovima Austrije&nbsp;	"Kada i gde se dešava radnja ""Kir Janje""?&nbsp;"
+"Koja je tema ""Kir Janje""?&nbsp;&nbsp;"	Tvrdicluk Kir Janje i ismevanje njega i njegove porodice&nbsp;
+Tvrdicluk Kir Janje i ismevanje njega i njegove porodice&nbsp;	"Koja je tema ""Kir Janje""?&nbsp;&nbsp;"
+Kada i gde je nastao klasicizam?&nbsp;	U 17. veku u Francuskoj&nbsp;
+U 17. veku u Francuskoj&nbsp;	Kada i gde je nastao klasicizam?&nbsp;
+Koji su predstavnici klasicizma u Francuskoj?&nbsp;&nbsp;	"Pjer Kornej (""Sid""), Zan Rasin (""Andromaha""), Molijer (""Tvrdica"")&nbsp;"
+"Pjer Kornej (""Sid""), Zan Rasin (""Andromaha""), Molijer (""Tvrdica"")&nbsp;"	Koji su predstavnici klasicizma u Francuskoj?&nbsp;&nbsp;
+Koji književni pravci su prisutni u srpskoj književnosti tokom (Neo)klasicizma?&nbsp;	(Neo)klasicizam (sentimentalizam) i predromantizam&nbsp;
+(Neo)klasicizam (sentimentalizam) i predromantizam&nbsp;	Koji književni pravci su prisutni u srpskoj književnosti tokom (Neo)klasicizma?&nbsp;
+Koji su predstavnici (Neo)klasicizma u srpskoj književnosti?&nbsp;	Simeon Piščević, Lukijan Mušicki, Atanasije Stojković, Jovan Sterija Popović&nbsp;
+Simeon Piščević, Lukijan Mušicki, Atanasije Stojković, Jovan Sterija Popović&nbsp;	Koji su predstavnici (Neo)klasicizma u srpskoj književnosti?&nbsp;
+Gde i kada je nastao romantizam?&nbsp;	Krajem 18. veka u Nemačkoj&nbsp;
+Krajem 18. veka u Nemačkoj&nbsp;	Gde i kada je nastao romantizam?&nbsp;
+Koji je dominantan postupak u nemačkoj književnosti tokom romantizma?&nbsp;	Sturm und Drang (bura i oluja)&nbsp;
+Sturm und Drang (bura i oluja)&nbsp;	Koji je dominantan postupak u nemačkoj književnosti tokom romantizma?&nbsp;
+Šta je u središtu romantizma?&nbsp;	Prenaglašene emocije&nbsp;
+Prenaglašene emocije&nbsp;	Šta je u središtu romantizma?&nbsp;
+Koje su glavne odlike romantizma?&nbsp;	Beg iz grada u selo, u svet mašte, težnja ka apsolutnoj slobodi, junak je individualac i egocentrik, nosi svetsku bol (boluje od čamotinje), žena je doživljena kao božansko biće, ljubav je platonska&nbsp;
+Beg iz grada u selo, u svet mašte, težnja ka apsolutnoj slobodi, junak je individualac i egocentrik, nosi svetsku bol (boluje od čamotinje), žena je doživljena kao božansko biće, ljubav je platonska&nbsp;	Koje su glavne odlike romantizma?&nbsp;
+Koji su motivi romantizma?&nbsp;	Ljubav, priroda, rodoljublje&nbsp;&nbsp;
+Ljubav, priroda, rodoljublje&nbsp;&nbsp;	Koji su motivi romantizma?&nbsp;
+Koje vrste književnih dela su karakteristične za romantizam?&nbsp;	Poezija, balade, romani u stihovima, poeme&nbsp;
+Poezija, balade, romani u stihovima, poeme&nbsp;	Koje vrste književnih dela su karakteristične za romantizam?&nbsp;
+Koji su predstavnici romantizma?&nbsp;	Džordž Gordon Bajron, Hajnrih Hajne, Gete, Viktor Igo, Aleksandar Puškin, Ljermontov, Laza Kostić, Branko Radičević, Đura Jakšić, Jovan Jovanović Zmaj&nbsp;
+Džordž Gordon Bajron, Hajnrih Hajne, Gete, Viktor Igo, Aleksandar Puškin, Ljermontov, Laza Kostić, Branko Radičević, Đura Jakšić, Jovan Jovanović Zmaj&nbsp;	Koji su predstavnici romantizma?&nbsp;
+Šta je manifest romantizma i ko ga je napisao?&nbsp;	"""Predgovor Kromvelu"" od Viktora Igoa&nbsp;"
+"""Predgovor Kromvelu"" od Viktora Igoa&nbsp;"	Šta je manifest romantizma i ko ga je napisao?&nbsp;
+Kako se romantizam deli u Srbiji?&nbsp;	Na Vukov i Njegošev romantizam i Brankov romantizam&nbsp;
+Na Vukov i Njegošev romantizam i Brankov romantizam&nbsp;	Kako se romantizam deli u Srbiji?&nbsp;
+Na šta se oslanja Vukov i Njegošev romantizam?&nbsp;	Na narodnu književnost, osvrću se na revolucionarnu i ustaničku heroiku, a dominantni stih je epski deseterac&nbsp;
+Na narodnu književnost, osvrću se na revolucionarnu i ustaničku heroiku, a dominantni stih je epski deseterac&nbsp;	Na šta se oslanja Vukov i Njegošev romantizam?&nbsp;
+Gde se pojavljuje Brankov romantizam i na šta se oslanja?&nbsp;	Javlja se u građanskim sredinama, osvrće se na klasičnu liriku, ima izvore u nemačkom romantizmu, peva se o narodu, prirodi i ženi&nbsp;
+Javlja se u građanskim sredinama, osvrće se na klasičnu liriku, ima izvore u nemačkom romantizmu, peva se o narodu, prirodi i ženi&nbsp;	Gde se pojavljuje Brankov romantizam i na šta se oslanja?&nbsp;
+Šta proučava morfologija?&nbsp;	Morfologija proučava vrste reči&nbsp;
+Morfologija proučava vrste reči&nbsp;	Šta proučava morfologija?&nbsp;
+Kako se dele reči?&nbsp;	Na promenljive i nepromenljive&nbsp;
+Na promenljive i nepromenljive&nbsp;	Kako se dele reči?&nbsp;
+Koje reči su promenljive?&nbsp;	Imenice, neki pridevi, neki brojevi, glagoli i zamenice&nbsp;
+Imenice, neki pridevi, neki brojevi, glagoli i zamenice&nbsp;	Koje reči su promenljive?&nbsp;
+Koje reči su nepromenljive?&nbsp;	Neki brojevi, neki pridevi, predlozi, uzvici, rečce, veznici&nbsp;
+Neki brojevi, neki pridevi, predlozi, uzvici, rečce, veznici&nbsp;	Koje reči su nepromenljive?&nbsp;
+Koje reči spadaju u imenske reči?&nbsp;	Imenice, pridevi, brojevi, glagoli, zamenice&nbsp;
+Imenice, pridevi, brojevi, glagoli, zamenice&nbsp;	Koje reči spadaju u imenske reči?&nbsp;
+Kako se zove promena glagola po licu, rodu, broju, osnovi, vidu, potvrdnosti/odričnosti, i pasivnosti/aktivnosti?&nbsp;	Konjugacija&nbsp;
+Konjugacija&nbsp;	Kako se zove promena glagola po licu, rodu, broju, osnovi, vidu, potvrdnosti/odričnosti, i pasivnosti/aktivnosti?&nbsp;
+Kako se zove promena imenskih reči po padežima?&nbsp;	Deklinacija&nbsp;
+Deklinacija&nbsp;	Kako se zove promena imenskih reči po padežima?&nbsp;
+Kako se prepoznaje zamenica se?&nbsp;	"Ako se ""se"" može zameniti sa ""sebe"", onda je zamenica&nbsp;"
+"Ako se ""se"" može zameniti sa ""sebe"", onda je zamenica&nbsp;"	Kako se prepoznaje zamenica se?&nbsp;
+"Kako se razlikuje rečca od veznika u vezi sa ""da""?&nbsp;"	"Ako je ""da"" potvrdno, onda je rečca; ako nije, onda je veznik&nbsp;"
+"Ako je ""da"" potvrdno, onda je rečca; ako nije, onda je veznik&nbsp;"	"Kako se razlikuje rečca od veznika u vezi sa ""da""?&nbsp;"
+Koliko imenica razlikujemo po deklinaciji?&nbsp;	Razlikujemo 4 imeničke (deklinacione) vrste&nbsp;
+Razlikujemo 4 imeničke (deklinacione) vrste&nbsp;	Koliko imenica razlikujemo po deklinaciji?&nbsp;
+Koje imenice pripadaju prvoj imeničkoj vrsti?	"Imenice muškog roda koje se u nominativu jednine završavaju na suglasnik, ""o"", ili ""e"", i imenice srednjeg roda koje se u nominativu jednine završavaju na ""o"" ili ""e"""
+"Imenice muškog roda koje se u nominativu jednine završavaju na suglasnik, ""o"", ili ""e"", i imenice srednjeg roda koje se u nominativu jednine završavaju na ""o"" ili ""e"""	Koje imenice pripadaju prvoj imeničkoj vrsti?
+Koje imenice pripadaju drugoj imeničkoj vrsti?	"Imenice srednjeg roda koje se u nominativu jednine završavaju na ""o"" ili ""e"", a njihova osnova u zavisnim padežima se proširuje suglasnicima ""n"" ili ""t"".<br>Dete -&gt; deteta"
+"Imenice srednjeg roda koje se u nominativu jednine završavaju na ""o"" ili ""e"", a njihova osnova u zavisnim padežima se proširuje suglasnicima ""n"" ili ""t"".<br>Dete -&gt; deteta"	Koje imenice pripadaju drugoj imeničkoj vrsti?
+Koje imenice pripadaju trećoj imeničkoj vrsti?	"Imenice muškog i ženskog roda koje se u osnovnom obliku završavaju na ""-a"""
+"Imenice muškog i ženskog roda koje se u osnovnom obliku završavaju na ""-a"""	Koje imenice pripadaju trećoj imeničkoj vrsti?
+Koje imenice pripadaju četvrtoj imeničkoj vrsti?	Imenice ženskog roda koje se u osnovnom obliku završavaju na suglasnik
+Imenice ženskog roda koje se u osnovnom obliku završavaju na suglasnik	Koje imenice pripadaju četvrtoj imeničkoj vrsti?
