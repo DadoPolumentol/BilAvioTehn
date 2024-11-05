@@ -1,0 +1,56 @@
+#separator:tab
+#html:true
+EASA CS25	Set tehnickih propisa i standarda i postavlja zahteve koje avion mora da ispuni da bi dobio sertifikat o plovidbenosti.
+Set tehnickih propisa i standarda i postavlja zahteve koje avion mora da ispuni da bi dobio sertifikat o plovidbenosti.	EASA CS25
+Stabilnost Definicija	Sposobnost aviona da odrzi ravnotezu i automatski se vrati u stabilan polozaj nakon sto je poremecen tokom leta.
+Sposobnost aviona da odrzi ravnotezu i automatski se vrati u stabilan polozaj nakon sto je poremecen tokom leta.	Stabilnost Definicija
+Stabilnost sluzi za	Sluzi za olaksavanje upravljanja i smanjenje napora pilota tokom leta, posebno u turbulentnim ili vanrednim uslovima
+Sluzi za olaksavanje upravljanja i smanjenje napora pilota tokom leta, posebno u turbulentnim ili vanrednim uslovima	Stabilnost sluzi za
+Staticka stabilnost	Odnosi se na trenutnu reakciju aviona na poremecaj. Ako je avion staticki stabilan, kad dodje do promene polozaja, vrati ce se u pocetni polozaj bez intervencije pilota.
+Odnosi se na trenutnu reakciju aviona na poremecaj. Ako je avion staticki stabilan, kad dodje do promene polozaja, vrati ce se u pocetni polozaj bez intervencije pilota.	Staticka stabilnost
+Dinamicka stabilnost	Odnosi se na dugorocno ponasanje aviona nakon poremecaja. Ako je dinamicki stabilan, nakon pocetne korekcije ce se vremenom smiriti i postici stabilan let
+Odnosi se na dugorocno ponasanje aviona nakon poremecaja. Ako je dinamicki stabilan, nakon pocetne korekcije ce se vremenom smiriti i postici stabilan let	Dinamicka stabilnost
+Aerodinamičke performanse definicija	Efikasnost dizajna u interakciji s vazduhom tokom leta.
+Efikasnost dizajna u interakciji s vazduhom tokom leta.	Aerodinamičke performanse definicija
+Aerodinamičke performanse uzgon	sila koja deluje uspravno i omogucava avionu da uzleti.
+sila koja deluje uspravno i omogucava avionu da uzleti.	Aerodinamičke performanse uzgon
+Aerodinamičke performanse otpor	sila koja deluje suprotno od pravca leta i usporava avion.
+sila koja deluje suprotno od pravca leta i usporava avion.	Aerodinamičke performanse otpor
+Aerodinamičke performanse otpor parazitski	javlja se kada se objekat krece kroz vazduh, a ne doprinosi uzgonu
+javlja se kada se objekat krece kroz vazduh, a ne doprinosi uzgonu	Aerodinamičke performanse otpor parazitski
+Aerodinamičke performanse otpor inducirani	Rezultat generisanja uzgona
+Rezultat generisanja uzgona	Aerodinamičke performanse otpor inducirani
+Kontrola leta definicija	Sposobnost pilota da upravlja avionom.
+Sposobnost pilota da upravlja avionom.	Kontrola leta definicija
+Kontrola leta automatski piloti&nbsp;	Sistemi koji mogu preuzeti kontrolu nad avionom tokom odredjenih faza. Mogu da odrzavaju visinu, pravac i brzinu i da sprovode odredjene manevarske zadatke
+Sistemi koji mogu preuzeti kontrolu nad avionom tokom odredjenih faza. Mogu da odrzavaju visinu, pravac i brzinu i da sprovode odredjene manevarske zadatke	Kontrola leta automatski piloti&nbsp;
+Kontrola leta kontrolni sistemi	Svi mehanizmi i elektronika koji omogucavaju interakciju izmedju pilota i aviona.
+Svi mehanizmi i elektronika koji omogucavaju interakciju izmedju pilota i aviona.	Kontrola leta kontrolni sistemi
+Kontrola leta upravljacke povrsine	Omogucavaju promenu polozaja aviona u vazduhu; Aileroni(kotrljanje),Elevators(nagib),Rudder(pravac)
+Omogucavaju promenu polozaja aviona u vazduhu; Aileroni(kotrljanje),Elevators(nagib),Rudder(pravac)	Kontrola leta upravljacke povrsine
+Navigacija definicija	Procesi, metode i sistemi koji se koriste za odredjivanje pozicije aviona i pracenje njegove putanje tokom leta.
+Procesi, metode i sistemi koji se koriste za odredjivanje pozicije aviona i pracenje njegove putanje tokom leta.	Navigacija definicija
+Navigacija navigacijski sistemi	Omogucavaju pilotima da precizno odrede poziciju aviona, planiraju rutu i upravljaju letom.
+Omogucavaju pilotima da precizno odrede poziciju aviona, planiraju rutu i upravljaju letom.	Navigacija navigacijski sistemi
+Navigacija navigacijski sistemi GPS	Globalni pozicioni sistem, Sateliti
+Globalni pozicioni sistem, Sateliti	Navigacija navigacijski sistemi GPS
+Navigacija navigacijski sistemi INS	Inercijalni navigacijski sistem, meri ubrzanje i rotaciju aviona.
+Inercijalni navigacijski sistem, meri ubrzanje i rotaciju aviona.	Navigacija navigacijski sistemi INS
+Navigacija navigacijski sistemi VOR	Very High Frequency Omnidirectional Range, Radio stanice
+Very High Frequency Omnidirectional Range, Radio stanice	Navigacija navigacijski sistemi VOR
+Navigacija instrumenti za navigaciju	Pruzaju pilotu vizuelne ili audio informacije o navigaciji
+Pruzaju pilotu vizuelne ili audio informacije o navigaciji	Navigacija instrumenti za navigaciju
+Navigacija zahtevi za redundanciju	sposobnost sistema da funkcionise i u slucaju kvara nekog od njegovih komponenta
+sposobnost sistema da funkcionise i u slucaju kvara nekog od njegovih komponenta	Navigacija zahtevi za redundanciju
+Navigacija zahtevi za redundanciju dizajn sa visestrukim redundantnim komponentama	dupli ili trojni sistemi
+dupli ili trojni sistemi	Navigacija zahtevi za redundanciju dizajn sa visestrukim redundantnim komponentama
+Navigacija zahtevi za redundanciju automatsko prebacivanje	U slucaju kvara, sistem automatski prebacuje na rezervne komponente bez intervencije pilota.
+U slucaju kvara, sistem automatski prebacuje na rezervne komponente bez intervencije pilota.	Navigacija zahtevi za redundanciju automatsko prebacivanje
+Fuselage station definicija	Referentna linija koja se koristi u avionickoj konstrukciji za odredjivanje i merenje pozicija razlicitih komponenti.
+Referentna linija koja se koristi u avionickoj konstrukciji za odredjivanje i merenje pozicija razlicitih komponenti.	Fuselage station definicija
+Fuselage station numerisanje	Stanice trupa / FS su numerisane u incima od referentne ili nulte tacke poznate kao referentni datum u pravcu repa.<br>FS 0.00 se obicno nalazi na vrhu nosa
+Stanice trupa / FS su numerisane u incima od referentne ili nulte tacke poznate kao referentni datum u pravcu repa.<br>FS 0.00 se obicno nalazi na vrhu nosa	Fuselage station numerisanje
+Fuselage station EASA CS-25 zahtevi za stabilnost	longitudinalna stabilnost (odrzavanje stabilnost u longitudinalnoj osi), lateralna stabilnost (odrzavanje stabilnosti u lateralnoj osi)
+longitudinalna stabilnost (odrzavanje stabilnost u longitudinalnoj osi), lateralna stabilnost (odrzavanje stabilnosti u lateralnoj osi)	Fuselage station EASA CS-25 zahtevi za stabilnost
+Fuselage station EASA CS-25 zahtevi za otpornost na opterecenja	strukturna izdrzljivost (FS mora biti dizajniran da izdrzi staticka i dinamicka opterecenja tokom normalnih i vanrednih uslova leta.)
+strukturna izdrzljivost (FS mora biti dizajniran da izdrzi staticka i dinamicka opterecenja tokom normalnih i vanrednih uslova leta.)	Fuselage station EASA CS-25 zahtevi za otpornost na opterecenja

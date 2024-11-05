@@ -1,0 +1,14 @@
+Zahtevi za plovidbenost,FS
+
+Nadji informacije sa interneta!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Zahtevi za plovidbenost
+
+EASA CS25 je set tehnickih propisa i standarda i postavlja zahteve koje avion mora ispuniti da bi dobio sertifikat o plovidbenosti, sto je bitno za osiguravanje bezbednosti leta
+Odnosi se na projektovanje i proizvodnju velikih komercijalnih aviona.
+
+FS - zahtevi za plovidbenost, CS25, definicija i osnovna uloga, primenjene norme i standardi
+
+Stanice trupa / FS su numerisane u incima od referentne ili nulte tacke poznate kao referentni datum u pravcu repa.
+FS 0.00 se obicno nalazi na vrhu nosa
+

@@ -1,0 +1,56 @@
+Plovidbenost
+    Stabilnost
+    Aerodinamičke performanse
+    Kontrola leta
+    Navigacija
+    Evakuacija
+    Održavanje i podrška
+    Analiza rizika tokom plovidbe
+
+Prezentacija Zakoni za plovidbenost, FS
+
+EASA CS25
+	Set tehnickih propisa i standarda i postavlja zahteve koje avion mora da ispuni da bi dobio sertifikat o plovidbenosti.
+
+Stabilnost
+	Sposobnost aviona da odrzi ravnotezu i automatski se vrati u stabilan polozaj nakon sto je poremecen tokom leta.
+	Sluzi za olaksavanje upravljanja i smanjenje napora pilota tokom leta, posebno u turbulentnim ili vanrednim uslovima
+	Staticka - odnosi se na trenutnu reakciju aviona na poremecaj. Ako je avion staticki stabilan, kad dodje do promene polozaja, vrati ce se u pocetni polozaj bez intervencije pilota.
+	Dinamicka - odnosi se na dugorocno ponasanje aviona nakon poremecaja. Ako je dinamicki stabilan, nakon pocetne korekcije ce se vremenom smiriti i postici stabilan let
+
+Aerodinamičke performanse
+	Efikasnost dizajna u interakciji s vazduhom tokom leta.
+	Primeri:Uzgon,otpor
+	Uzgon / lift - sila koja deluje uspravno i omogucava avionu da uzleti.
+	Otpor / drag - sila koja deluje suprotno od pravca leta i usporava avion.
+		Parazitski - javlja se kada se objekat krece kroz vazduh, a ne doprinosi uzgonu
+		Inducirani  -  Rezultat generisanja uzgona
+
+Kontrola leta
+	Sposobnost pilota da upravlja avionom.
+	Elementi: Upravljacke povrsine, automatski piloti, kontrolni sistemi
+	Automatski piloti - Sistemi koji mogu preuzeti kontrolu nad avionom tokom odredjenih faza. Mogu da odrzavaju visinu, pravac i brzinu i da sprovode odredjene manevarske zadatke
+	Kontrolni sistemi - svi mehanizmi i elektronika koji omogucavaju interakciju izmedju pilota i aviona.
+		Mehanicki, Elektricni, Pomocni
+	Upravljacke povrsine - Omogucavaju promenu polozaja aviona u vazduhu
+		Aileroni(kotrljanje),Elevators(nagib),Rudder(pravac)
+
+Navigacija
+	Procesi, metode i sistemi koji se koriste za odredjivanje pozicije aviona i pracenje njegove putanje tokom leta.
+	Elementi: Navigacijski sistemi, Intrumenti za navigaciju, Zahtevi za redundanciju
+	Navigacijski sistemi - omogucavaju pilotima da precizno odrede poziciju aviona, planiraju rutu i upravljaju letom.
+		Globalni pozicioni sistem (GPS)(sateliti), Inercijalni navigacijski sistem (INS)(meri ubrzanje i rotaciju aviona), VHF Omnidirectional Range (VOR)(Radio stanice)
+	Instrumenti za navigaciju - Pruzaju pilotu vizuelne ili audio informacije o navigaciji
+		Airspeed Indicator, Altimeter, Heading Indicator
+	Zahtevi za redundanciju - sposobnost sistema da funkcionise i u slucaju kvara nekog od njegovih komponenta
+	Primer: Dizajn sa visestrukim redundantnim komponentama, Automatsko prebacivanje
+	Dizajn sa visestrukim redundantnim komponentama - dupli ili trojni sistemi
+	Automatsko prebacivanje - U slucaju kvara, sistem automatski prebacuje na rezervne komponente bez intervencije pilota.
+
+Fuselage Station
+	Referentna linija koja se koristi u avionickoj konstrukciji za odredjivanje i merenje pozicija razlicitih komponenti.
+	Stanice trupa / FS su numerisane u incima od referentne ili nulte tacke poznate kao referentni datum u pravcu repa.
+	FS 0.00 se obicno nalazi na vrhu nosa
+	U EASA CS25 su spomenuti zahtevi za stabilnost, otpornost na opterecenja.
+		Zahtevi za stabilnost - longitudinalna stabilnost (odrzavanje stabilnost u longitudinalnoj osi), lateralna stabilnost (odrzavanje stabilnosti u lateralnoj osi)
+		Zahtevi za otpornost na opterecenja - strukturna izdrzljivost (FS mora biti dizajniran da izdrzi staticka i dinamicka opterecenja tokom normalnih i vanrednih uslova leta.)

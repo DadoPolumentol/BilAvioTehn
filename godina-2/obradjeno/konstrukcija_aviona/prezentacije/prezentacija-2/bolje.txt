@@ -1,0 +1,71 @@
+Šta je EASA CS25?
+
+Set tehničkih propisa i standarda koji postavljaju zahteve koje avion mora da ispuni da bi dobio sertifikat o plovidbenosti.
+
+Šta je stabilnost aviona?
+
+Sposobnost aviona da održi ravnotežu i automatski se vrati u stabilan položaj nakon što je poremećen tokom leta.
+
+Koje vrste stabilnosti postoje?
+
+Postoje statička i dinamička stabilnost. Statička stabilnost se odnosi na trenutnu reakciju aviona na poremećaj, dok se dinamička odnosi na dugoročno ponašanje aviona nakon poremećaja.
+
+Šta je aerodinamička efikasnost?
+
+Efikasnost dizajna aviona u interakciji s vazduhom tokom leta.
+
+Koji su osnovni primeri aerodinamičkih performansi?
+
+Uzgon i otpor. Uzgon je sila koja omogućava avionu da uzleti, dok otpor deluje suprotno od pravca leta i usporava avion.
+
+Šta je parazitski otpor?
+
+Otpor koji se javlja kada se objekat kreće kroz vazduh, a ne doprinosi uzgonu.
+
+Šta je indukovani otpor?
+
+Otpor koji nastaje kao rezultat generisanja uzgona.
+
+Kako avion kontroliše let?
+
+Pilot upravlja avionom pomoću upravljačkih površina, automatskih pilota i kontrolnih sistema.
+
+Šta su automatski piloti?
+
+Sistemi koji mogu preuzeti kontrolu nad avionom tokom određenih faza leta, održavati visinu, pravac, brzinu i obavljati manevarske zadatke.
+
+Koji su osnovni elementi upravljačkih površina?
+
+Aileroni (za kotrljanje), elevatori (za nagib) i kormilo (za pravac).
+
+Šta podrazumeva navigacija u avionu?
+
+Navigacija uključuje procese, metode i sisteme koji se koriste za određivanje pozicije aviona i praćenje njegove putanje tokom leta.
+
+Koji su osnovni navigacijski sistemi?
+
+GPS, inercijalni navigacijski sistem (INS) i VHF Omnidirectional Range (VOR).
+
+Koji su primeri navigacijskih instrumenata?
+
+Brzinomer (Airspeed Indicator), visinomer (Altimeter), pokazivač pravca (Heading Indicator).
+
+Šta je redundancija u navigacijskim sistemima?
+
+Sposobnost sistema da funkcioniše i u slučaju kvara nekog od njegovih komponenti, kao što su dizajn sa višestrukim redundantnim komponentama i automatsko prebacivanje na rezervne sisteme.
+
+Šta je Fuselage Station?
+
+Referentna linija koja se koristi u konstrukciji aviona za određivanje i merenje pozicija različitih komponenti.
+
+Gde se obično nalazi Fuselage Station 0.00?
+
+FS 0.00 se obično nalazi na vrhu nosa aviona.
+
+Koji su zahtevi za stabilnost prema EASA CS25?
+
+Zahtevi za longitudinalnu i lateralnu stabilnost.
+
+Koji su zahtevi za otpornost na opterećenja prema EASA CS25?
+
+Strukturna izdržljivost, pri čemu FS mora biti dizajniran da izdrži statička i dinamička opterećenja tokom normalnih i vanrednih uslova leta.
