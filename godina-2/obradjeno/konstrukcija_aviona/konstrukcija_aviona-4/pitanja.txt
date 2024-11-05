@@ -1,0 +1,87 @@
+Koja je funkcija kostura trupa kod aviona sa nosećom oplatom?
+
+Kostur čini prostorna rešetka iz cevnih elemenata sa delimičnom primenom zateznih žica, preko koje se prevlači noseća oplata koja služi samo radi obezbeđenja aerodinamičkih obloga.
+Skica 1
+
+Od kojih materijala može biti izrađena noseća konstrukcija trupa?
+
+Noseća konstrukcija može biti izrađena od lakih metala ili čelika.
+
+Koja su najosetljivija mesta na nosećoj konstrukciji trupa i kako se obezbeđuju?
+
+Najosetljivija su spojna mesta, čvorovi rešetke, koji mogu biti zatvoreni ili zakovani.
+
+Koje su prednosti i nedostaci trupa sa nosećom oplatom?
+
+Ovaj tip trupa se odlikuje jednostavnom izradom, jeftin je i lako se održava u eksploataciji, ali ima veliki aerodinamički otpor i koristi se samo kod lakih i sporijih aviona.
+
+Šta je monokok konstrukcija i zašto se koristi?
+
+Monokok konstrukcija koristi oplatu kao noseći element, omogućavajući trup da podnosi veće momente otpornosti na savijanje i uvijanje.
+
+Zašto je nemoguće koristiti isključivo noseću oplatu bez unutrašnje konstrukcije?
+
+Zbog nemogućnosti potpune stabilnosti oblika poprečnog preseka pri opterećenju savijanjem, oplata se mora ojačati. Takođe, otvori i izrezi stvaraju koncentracije napona koje zahtevaju lokalna pojačanja.
+
+Na koji način se ojačava oplata kod monokok konstrukcije?
+
+Oplata se može ojačati dodavanjem dopunskih okvira, uzdužnica ili lokalnim pojačavanjem zidova oplate.
+Skica 2
+
+Šta su longeroni i koja je njihova funkcija?
+
+Longeroni su uzdužni članovi koji pomažu oplati da podrži primarna opterećenja savijanja i obično su napravljeni od aluminijuma iz jednog komada.
+
+Koja je uloga stringera (uzdužnica) kod konstrukcije trupa?
+
+Stringeri oblikuju i pričvršćuju oplatu, sprečavajući preterano istezanje i kompresiju trupa u kombinaciji sa longeronima.
+
+Koji materijali se koriste za izradu polumonokok konstrukcije trupa?
+
+Polumonokok konstrukcija je izrađena prvenstveno od legura aluminijuma i magnezijuma, a u oblastima visoke temperature se koriste čelik i titanijum.
+
+Zašto se koristi polumonokok konstrukcija trupa?
+
+Polumonokok konstrukcija koristi pregrade, okvire, uzdužnice i longerone za olakšavanje dizajna i konstrukcije aerodinamičkog trupa, koji postaje čvrst i izdržljiv pod raznim opterećenjima.
+
+Kako se sprečava curenje vazduha kod presurizovanih aviona?
+
+Na mestima spojeva i rupa za zakivanje postavljaju se zaptivne smese i koriste se zakivci sa ravnom glavom kako bi se smanjio aerodinamički otpor.
+Skica 3
+
+Koje vrste opterećenja trpe podne grede u avionu?
+
+Podne grede su projektovane da podnose naprezanja na savijanje i istezanje.
+Skica 4, Skica 5
+
+Od čega se sastoji pod u putničkoj i pilotskoj kabini?
+
+Pod u putničkoj kabini je sa saćastom strukturom, a u pilotskoj kabini može biti izrađen od durala.
+Skica 6
+
+Zašto su potrebni hermetični pregradni zidovi u presurizovanim segmentima trupa?
+
+Hermetični pregradni zidovi sprečavaju protok gasova i tečnosti kroz otvore u strukturi trupa i održavaju pritisak u određenim zonama kao što su pilotska i putnička kabina.
+
+Kako se zakivci biraju u zavisnosti od mesta na trupu?
+
+Tip zakivaka zavisi od položaja oplate na trupu, debljine oplate i opterećenja u toj zoni. Zakivci sa ravnom glavom smanjuju aerodinamički otpor.
+
+Zašto se koristi sistem protiv zaleđivanja na avionu?
+
+Sistem protiv zaleđivanja je potreban zbog niske temperature na velikim visinama, koja može uzrokovati zamrzavanje delova kao što su komandne površine i senzori.
+
+Koja je uloga pajlona u avionu i kako su povezani sa krilom ili trupom?
+
+Pajloni služe za pričvršćivanje motora za krilo ili trup, povezani su sa aerodinamičkom oblogom motora, a izrađeni su od legiranih čelika otpornih na koroziju.
+Skica 7
+
+Kako se vertikalni i horizontalni stabilizatori pričvršćuju za trup?
+
+Stabilizatori su pričvršćeni pomoću okova sa uškama za spajanje, postavljenih na krajevima ramenjača stabilizatora i okvira trupa.
+Skica 8, Skica 9
+
+Koja je osnovna konstrukcija stabilizatora i krmila repnih površina?
+
+Konstrukcija uključuje nepokretni deo (stabilizator) i pokretni deo (krmilo) sa konstrukcijom od dve ramenjače, rebara, uzdužnica i oplate.
+Skica 10, Skica 11

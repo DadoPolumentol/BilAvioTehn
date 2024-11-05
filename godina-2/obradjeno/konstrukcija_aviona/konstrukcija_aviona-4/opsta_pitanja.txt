@@ -1,0 +1,38 @@
+Objasni sve što znaš o nosećoj strukturi trupa aviona i nacrtaj skicu.
+
+Noseća struktura trupa kod aviona može biti izrađena kao prostorna rešetka iz cevnih elemenata sa delimičnom primenom zateznih žica, preko koje se prevlači noseća oplata koja obezbeđuje aerodinamički oblik trupa. Noseća konstrukcija može biti izrađena od lakih metala ili čelika, a najosetljivija mesta su spojni čvorovi rešetke, koji mogu biti zatvoreni ili zakovani. Ovakav tip trupa karakteriše jednostavna izrada i niža cena, uz lako održavanje tokom eksploatacije, ali ima visok aerodinamički otpor, što ga čini pogodnim samo za lake i sporije avione.
+Skica 1
+
+Šta je monokok konstrukcija trupa aviona i zašto se koristi? Koje su njene prednosti i ograničenja? Dodaj skicu.
+
+Monokok konstrukcija trupa nastala je kako bi se oplata maksimalno iskoristila kao noseći element trupa, omogućavajući trupu da podnese znatno veće momente otpora na savijanje i uvijanje. Konstrukcijski, trup se može posmatrati kao ljuska koja nosi glavna opterećenja, ali samo oplata nije dovoljna zbog nedostatka potpune stabilnosti poprečnog preseka pod opterećenjem. Zbog toga se oplata ojačava dodavanjem lokalnih pojačanja, dopunskih okvira i uzdužnica. Glavne komponente monokok trupa su jaki i slabi okviri, uzdužnice, noseća oplata i okovi.
+Skica 2
+
+Objasni konstrukciju i funkciju longerona i stringera u trupu aviona.
+
+Longeroni se protežu preko više članova okvira trupa i pomažu oplati u podnošenju primarnih opterećenja savijanja. Obično su izrađeni od aluminijumskih legura i često su iz jednog komada radi bolje čvrstoće i lakšeg održavanja. Stringeri, ili uzdužnice, takođe se koriste u ovoj konstrukciji, i obično su lakši od longerona, mnogobrojni su i dolaze u različitim oblicima. Oni oblikuju i pričvršćuju oplatu, a zajedno sa longeronima sprečavaju prekomerno istezanje i kompresiju trupa tokom savijanja. Uzdužni elementi poput ovih olakšavaju dizajn aerodinamičkog i čvrstog trupa.
+
+Šta je polumonokok konstrukcija i koje materijale uključuje? Kakve su njene prednosti?
+
+Polumonokok konstrukcija trupa razvijena je kao modifikacija monokoka da bi se smanjila težina konstrukcije i povećala čvrstoća. Uključuje komponente kao što su okviri, pregrade, uzdužnice i oplata. Polumonokok konstrukcija izrađena je prvenstveno od legura aluminijuma i magnezijuma, dok se čelik i titanijum koriste u područjima visoke temperature. Magnezijum se koristi jer ima povoljan odnos čvrstoće prema gustini, iako čist magnezijum nije dovoljan, pa se koristi legirani. Polumonokok trup je čvrst, aerodinamički pogodan i izdržava razna opterećenja, dok oplata može nositi deo tereta.
+Skica 3
+
+Koja je funkcija podne grede u avionu i od čega se izrađuju paneli poda u putničkoj i pilotskoj kabini? Dodaj skicu.
+
+Podne grede u avionu daju dodatnu čvrstoću strukturi, posebno u putničkoj i pilotskoj kabini, jer omogućavaju postavljanje šina i trpe savijanje i istezanje. Paneli poda putničke kabine izrađeni su sa saćastom strukturom, što doprinosi lakšoj i jačoj konstrukciji, dok paneli u pilotskoj kabini mogu biti izrađeni od durala zbog otpornosti na visoke temperature i udare. Ove komponente omogućavaju stabilnu podlogu za putnike i opremu unutar kabine.
+Skica 4, Skica 6
+
+Kako se postiže hermetizacija presurizovanih segmenata trupa u avionu i zašto je bitna?
+
+U presurizovanim segmentima trupa, poput pilotske kabine, putničkog prostora i prtljažnih prostora, hermetičnost je ključna kako bi se održao stabilan pritisak tokom leta. Hermetični pregradni zidovi (bulkhead) sprečavaju protok gasova i tečnosti kroz strukturu trupa. Na mestima spojeva i rupa za zakivanje postavljaju se zaptivne smese, koje sprečavaju curenje vazduha, dok zakivci sa ravnom glavom smanjuju aerodinamički otpor. Održavanje pritiska unutar kabine neophodno je za sigurnost putnika i posade, jer kabina trpi velike unutrašnje pritiske u toku leta.
+Skica 7
+
+Objasni funkciju pajlona i način povezivanja sa motorom i trupom aviona.
+
+Pajloni, ili nosači motora, služe kao čvrsti elementi kojima je motor pričvršćen za krilo ili trup aviona, uz istovremeno obezbeđivanje aerodinamičkog oblika motora. Pajloni su izrađeni od legiranih čelika koji imaju visoku otpornost na koroziju, a vežu se za motor u dve tačke i za krilo putem ramenjača. Na delu gde se pričvršćuju koriste se jaki elementi strukture, poznati kao gornja, srednja i donja ramenjača. Pajloni omogućavaju sigurno povezivanje i stabilizaciju motora u toku leta.
+Skica 7
+
+Kakva je konstrukcija stabilizatora repnih površina kod aviona i kako su pričvršćeni za trup?
+
+Stabilizatori repnih površina uključuju nepokretni deo (stabilizator) i pokretni deo (krmilo). Kod horizontalnih repnih površina razlikujemo horizontalni stabilizator i krmilo visine, dok vertikalne površine sadrže vertikalni stabilizator i krmilo pravca. Strukturalnu stabilnost stabilizatora čine dve ramenjače, rebra, uzdužnice i oplata. Stabilizatori su pričvršćeni za trup pomoću okova sa uškama, koji se nalaze na krajevima ramenjača i na okvirima trupa. Okovi su najčešće izrađeni od titanijuma ili legiranih čelika, koji daju potrebnu čvrstoću i dugotrajnost spojeva.
+Skica 8, Skica 9, Skica 10, Skica 11
