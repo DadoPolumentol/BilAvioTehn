@@ -1,0 +1,6 @@
+rod: epsko lirski
+vrsta: roman u stihu
+vreme: 19.v.
+mesto: Sankt Petersburg + selo
+tema: ekstravagantan zivot evgenija
+Likovi: Evgenije, Vladimir Lenski, Olga Larina, Tatjana, Pisac (pripovedac?)
