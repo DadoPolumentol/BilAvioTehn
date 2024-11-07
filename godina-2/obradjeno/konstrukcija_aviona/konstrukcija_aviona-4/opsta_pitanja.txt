@@ -35,4 +35,6 @@ Skica 7
 Kakva je konstrukcija stabilizatora repnih površina kod aviona i kako su pričvršćeni za trup?
 
 Stabilizatori repnih površina uključuju nepokretni deo (stabilizator) i pokretni deo (krmilo). Kod horizontalnih repnih površina razlikujemo horizontalni stabilizator i krmilo visine, dok vertikalne površine sadrže vertikalni stabilizator i krmilo pravca. Strukturalnu stabilnost stabilizatora čine dve ramenjače, rebra, uzdužnice i oplata. Stabilizatori su pričvršćeni za trup pomoću okova sa uškama, koji se nalaze na krajevima ramenjača i na okvirima trupa. Okovi su najčešće izrađeni od titanijuma ili legiranih čelika, koji daju potrebnu čvrstoću i dugotrajnost spojeva.
-Skica 8, Skica 9, Skica 10, Skica 11
+Skica 8, Skica 10, Skica 11, Skica 12
+
+

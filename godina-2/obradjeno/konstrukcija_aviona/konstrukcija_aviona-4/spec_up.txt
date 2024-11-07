@@ -1,0 +1,248 @@
+Šta je noseća struktura trupa aviona?
+
+Noseću strukturu čini prostorna rešetka od cevnih elemenata sa delimičnom primenom zateznih žica. Ova rešetka služi kao osnovna potpora za trup aviona.
+
+Koja je uloga noseće oplote trupa aviona?
+
+Noseća oplata se postavlja preko rešetke i služi samo za obezbeđenje aerodinamičkih obloga, čime pomaže u smanjenju otpora vazduha.
+
+Koji materijali se koriste za izradu noseće strukture trupa aviona?
+
+Noseća struktura trupa aviona može biti izrađena od lakih metala ili čelika.
+
+Koje su prednosti noseće strukture trupa aviona?
+
+Prednosti ove konstrukcije uključuju jednostavnu izradu, nisku cenu i lako održavanje.
+
+Koje su mane noseće strukture trupa aviona?
+
+Glavna mana ove strukture je veliki aerodinamički otpor, zbog čega se koristi uglavnom kod lakih i sporijih aviona.
+
+Koji su ključni delovi noseće strukture trupa aviona koji su osetljivi na oštećenja?
+
+Najosetljiviji delovi noseće strukture su spojna mesta i čvorovi rešetke, koji mogu biti zatvoreni ili zakovani.
+
+Nacrtaj skicu noseće strukture trupa aviona.
+
+(Skica 1)
+
+Šta je monokok konstrukcija?
+
+Monokok je ljuskasti tip konstrukcije gde oplata služi kao noseći element, tj. nosi sve sile i opterećenja.
+
+Koja je uloga trupa u monokok konstrukciji?
+
+Trup monokoka se može smatrati tupljom gredom koja podnosi velike momente otpornosti na savijanje i uvijanje.
+
+Da li monokok konstrukcija zahteva unutrašnju konstrukciju?
+
+Teoretski, monokok bi trebalo da ne ima unutrašnju konstrukciju, već samo oplatu. Međutim, zbog nemogućnosti potpune stabilnosti oblika poprečnog preseka pri opterećenju na savijanje, oplata mora biti ojačana.
+
+Kako se oplata monokoka pojačava zbog otvora i izreza?
+
+Zbog otvora i izreza, koji mogu izazvati koncentraciju napona, oplata se lokalno pojačava dodavanjem okvira i uzdužnica.
+
+Koji su osnovni elementi monokok konstrukcije?
+
+Osnovni elementi monokok konstrukcije uključuju: jaki i slabi okviri, uzdužnice, noseća oplata, okovi.
+
+Koje metode konstrukcije se koriste za monokok?
+
+Metode konstrukcije koje se koriste za monokok uključuju: rešetkasti pristup, monokok pristup, polumonokok pristup.
+
+Nacrtaj skicu monokok konstrukcije.
+
+(Skica 2)
+
+Šta je polumonokok konstrukcija trupa?
+
+Polumonokok trup koristi longerone koji se protežu preko nekoliko članova okvira i pomažu oplati da podrži primarna opterećenja savijanja. Ova konstrukcija je ojačana uzdužnim elementima poput longerona i stringera.
+
+Koji su osnovni elementi polumonokok konstrukcije trupa?
+
+Osnovni elementi su: longeroni, stringeri (uzdužnice), okviri, noseća oplata.
+
+Kako se koriste longeroni u polumonokok konstrukciji?
+
+Longeroni pomažu oplati da podrži primarna opterećenja savijanja i obično su izrađeni od legure aluminijuma, iz jednog komada.
+
+Koja je uloga stringera (uzdužnica) u polumonokok konstrukciji?
+
+Stringeri su lakši od longerona i koriste se za oblikovanje i pričvršćivanje oplate, pomažući u sprečavanju istezanja i kompresije trupa.
+
+Kako okviri utiču na polumonokok konstrukciju trupa?
+
+Okviri su poprečni elementi trupa koji daju oblik trupu i opterećeni su na uvijanje, smanjujući slobodnu površinu oplate i povećavajući stabilnost konstrukcije.
+
+Koji materijali se koriste u polumonokok konstrukciji trupa?
+
+Polumonokok trup je uglavnom napravljen od legura aluminijuma i magnezijuma, dok se čelik i titanijum ponekad koriste u područjima visoke temperature.
+
+Zašto se magnezijum koristi u polumonokok konstrukciji trupa?
+
+Magnezijum je najlakši od svih tehničkih materijala, ali zbog male čvrstoće čistog magnezijuma, koristi se legirani magnezijum (kao što je MgA19), koji ima dobar odnos čvrstoće na gustinu i visoku čvrstoću na savijanje i udarna opterećenja.
+
+Kako se oplata koristi u polumonokok konstrukciji?
+
+Oplata trupa nosi deo tereta i njena debljina varira u zavisnosti od opterećenja i napona na određenoj lokaciji.
+
+Koje su prednosti polumonokok konstrukcije?
+
+Prednosti uključuju mnogobrojne pregrade, okvire, uzdužnice i longerone koji omogućavaju efikasan dizajn aerodinamičkog trupa koji je čvrst i dobro podnosi opterećenja.
+
+Zašto je polumonokok konstrukcija razvijena?
+
+Razvijena je kako bi se prevazišao problem čvrstoće i težine kod monokok konstrukcije, jer oplata kod polumonokoka nije samo noseći element, već je ojačana uzdužnim elementima kao što su longeroni.
+
+Nacrtaj skicu polumonokok konstrukcije trupa.
+
+(Skica 3)
+
+Šta su gredne podne strukture vazduhoplova?
+
+Gredne podne strukture koriste dodatne grede i razne elemente za ojačanje prilikom izgradnje trupa vazduhoplova, a nalaze se u putničkoj i pilotskoj kabini.
+
+Koja je uloga podnih greda u vazduhoplovu?
+
+Podne grede su veoma važne za strukturu, jer se na njih postavljaju šine i omogućavaju stabilnost i čvrstoću kabine.
+
+Koji elementi služe kao ojačanje u grednim podnim strukturama?
+
+Podupirači služe kao ojačanje strukture koja trpi opterećenja na sabijanje, dok su same podne grede projektovane da podnose naprezanje na savijanje i istezanje.
+
+Koje vrste naprezanja podnose podne grede?
+
+Podne grede su projektovane da podnose naprezanje na savijanje i istezanje.
+
+Nacrtaj skicu grednih podnih struktura vazduhoplova.
+
+Skica 4, Skica 5
+
+Koje materijale koriste podovi putničke i pilotske kabine?
+
+Pod za putničku kabinu se sastoji od panela sa saćastom strukturom, dok se za pilotsku kabinu koriste paneli od durala, legure aluminijuma.
+
+Koja je uloga saćaste strukture na podu putničke kabine?
+
+Saćasta struktura omogućava lakoću i čvrstoću poda putničke kabine, čineći ga lakšim, ali i dovoljno čvrstim za opterećenja.
+
+Zašto se dural koristi za pod pilotske kabine?
+
+Dural se koristi zbog svoje veće čvrstoće i otpornosti na stresne uslove, što je ključno za pod pilotske kabine koji mora izdržati veća opterećenja.
+
+Nacrtaj skicu poda putničke i pilotske kabine.
+
+Skica 6
+
+Koji delovi trupa vazduhoplova moraju biti presurizovani?
+
+Presurizovani delovi trupa uključuju pilotsku kabinu, putničke odeljke i prtljažne prostore.
+
+Kako se sprečava protok gasova i tečnosti između presurizovanih segmenata trupa?
+
+Pregradni zidovi (bulkhead) hermetički odvajaju segmente kako bi sprečili protok gasova i tečnosti između njih.
+
+Koji deo trupa nije obično presurizovan?
+
+Područje ispod poda komercijalnog putničkog aviona nije pod pritiskom, osim prtljažnih prostora.
+
+Kolika je razlika u pritisku između kabine i spoljne atmosfere na visini od 12.000 m?
+
+Razlika pritiska može iznositi oko pola bara, što je približno 5 tona po metru kvadratnom prema spoljašnjoj atmosferi.
+
+Kako se reguliše razlika pritiska tokom leta?
+
+Regulacija razlike pritiska je automatska tokom leta, održavajući optimalne uslove u presurizovanim delovima trupa.
+
+Nacrtaj skicu presurizovanih delova trupa.
+
+Skica 7
+
+Kako se spaja oplata trupa?
+
+Oplata trupa spaja se pomoću zakivaka, koji se biraju u zavisnosti od debljine oplate i opterećenja u određenoj zoni.
+
+Koji faktori utiču na izbor tipa zakivka?
+
+Tip zakivka zavisi od debljine oplate i opterećenja u određenoj zoni trupa.
+
+Šta se postavlja na mestima spojeva i kod rupa za zakivanje?
+
+Na mestima spojeva i kod rupa za zakivanje postavljaju se zaptivne smese kako bi se sprečilo curenje vazduha.
+
+Koji tip zakivka se koristi da bi se smanjio aerodinamički otpor?
+
+Koriste se zakivci sa ravnom glavom kako bi se smanjio aerodinamički otpor.
+
+Koje karakteristike mora imati oplata trupa?
+
+Oplata mora imati visoku otpornost na korozivno dejstvo, naročito na mestima spojeva.
+
+Nacrtaj skicu spojeva oplate trupa.
+
+Skica 7
+
+Koja je funkcija pajlona u vazduhoplovu?
+
+Pajloni, nosači motora, služe za vezivanje motora za krilo ili trup vazduhoplova, omogućavajući sigurno i stabilno pričvršćivanje.
+
+Koji elementi čine strukturu pajlona?
+
+Struktura pajlona koristi jake elemente kao što su gornja, srednja i donja ramenjača, koji omogućavaju stabilnost pri pričvršćivanju.
+
+Od kojeg materijala je izrađen pajlon?
+
+Pajlon je izrađen od legiranog čelika sa visokim otporom na koroziju.
+
+Kako se pajlon povezuje sa motorom i krilom?
+
+Pajlon se spaja u dve tačke sa motorom, dok se sa krilom povezuje putem ramenjača, što omogućava stabilno pričvršćivanje.
+
+Nacrtaj skicu pajlona i njegovih veza sa motorom i krilom.
+
+Skica 7
+
+Koji su delovi repnih površina vazduhoplova?
+
+Repne površine se sastoje od nepokretnih i pokretnih delova. Nepokretni deo je stabilizator, dok je pokretni deo krmilo.
+
+Koja je funkcija horizontalnog stabilizatora?
+
+Horizontalni stabilizator se koristi za kontrolu visinskog kretanja vazduhoplova, stabilizujući ga u vertikalnoj ravni.
+
+Koja je funkcija vertikalnog stabilizatora?
+
+Vertikalni stabilizator omogućava kontrolu pravca, stabilizujući vazduhoplov u horizontalnoj ravni.
+
+Koji su delovi horizontalnih repnih površina?
+
+Horizontalne repne površine uključuju horizontalni stabilizator i krmilo visine.
+
+Koji su delovi vertikalnih repnih površina?
+
+Vertikalne repne površine imaju vertikalni stabilizator i krmilo pravca.
+
+Kako je konstruisan stabilizator?
+
+Konstrukcija stabilizatora slična je krilu i uključuje ramenjače, rebra, uzdužnice i oplatu koja pruža strukturalnu stabilnost.
+
+Nacrtaj skicu stabilizatora i njegovih delova.
+
+Skica 8
+
+Kako su pričvršćeni stabilizatori na trup?
+
+Vertikalni i horizontalni stabilizatori su pričvršćeni slično kao i krila, koristeći okove sa uškama za spajanje.
+
+Gde se postavljaju okovi za pričvršćivanje stabilizatora?
+
+Okovi se postavljaju na krajevima ramenjača stabilizatora i na okvirima ili pregradama trupa.
+
+Koji materijali se koriste za konstrukciju okova stabilizatora?
+
+Za konstrukciju se obično koriste okovi izrađeni od titanijuma ili legiranih čelika, zbog njihove izdržljivosti i otpornosti na naprezanje.
+
+Nacrtaj skice pričvršćivanja stabilizatora na trup.
+
+Skica 10, 11, 12
+

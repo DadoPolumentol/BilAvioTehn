@@ -28,21 +28,25 @@ Na koji način se ojačava oplata kod monokok konstrukcije?
 Oplata se može ojačati dodavanjem dopunskih okvira, uzdužnica ili lokalnim pojačavanjem zidova oplate.
 Skica 2
 
-Šta su longeroni i koja je njihova funkcija?
+Šta su longeroni i koja je njihova funkcija? **************************
 
-Longeroni su uzdužni članovi koji pomažu oplati da podrži primarna opterećenja savijanja i obično su napravljeni od aluminijuma iz jednog komada.
+Longeroni su uzdužni članovi koji pomažu oplati da podrži primarna opterećenja savijanja i obično su napravljeni od legura aluminijuma iz jednog komada.
 
 Koja je uloga stringera (uzdužnica) kod konstrukcije trupa?
 
 Stringeri oblikuju i pričvršćuju oplatu, sprečavajući preterano istezanje i kompresiju trupa u kombinaciji sa longeronima.
 
-Koji materijali se koriste za izradu polumonokok konstrukcije trupa?
+Koji materijali se koriste za izradu polumonokok konstrukcije trupa? *******************
 
-Polumonokok konstrukcija je izrađena prvenstveno od legura aluminijuma i magnezijuma, a u oblastima visoke temperature se koriste čelik i titanijum.
+Polumonokok konstrukcija je izrađena prvenstveno od legura aluminijuma i magnezijuma, npr. MgA19, a u oblastima visoke temperature se koriste čelik i titanijum.
 
 Zašto se koristi polumonokok konstrukcija trupa?
 
 Polumonokok konstrukcija koristi pregrade, okvire, uzdužnice i longerone za olakšavanje dizajna i konstrukcije aerodinamičkog trupa, koji postaje čvrst i izdržljiv pod raznim opterećenjima.
+
+Koje su prednosti i nedostaci magnezijuma kao materijala za konstrukciju? ******************
+
+Magnezijum je najlakši od svih tehničkih materijala sa gustinom od 1,8 kg/dm³. Čist magnezijum ima malu čvrstoću, ali legirani magnezijum, kao MgA19, ima najpovoljniji odnos čvrstoće na gustinu i koristi se zbog svoje velike čvrstoće na savijanje i udarna opterećenja.
 
 Kako se sprečava curenje vazduha kod presurizovanih aviona?
 
@@ -71,17 +75,47 @@ Zašto se koristi sistem protiv zaleđivanja na avionu?
 
 Sistem protiv zaleđivanja je potreban zbog niske temperature na velikim visinama, koja može uzrokovati zamrzavanje delova kao što su komandne površine i senzori.
 
-Koja je uloga pajlona u avionu i kako su povezani sa krilom ili trupom?
+Koja je uloga pajlona u avionu i kako su povezani sa krilom ili trupom? ********************
 
-Pajloni služe za pričvršćivanje motora za krilo ili trup, povezani su sa aerodinamičkom oblogom motora, a izrađeni su od legiranih čelika otpornih na koroziju.
+Pajloni služe za pričvršćivanje motora za krilo ili trup, povezani su sa aerodinamičkom oblogom motora, a izrađeni su od legiranih čelika otpornih na koroziju i vezani su sa krilom putem jakih strukturalnih elemenata poput ramenjača.
 Skica 7
 
 Kako se vertikalni i horizontalni stabilizatori pričvršćuju za trup?
 
 Stabilizatori su pričvršćeni pomoću okova sa uškama za spajanje, postavljenih na krajevima ramenjača stabilizatora i okvira trupa.
-Skica 8, Skica 9
+Skica 8
 
 Koja je osnovna konstrukcija stabilizatora i krmila repnih površina?
 
 Konstrukcija uključuje nepokretni deo (stabilizator) i pokretni deo (krmilo) sa konstrukcijom od dve ramenjače, rebara, uzdužnica i oplate.
-Skica 10, Skica 11
+Skica 10, Skica 11, Skica 12
+
+
+
+
+Kako se stabilizatori pričvršćuju za trup?
+
+Stabilizatori se pričvršćuju na trup pomoću ramenjača, okvira trupa i posebnih okova. Ramenjače stabilizatora povezuju trup i stabilizator, a okviri trupa i okovi omogućavaju stabilnost i otpornost na sile koje deluju na stabilizator. Ovaj način pričvršćivanja osigurava da stabilizatori budu pravilno postavljeni i da mogu izdržati aerodinamička opterećenja.
+
+Koji su materijali korišćeni u konstrukciji stabilizatora i krmila?
+
+Stabilizatori i krmila su obično izrađeni od materijala visoke čvrstoće i male težine, kao što su titanijum, aluminijumske legure i legirani čelici. Titanijum se koristi zbog svoje visoke otpornosti na koroziju i izuzetne čvrstoće, dok aluminijumske legure nude dobar balans između čvrstoće i mase. Ovi materijali omogućavaju stabilizatorima i krmilima da izdrže velike sile pri velikim brzinama.
+
+Koji su konkretni zadaci ramenjača u stabilizatorima i krmilima?
+
+Ramenjače u stabilizatorima i krmilima imaju ključnu ulogu u pružanju strukturne čvrstoće i stabilnosti. One prenose opterećenja sa stabilizatora i krmila na trup aviona, osiguravajući da se komponente pravilno povezuju i da izdrže sile koje deluju tokom leta. Takođe, ramenjače pomažu u održavanju optimalnog aerodinamičkog oblika stabilizatora.
+
+Kako se rešava problem koncentracije napona na mestima otvora i izreza u monokok konstrukciji?
+
+Problem koncentracije napona na mestima otvora i izreza u monokok konstrukciji rešava se pomoću pojačanja tih delova. Na mestima gde se nalaze otvori ili rezovi dodaju se metalni obruči, pojačivači ili dodatne strukturalne komponente koje sprečavaju prekomerni stres na tim mestima. Ovi pojačivači smanjuju rizik od pucanja ili oštećenja usled napona.
+
+Kako se vrši spajanje pajlona sa motorom i krilom?
+
+Pajloni se spajaju sa motorom i krilom pomoću posebnih veza i okova koji omogućavaju sigurno povezivanje. Spajanje pajlona sa motorom obično se vrši pomoću gornje, srednje i donje ramenjače koje povezuju pajlon sa strukturnim delovima motora i krila. Ove ramenjače omogućavaju ravnomerno raspoređivanje opterećenja između motora i krila, čime se osigurava stabilnost i sigurnost u letu.
+
+Koje funkcije obavlja oplata u polumonokok konstrukciji?
+
+Oplata nosi deo tereta, povećavajući čvrstoću trupa, i može imati promenljivu debljinu u zavisnosti od opterećenja na određenim mestima.
+
+
+
