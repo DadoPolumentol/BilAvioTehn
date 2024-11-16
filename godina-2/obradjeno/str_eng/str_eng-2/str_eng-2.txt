@@ -1,0 +1,54 @@
+Which metal was the most commonly used in manufacturing airplanes the 20th century?
+
+Lightweight Aluminium
+
+What composite materials started being used in the 1980s
+
+Carbon fibre-reinforced plastic (CFRP), which made aircraft lighter and more fure efficient.
+
+Composite
+
+something made up of a number of different parts, lightweight but very strong man-made material used in aircraft manufacturing.
+
+Sheet
+
+Large, thin, flat piece of material
+
+What were the earliest airplanes built out of?
+
+The earliest airplanes were built mainly from wood and fabric with some metal parts. 
+
+When did airplanes start having metal frames and being covered with riveted metal sheets?
+
+By the end of the 1920s
+
+Rivet
+
+zakivati
+
+Riveting 
+
+zakivanje
+
+Airplane major components
+
+fuselage, wings, empennage, landing gear, power plant
+
+What is airship and how do we call them?
+
+Lighter-than-air type of aircraft.
+All rigid airships are called Zeppelins, dirigibles or airships.
+
+What are the purposes of Aircraft Ground De/Anti Icing procedures?
+
+removal of any frozen or semi frozen moisture from critical external surfaces of an aircraft on the ground prior to flight; 
+and/or protection of those surfaces from the effects of such contaminant for the period between treatment and becoming airborne; 
+and/or removal of any frozen or semi frozen moisture from engine intakes and fan blades and protection of extemal surfaces from subsequent contamination prior to takeoff.
+
+When does fanblade ice form?
+
+After the pre-start visual inspection, including whilst the engines are running at low thrust prior to take off. 
+
+What are the engine handling procedures
+
+First of all, the aircraft must be inspected for signs of contaminant already adhering to surfaces and where found on surfaces which must be free of contaminant, it must be removed using a suitable ground de-icing fluid. Secondly, the prevailing weather conditions must be assessed. If further adherence of contaminant to the airframe surfaces is currently occurring or anticipated prior to the time at which it is expected that the aircraft will get airborne, then a suitable ground anti-icing fluid should be applied. In both cases, the time after the start of fluid treatment from which protection is provided by the fluids applied depends upon the prevailing conditions. The fluids are designed to shear off the aircraft surfaces to which they have been applied no later than the point at which the aircraft becomes airbome. This means that the ground application of fluids has no effect upon the risks which arise from the accretion of frozen deposits on the aircraft at any time after take off.
