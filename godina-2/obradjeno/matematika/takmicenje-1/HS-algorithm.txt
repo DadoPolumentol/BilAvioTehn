@@ -1,1 +1,12 @@
-testing this motherfucker
+Kvadratna funkcija
+
+	f(x) = ax^2+bx+c
+	a,b,c ∈ R
+	a ≠ 0
+	if a > 0 parabola otvorena ka gore
+	if a < 0 parabola otvorena ka dole
+	Koord temena parabole:
+		x = -(b/(2a)) y = f(x) = -(D/(4a))
+	Diskriminanta:
+		D = b^2 - 4ac
+	Funkcija sece y osu u tacki (0,c)
