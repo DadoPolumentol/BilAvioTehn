@@ -20,3 +20,14 @@ Skica vrata
 Систем херметизације има задатак да одржава пресуризацију путничког одељка, како не би дошло до изједначења спољашњег и унутрашњег притиска. Поред тога, врата поседују и благи конус по ободу који обезбеђује боље налегање врата у структуру. На вратима се још налазе и тобогани помоћу којих се путници спуштају у ванредним ситуацијама. Систем забрављивања има улогу онемогућавања отварања врата у току самог
 лета.
 Код карго авиона, врата за утовар и истовар терета се отварају ка споља на задњем делу трупа. Отварање се врши хидрауличним путем, а постоји и резервни - механички начин за отварање и затварање врата
+
+Prozori i vrata
+
+Otvori na trupu su u suđtini jako nepovoljni i nepoželjni, pa je na takvim mestima potrebno posebno obratiti pažnju na sledeće:
+1. Da li otvor bitno utiče na čvrstoću strukturu
+2. Kako obezbediti dobro naleganje, u cilju obezbeđivanja zadovoljavajuće hermetizacije.
+Kako su otvori za prozore jedni od najbrojnijih otvora na trupu aviona, na slici je prikazano rešenje ugradne i hermetizacije jednog od prozora putničkog odeljka. Prozorska okna ovog aviona se sastoje iz dve staklene površine, elementi hermetizacije nalegajućih i ostalih elemenata
+
+Skica 14
+
+Svi ovi delovi se moraju pravilno uležišti, kako bi hermetizacija ostala zaparantovana. Delovi se spajaju vijčanom vezom i to na nekih desetak mesta, čime se obezbeđuju ravnomernim naleganjem staklenih površina na ostale elemente. Element hermetizacije je specijalna guma sa dodatnom primesom u cilju poboljšanja nekih mehaničkih otvora. Kod manjih, a takođe i kod transportnih aviona, prozori su izrađeni od akrilne plastike (pleksiglas). To je veoma tvrda struktura. Tvrdoća joj je 10 puta veća nego kod običnih stakla. Pleksiglas je lagan, otporan na vremenske uslove i UV zračenje. U slučaju oštećenja, ne lomi se na oštre komade, kao obično staklo. Veoma je otporno na udarna opterećenja. Prozori pilotske kabine putničkih aviona su još jače strukture (laminate). To znači da imaju više slojeva. Kaljeno staklo i akrilna plastika ugrađeni su i senzori kao i sistemi protiv zaleđivanja.
