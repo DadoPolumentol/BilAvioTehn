@@ -1,0 +1,59 @@
+Šta je korozija i zašto je bitna zaštita u avijaciji?
+
+Korozija je oštećenje metala usled vlage i kiseonika. Zaštita je ključna jer avioni stalno trpe dejstvo ovih faktora, posebno delovi poput izlaznih ivica krila, stabilizatora i zadnjih delova trupa.
+
+Kako se pripremaju metalne površine za zaštitu od korozije?
+
+Uklanjanjem nečistoća i oksida, brušenjem i poliranjem hrapavih površina. Površine se čiste mehanički (četke, turpije, brusilice) ili hemijski (kiseline, ispiranje, sušenje).
+
+Koje legure su najotpornije na koroziju?
+
+Nerđajući čelici (sa hromom i niklom) i durlaluminijum, koji formiraju zaštitni oksidni sloj.
+
+Kako se štite čelične cevi u avionima?
+
+Mazanjem unutrašnjosti cevi lanenim uljem pre zavariivanja kako bi se sprečilo rđanje.
+
+Šta je premazivanje i zašto se koristi?
+
+Premazivanje se vrši prajmerima i bojama kako bi se površine zaštitile. Boja se nanosi na čiste, suve površine uz prethodni sloj temeljnog premaza ili alodina.
+
+Šta je oblaganje u zaštiti od korozije?
+
+Nanošenje čistog aluminijuma na durlaluminijumske površine. Čistiji aluminijum pruža bolju zaštitu od korozije.
+
+Šta je hromiranje i koji proizvod se koristi?
+
+Hromiranje uključuje uranjanje delova u specijalni rastvor (npr. Alocrom 1200). Hromatni premaz štiti od korozije i ima žućkast sloj.
+
+Koje mere zaštite tehničari moraju preduzeti prilikom rada sa hemikalijama?
+
+Korišćenje rukavica, naočara i opreme za zaštitu. Izbegavanje udisanja isparenja i dugačkog kontakta sa kožom.
+
+Koje su ključne karakteristike vrata na avionima?
+
+Dimenzije, hermetičnost, jednostavno otvaranje u vanrednim situacijama. Imaju konusni obod za bolje naleganje, sistem zabranjuje otvaranje tokom leta, a evakuacija se omogućava pomoću tobogana.
+
+Kako funkcionišu vrata na teretnim avionima?
+
+Otvaraju se hidraulično, a postoji i mehanička rezerva. Nalaze se na zadnjem delu trupa i otvaraju ka spolja.
+
+Kako su rešeni prozori u putničkim avionima?
+
+Prozori imaju dva sloja stakla ili pleksiglasa, koji je lagan, otporan na udarce i UV zračenje. Kod oštećenja, pleksiglas se ne lomi na oštre komade.
+
+Kako se hermetizacija obezbeđuje na prozorima?
+
+Specijalnim gumama sa dodatnim primesama za bolje mehaničke osobine. Delovi su spajani vijcima za ravnomerno naleganje.
+
+Kako su izrađeni prozori pilotske kabine?
+
+Prozori su laminirani, sa slojevima kaljenog stakla i akrila. Imaju senzore i sisteme protiv zaleđivanja.
+
+Koji su materijali za prozore manjih i transportnih aviona?
+
+Prozori su izrađeni od akrilne plastike (pleksiglasa), koja je 10 puta tvrđa od običnog stakla, otporna na vremenske uslove i udarce.
+
+Koji su izazovi otvora na trupu aviona?
+
+Otvori slabe strukturu trupa i zahtevaju dodatnu pažnju na hermetizaciju i pravilno naleganje kako bi se zadržala čvrstoća i sigurnost.
