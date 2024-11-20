@@ -36,3 +36,56 @@ v u ko k p t h
 
 
 Zadovoljavaju, Izradjeni, pleksiglas, kokpit, hermetizacija, ugradnja, kljucni
+
+
+
+
+
+
+
+
+
+
+
+za iz pl k h i k
+
+
+skice:
+
+
+monokok
+
+okvir, otvor, ojacan okvir, uzduznica, oplata.
+
+vrata
+
+sistem za zabravljivanje, sistem veza vrata sa okvirom, tobogan, sistem hermetizacije, pod putnickog odeljka, prag vrata.
+
+krilo
+
+rebra, napadna ivica, uzduznice, oplata, luk, izlazna ivica, ramenjace, okov.
+
+prozor
+
+okvir prozora putnickog odeljka, spoljna staklena povrsina, element za naleganje staklene povrsine, element hermatizacije, unutrasnja staklena povrsina, otvor za ostvarivanje veze, element veze okna sa okvirom prozora. 
+
+trup
+
+ramenjace, vertikale, horizontale, dijagonale, zicane zatege, ne noseca oplata.
+
+polumonokok
+
+longeron, skin, bulkhead, stringer
+
+sacasta
+
+adhesive film, upper skin, lower skin, core (honeycomb)
+
+stabilizator
+
+front, center, rear spar, ribs
+
+nacelle
+
+wing, engine, nose cowl, fan cowl, thrust reverse, exhaust nozzle, exhaust plug
+
