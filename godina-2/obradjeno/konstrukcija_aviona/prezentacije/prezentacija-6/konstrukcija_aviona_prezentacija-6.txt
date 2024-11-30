@@ -1,0 +1,52 @@
+Rešetkasta i monokok struktura trupa
+
+Rešetkasta
+
+	Skica + ramenjače, vertikale, horizontale, dijagonale, žičane zatege i ne noseća oplata
+	Struktura:
+		Rešetkasta konstrukcija trupa sastoji se od prostorne mreže cevnih elemenata, najčešće trouglastog oblika, radi stabilnosti. Ovaj tip konstrukcije dizajniran je kao krut 		okvir koji se odupire deformacijama izazvanim opterećenjima. Oplata (skin) je nenoseća i služi samo za aerodinamični oblik trupa, dok kostur nosi sva opterećenja. Savijanje, 		torzija i aksijalne sile prenose se kroz mrežu cevi, dok oplata ne doprinosi nosivosti.
+	Oplata:
+		Oplata trupa kod rešetkaste konstrukcije obično je izrađena od platna ili tankog metalnog lima, ali se u savremenim aviona može koristiti i kompozitni paneli. Kompozitni 		paneli pružaju bolje aerodinamičke osobine i manju težinu, što ih čini popularnim u modernim, lakim avionima.
+	Materijali:
+		Najčešće se koristi čelik, naročito 4130 čelik, koji je vrlo popularan zbog svoje čvrstoće i otpornosti na koroziju. Čelične cevi se obično zavaraju, a u nekim lakšim aviona 		koristi se aluminijumska legura, koja omogućava lakšu konstrukciju i lakše šrafljenje spojeva. Kod aluminijumskih konstrukcija, spojevi mogu biti ostvareni i šrafovima, što 			omogućava lakšu montažu i popravke. Kod starijih aviona korišćeni su drveni elementi i zategnute žice za stabilizaciju.
+	Spojevi:
+		Spojevi u rešetkastim konstrukcijama mogu biti realizovani zavarivanjem, zakivanjem ili korišćenjem šrafljenih spojeva kod aluminijumskih konstrukcija. Čvorne tačke				(nodovi) su najosetljiviji deo konstrukcije jer trpe najveća opterećenja. Ove tačke mogu biti zatvorene ili zakovane, a ključna je njihova preciznost kako bi celokupna 			struktura bila stabilna i otporna na deformacije.
+	Prenos opterećenja:
+		Savijanje, torzija i aksijalne sile prenose se kroz mrežu cevi, dok oplata ne doprinosi nosivosti.
+	Prednosti rešetkaste konstrukcije:
+		Jednostavna izrada – Zahteva manje tehnologije i alata, idealna za ručnu proizvodnju.
+		Laka popravka – Oštećeni elementi mogu se jednostavno zameniti ili popraviti.
+		Niska cena – Materijali i proizvodnja su jeftini.
+		Velika otpornost na lokalna oštećenja – Konstrukcija može ostati stabilna i funkcionalna čak i ako su neki elementi oštećeni.
+	Nedostaci rešetkaste konstrukcije:
+		Veliki aerodinamički otpor – Nenoseća oplata (najčešće od platna ili tankog lima) stvara dodatni otpor.
+		Teža konstrukcija u poređenju sa modernim metodama – Kostur je težak jer nosi sva opterećenja.
+		Manja otpornost na torziona opterećenja – U poređenju sa monokok ili polumonokok konstrukcijom.
+		Zastarelo rešenje – Ova konstrukcija se danas koristi uglavnom kod lakih, sportskih ili eksperimentalnih aviona.
+	Upotreba:
+		Rani avioni – Rešetkasta konstrukcija bila je dominantna tokom ranog 20. veka, npr. kod aviona Wright Flyera i Piper J-3 Cub.
+		Laki avioni – Zbog niske cene i jednostavnosti, i dalje se koristi kod manjih sportskih i ultralakih aviona.
+		Eksperimentalni avioni – Njena jednostavnost omogućava upotrebu u prototipovima ili amaterskoj gradnji aviona.
+	Primeri aviona sa rešetkastom konstrukcijom:
+		Piper J-3 Cub – Klasičan laki avion s rešetkastim trupom od zavarene čelične konstrukcije, prekriven platnom.
+		Wright Flyer – Prvi avion s pogonom, koristio je drvenu rešetkastu strukturu s ojačanjima od sajli.
+		Antonov An-2 – Iako veći avion, imao je rešetkastu konstrukciju prekrivenu aluminijumskim limom i platnom.
+
+Monokok
+
+	Skica 1 + okvir, ojačani okvir, uzdužnice, noseća oplata, otvor.
+	Skica 2 + prozorsko ojačanje, prozor, greda, oplata
+	Vrste monokok konstrukcija:
+		Monokok: Ovaj tip koristi samo oplatu da izdrži opterećenja, bez unutrašnje strukture poput okvira ili uzdužnica. Iako idealan, praktično 							nije moguće ostvariti u većini aviona zbog problema sa stabilnošću oblika pri opterećenju.
+		Polumonokok konstrukcija: U ovoj konstrukciji, oplata je pojačana uzdužnicama i okvirom, čineći trup stabilnijim i sposobnijim da podnese veća opterećenja. Ovo je danas 			najčešći tip monokok konstrukcije.
+	Materijali:
+		Monokok konstrukcija koristi materijale koji omogućavaju vrlo visoku čvrstoću u odnosu na težinu, kao što su aluminijumske legure i kompoziti (karbonska vlakna, 				stakloplastika), koji omogućavaju vrlo laganu, ali čvrstu konstrukciju.
+	Prednosti monokok konstrukcije:
+		Manja težina – U poređenju sa rešetkastim konstrukcijama, monokok konstrukcija omogućava bolju raspodelu opterećenja i smanjenje težine, što je ključna karakteristika 				modernih aviona.
+		Bolja otpornost na torziju i savijanje – Zbog toga što oplata nosi većinu opterećenja, trup je bolje otporan na torziju (uvijanje) i savijanje.
+		Veća aerodinamičnost – Bez spoljnog okvira i sa glatkom oplatom, monokok konstrukcija doprinosi boljim aerodinamičkim osobinama.
+	Nedostaci monokok konstrukcije:
+		Kompleksnost proizvodnje – Potrebna je precizna proizvodnja, često sa skupa tehnologija i alata, što čini ovu konstrukciju skupljom za proizvodnju.
+		Održavanje i popravke – Oštećenja oplate mogu biti komplikovana za popravku u poređenju sa rešetkastom konstrukcijom, jer zahtevaju precizno poznavanje strukture trupa.
+	Upotreba:
+		Ovaj tip konstrukcije je danas standard u industriji, koriste ga gotovo svi moderni komercijalni avioni, kao što su Boeing 747 i Airbus A320. U vojsci se koristi za borbene 			avione i helikoptere.
