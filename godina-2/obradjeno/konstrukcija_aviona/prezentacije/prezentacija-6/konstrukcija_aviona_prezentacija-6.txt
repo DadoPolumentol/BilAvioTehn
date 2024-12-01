@@ -4,7 +4,7 @@ Rešetkasta
 
 	Skica + ramenjače, vertikale, horizontale, dijagonale, žičane zatege i ne noseća oplata
 	Struktura:
-		Rešetkasta konstrukcija trupa sastoji se od prostorne mreže cevnih elemenata, najčešće trouglastog oblika, radi stabilnosti. Ovaj tip konstrukcije dizajniran je kao krut 		okvir koji se odupire deformacijama izazvanim opterećenjima. Oplata (skin) je nenoseća i služi samo za aerodinamični oblik trupa, dok kostur nosi sva opterećenja. Savijanje, 		torzija i aksijalne sile prenose se kroz mrežu cevi, dok oplata ne doprinosi nosivosti.
+		Rešetkasta konstrukcija trupa sastoji se od prostorne mreže cevnih elemenata, najčešće trouglastog oblika, radi stabilnosti. Ovaj tip konstrukcije dizajniran je kao krut 			okvir koji se odupire deformacijama izazvanim opterećenjima. Oplata (skin) je nenoseća i služi samo za aerodinamični oblik trupa, dok kostur nosi sva opterećenja. Savijanje, 		torzija i aksijalne sile prenose se kroz mrežu cevi, dok oplata ne doprinosi nosivosti.
 	Oplata:
 		Oplata trupa kod rešetkaste konstrukcije obično je izrađena od platna ili tankog metalnog lima, ali se u savremenim aviona može koristiti i kompozitni paneli. Kompozitni 		paneli pružaju bolje aerodinamičke osobine i manju težinu, što ih čini popularnim u modernim, lakim avionima.
 	Materijali:

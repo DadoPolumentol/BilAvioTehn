@@ -1,0 +1,64 @@
+Koje su ključne karakteristike rešetkaste konstrukcije trupa?
+
+Rešetkasta konstrukcija je prostorna mreža cevi, obično trouglastog oblika, koja prenosi opterećenja. Oplata je nenoseća i služi samo za aerodinamičnost. Materijali: čelik (4130), aluminijum, kompoziti.
+
+Kako funkcioniše rešetkasta konstrukcija trupa?
+
+Konstrukcija se sastoji od cevnih elemenata koji prenose savijanje, torziju i aksijalne sile. Oplata ne doprinosi nosivosti, već samo oblikovanju trupa za bolju aerodinamiku.
+
+Koji materijali se koriste u rešetkastim konstrukcijama?
+
+Čelik (4130) je najčešći zbog čvrstoće i otpornosti na koroziju, dok se aluminijumske legure koriste u lakšim konstrukcijama zbog lakšeg rukovanja i montaže.
+
+Kako se prave spojevi u rešetkastim konstrukcijama?
+
+Spojevi mogu biti zavareni, zakovani ili šrafovani, zavisno od materijala. Čvorne tačke su kritične jer trpe najveća opterećenja.
+
+Koje su prednosti rešetkaste konstrukcije?
+
+Jednostavna izrada, laka popravka, niska cena, velika otpornost na lokalna oštećenja. Idealna je za ručnu proizvodnju i eksperimentalne avione.
+
+Koji su nedostaci rešetkaste konstrukcije?
+
+Veliki aerodinamički otpor, teža konstrukcija, manja otpornost na torziona opterećenja, zastarelo rešenje.
+
+Koji avioni koriste rešetkastu konstrukciju?
+
+Piper J-3 Cub, Wright Flyer, Antonov An-2.
+
+Koje su ključne karakteristike monokok konstrukcije?
+
+Noseća oplata koja nosi sva opterećenja. Materijali: aluminijum, kompoziti (karbonska vlakna). Tipovi: monokok i polumonokok.
+
+Koje vrste monokok konstrukcija postoje?
+
+Monokok (oplata nosi sva opterećenja) i polumonokok (oplata pojačana uzdužnicama i okvirom).
+
+Koji materijali se koriste u monokok konstrukcijama?
+
+Aluminijumske legure i kompoziti (karbonska vlakna, stakloplastika) koji omogućavaju lagane, ali čvrste konstrukcije.
+
+Koje su prednosti monokok konstrukcije?
+
+Manja težina, bolja otpornost na torziju i savijanje, veća aerodinamičnost zbog glatke oplate.
+
+Koji su nedostaci monokok konstrukcije?
+
+Kompleksnost proizvodnje, skupi materijali i tehnologije, otežano održavanje i popravka oplate.
+
+Koji avioni koriste monokok konstrukciju?
+
+Boeing 747, Airbus A320, Cessna 172.
+
+Kako 3D štampanje utiče na konstrukciju aviona?
+
+Omogućava proizvodnju složenih, lakših i snažnijih struktura, smanjuje broj delova i troškove proizvodnje.
+
+Šta su samopopravljački materijali u avijaciji?
+
+Kompoziti koji detektuju oštećenja i automatski ih popravljaju, produžujući vek trajanja struktura.
+
+Šta su hibridne strukture u avijaciji?
+
+Kombinacija kompozitnih materijala i metalnih okvira ili nanomaterijala, koji omogućavaju avione sa boljim odnosom težine i čvrstoće, uz poboljšane aerodinamičke osobine.
+

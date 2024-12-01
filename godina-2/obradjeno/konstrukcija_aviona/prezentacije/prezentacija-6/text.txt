@@ -1,0 +1,50 @@
+Slajd 1: Uvod
+
+    Naslov: Rešetkasta i Monokok Konstrukcija Trupa
+    Kratko objašnjenje: "Dve osnovne vrste konstrukcija aviona koje se koriste kroz istoriju i danas."
+
+Slajd 2: Rešetkasta konstrukcija
+
+    Skica rešetkaste konstrukcije (sa označenim elementima: ramenjače, dijagonale, žičane zatege).
+    Ključne karakteristike:
+        Prostorna mreža cevi.
+        Nenoseća oplata (samo za aerodinamičnost).
+        Materijali: čelik (4130), aluminijum, kompoziti.
+
+Slajd 3: Prednosti i nedostaci rešetkaste konstrukcije
+
+    Prednosti:
+        Jednostavna izrada.
+        Laka popravka.
+        Niska cena.
+    Nedostaci:
+        Veliki aerodinamički otpor.
+        Teža konstrukcija.
+        Zastarelo rešenje.
+
+Slajd 4: Monokok konstrukcija
+
+    Skica monokok konstrukcije (sa označenim okvirima, uzdužnicama, nosećom oplatom).
+    Ključne karakteristike:
+        Noseća oplata.
+        Materijali: aluminijum, kompoziti (karbonska vlakna).
+        Tipovi: monokok i polumonokok.
+
+Slajd 5: Prednosti i nedostaci monokok konstrukcije
+
+    Prednosti:
+        Manja težina.
+        Veća otpornost na torziju.
+        Bolja aerodinamičnost.
+    Nedostaci:
+        Kompleksna proizvodnja.
+        Otežano održavanje.
+
+Slajd 6: Primeri i poređenje konstrukcija
+
+    Poređenje (u tabeli ili kratko):
+        Rešetkasta: stariji avioni, laki i eksperimentalni avioni.
+        Monokok: moderni komercijalni i vojni avioni.
+    Primeri aviona:
+        Rešetkasta: Piper J-3 Cub, Wright Flyer.
+        Monokok: Boeing 747, Airbus A320.
