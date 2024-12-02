@@ -1,0 +1,233 @@
+glycol - alcohol that is used as an anti-freeze(liquid that reduces the temperature at which water freezes) and in industry
+Ice buildup can hurt: It can change the geometry of the wings leading to a decrease in the lift of the plane, it increases the drag, it can restrict or block moving parts
+De-icing of airplanes:
+    De-icing (done with mechanical or pneumatic tools or with the help of a warmed de-icing liquid)
+    Anti-icing (the treatment liquid is based on glycols (propylene glycol, ethylene glycol or diethylene glycol). Performed right before takeoff,as the liquid is effective for just 10-15 minutes
+    On the fuselage the liquid is applied along the centerline of the upper part of the fuselage, and then over the side. The liquid shouldnt get on the windows.
+    On the wings the spraying of the liquid starting from the front edge of the wing to the trailing edge.
+Deicing involves chemistry and engineering knowledge to know what solutions to use and where to apply them. There are extensive guidelines in place from the FAA that regulate deicing procedures for commercial aircraft. The typical way planes are deiced involves one or more solutions being sprayed onto key parts of the plane at high temperatures. The two different types are deicing and anti-icing solutions. Deicing solutions are liquid compounds made up of glycol, water and other additives. Glycols work by lowering the freeying temperature of water. The deicers remove existing ice but dont prevent ice from reforming. So, if there is active frozen precipitation, a second step may need to be taken. Anti-icing compounds are the same as the deicing compounds, but arent diluted with water so they are thicker. This thicker solution sticks to the plane during takeoff. Dye is usually added to anti-icing solutions so that it is easy to see if it is fading and therefore losing effectiveness.
+IMPORTANT TO KNOW!
+One of the most commonly misunderstood parts of the deicing process involves the timing of the actual deicing. Passangers can experience frustration when they have boarded their flight, only to find out that the plane must be deiced prior to takeoff, which cam create delays at times. Why dont the airlines deice prior to boarding the aircraft? Deicing solutions have a limited time during which they are effective. Therefore, applications must take place quickly and precisely just prior to takeoff. The allowable window of time in-betweem application and takeoff is called the holdover time, and if that time is surpassed the plane will need to be treated again.
+What about when you're in the air?
+Once in the air, planes have systems built-in for keeping ice off the surface of the aircraft. These are necessary year-round, because even in the summer it is below freezing at higher altitudes. Deicing systems on commercial aircrafts usually include systems of pipes that carry hot air from the engines to the wings and tail to keep them warm and prevent ice from forming. These systems are effective for preventing ice accumulation in the air, but the plane still needs to be deiced before takeoff.
+
+
+
+Deicing Equipment
+Deicing equipment removes structural ice after it forms. The two most commo systems are inflatable boots and weeping wings.
+Inflatable Boots-When activated, the inflatable rubber strips-attached to and conforming to the leading edge of the wing and tail surfaces-are pressurized with air and expand, breaking ice off the boot surfaces. Suction deflates the boots and they return to their original shape.
+Weeping Wing-When activated, the deicing system pumps fluid from a reservoir through a mesh screen embedded in the leading edges of the wings and tail. The liquid flows all over the wing and tail surfaces, deicing as it flows. It can also be applied to the propeller and windshield
+
+
+
+Who does it?
+It may come as a surprise that it is the airlines and not the airport who are responsible for deicing operations. Airlines either have their own deicing teams or may contract with a specialized company to handle the task. It is up to the airlines and pilots to make the call to deice depending on the weather and temperatures, adhering to FAA guidelines.
+So, the next time you are traveling in the winter and see the plane being sprayed with hot liquid, you'll know exactly what is
+happening. Sit back and wait a bit - takeoff will happen as soon as the plane is ready.
+
+Weeping Wing
+also can be considered anti-icing equipment if the fluid dispensing system is activated before ice accumulates.
+
+
+De-icing is the process of removing frozen contaminant, snow, ice, slush, from a surface.
+Anti-icing is the process of protecting against the formation of frozen contaminant, snow, ice, slush on a surface.
+De-icing can be accomplished by mechanical methods (scraping, pushing); through the application of heat; by use of chemicals, known as de-icing fluids, designed to lower the freezing point of water (various salts, alcohols, glycols); or by a combination of these different techniques. De-icing fluids are always applied heated and diluted.
+Anti-icing is accomplished by applying a protective layer, using a viscous fluid called anti-ice fluid, over a surface to absorb the contaminate. All anti-ice fluids offer only limited protection, dependent upon frozen contaminant type and precipitation rate. A fluid has failed when it no longer can absorb the contaminant and it essentially becomes a
+contaminant itself. If it fails it must be washed from the surface using a de-icing fluid.
+
+Forces of flight
+    Weight - force created by attraction of Earth's gravity
+    Lift - force created by an aerodynamic shape moving through the air
+    Drag - aerodynamic force that opposes the forward motion of the aircraft through the air mass
+        Parasitic drag - increases with speed, generated by friction of all parts exposed to wing
+        Induced drag - produce on generating lift and arises because of the difference in pressure between the air flowing below the wing (high pressure) and above the wing (low pressure).
+    Thrust - provided by the engine, force that allows the aircraft to move forward 
+Airfoil - device which gets a useful reaction from the air moving over it's surface and is capable of producing lift. + Slika str. 5
+Control surfaces - Slika str. 6
+    Elevator - pitch (propinjanje)
+    Ailerons - roll
+    Rudder - yaw
+Axes of flight - Slike str. 7
+    Lateral axis (pitch) - wing tip to wing tip. Aircraft pitches around this axis
+    Longitudinal axis (roll) - nose to tail. Aircraft rolls around this axis 
+    Vertical axis (yaw) - vertical through the center of the aircraft. Aircraft yaws around this axis
+Center of gravity (CG) - Effective point whereby all weight is considered to be. Also the point where the axes meet. It moves forwards and backwards along the longitudinal axis, depending on how the aircraft is loaded. The CG must remain within certain limits, because if it's too nose- or tail-heavy it will not fly or be so difficult to control that it becomes dangerous. These limits are called the operational envelope.
+
+Wright brothers text
+    This question has often been posed Why were the Wright brothers able to succeed in an effort at which so many others had failed? Many explanations have been mentioned, but three reasons     are most often cited. First, they were a team. Both men worked congenially and cooperatively, read the same books. located and shared information, talked incessantly about the     possibility of manned flight. and served as a consistent source of inspiration and encouragement to each other. Quite simply, two geniuses are better than one. 
+
+    Both were glider pilots. Unlike some other engineers who experimented with the theories of flight. Orville and Wilbur Wright experienced the practical aspects of aerodynamics by     building and flying in kites and gilders. Each craft they built was slightly superior to the last, as they incorporated knowledge that they had gained from previous failures. They had     realtzed from their experiments that the most serious challenge in manned flight would be stabilizing and maneuvering the aircraft once it was airborne. While others concentrated them     efforts on the problem of achieving lift for take off, the Wright brother were focusing on developing a three-axis control for guiding their aircraft. By the time that the brothers     started to build an airplane, they were already among the world’s best glider pilots; they knew the problems of riding the air first hand. 
+
+    In addition, the Wright brothers had designed more effective wings for the airplane than bad been previously engineered. Using a wind tunnel, they tested more than two hundred different     wing designs, recording the effects of slight variations in shape on the pressure of air on the wings. The data from these experiments allowed the Wright brothers to construct a     superior wing for their aircraft. 
+
+    In spite of these advantages, however, the Wright brothers might not have succeeded had they not been born at precisely the opportune moment in history. Attempts to achieve manned     flight in the early nineteenth century were doomed because the steam engines that powered the aircraft were too heavy in proportion to the power that they produced. But by the end of     the nineteenth century, when the brothers were experimenting with engineering options, a relatively light internal combustion engine had already been invented, and they were able to     bring the ratio of weight to power within acceptable limits for flight.
+
+Mars helicopter ingenuity text
+    NASA's Perseverance rover, or wheeled exploration robot, landed on Mars, a neighboring planet in our solar system, on February 18, 2021. The rover landed in a region called the Jezero     Crater, which was full of water billions of years ago. The rover's mission is to hunt for signs of ancient life and to collect and store dozens of samples for its future return to     Earth. But Perseverance is also carrying a new instrument onboard, a helicopter called Ingenuity. If all goes according to plan, the 1.8-kilogram (4-pound) chopper could fly on Mars as     soon as April 8. Ingenuity's flight will be a historic event. It will be the first powered aircraft to fly on another planet. 
+    Getting Ready
+    Before Ingenuity can take off, it must pass a series of steps that sets it up for flight. First, Perseverance has to travel to the location NASA planned as Ingenuity's flight zone.     Then, the rover releases the helicopter from its belly onto the Martian dirt, and the helicopter has to unfold. Ingenuity then has to survive the freezing nights on Mars and charge its     batteries using solar panels, which are devices that change energy from the sun into electricity. Once charged, NASA  will check the communication systems that send information from     Ingenuity back to Earth.
+    The whole process will take several days to get Ingenuity ready for flight. But after all the setup, it will be time to attempt the first lift-off, flight, and landing on Mars. The NASA     team in charge of the helicopter aims to make five short flights over the course of a month.
+
+    Exploration By Air
+
+    If Ingenuity's flights are successful, exploration by air could be a common feature of Mars missions in the coming years. Helicopters could scout terrain for rovers and gather data on     their own, especially in hard-to-reach places. (Ingenuity doesn't carry any scientific instruments, though it does have two cameras.) Other than cameras, there's another significant     item aboard Ingenuity: a piece of fabric the
+    size of a postage stamp from the wing of the airplane called Flyer 1. The Wright Brothers, who were American inventors, designed and built the airplane out of fabric wings, wooden     propellers, and an engine powered by gasoline. In December 1903, they flew Flyer 1 at Kitty Hawk, North Carolina, and it was the first powered flight on Earth.
+    The fabric pays tribute to the first flight on Earth for what could be the first flight on another planet. Ingenuity isn't the first pioneering NASA craft to carry a piece of Flyer 1     beyond Earth. A different piece of its fabric and a small splinter of its wood was aboard the Apollo 11 spacecraft that traveled to Earth's moon in 1969. Apollo 11 was the mission that     brought astronauts to the moon for the first time.
+
+    Dragonfly
+
+    The Ingenuity flight is the first step for future NASA missions. Scientists are developing a mission called Dragonfly that will send a big, instrument-laden drone, or an aircraft with     no pilot aboard to the planet Saturn's biggest moon, Titan. Dragonfly's scheduled launch is in 2027
+    and will land on Titan in 2036.
+
+De-icing text
+    Everyone who travels in the winter, especially in Canada, is by now familiar with the captain's message from the flight deck explaining that before takeoff, the aircraft must make a     stop at the de-icing bay. But why is de-icing so important, and how is it done?
+    "No snow, ice or frost can adhere to the wings of an aircraft because it disrupts the aerodynamic flow over the wing. Air must smoothly flow over the wing to produce lift, which makes     de-icing a key component of winter flying," explained Captain Douglas Morris, who flies our flagship Boeing 787 Dreamliner and publishes a monthly column in enRoute on various aviation     topics. In most of the major airports in Canada used by Air Canada, de-icing is handled by a separate company, but in Calgary, our own crews do the work.
+    A recent visit to the Alberta airport allowed a firsthand look at how the job gets done. Geoff Nicholas is Air Canada's De-ice Coach in Calgary. He and his team know just how important     their job is, and they are at the ready before the crack of dawn to ensure safe flight. "The most critical aspect is to remove all the contamination before flight. It is exceptionally     important that we get all the frost, snow and ice off the aircraft before the aircraft starts to take off," Nicholas said.
+    De-icing in Calgary can be done at the gate, usually for prop planes to clear the props for engine start up, but the majority of the work happens at a dedicated area where two aircraft     can be cleaned at once. There are 14 de-icing trucks in Air Canada's fleet in Calgary, including three modern and efficient Safaero 220 single-operator vehicles.
+    "It is a purpose-built de-icing truck. It allows us to de-ice and drive at the same time. It also allows us to be much more efficient with our application of fluids on the aircraft,"     Nicholas said.
+    Air Canada's crews are able to control the blended concentration of Type 1 used based on weather, allowing for optimization so they aren't using more glycol than needed. In Calgary, the     deicing area is cleaned after every few aircraft using a truck-based vacuum, allowing for a good portion of the de-icing fluid to be recycled at an on-site facility to be reused. This     helps reduce the footprint of the operation, a key goal for Air Canada.
+    There are two different types of fluid used on aircraft: Type 1 and Type 4.
+    "The passengers will see two different types of fluid that we use. The first one is Type 1, it's the pink (sometimes orange) fluid. It is a heated fluid and we use that to remove all     the ice and snow from the aircraft. The second fluid that you will see is green in colour. It's more of a sealer. It provides a barrier between the aircraft surfaces and any ongoing     percipitation like snow or freezing rain," he said.
+    The crews in Calgary handle every type of aircraft in the fleet, from the smallest turboprops to our largest Boeing 777, which is a favourite of Nicholas.
+    "It presents the biggest challenge, but at the same time it's the most satisfying once it's done," he
+    said.
+    So next time you are seated in an aircraft at the de-icing bay, give the crew a wave because they are a vital part of safe flying in winter.
+
+
+De-icing and anti-icing
+    Aircraft Ground De/Anti Icing procedures serve three purposes:
+        removal of any frozen or semi frozen moisture from critical external surfaces of an aircraft on the ground prior to flight; and/or
+        protection of those surfaces from the effects of such contaminant for the period between treatment and becoming airborne; and/or
+        removal of any frozen or semi frozen moisture from engine intakes and fan blades and protection of external surfaces from subsequent contamination prior to takeoff.
+    Fan blade ice accumulates after the pre-start visual inspection, including whilst the engines are running at low thrust prior to take off.
+    The engine handling procedures for removing fan blade ice are as follows:
+        First of all, the aircraft must be inspected for signs of contaminant already adhering to surfaces and where found on surfaces which must be free of contaminant, it must be removed         using a suitable ground de-icing fluid.
+        Secondly, the prevailing weather conditions must be assessed. If further adherence of contaminant to the airframe surfaces is currently occurring or anticipated prior to the time at         which it is expected that the aircraft will get airborne, then a suitable ground anti-icing fluid should be applied. In both cases, the time after the start of fluid treatment from         which protection is provided by the fluids applied depends upon the prevailing conditions. The fluids are designed to shear off the aircraft surfaces to which they have been applied         no later than the point at which the aircraft becomes airborne. This means that the ground application of fluids has no effect upon the risks which arise from the accretion of               frozen deposits on the aircraft at any time after take off.
+
+
+
+HOW ICING AFFECTS THE AIRPLANE
+Ice collects on and seriously hampers the function of not only wings and control surfaces and propellers, but also windscreens and canopies, radio antennas, pilot tubes and static vents. carburetors and air intakes. Turbine engines are especially vulnerable. Ice forming on the intake cowling constricts the air intake. Ice on the rotor and starter blades affects their performance and efficiency and may result in flame out. Chunks of ice breaking off may be sucked into the engine and cause structural damage. The first structures to accumulate ice are the surfaces with thin leading edges: antennas, propeller blades, horizontal stabilizers, rudder, and landing gear struts. Usually the pencil-thin outside air temperature gauge is the first place where ice forms on an airplane. The wings are normally the last structural component to collect ice. Sometimes, a thin coating of ice will form on the windshield, preceded in some instances by frosting. This can occur on take-off and landing and with sufficient rapidity to obscure the runway and other landmarks during a critical time in flight.
+Icing of the propeller generally makes itself known by a slow loss of power and a gradual onset of engine roughness. The ice first forms on the spinner or propeller dome and then spreads to the blades themselves. Ice customarily accumulates unevenly on the blades, throwing them out of balance. The resulting vibration places undue stress on the blades and on the engine mounts, leading to their possible failure. If the propeller is building up ice, it is almost certain that the same thing is happening on the wings, tail surfaces and other projections. The weight of the accumulated ice is less serious than the disruption of the airflow around the wings and tail surfaces. The ice changes the airfoil cross section and destroys lift, increases drag and raises the stalling speed. At the same time, thrust is degraded because of ice on the propeller blades and the pilot finds himself having to use full power and a high angle of attack just to maintain altitude. With the high angle of attack, ice will start to form on the underside of the wing adding still more weight and drag. Landing approaches and landing itself can be particularly hazardous under icing conditions. Pilots should use more power and speed than usual when landing an ice-laden airplane.
+If ice builds up on the pilot tube and static pressure ports, flight instruments may cease operating. The altimeter, airspeed and rate of climb would be affected.
+ADVERSE EFFECTS TO FLIGHT: INCREASED DRAG, INCREASED WEIGHT, DECREASED LIFT, REDUCED THRUST
+
+Icing effect on forces:
+    Lift (decreased), resulting effect on aircraft (lose altitude)
+    Weight (increased), resulting effect on aircraft (lose altitude)
+    Thrust (decreased), resulting effect on aircraft (airspeed and lift)
+    Drag (increased), resulting effect on aircraft (airspeed and altitude)
+
+
+
+DEICING AND ANTI-ICING FLUID RESIDUES
+Airplane deicing and anti-icing fluids can leave residue in critical areas in the wings and stabilizers. This residue can rehydrate and expand into a gel-like material that can freeze during flight and cause restrictions in the flight control systems. Therefore, attention to this residue should be part of a regularly scheduled inspection and cleaning process. Additionally, industry experience has shown that using a two-step deicing/anti-icing process helps to reduce the amount of fluid residue that forms in the wings and stabilizers.
+During the last winter seasons there have been reports of impaired flight controls on airplanes operating throughout the European region. These reports have involved regional and commuter airplanes as well as - those that have small commercial jetliners. The events have occurred on both types of airplanes hydraulically powered flight control systems and those that have nonhydraulically powered flight control systems. The events are more common on smaller airplanes because, during severe winter weather, small- and medium-sized airplanes may receive many fluid treatments every day, increasing the possibility of anti -icing fluid residue accumulation.
+The wide variety of airplanes that have been affected makes it clear that deicing/anti-icing fluid residues are an industrywide issue. Airplanes from several different manufacturers have experienced in-flight control issues that have resulted from the presence of residue gel. In several cases, it was determined that the residue had been generated from fluids that were applied during previous winter seasons.
+It is also important for operators and/or their service providers to take steps to ensure that all deicing/anti- icing fluids stored and handled properly in accordance with the fluid manufacturers' recommendations. Improper storage and use could result in degraded fluid performance or the use of greater volumes of fluid, which could contribute to the formation of more residue. For example, spraying fluid from the rear of the wing rather than from the front, which is the correct method, might result in more fluid entering the flight control areas through the control surface vent gaps.
+As a result, it is important for all operators to realize that keeping airplanes safe for winter operations now involves more than inspecting for snow or ice on the
+deicing/anti-icing fluids. It also involves inspecting for and removing deicing/anti-icing fluid residues in hidden places in the wings and stabilizers. 
+
+DIFFERENCES IN DEICING AND ANTI-ICING PRACTICES BETWEEN EUROPE AND NORTH AMERICA
+
+A larger number of deicing/anti-icing fluid residue problems have occurred in Europe compared to North America and Asia. Industry experts agree that one of the reasons for this is the difference in deicing and anti-icing practices between the continents.
+In Europe, a one-step deicing/anti-icing process is commonly used. This process involves the application of deicing/anti-icing fluids in a single application, using a heated mixture of Type II fluid and water.
+In North America, a two-step process is commonly used. This process involves deicing with heated Type I fluid, or a heated mixture of Type I fluid and water, which is followed by an application of Type IV anti-icing fluid. Experience and testing has shown that deicing with heated Type I fluid will help clear away residue from previous anti-icing fluid treatments.
+
+
+
+To achieve flight you have to exploit the four basic aerodynamic forces: lift, weight, thrust and drag. They are like four arms holding the plane in the air, each pushing from a different direction. Thrust is the aerodynamic force that pushes or pulls the airplane forward through space. The aerodynamic force is drag, or the friction that resists the motion of an object. If you stick your hand out of a car window while moving, you can experience a very simple demonstration of drag at work. The amount of drag that your hand creates depends on a few factors, such as the size of your hand, the speed of the car decreases. and the density of the air. If you slow down, you notice that the drag on your hand Every object on Earth has weight. a product of both gravity and mass. A Boeing 747-8 passenger airliner, for instance, has a maximum take-off weight of 487.5 tons (442 metric tons), the force with which the weighty plane is drawn toward the Earth. Weight's opposing force is lift, which holds an airplane in the air. This can be accomplished through the use of a wing. The wing is shaped and tilted so that the air moving over it travels faster than the air moving underneath. The faster air moving over the wing exerts less pressure on it than the slower air moving underneath the wing. The result is an upward push or lift. In the field of fluid dynamics, this is known as Bernoulli's principle.
+
+
+
+Building the Airbus A380
+April 27th, 2005, Toulouse, South-Western France. Six test pilots are about to fly a massive aeroplane. It is in the record books. It has taken over ten years and six billion pounds to get to this moment: the maiden flight of the Airbus A380, the biggest airliner ever built. There is one plane that since it first flew back in 1969, has never been replaced - the 747 Jumbo Jet. The 747 survived because in all that time it never had any direct competition. No one ever had the courage or the money needed to take on this aircraft with an entirely new design until now! With this project, European plane maker Airbus aims to dominate the market for years to come. Components from all over Europe are shipped to France for final assembly. It is a fine example of high technology engineering. Airbus was created in the 1960s when Spain, Britain, France and Germany decided to challenge the might of the American aviation industry. The first aircraft took off in 1972 and today they build over 300 planes a year. The A380 project began seventeen years earlier, in 1988, when the first highly secret meetings were held. Designers and engineers worked for ten years. The ideal size was studied by the airline, struggling to increase passenger numbers in a phase of increased air traffic congestion. The resulting design was a plane with 49% more space than a 747, capable of carrying over 850 passengers.
+
+
+
+Airplane Structure
+Introduction
+Airplane is an engine-driven vehicle that can fly through the air supported by the action of air against its wings. Airplanes are heavier than air, in contrast to vehicles such as balloons and airships, which are lighter than air. Airplanes also differ from other heavier-than-air craft, such as helicopters, because they have rigid wings; control surfaces, such as movable parts of the wings and tail, which make it possible to guide their flight; and power plants, or special engines that permit level or climbing flight.
+Modern airplanes range from ultra light aircraft weighing no more than 46 kg and meant to carry a single pilot, to great jumbo jets, capable of carrying several hundred people or several hundred tons of cargo. The largest commercial passenger airplanes weigh nearly 560 metric tons (560 000kg) and the largest cargo jets up to 640 metric tons (640 000kg).J
+Airplanes are adapted to specialized uses. Today there are land planes (aircraft that take off from and land on the ground), seaplanes (aircraft that take off from and land on water), amphibians (aircraft that can operate on both land and sea), and airplanes that can leave the ground using the jet thrust of their engines or rotors (rotating wings) and then switch to wing-borne flight (Jump jet/ VTOL).
+Airplane Structure
+Although airplanes are designed for a variety of purposes, most of them have the same major components. Most airplane structures include a fuselage, wings, an empennage, landing gear, and a power plant.
+
+
+
+
+The materials that airplanes are made from have evolved as technology has advanced. The earliest airplanes were built mainly from wood and fabric with some metal parts. By the end of the 1920s many airplanes had metal frames and were covered with riveted metal sheets.
+Lightweight aluminium became the metal most commonly used in manufacturing airplanes for most of the 20th century. In the 1980s composite materials such as carbon fibre-reinforced plastic (CFRP) began to be incorporated into aircraft, helping to make them lighter and more fuel efficient.
+Fuselage
+The fuselage is the main body structure to which all other components are attached. Generally the fuselage has a cockpit section at the front end, where the pilot controls the airplane, and a cabin section. The cabin section may be designed to carry passengers, cargo, or both. In a military fighter plane, the fuselage may house the engines, fuel, electronics, and some weapons. Some aircraft utilize an open truss structure. The truss-type fuselage is constructed of steel or aluminium tubing. Strength and rigidity is achieved by welding the tubing together into a series of triangular shapes, called trusses.
+Construction of the Warren truss features longerons, as well as diagonal and vertical web members. To reduce weight, small airplanes generally utilize aluminium alloy tubing, which may be riveted or bolted into one piece with cross-bracing members.
+
+As technology progressed, aircraft designers began to enclose the truss members to streamline the airplane and improve performance. This was originally accomplished with cloth fabric, which eventually gave way to lightweight metals such as aluminium. In some cases, the outside skin can support all or a major portion of the flight loads. Most modern aircraft use a form of this stressed skin structure known as monocoque or semimonocoque construction.
+The monocoque design uses stressed skin to support almost all imposed loads. This structure can be very strong but cannot tolerate dents or deformation of the surface. This characteristic is easily demonstrated by a thin aluminium beverage can. You can exert considerable force to the ends of the can without causing any damage. However, if the side of the can is dented only slightly, the can will collapse easily. The true monocoque construction mainly consists of the skin, formers, and bulkheads. The formers and bulkheads provide shape for the fuselage.
+
+
+
+
+Since no bracing members are present, the skin must be strong enough to keep the fuselage rigid. Thus, a significant problem involved in monocoque construction is maintaining enough strength while keeping the weight within allowable limits. Due to the limitations of the monocoque design, a semi-monocoque structure is used on many of today's aircraft.
+The semi-monocoque system uses a substructure to which the airplane's skin is attached. The substructure, which consists of bulkheads and/or formers of various sizes and stringers, reinforces the stressed skin by taking some of the bending stress from the fuselage.
+The main section of the fuselage also includes wing attachment points and a firewall.
+On single-engine airplanes, the engine is usually attached to the front of the fuselage. There is a fireproof partition between the rear of the engine and the cockpit or cabin to protect the pilot and passengers from accidental engine fires. This partition is called a firewall and is usually made of heat-resistant material such as stainless steel. Truss-A fuselage design made up of supporting structural members that resist deformation by applied loads. Monocoque - A shell-like fuselage design in which the stressed outer skin is used to support the majority of imposed stresses. Monocoque fuselage design may include bulkheads but not stringers. Semi-Monocoque - A fuselage design that includes a substructure of bulkheads and/or formers, along with stringers, to support flight loads and stresses imposed on the fuselage.
+Wings
+The wings are airfoils attached to each side of the fuselage and are the main lifting surfaces that support the airplane in flight. Most modern aircraft have all metal wings, but many older aircraft had wood and fabric wings. There are numerous wing designs, sizes, and shapes used by the
+various manufacturers.
+Straight wing Long wing of consistent width and perpendicular to the fuselage: it is found on low-speed planes such as cargo and light planès.
+Swept-back wing- Arrow-shaped wing that is found on jet planes.
+Delta wing - Thin triangular wing that is especially aerodynamic.
+Tapered wing - Wing that is perpendicular to the fuselage and whose width decreases toward the tip.
+Variable geometry wing or swing wing - Arrow-shaped wing found on combat aircraft: the angle it forms with the fuselage can changed in flight.
+
+
+
+
+Wings also carry the fuel for the airplane. In most modern airplanes, the fuel tanks either are an integral part of the wing's structure, or consist of flexible containers mounted inside of the wing.
+Most airplanes are designed so that the outer tips of the wings are higher than where the wings are attached to the fuselage. This upward angle is called the dihedral and helps keep the airplane from rolling unexpectedly during flight.
+Wings may be attached at the top, middle, or lower portion of the fuselage. These designs are referred to as high-, mid-, and low-wing, respectively.
+The number of wings can also vary. Airplanes with a single set of wings are referred to as monoplanes, while those with two sets are called biplanes.
+
+
+
+The principal structural parts of the wing are spars, ribs and stringers.
+Spars are the main strength members of the wing and run along the length of the wing. All the load carried by the wing is ultimately taken by the spars. In flight, the force of the air acts against the skin. From the skin, this force is transmitted to the ribs and then to the spars.
+Ribs run from the leading edge to the rear of the wing and support the covering and provide the airfoil shape (camber) that allows the wing to create lift.
+Stringer is a strip of wood or metal to which the skin of an aircraft is fastened.
+Wings generally have two types of control surfaces: ailerons and flaps
+Ailerons extend from about the midpoint of each wing outward to the tip.
+They move in opposite directions; when one aileron goes up, the other goes down. Flaps have two purposes: when they are lowered they increase lift and drag allowing the
+airplane to fly at slower speeds. They are used for landing and in some airplanes also for takeoff.
+They extend outward from the fuselage to the midpoint of each wing. They always move together. If one flap is down, the other is down.
+Airfoil - An airfoil is any surface, such as a wing, propeller, rudder, or even a trim tab, which provides aerodynamic force when it interacts with a moving stream of air.
+Monoplane-An airplane that has only one main lifting surface or wing, usually divided into two parts by the fuselage. Biplane-An airplane that has two main airfoil surfaces or wings on each side of the fuselage, one placed above the other.
+
+
+
+The empennage, commonly called the tail assembly or tail unit is attached to the rear of the fuselage. Its main purpose is to give stability to the aircraft. It consists of vertical and horizontal stabilizers, which look like small wings; and their attached controlling surfaces: a rudder and elevators. Vertical stabilizer is also called fin.
+The stabilizers serve to help keep the airplane stable while in flight. The front, fixed section is called the horizontal stabilizer and is used to prevent the airplane from pitching up or down. The rear section is called the elevator and is usually hinged to the horizontal stabilizer. The ele- vator is a movable airfoil that controls the up-and-down motion, or pitch, of the airplane's nose. Moving the elevators up into the airstream will cause the tail to go down and the nose to pitch up. A pilot controls pitch by moving a control column or stick.
+The vertical tail structure is divided into the vertical stabilizer and the rudder. The front section is called the vertical stabilizer and is used to prevent the aircraft from yawing back and forth. Moving an airplane's nose left or right is known as a yaw motion. The rudder is at the trailing edge of the vertical stabilizer and is used by the airplane to help control turns. Rudder motion is usually controlled by two pedals on the floor of the cockpit, which are pushed by the pilot.
+One type of empennage design does not require an elevator. Instead, it incorporates a one-piece horizontal stabilizer that pivots from a central hinge point. This type of design is called a stabilator.
+For example, when you pull back on the control wheel, the stabilator pivots so the trailing edge moves up. This causes the nose of the airplane to move up. Stabilators have an antiservo tab extending across their trailing edge.
+
+
+
+
+Landing gear
+The landing gear is the principal support of the airplane when parked, taxiing, taking off, or when landing. The most common type of landing gear consists of wheels, but airplanes can also be equipped with floats for water operations, or skis for landing on snow.
+The earliest airplane of all - the Wright Flyer, used skids as its landing gear. Soon, wheels were attached to the skids. Since that time, various arrangements have been used for wheels and structures to connect them to the airplane. Today, there are three common types of landing gear: conventional, tricycle, and tandem.
+The undercarriage or landing gear consists of wheels with shock absorbers and brakes. The landing gear can be fixed in place or retractable. Many small airplanes have fixed landing gear which increases drag, but keeps the airplane lightweight. Larger, faster and more complex aircraft have retractable landing gear. The advantage to retractable landing gear is that the drag is greatly reduced when the gear is retracted. When flying on a commercial airliner you will notice that the pilot retracts the landing gear very soon after the airplane leaves the ground. This helps to decrease drag as the airplane ascends.
+
+
+
+
+
+There are three common types of landing gear:
+Conventional has two wheels forward and a third small wheel at the tail. Most often seen on older light aircraft and commonly known as a "taildragger". The two main wheels are fastened to the fuselage by struts. Because the tailwheel is castered-free to move in any direction- the plane is very difficult to control when landing or taking off.
+Tricycle has two main wheels and a nosewheel. Most modern light aircraft use this arrangement. This type of landing gear makes the aircraft easier to handle on the ground and it also makes landings much safer.
+Tandem, used for large aircraft, has two sets of wheels located one behind the other on the fuselage. The tandem landing gear allows the use of a highly flexible wing, but it may also require the use of small wheels on the tips of the wings to keep the wings from scraping the ground.
+
+
+
+
