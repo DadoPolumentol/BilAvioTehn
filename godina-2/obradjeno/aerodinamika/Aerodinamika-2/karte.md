@@ -131,8 +131,8 @@ Slika 12
 
 Kako se razlikuju aeroprofile prema relativnom položaju maksimalne debljine?
 
-Klasični aeroprofile: Relativni položaj maksimalne debljine (x1/l)d=0.3(x1​/l)d​=0.3
-Laminarni/prodorni aeroprofile: Relativni položaj maksimalne debljine (x1/l)d=0.35−0.7
+Klasični aeroprofile: Relativni položaj maksimalne debljine (x_1/l)_d=0.3
+Laminarni/prodorni aeroprofile: Relativni položaj maksimalne debljine (x_1/l)_d=0.35−0.7
 Slika 13, 14
 
 Šta je napadni ugao aeroprofila?
