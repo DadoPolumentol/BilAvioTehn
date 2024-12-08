@@ -167,9 +167,9 @@ Slika 19
 
 Kada se dostigne kritični napadni ugao, pilot oseća podrhtavanje u kabini, što je posledica gubitka uzgona i povećanja otpora. Ovaj ugao se naziva ugao podrhtavanja αpαp​. Let sa napadnim uglovima blizu kritičnog je opasan jer uzrokovan otcepljenjem struje, avion ima lošu stabilnost i upravljivost.
 
-Šta je ugao nultog uzgona αnαn​?
+Šta je ugao nultog uzgona αn​?
 
-Ugao nultog uzgona αnαn​ je napadni ugao pri kojem je Cz=0Cz​=0, tj. kada uzgon nije prisutan. Kod simetričnih aeroprofila αnαn​ je jednak nuli, dok kod nesimetričnih aeroprofila αnαn​ varira u rasponu od -5º do -1º.
+Ugao nultog uzgona αnαn​ je napadni ugao pri kojem je Cz​=0, tj. kada uzgon nije prisutan. Kod simetričnih aeroprofila αnαn​ je jednak nuli, dok kod nesimetričnih aeroprofila αnαn​ varira u rasponu od -5º do -1º.
 
 Kako glasi jednačina krive uzgona Cz(α)?
 
