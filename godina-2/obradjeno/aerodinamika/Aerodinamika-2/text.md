@@ -105,13 +105,13 @@ Simetrični aeroprofili nemaju krivinu, jer se njihova srednja linija poklapa sa
 [Slika 13](slike/13.jpg)
 
 Obzirom na relativni položaj maksimalne relativne debljine od prednje ivice krila, razlikujemo:
-	klasične aeroprofile, gde je relativni položaj  maksimalne debljine (x_1/l)_d= 0,3
+klasične aeroprofile, gde je relativni položaj  maksimalne debljine (x_1/l)_d= 0,3
 
-	[Slika 14](slike/14.jpg)
+[Slika 14](slike/14.jpg)
 
-	laminarne ili prodorne aeroprofile, kod kojih je relativni položaj maksimalne debljine (x_1/l)_d = 0,35 do 0,7
+laminarne ili prodorne aeroprofile, kod kojih je relativni položaj maksimalne debljine (x_1/l)_d = 0,35 do 0,7
 
-	[Slika 15](slike/15.jpg)
+[Slika 15](slike/15.jpg)
 
 Napadni ugao aeroprofila (α) je ugao između pravca neporemećenog strujnog polja i tetive aeroprofila (l)
 Isto važi i za krilo aviona.
