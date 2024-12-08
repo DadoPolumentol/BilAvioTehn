@@ -140,7 +140,7 @@ Slika 13, 14
 Napadni ugao α je ugao između pravca neporemećenog strujnog polja i tetive aeroprofila. Isto važi za krilo aviona.
 Ako struja vazduha nailazi na donju površinu, αα je pozitivan.
 Ako je pravac struje paralelan sa tetivom, α=0.
-Ako struja naiđe na gornju površinu, αα je negativan.
+Ako struja naiđe na gornju površinu, α je negativan.
 Slika 15
 
 Šta se dešava sa tačkom otcepljenja sa porastom napadnog ugla?
