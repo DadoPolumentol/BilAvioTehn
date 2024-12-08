@@ -155,7 +155,7 @@ Slika 17
 
 Kako se koristi dijagram koeficijenta uzgona krila?
 
-Dijagram koeficijenta uzgona krila Cz​ daje zavisnost Cz​(α) za svaki napadni ugao αα. Pravolinijski deo krive odgovara opstrujavanju krila bez otcepljenja struje.
+Dijagram koeficijenta uzgona krila Cz​ daje zavisnost Cz​(α) za svaki napadni ugao α. Pravolinijski deo krive odgovara opstrujavanju krila bez otcepljenja struje.
 Slika 19
 
 Šta se dešava kada se dostigne kritični napadni ugao αkr?
