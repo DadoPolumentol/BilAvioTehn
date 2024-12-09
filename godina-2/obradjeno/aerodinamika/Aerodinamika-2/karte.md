@@ -119,7 +119,7 @@ Koji su karakteristični parametri aeroprofila?
 (d/l)_max - Maksimalna relativna debljina u procentima
 (c/l)_max - Maksimalna relativna zakrivljenost u procentima
 x_1 = (x_1/l)_d - Položaj maksimalne debljine u procentima
-x_2 = (x_2/l)_d - Položaj maksimalne zakrivljenosti u procentima
+x_2 = (x_2/l)_c - Položaj maksimalne zakrivljenosti u procentima
 α_kr ~ 15°
 α_n - Od -5° do 1°
 Slika 11

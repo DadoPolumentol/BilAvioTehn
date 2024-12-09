@@ -93,7 +93,7 @@ Umesto apsolutnih vrednosti u praksi se više koriste relativne vrednosti sveden
 (d/l)_max - maksimalna relativna debljina u procentima
 (c/l)_max - maksimalna relativna zakrivljenost u procentima
 x_1=(x_1/l)_d - položaj maksimalne debljine u procentima
-x_2=(x_2/l)_d - položaj maksimalne zakrivljenosti u procentima
+x_2=(x_2/l)_c - položaj maksimalne zakrivljenosti u procentima
 
 α_kr ~~ 15°
 α_n = od -5° do 1°
