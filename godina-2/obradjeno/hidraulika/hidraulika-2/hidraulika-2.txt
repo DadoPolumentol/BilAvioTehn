@@ -1,0 +1,39 @@
+Hidraulični sistemi:
+
+Izvršni organi: Obrtni hidromotori ili hidraulični cilindri
+Upravljačke komponente: razvodnici, ventili
+Osnovni hidraulični sistemi:
+1) Aktuator - klip
+Ponekad se naziva i hidrauličnom dizalicom, što obezbeđuje izlaznu silu potrebnu za upravljanje raznim funkcijama aviona. Sastoji se od klipa na koji deluje hidraulični pritisak, koji je pričvršćen za klipnjaču, poznatu kao i poluga, koja prenosi silu koju klip razvija.
+2) PUMPA
+Pumpa obezbeđuje protok hidrauličnog ulja u sistem. Pumpa obezbeđuje protok, a ne pritisak, jer otpor prema toku izaziva porast pritiska. Na ilustraciji je prikazana jednostavna ručna pumpa, mnogi sistemi aviona koriste pumpe pogonjene motorom aviona ili elketromotorom, kako bi obezbedili veće protoke i tako ubrzali rad sistema.
+3) REZERVOAR
+Rezervoar obezbeđuje hidraulično ulje i zadržavanje viška ulja, njegova svrha je prijem, skladištenje i dovod tečnosti u sistem i iz njega. Održava višak, tako da će u slučaju curenja sistem i dalje imati dovoljno tečnosti za ispravan rad.
+U njemu se skladišti tečnost koja sistemu privremeno nije potrebna, jer se može videti da za pogon nisu jednake zapremine sa obe strane klipa. Kada se uvlači (klipnjača do kraja u cilindar), aktuator će zadržati manje tečnosti nego u potpunosti isdzženoj (klipnjača potpuno izlazi iz cilindra) pa se ova tečnost mora skladištiti, kada se ne koristi. Rezervoar će takođe snabdevati pumpu fluidom radi održavanja protoka u sistemu i prima povratnu tečnost iz sistema.
+4) CEVOVODI
+Sistemski cevovodi se koriste za usmeravanje fluida do odgovarajućih komponenti. Mogu biti napravljeni od različitih materijala u zavisnosti od pritiska u tom trenutku u sistemu i od radnog okruženja. U sistemu dele se prema nameni: povratni, pritisni-radni, povratni, za produženje, povlačenje itd. Mogu biti kruti vodovi i creva kod pokretnih hdrauličnih komponeneti kao što su: komadni aktuatori i aktuatori stajnog trapa.
+
+Brzo razdvojivi priključnici "QUICK DISCONNECT"
+Napravljeni su za brzo razdvajanje svih vodova.
+Imaju ugrađen i prekidni ventil tako da nema prosipanje fluida.
+
+Hidraulični agregat
+Razvijen da bi hidraulični sistemi bili lakši za servisiranje i lakši.
+Sistem koristi agregat (pack) koji ima rezervoar, pumpu, termički rasteretni ventil, regulacioni ventil visokog pritiska, niskotlačni kontrolni ventil i shuttle ventil.
+
+Pneumatski agregati
+Potreban protok i pritisak ulja kod hidrauličnih sistema se dobija radom pumpe.
+Integrisani sistem za dobijanje pritiska i protoka hidroulja se zove hidroagregati
+Hidroagregati poseduju upravljačke i kontrolne elemente, sistem za hlađenje ulja, a ako se koriste na niskim temperaturama imaju i grejač ulja.
+Koriste se pokretni agregati koji obezbeđuju hidraulični pritisak
+
+Filteri za hidraulično ulje
+Zahtev za hidrauličnu tečnost je da bude čist
+Zagađivači čestica moraju biti uklonjeni jer mogu oštetiti komponente hidro sistema
+Filter uklanja sve tečnosti veće od 10 mikrona.
+Ulje se prečišćava i filterom vraća povratnom vodu, a ponekad finim filterom u potisnom vodu pre prolaska kroz upravljačke ventile, razvodnike i hidraulični motor.
+Filteri se sastoje od glave koja sadrži priključke koji se koriste za njegovo povezivanje sa hidrauličnim cevovodima, zaobilaznog sklopa i indikatora začepljenja
+Elementi filtera koji se koriste u dovodnom cevovodu (do pumpe i povratnim cevovodima do rezervoara obično su napravljeni od papira, tkanine od staklenog vlakana ili fine metalne mreže)
+Delovi koji se koriste u sistemu (delu sistema) pod pritiskom su obično napravljeni od sinterovanog metala, vrlo fine metalne mreže ili žičane vrste.
+
+
