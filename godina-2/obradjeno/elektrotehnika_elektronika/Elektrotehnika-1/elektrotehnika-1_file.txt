@@ -1,0 +1,67 @@
+ℇ
+
+mere
+
+centi = 10^-2
+nano = 10^-9
+piko = 10^-12
+
+intenzitet
+
+E=(1/(4*π*ℇ₀*ℇᵣ))*(|Q|/r^2)  [N/C]
+E=(k/ℇᵣ)*(|Q|/r^2)
+
+Q
+
+Kolicina naelektrisanja [C]
+
+r
+
+Rastojanje tacke u prostoru od naelektrisanog tela
+
+ℇ₀
+
+Apsolutna dielektricna konstanta vazduha / vakuma
+ℇ₀=8,85*10^-12  [C^2/Nm^2]
+
+ℇᵣ
+
+Relativna dielektricna konstanta vazduha / vakuma
+ℇᵣ=1 za vazduh i vakum
+
+k
+
+k=1/(4*π*ℇ₀)=9*10^9  [Nm^2/C^2]
+Nema ime
+
+Potencijal
+
+V ili 𝜑 [V]
+V=Ep/𝓆
+V=(k/ℇᵣ)*(Q/𝓈)
+
+Potencijalna energija
+
+Ep=(k/ℇᵣ)*((Q*𝓆)/𝓈)  [J]
+
+Aₐ→ᵦ
+
+Rad koji izvršavaju elektrostaticke sile prilikom premeštanja naelektrisanja iz tačke A u tačku B
+[J]
+
+Razlika u potencijalnoj energiji
+
+𝛥Ep=Epa-Epb
+
+Napon
+
+Razlika potencijala
+Uab=Va-Vb [V]
+
+Elektrostaticka sila
+
+F=(k/ℇᵣ)*((|Q1|*|Q2|)/(𝓈^2))
+
+Kad je dijagonala 
+
+Samo stranica * 1,41
