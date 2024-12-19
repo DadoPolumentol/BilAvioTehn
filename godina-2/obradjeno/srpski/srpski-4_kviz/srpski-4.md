@@ -14,7 +14,7 @@ Pitanje: Koje su najvažnije godine Vukovih reformi?
 Odgovor: 1818, 1836, 1839, 1847 (pobeda narodnog jezika), 1852 (drugo izdanje rečnika).
 
 Pitanje: Koji su bili Vukovi narodni pevači?
-Odgovor: 1. Tešan Podrugović, 2. Starac Milija, 3. Filip Višnjić, 4. Slepća Jelena, 5. Slepća Živana.
+Odgovor: 1. Tešan Podrugović, 2. Starac Milija, 3. Filip Višnjić, 4. Slepa Jelena, 5. Slepa Živana.
 
 Pitanje: Koje je Vukovo najpoznatije polemičko delo?
 Odgovor: "Umuk" – polemika protiv protivnika reforme jezika.
