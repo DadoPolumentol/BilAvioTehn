@@ -1,0 +1,262 @@
+A force of 10 million Newton's is expressed numerically as 10,000 kN.
+
+The SI unit of energy is the Joule (J).
+
+The heat required to change a liquid to a gas is called the heat of vapourisation.
+
+An atom with 3 free electrons is said to be trivalent.
+
+The specific gravity of a substance is calculated by the density of the body divided by the density of water.
+
+The most common refrigerants are ammonia, freon, methyl bromide.
+
+In fibreoptics the type of cable is chosen by matching the diameter of the cable to the wavelength.
+
+What is the kinetic energy of an aircraft of mass of 2 metric tonnes and has a velocity of 2m/s? 4 kJ.
+
+What is the mass number of an element? Number of neutrons and protons.
+
+What is the momentum of a ball of mass 2 grams and has a velocity of 10cm/s? 0.0002 kgm/s.
+
+What do you get when you add 2H2 and O2? 2H2O.
+
+A time period of 10 microseconds is equal to a frequency of 100 kHz.
+
+When heat flows from a hot area to a cold area it is called conduction.
+
+The specific heat capacity of a gas heated at constant pressure, when compared to the specific heat capacity of a gas heated at constant volume, is more.
+
+A gyroscope suffers from apparent wander. This is due to the earth's rotation.
+
+The splitting of a chemical compound is called analysis.
+
+The quadrature component of a vector is 90° to the original.
+
+1 Newton is equal to 1 kilogram meter per second per second.
+
+1 degree rise on the centigrade scale will cause a 1.8 degree rise in Fahrenheit.
+
+Adiabatic compression is when no heat is lost or gained.
+
+The 3rd vector you get when you add 2 vectors together is called the resultant.
+
+The atomic number of an element is the number of protons in the atom.
+
+An atom with 5 free electrons is said to be pentavalent.
+
+The heat required to change a solid to a liquid is called the heat of fusion.
+
+The SI unit of mass is the kilogram (kg).
+
+The SI unit of acceleration is the metre per second squared (m/s²).
+
+The SI unit of density is the kilogram per cubic metre (kg/m³).
+
+Latent heat is the heat required to change the state of a body.
+
+1 Calorie is equal to 4 J.
+
+1 BTU equals 1055 Joules.
+
+The intensity of radiated heat is inversely proportional to the square of the distance from the source of the heat.
+
+As a block of ice is melted (to 4°C), its volume decreases.
+
+A material with a gradually varying refractive index is said to have a graded index.
+
+A slug is a unit of mass.
+
+If an object in air is submerged in a liquid or a gas, its weight will decrease.
+
+As an object slides down a slope, its kinetic energy increases and its potential energy decreases.
+
+If a body starts at rest and reaches 84 m/s in 3 seconds, its acceleration is 28 m/s².
+
+The speed of sound in air at 0°C is approximately 331 m/s.
+
+If a material is loaded excessively and is permanently deformed, it is said to be strained.
+
+The height of water required to produce a head pressure of 1 bar is 10.19 m.
+
+The SI unit of pressure is the:
+Answer: b) Newtons per metre squared (N/m2)
+
+The SI unit of force is the:
+Answer: a) Newton (N)
+
+The SI unit of velocity is the:
+Answer: a) metre per second (m/s)
+
+The SI unit of momentum is the:
+Answer: a) kilogram metre per second
+
+The formula for calculating stress is:
+Answer: b) load divided by cross sectional area
+
+A gauge indicates 15 PSIG. What is the absolute pressure?
+Answer: c) 30 PSI
+
+Fibre optic cables are capable of transmitting light at:
+Answer: a) 3 x 10^8 m/s
+
+Step index fibres suffer from:
+Answer: a) dispersion
+
+Attenuated pulses have their sizes and shape restored by:
+Answer: a) regenerators
+
+Attenuation in fibre optic cables is caused by:
+Answer: b) absorption and scattering
+
+If a wave traveling to a point meets a wave traveling from that point, of equal frequency:
+Answer: a) a standing wave is formed
+
+For a concave lens, the image is:
+Answer: c) virtual
+
+What shape is a venturi tube?
+Answer: a) Gradually tapering to a minimum cross sectional area
+
+If a fluid moves slowly, it has:
+Answer: a) high viscosity
+
+In a fibre optic flying control system:
+Answer: b) the sensor and the transmitter require electrical power
+
+Photons in a semiconductor are stimulated to produce excess photons to be emitted. This is a:
+Answer: c) laser diode
+
+In a fibre optic flying control system, which of the following are used:
+Answer: b) single mode
+
+A fibre optic cable is attenuated at 29 dB/metre. This is referring to:
+Answer: c) the maximum cable run allowed in the system
+
+The fibre optic receiver is a:
+Answer: a) photodiode
+
+Regenerators are used in fibre optic systems to reduce:
+Answer: b) attenuation
+
+An atom consists of:
+Answer: c) protons, neutrons, and electrons
+
+The maximum number of electrons in the inner shell of an atom is:
+Answer: a) 2
+
+A good refrigerant has:
+Answer: c) low condensing pressure, high evaporating temperature
+
+Stress is given by:
+Answer: b) force per unit area
+
+An object accelerating down a slope would gain kinetic energy:
+Answer: a) equal to the potential energy lost
+
+Quality of sound depends upon:
+Answer: c) frequency and harmonics of the waves being produced
+
+Temperature is a measure of:
+Answer: b) the amount of vibration of particles
+
+The first overtone of a sound wave is the 2nd harmonic.
+
+Oxygen has a valency of 2.
+
+A process where volume does not change is isochoric.
+
+A process where heat is not transferred to or from a gas is adiabatic.
+
+A varying refractive index is a graded index.
+
+The further from the nucleus the shells are in an atom, the closer the shells get to each other.
+
+What determines an element's identity? The number of protons.
+
+An isotope of an element will have more neutrons.
+
+Refractive index is the speed of light in air divided by the speed of light in the medium.
+
+The smallest part of an element is an atom.
+
+A process where pressure does not change is known as isobaric.
+
+The extension of a spring can be determined using Hooke's Law.
+
+The nucleus of an atom contains protons and neutrons.
+
+The speed of light in km/s is 300,000.
+
+Relative density is density of medium/density of water.
+
+The boundary layer is the layer of still air (due to friction) around the aircraft skin.
+
+Atomic mass is the number of protons plus the number of neutrons.
+
+An aircraft flies 1350 nmiles in 2h 15mins. The average speed is 600 nmiles/hour.
+
+A spring extends 7 cm to the ground and back again 20 times a minute. The period is 3 seconds.
+
+A tone which is 4 times the amplitude is the 2nd harmonic.
+
+A cyclist goes from rest to 50 m/s in 5 seconds. The average acceleration is 10 m/s2.
+
+The form of heat used to turn a solid into a liquid is heat of fusion.
+
+When a steel bar is overstressed, the point at which it does not return to its original form after the load is released is the yield point.
+
+When a liquid is heated, it expands more than a solid.
+
+If pressure on a liquid increases, whilst temperature is held constant, the volume will decrease.
+
+1 BTU is 1055 joules per kilogram.
+
+A compressor increases kinetic energy.
+
+P1 x V1 / T1 = P1 x V2 / T2 is the ideal gas law.
+
+V1 / T1 = V2 / T2 at a constant pressure is Charles' law.
+
+P1 x V1 = P2 x V2 at a constant temperature is Boyle's law.
+
+Change from solid to gas state without going through liquid state is called sublimation.
+
+1 CHU = Centigrade Heat Unit = 1400 ft lbs = energy to raise 1 lb of water by 1° F.
+
+1 BTU = 778 ft lbs to raise = 1 lb of water to heat up by 1° F.
+
+1 HP = 33000 ft lbs / min or 500 ft lbs / s or 746 Watts.
+
+1 Watt = 1 Joule/s.
+
+Temperature change -1.98°C per 1000 ft up to 36,000 ft where it remains constant at -56°C.
+
+A freely falling body, falling from a height of 2km, and assuming g = 10m/s², will strike the ground in a time of 20s.
+
+The angular velocity of a shaft rotating at 300rpm in radians/second is 10pi radians/second.
+
+If a machine has a mechanical advantage of 10 and a velocity ratio of 20, the efficiency of the machine is 0.5.
+
+The force that acts on a body to cause it to rotate in a circular path is called the centripetal force.
+
+A temperature of 41 degrees Fahrenheit in Centigrade is 5 degrees.
+
+Heat is defined as energy in transit.
+
+An aircraft of 2 metric tonnes uses 800 kiloJoules kinetic energy to make an emergency stop. Its brakes apply a force of 10 kiloNewtons. The distance it travels before it comes to a stop is 80m.
+
+The smallest particle of matter that can exist in nature is an atom.
+
+A positive ion has missing electrons.
+
+Radiant heat does not heat up the intervening medium.
+
+Young's modulus is stress / strain.
+
+The isotope of a carbon atom C14 to C12 will have the same numbers of protons.
+
+If an atom has 2 protons, it will have 2 electrons.
+
+1kg of water is heated from 0°C to 2°C. Its volume decreases.
+
+A fire engine is approaching you with its siren on. As it passes you, its pitch decreases.
