@@ -216,7 +216,7 @@ A substance that is said to be volatile, develops high vapor pressure at standar
 
 ~~~PRESSURE AND BUOYANCY~~~
 
-~BUOYANCY~
+~~BUOYANCY~~
 
 The weight density of water is 62.4 lb/ft³
 The weight density of air is 0.07651 lb/ft³
@@ -226,7 +226,7 @@ Buoyant force = volume of object × density of fluid displaced
 A 10-ft³ object weighing 700 lbs is placed in pure water. Will the object float?
 Buoyant force = 10 × 62.4 = 624lbs which is less than 700, so the object will sink.
 
-~FLUID PRESSURE~
+~~FLUID PRESSURE~~
 
 The pressure exerted on the bottom of a container by a liquid is determined by the height of the liquid and not by the shape of the container.
 One gallon of water weighs 8.34 lb.
@@ -260,4 +260,196 @@ For example, the standard pressure at sea level is 29.92 "Hg, or 14.7 psi.
 At 10,000 feet above sea level, standard pressure is 20.58 "Hg, or 10.10 psi. 
 Altimeters are calibrated so that if the pressure exerted by the atmosphere is 10.10 psi, the altimeter will point to 10,000 ft.
 
+//////////END OF FIRST DECK//////////
+
 ~~~~~KINETICS~~~~~
+
+Kinetics is the study of the relationship between the motion of bodies or objects and the forces acting on them.
+Kinematics is the relationship between velocity, acceleration, and distance.
+Motion may be defined as a continuing change of position or place, or as the process in which a body undergoes displacement.
+When an object is at different points in space at different times, that object is said to be in motion, 
+and if the distance the object moves remains the same for a given period of time, the motion may be described as uniform. 
+Thus, an object in uniform motion always has a constant speed.
+Velocity can be defined as the rate of motion in a particular direction.
+Two velocity vectors can be added together in what is called vector analysis.
+To convert mph to fps, multiply by 1.467. 
+Acceleration is defined as the rate of change of velocity. 
+The acceleration due to gravity is 32.2 fps/s.
+formula for acceleration is: a=(v-v0)/t
+To calculate G forces, divide the acceleration by the acceleration due to gravity which is 32.2 fps/s.
+
+~~~NEWTON'S LAWS OF MOTION~~~
+
+Newton's first law of motion is:
+Objects at rest tend to remain at rest and objects in motion tend to remain in motion at the same speed and in the same direction, 
+unless acted on by an external force.
+Inertia, the property of matter is described in Newton's first law of motion.
+
+Newton's second law of motion is: 
+When a force acts upon a body, the momentum of that body is changed; 
+The rate of change of momentum is proportional to the applied force.
+
+Bodies in motion have the property called momentum. 
+A body that has great momentum has a strong tendency to remain in motion.
+Based on Newton’s second law, the formula for calculating thrust is derived, which states that force equals mass times acceleration (F = MA). 
+Earlier in this chapter, it was determined that mass equals weight divided by gravity, 
+and acceleration equals velocity final minus velocity initial divided by time.
+Putting all these concepts together, the formula for thrust is: F=(Q⨯(v-v0))/(g⨯t).
+If time isn't mentioned, assume t=1.
+
+Newton’s third law of motion is:
+For every action there is an equal and opposite reaction.
+
+Newton’s third law of motion is often called the law of action and reaction. 
+
+This means that if a force is applied to an object, 
+the object will supply a resistive force exactly equal to and in the opposite direction of the force applied.
+Forces always occur in pairs. 
+The term acting force means the force one body exerts on a second body, and reacting force means the force the second body exerts on the first.
+A turbofan engine exerts a force on the air entering the inlet duct, causing it to accelerate out the fan duct and the tailpipe. 
+The air accelerating to the rear is the action, and the force inside the engine that makes it happen is the reaction, also called thrust.
+
+~~~CIRCULAR MOTION~~~
+
+Circular motion is the motion of an object along a curved path that has a constant radius.
+For example, if one end of a string is tied to an object and the other end is held in the hand, the object can be swung in a circle. 
+The object is constantly deflected from a straight (linear) path by the pull exerted on the string.
+The string exerts a centripetal force on the object, and the object exerts an equal but opposite force on the string, obeying Newton’s third law of motion.
+The force that is equal to centripetal force, but acting in an opposite direction, is called centrifugal force.
+Centripetal force is always directly proportional to the mass of the object in circular motion.
+Thus, if the mass of the object is doubled, the pull on the string must be doubled to keep the object in its circular path, provided the speed of the object remains constant.
+Centripetal force is inversely proportional to the radius of the circle in which an object travels.
+If the string is shortened and the speed remains constant, the pull on the string must be increased since the radius is decreased, 
+and the string must pull the object from its linear path more rapidly. 
+Using the same reasoning, the pull on the string must be increased if the object is swung more rapidly in its orbit. 
+Centripetal force is thus directly proportional to the square of the velocity of the object.
+The formula for centripetal force is: F=(m⨯v²)÷r
+For the formula above, mass would typically be converted to weight divided by gravity, velocity would be in feet per second, and the radius would be in feet.
+
+~~~PERIODIC MOTION~~~
+
+str. 33
+
+~~PENDULAR~~
+
+Periodic motion is evident during pendular motion and vibration.
+A pendulum is a weight suspended from a fixed point so it can swing freely back and forth.
+The motion is characterized by a few important variables. 
+The period is the time it takes for the weight to complete one cycle of motion. 
+It is dependent on the length of the suspending rod or string. 
+Specifically, the period varies directly with the square root of "L" which is the length of the suspending item (i.e. a string or rod). 
+The period also varies inversely with the square root of the acceleration of gravity.
+The following equation expresses these relationships: T=2⨯π⨯(sqrt(L/g)).
+Where: T = period in seconds (s); L = length of the pendulum in feet or meters; g = acceleration of gravity (32.2 ft/s² or 9.82 m/s²).
+Pendulums are unique in that the period of a pendulum will remain the same as it swings to and fro even though it gradually displaces less and less with each ensuing swing. 
+This regularity has resulted in pendulum motion to be the regulating motion in mechanical clocks.
+
+~~VIBRATION~~
+
+Vibration is periodic motion caused by oscillation of the parts of a fluid or an elastic solid whose equilibrium has been disturbed.
+An electromagnetic wave also experiences vibration.
+Design engineers must design the aircraft to withstand or safely dissipate any vibration produced by 
+the engine, components, or by the aircraft's movement through the atmosphere.
+Vibratory motion is also known as harmonic motion.
+Vibration is characterized by having a period, which is the time it takes for a complete cycle of movement. 
+It's frequency is the number of times per second a complete cycle occurs. 
+The unit of measure for frequency is the hertz (Hz). 
+One cycle per second is equal to one hertz. 
+Vibration also has amplitude. 
+Amplitude is measured from the midpoint of the motion to the point of maximum displacement. 
+Unless there is a means to input energy into the vibrating object, the amplitude of vibration will steadily decrease as time goes on. 
+However, the frequency of vibration will remain the same. 
+On a musical instrument, it is the frequency that sets the pitch of the tone created when the string is plucked. 
+The amplitude is related to the loudness of the vibrating string.
+The formula for computing the period of a vibrating or oscillating object is virtually the same as that of a pendulum. 
+Instead of gravity supplying the force as with a pendulum, some other force must be applied to create vibration. 
+But the uniqueness of a steady frequency is shared by vibrating objects and a pendulum. 
+Note that an oscillator in electronics does have a means for steadily supplying extra energy to the vibrating system and does not conform to this model.
+T=2⨯π⨯(sqrt(m/k)).
+Where: T = period in seconds (s); m = mass in pounds or kilograms (kg); k = force in pound feet or dynes / cm.
+
+~~RESONANCE~~
+
+All types of matter, regardless of whether it is a solid, liquid, or gas, have a natural frequency at which the atoms within that matter vibrate. 
+If two pieces of matter have the same natural frequency, and one of them starts to vibrate, it can transfer its wave energy to the other one and cause it to vibrate.
+This transfer of energy is known as resonance. 
+Some piston engine powered airplanes have an rpm range that they are placarded to avoid because spinning the prop at that rpm can cause vibration problems.
+The difficulty lies in the natural frequency of the metal in the prop, and the frequency of vibration that will be set up with a particular tip speed for the prop. 
+At that particular rpm, stresses can be set up that could lead to the propeller coming apart.
+
+~~SIMPLE MACHINES~~
+
+A machine is any device with which work may be accomplished. 
+In application, machines can be used for any of the following purposes, or combinations of these purposes.
+
+1. Machines are used to transform energy, as in the case of a generator transforming mechanical energy into electrical energy.
+
+2. Machines are used to transfer energy from one place to another, 
+as in the examples of the connecting rods, crankshaft, and reduction gears transferring energy from an aircraft’s engine to its propeller.
+
+3. Machines are used to multiply force; for example, a system of pulleys may be used to lift a heavy load. 
+The pulley system enables the load to be raised by exerting a force that is smaller than the weight of the load.
+
+4. Machines can be used to multiply speed. A good example is the bicycle, by which speed can be gained by exerting a greater force.
+
+5. Machines can be used to change the direction of a force. An example of this use is the flag hoist. 
+A downward force on one side of the rope exerts an upward force on the other side, raising the flag toward the top of the pole.
+
+There are only six simple machines. 
+They are the lever, the pulley, the wheel and axle, the inclined plane, the screw, and the gear. Physicists, however, recognize only two basic principles in machines: 
+the lever and the inclined plane. 
+The pulley (block and tackle), the wheel and axle, and gears operate on the machine principle of the lever. 
+The wedge and the screw use the principle of the inclined plane.
+
+Compound machines are combinations of two or more simple machines.
+
+~~MECHANICAL ADVANTAGE OF MACHINES~~
+
+Machines cannot multiply force and speed at the same time.
+In order to gain one, it must lose the other. 
+To do otherwise would mean the machine has more power going out than coming in, and that is not possible.
+In reference to machines, mechanical advantage is a comparison of the output force to the input force, or the output distance to the input distance. 
+If there is a mechanical advantage in terms of force, there will be a fractional disadvantage in terms of distance.
+The following formulas can be used to calculate mechanical advantage.
+Mechanical Advantage = Force Out ÷ Force In
+Mechanical Advantage = Distance Out ÷ Distance In
+
+~THE LEVER~
+
+The simplest machine, and perhaps the most familiar one, is the lever. 
+A seesaw is a example of a lever.
+When a person sits on one end of a seesaw, that person applies a downward force in pounds which acts along the distance to the center of the seesaw. 
+This combination of force and distance creates torque, which tries to cause rotation.
+
+FIRST CLASS LEVER
+
+In the first class lever, the fulcrum is located between the effort and the resistance. 
+As mentioned earlier, the seesaw is a good example of a lever, and it happens to be a first class lever. 
+The amount of weight and the distance from the fulcrum can be varied to suit the need. 
+Increasing the distance from the applied effort to the fulcrum, compared to the distance from the fulcrum to the weight being moved, increases the advantage provided by the lever. 
+Crowbars, shears, and pliers are common examples of this class of lever. 
+The proper balance of an airplane is also a good example, with the center of lift on the wing being the pivot point (fulcrum) 
+and the weight fore and aft of this point being the effort and the resistance.
+When calculating how much effort is required to lift a specific weight, or how much weight can be lifted by a specific effort, the following formula can be used.
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+What this formula really shows is the input torque (effort times effort arm) equals the output torque (resistance times resistance arm). 
+This formula and concept apply to all three classes of levers, and to all simple machines in general.
+An interesting thing to note with this example lever is if the applied effort moved down 10 inches, the weight on the other end would only move up 2 inches. 
+The weight being lifted would only move one-fifth as far. 
+The reason for this is the concept of work. 
+Because a lever cannot have more work output than input, if it allows you to lift 5 times more weight, you will only move it 1/5 as far as you move the effort.
+
+SECOND CLASS LEVER
+
+The second class lever has the fulcrum at one end and the effort is applied at the other end. 
+The resistance is somewhere between these points. 
+A wheelbarrow is a good example of a second class lever, 
+with the wheel at one end being the fulcrum, 
+the handles at the opposite end being the applied effort, 
+and the bucket in the middle being where the weight or resistance is placed.
+Depending on how close or how far away the weight is placed from the fulcrum, the first class lever can be made to gain force or gain distance, but not both at the same time. 
+The second class lever can only be made to gain force.
+
+THIRD CLASS LEVER
+
+Str. 36
