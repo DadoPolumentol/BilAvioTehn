@@ -1,15 +1,16 @@
 Izvori magnetnog polja su kretanje naelektrisanih čestica (električna struja), trajni magneti, elektromagneti.
 
-Pravilo desne ruke:
+Pravila desne ruke:
 Za pravolinijski provodnik sa strujom – Palac pokazuje smer struje (I), a savijeni prsti smer magnetnog polja (B) oko provodnika.
 Za zavojnicu (solenoid) – Savijeni prsti prate smer struje u namotajima, a ispruženi palac pokazuje severni pol magneta.
 Za Lorencovu silu – Ispruženi palac pokazuje smer kretanja naelektrisane čestice (v), kažiprst smer magnetnog polja (B), a srednji prst smer sile (F).
 Za elektromagnetnu silu - B je kaziprst, I je palac i F su ostali prsti.
+Za elektromotornu silu - v je palac, B je kaziprst i E je srednji prst.
 
 Slika Solenoida iz sveske
 
 B=μ_0⨯H [T]
-H=\frac{N⨯I}{L}
+H=\frac{N⨯I}{L} [A/m]
 B=μ⨯H
 μ_r=1
 B=μ_0⨯μ_r⨯H
@@ -26,7 +27,7 @@ Elektromagnetna sila je osnovna sila za rad motora jednosmerne struje.
 Sila nastaje dejstvom magnetnog polja na struju u provodniku.
 Ulozena elektricna energija ce se pod dejstvom sile F pretvoriti u mehanicku.
 
-F=B⨯I⨯L
+F=B⨯I⨯L [N]
 
 Motor jednosmerne struje
 
@@ -63,7 +64,7 @@ Provodnici rotora se naelektrisu , tj. u njima se indukovala elektromotorna sila
 
 Staticka indukcija elektromotorne sile
 
-Elektromotorna sila nastaje u nepokretnom provodniku koji je izlozen gejstvu promenljivog magnetnog polja.
+Staticka indukcija elektromotorne sile nastaje u nepokretnom provodniku koji je izlozen dejstvu promenljivog magnetnog polja.
 Promena magnetnog polja moze biti povecanje ili smanjenje magnetne indukcije.
 Priblizavanje severnog magnetnog polja ka konturi ostvaruje se sve veci i veci broj linija magnetne indukcije koje prolaze kroz kruznu povrsinu jednog zavojka konture.
 
