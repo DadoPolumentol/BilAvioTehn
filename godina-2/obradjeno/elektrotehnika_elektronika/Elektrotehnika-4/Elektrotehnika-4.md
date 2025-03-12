@@ -1,3 +1,5 @@
+# Mrzelo me je da sve slike izmapiram po fajlu.
+
 Kada je μ_r=1? Koja su imena svih vara? Sta je kontura?
 
 Sta je B?
@@ -14,12 +16,16 @@ H=\frac{B}{μ}
 
 Sta je μ_0?
 
-μ_0 je magnetna permeabilnost vakuuma ili univerzalna magnetna konstanta.
+μ_0 je magnetna propustljivost vazduha
 
 Sta je μ?
 
-μ je apsolutna magnetna permeabilnost materijala i označava sposobnost materijala da provodi magnetno polje.
+μ je magnetna propustljivost materijala i označava sposobnost materijala da provodi magnetno polje.
 μ=μ_0⨯μ_r
+
+Koliko je μ_r kod vazduha?
+
+μ_r kod vazduha je 1.
 
 Kada je μ_r=1? 
 
