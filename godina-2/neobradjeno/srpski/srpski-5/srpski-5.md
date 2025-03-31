@@ -108,6 +108,25 @@ komparacija prideva: pozitiv(velik), komparativ(veći), superlativ(najveći)
 Pridevi se menjaju po rodu, broju i padežu.
 
 
+"Đulići uveoci" Jovan Jovanović Zmaj
+
+	pesničke slike: uspaničenost, zvučne slike, umor od svega
+	dodatno: U ovoj zbirci ima 69 pesama, čija je tema tuga i patnja za preminulom ženom. Pesma je napisana u gradaciji.
+
+"Čiča Gorio" Onore de Balzak
+
+	rod: epika
+	vreme: 19. vek
+	mesto: Pariz
+
+
+Realizam se javio u 2. polovini 19. veka.
+Manifest realizma je od Viktor Igo "Predgovor Kromvelu", Onore de Balzak "Ljudska komedija".
+Predstavnici: Onore De Balzak, Stendal, Tolstoj, Dostojevski.
+Predstavnici u Srbiji: Branislav Nušić, Stevan Sremac, Laza Lazarević, Sima Matavulj, Radoje Domanović, Jakov Ignjatović
+
+	
+Titula ili čin koji ide uz ime piše se velikim slovom jer je deo književnog imena lika. Na primer: "Vojvoda Batrić".
 
 
 
