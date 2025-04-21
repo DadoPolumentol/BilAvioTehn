@@ -1,3 +1,5 @@
+[Kraća verzija knjige](https://www.scribd.com/doc/130875911/Ana-Karenjina-prepri%C4%8Dana#from_embed)
+
 Stepan Arkadjič(Stiva Oblonski), kabinet, vara ženu sa guvernantom svoje dece, 
 
 žena Doli, Darja Aleksandrova, 33 godine, 5 zive, 2 mrtve dece
