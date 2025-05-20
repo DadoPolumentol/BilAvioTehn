@@ -180,7 +180,6 @@ By cylinder arrangement:
 	In-line cylinders in a row, enables narrow frontal area design for low drag, poor power-to-weight because crankcase + crankshaft are too heavy. If crankshaft is above cylinders, it is inverted in-line engine, which allows propeller to be mounted up high for ground clearance. Usually liquid cooled, bad airflow.
 	V-type > horsepower than in-line and small frontal area. Cylinders in 2 in-line banks 60° apart. Mostly water cooled. Used in WW2.
 	Horizontally opposed / boxer / flat most popular piston on smaller aircraft. Even number of cylinders. Air cooled. High power-to-weight because small crankcase. Small frontal area.
-By cooling method:
 4 stroke:
 	Intake: TDC(up) to BDC(down)
 	Compression: BDC to TDC
@@ -195,8 +194,8 @@ Brayton / continous combustion cycle:
 Diesel cycle:
 	Compression ignition
 Piston rings provide a seal between outer piston and inner cylinder.
-Rings prevent air/fuel from coming into sump and oil from coming into combustion chamber
-Connecting rod connect piston and crankshaft
+Rings prevent air/fuel from coming into sump and oil from coming into combustion chamber.
+Connecting rod connect piston and crankshaft.
 Crankshaft convert pistons up-and-down into circular and transfers power to propeller.
 Cylinder forms a part of the chamber in which the fuel is compressed and burned.
 Piston engine is replaced by turbine in most cases.
