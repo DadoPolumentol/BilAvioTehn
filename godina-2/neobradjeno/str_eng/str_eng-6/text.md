@@ -1,5 +1,19 @@
-NIJE DOVRSENO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-NOT FINISHED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ str 54,55,56,57,62,64,65
++ 58,59,60
+
+4 stroke cycle
+	
+1.Intake: begins at TDC dead center, and ends at BDC dead center. 
+Intake valve open position, piston pulls an air-fuel mixture into the cylinder by producing vacuum pressure. 
+The piston is moving down as air is being sucked in by the downward motion against the piston. 
+	
+2.Compression: begins at BDC, ends at TDC. 
+In this stroke the piston compresses the air-fuel mixture in preparation for ignition during the power stroke (below). Both the intake and exhaust valves are closed during this stage.
+
+3.Combustion: Also known as power or ignition. This is the start of the second revolution of the four stroke cycle. At this point the crankshaft has completed a full 360 degree revolution. While the piston is at top	(the end of the compression stroke) the compressed air-fuel mixture ignited a spark plug (in a gasoline engine) or by high compression generated heat (diesel engines), forcefully returning the piston to bottom. This stroke produces mechanical work from the engine to turn the crankshaft. 
+	
+4.Exhaust: Also known as outlet. During the exhaust stroke, the piston, once again, returns from B.D.C. to T.D.C. while the exhaust valve is open. This action expels the spent air-fuel mixture through the exhaust valve.
 
 Spark plug
 The spark plug supplies the spark that ignites the air/fuel mixture so that combustion can occur. The spark must happen at just the right moment for things to work properly.
@@ -17,6 +31,8 @@ Piston rings provide a sliding seal between the outer edge of the piston and the
 The rings serve two purposes:
 They prevent the fuel/air mixture and exhaust in the combustion chamber from leaking into the sump during compression and combustion.
 They keep oil in the sump from leaking into the combustion area, where it would be burned and lost.
+
+
 
 Most vehicles that "burn oil" and have to have a quart added every 1,000 miles are burning it because the engine is old and the rings no longer seal things properly. Many modern vehicles use more advance materials for piston rings. That's one of the reasons why engines last longer and can go longer between oil changes.
 
@@ -50,6 +66,7 @@ The crankshaft in an aircraft engine also absorbs the power or work from all the
 SLIKA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
 Types of Aircraft Reciprocating Engines
 
 The two primary reciprocating engine designs are the spark ignition and the compression ignition. 
@@ -65,6 +82,7 @@ These two engine designs can be further classified as:
 1. Cylinder arrangement with respect to the crankshaft-radial, in-line, v-type, or opposed 
 2. Operating cycle-two or four
 3. Method of cooling-liquid or air
+
 
 Cylinder arrangement with respect to the crankshaft
 
@@ -86,6 +104,8 @@ The disadvantages of an inline engine include a poor power-to-weight ratio.
 
 because the crankcase and crankshaft are long and thus heavy. 
 
+
+
 If the engine crankshaft is located above the cylinders, it is called an inverted inline engine, which allows the propeller to be mounted up high for ground clearance even with short landing gear. 
 
 An in-line engine may be either air cooled or liquid cooled, but liquid-cooling is more common because it is difficult to get enough air-flow to cool the rear cylinders directly. 
@@ -93,8 +113,6 @@ An in-line engine may be either air cooled or liquid cooled, but liquid-cooling 
 Inline engines were common in early aircraft, including the Wright Flyer, the aircraft that made the first controlled powered flight. 
 
 However, the disadvantages of the design soon became apparent, and the inline design was abandoned, becoming a rarity in modern aviation. 
-
-
 
 V-type engines provide more horsepower than in-line engines and still retain a small frontal area.
 
@@ -123,3 +141,64 @@ The propeller is attached to that shaft.
 At least two (but usually three or four) blades make up the propeller.
 
 In most applications of steam power today, the piston engine has been replaced by the more efficient turbine.
+
+
+
+4 stroke five event cycle is called Otto cycle.
+5 events are strokes + ignition event.
+Other cycles are Carnot, Diesel, Brayton cycle.
+By Nicolas-Leonard-Sadi Carnot, Rudolf Diesel, George Brayton.
+All cycles have compression of air, burning fuel in compressed air, conversion of pressure and heat into power.
+Carnot cycle: 
+	Engine accepts heat from high temperature source and converts part of it into mechanical or electrical work and rejects remainder into low-temperature sink. > difference in temperature = > efficiency.
+Brayton / continous combustion cycle:
+	4 constant and continous events (intake, compression, expansion + power, exhaust)
+Diesel cycle:
+	Compression ignition
+
+
+
+
+
+
+
+
+
+
+
+PUSKE                                      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Piston / internal combustion engine is engine that uses pistons to convert pressure into rotating motion.
+It drives a spinning shaft that rotates min 2, ave 3-4 propeller blades.
+They combust petrol, diesel, natural gas.
+By ignition:
+	Spark ignition uses spark to ignite premixed.
+	Compression ignition compressed air to temperature for automatic ignition.
+By cylinder arrangement:
+	Radial 1/> cylinders arranged in circle, each row has an odd number of cylinders, good power-to-weight ration
+	In-line cylinders in a row, enables narrow frontal area design for low drag, poor power-to-weight because crankcase + crankshaft are too heavy. If crankshaft is above cylinders, it is inverted in-line engine, which allows propeller to be mounted up high for ground clearance. Usually liquid cooled, bad airflow.
+	V-type > horsepower than in-line and small frontal area. Cylinders in 2 in-line banks 60° apart. Mostly water cooled. Used in WW2.
+	Horizontally opposed / boxer / flat most popular piston on smaller aircraft. Even number of cylinders. Air cooled. High power-to-weight because small crankcase. Small frontal area.
+By cooling method:
+4 stroke:
+	Intake: TDC(up) to BDC(down)
+	Compression: BDC to TDC
+	Combustion: TDC BDC + spark plug
+	Exhaust: BDC TDC
+4 stroke five event is Otto cycle.
+5 events = strokes + ignition.
+Carnot cycle: 
+	Engine take heat from high temp and convert most into mechanical / electrical work, other into low temp sink. > temp difference = > efficiency
+Brayton / continous combustion cycle:
+	4 constant and continous events (intake, compression, expansion + power, exhaust)
+Diesel cycle:
+	Compression ignition
+Piston rings provide a seal between outer piston and inner cylinder.
+Rings prevent air/fuel from coming into sump and oil from coming into combustion chamber
+Connecting rod connect piston and crankshaft
+Crankshaft convert pistons up-and-down into circular and transfers power to propeller.
+Cylinder forms a part of the chamber in which the fuel is compressed and burned.
+Piston engine is replaced by turbine in most cases.
++ SLIKA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
