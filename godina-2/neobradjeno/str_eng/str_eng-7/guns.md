@@ -23,4 +23,19 @@ Anti-icing(Applying fluid to prevent ice formation, failed is washed with de-ici
 
 Luggage handling(Baggage tractors(tow luggage carts), Baggage carts(transport luggage,mail,cargo; brakes on when detached), Belt loaders(movable belts to load/unload bulk cargo, 4 small aircraft w/o containers)
 
------------------------------------------NOT FINISHED---------------------------------------
+Air Cargo Handling(Container loader(4 wide-body aircr. cargo; 2 moving platforms raise/lower cargo), Cargo containers/pallets(mv on rollers / wheels across platforms into/out of aircr.))
+
+Cargo Trolleys/Dollies(Transp. loads in containers and pallets)
+
+Cool Container(Cargo container w ventilation; cooled w dry ice in separate bunker, electric heating n air circulation)
+
+Cool Dolly(Transp./stores perishable shipments in hot climates 4 containers/pallets; Steel trailer w insulate Al container n compressor cooling sys.; Can cool n heat; Handles loading/unloading pallets n containers)
+
+Forklift(Truck that lifts, moves n stacks heavy mat. Used in cargo warehouses n airside areas)
+
+Beacon(Light that guides vehicles and warns of danger)
+
+Catering - Food prep. serv.
+Low-cost carries - budge airline
+Dehumidification - Process of reducing moisture in air
+Airline meals r delivered in trolleys
