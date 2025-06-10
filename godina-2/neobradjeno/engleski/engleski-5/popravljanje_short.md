@@ -1,79 +1,82 @@
-CSI је најгледанија ТВ серија на свету, али прави форензички рад није као на телевизији.
+Purpose of forensic photography:
+    To show the truth.
+    Photos document crime scenes better than verbal descriptions.
+    Used as evidence in court.
 
-Форензички фотограф Роберт Марс каже да фотографија најбоље приказује истину и боље документује злочин од описа.
+Reality vs TV:
+    Not only murder cases.
+    Could involve robbery scenes, stolen cars, burnt houses, or road accidents.
 
-Не ради само на убиствима – фотографише и пљачке, украдена возила, спаљене куће и саобраћајне несреће.
+Work schedule:
+    Works 8–4 on weekdays, but on call 7 days a week.
 
-Ради од 8 до 16 радним данима, али је у приправности 7 дана у недељи.
+Process:
+    Incidents are assigned via the Police Communications Centre.
+    Officer-in-charge briefs the photographer.
+    All evidence must be photographed before removal.
+    In murder cases, the victim is photographed before the body is removed.
 
-Добија задатке из Центра за комуникацију полиције.
+Photography method:
+    Key lights and flash are used to illuminate the scene.
+    Uses a wide angle lens for general room shots (each corner + overhead).
+    Then uses a zoom lens for contextual details.
+    Close-up photos are taken of key evidence.
+    Example: distance between knife and table can be crucial.
 
-Пре рада, добија брифинг од полицијског официра.
+Photo documentation:
+    Each photo is listed in a photo log.
+    The log includes a description, time, and date.
 
-Сво докази морају бити фотографисани пре него што их полиција уклони.
+Motivation:
+    Inspired by interest in the technical side of photography.
 
-У случају убиства, фотографише жртву пре него што тело однесе медицински истражитељ.
+Work approach:
+    No room for experimentation – focus is on facts.
+    Requires a clear and objective eye.
 
-Фотографије се користе као доказ на суду, морају бити детаљне и јасне.
+Emotional challenges:
+    Job can be mentally tough.
+    Must stay detached from what is witnessed.
+    Photographers speak to a psychologist every 3 months to cope with emotional impact.
 
-Сцену осветљава главним светлима и користи блиц.
+Career requirements:
+    Few opportunities in forensic photography.
+    Must have previous police experience.
 
-За целокупан приказ собе користи широкоугаони објектив, слика из сваког угла и одозго.
+Skills and traits needed:
+    Ability to stay calm, focused, and handle unpredictable situations.
+    It’s a specialist field and never boring, but not like CSI.
 
-Затим користи зумирани објектив за детаље у контексту (нпр. положај ножа у односу на сто).
+-------------------------------------------------------------------------
 
-Прави крупне снимке важних доказа.
 
-Свака фотографија се уноси у фото-дневник са описом, датумом и временом.
 
-Посао га привукао због интересовања за техничку страну фотографије, али нема креативности – мора се строго држати чињеница.
+Basic info:
+    1 metre high, looks like a 3-year-old child.
+    Can crawl, sit up, and play drums.
 
-Посао је емоционално тежак, па форензичари морају остати хладне главе и дистанцирани.
+Purpose:
+    Created by Italian Institute of Technology in Genoa, Italy.
+    Designed to help understand how children learn.
+    Goal: Apply human learning principles to robots.
 
-Тим фотографа обавезно разговара са психологом свака три месеца.
+Learning method:
+    Humans learn by physically interacting with objects/people.
+    Robot has human-like physique to study how physical form supports learning.
 
-Форензичка фотографија је специјализована област, са мало радних места.
+Technical features:
+    Has many motors for movement (head, arms, hands, legs).
+    Uses cameras for eyes, microphones for ears.
+    Can crawl, walk, and pick up objects like a toddler.
 
-Потребно је претходно искуство као полицајац.
+Appearance vs. behavior:
+    iCub looks like a child, but does not interact with interest like real children.
+    It has only just learned to control eye movements based on external stimuli.
 
-Посао је непредвидив, али никад досадан, и није као CSI сваки дан.
+Learning limitations:
+    Still far from learning by interacting with surroundings like a human child.
 
-Висина: само 1 метар.
-
-Изглед и понашање: као дете од ~3 године.
-
-Може: пузити, сести, свирати бубњеве.
-
-Име: iCub.
-
-Тип: хуманоидни робот.
-
-Направили га: научници са Италијанског института за технологију у Ђенови.
-
-Циљ: разумети како деца уче о свету.
-
-Разлог: ако разумеју како људи уче, могу то применити на роботе.
-
-Метода учења: многи научници верују да људи уче кроз физичку интеракцију са објектима и другим људима.
-
-Закључак: робот сличан човеку омогућава истраживање улоге физичког облика у развоју способности учења.
-
-Мотори: велики број мотора омогућава кретање главе, руку, шака и ногу.
-
-„Очи“: камере.
-
-„Уши“: два мала микрофона снимају звук.
-
-Може: пузити, ходати, хватати предмете као мало дете.
-
-Изглед: споља као мало дете.
-
-Разлика од детета: дете реагује с интересовањем, док iCub тек почиње да контролише покрете очију као реакцију на спољне надражаје.
-
-Није још: способан да учи кроз интеракцију као дете.
-
-Будућност: у будућности би „мислећи“ роботи могли радити у болницама и домовима за старе.
-
-Циљ: помоћ лекарима и медицинском особљу.
-
-Истраживачи: посматрају робота као родитељи дете – чекају да „одрасте“ и учи.
+Future potential:
+    iCub and similar robots could become 'thinking' robots in the future.
+    Possible use in hospitals and care homes to assist doctors and nurses.
+    The research team observes iCub like parents, watching how it 'learns' and develops.
