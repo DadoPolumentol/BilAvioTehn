@@ -20,4 +20,4 @@ The wing root is the portion of the wing that attaches to the fuselage of the ai
 
 What is the function of the wingtip?
 
-Odustajem dalje od ovog dela.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Odustajem!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
