@@ -139,3 +139,55 @@ Zbog pruge most zanemaren
 
 Sedamnaesti deo
 
+1908. u kasabu dođe pismo od cara, "Proglas na narod BIH"
+Dođe Muhamedbeg
+
+Osamnaesti deo
+
+Cene rastu.
+Prođe 1912. i 13.
+muslimanska i srpska banka
+
+Devetnaesti deo
+
+Grupa studenata i đaka se okupila na mostu;
+Janko Stiković, Velimir Stevanović, Jakoh Herak, 
+Ranko Mihailović, Nikola Glasinčanin
+Vlado Marić, varoške učiteljice Zorka i Zagorka.
+Stiković sa Zorkom.
+Razgovor Tome Galus i Fehim Batijarević.
+Sviraju gospođa Bauer i doktor Balas
+
+Dvadeseti deo
+
+Budna je samo Lotika
+propao biznis
+
+Dvadeset prvi deo
+
+1914. godina
+Te godine opet pričaju Zorka i Glasinčanin, zaljubili se
+
+Dvadeset drugi deo
+
+Vidovdan, Srbi festa, polje između Drine i Rzave
+Komandant gasi fest jer su Srbi ubili cara, više ne izlaze iz straha
+Pokušaj eksplodiranja mosta od Srba
+
+Dvadeset treći deo
+
+Gužva kod Alihodže zbog bombardovanja. 
+Došlo mu je još 9 dece od Mujage Mutapdžića
+pop Mihajlo ne sme da kaže ženi, Petri Galali, da joj je sin Petar mrtav
+Na prvi dan bombardovanja je Lotika prešla preko Drine u tursku kuću 
+gde je brinula o svom i Deborinom detetu.
+Doživela je nervni slom i Milan se brinuo o njima
+gazda Pavle, predstavnik Srba; je streljan
+Narednik Austrijske trupe se žali Danilu Repcu 
+da mu vojnici nemaju namirnice
+Alihodža opljačkan
+
+Dvadeset četvrti deo
+
+Alihodža
+bravar Vlado
