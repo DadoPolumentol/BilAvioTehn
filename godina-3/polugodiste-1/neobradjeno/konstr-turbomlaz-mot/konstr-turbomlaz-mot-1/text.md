@@ -1,7 +1,9 @@
 1. Cas
 
 1., 2., 3. Njutnov zakon
-2. - $F=ma [\frac{kg}{m/s^2}]$
+1. - osim ako sila
+2. - samo F=ma
+$F=ma [\frac{kg}{m/s^2}]$
 $F=m*\frac{dv}{dt}$
 $F=m*\frac{v1-v0}{dt}$
 $F=\frac{m}{dt}*(v1-v0)$
@@ -9,9 +11,12 @@ $F=T=m̊(v1-v0)$
 Iznad ovog m kod T je o
 o
 m
+3. - akcija reakcija
+
 
 Na koja dva načina se povećava T?
-Kada povećas protok vazduha (?)
+1. Povećanjem protoka vazduha kroz motor
+2. Povećanjem brzine izduvnih gasova
 Potisak se dobija povećanjem brzine, ne pritiska
 
 Kod motora se javljaju statički i dinamički pritisak
@@ -131,7 +136,7 @@ Rad je savladan otpor kretanja predmeta na kojeg je primenjena sila
 Snaga je vršenje rada u jedinici vremena
 
 $\text{Snaga}=\frac{\text{rad}}{\text{vreme}}$
-$\text{Rad}=\text{sila}*\text{rastojanje}
+$\text{Rad}=\text{sila}*\text{rastojanje}$
 Merna jedinica sile je Njutn
 
 Moment je sila * rastojanje
