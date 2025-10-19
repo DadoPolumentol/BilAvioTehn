@@ -16,21 +16,21 @@ Potisak se dobija povećanjem brzine, ne pritiska
 
 Kod motora se javljaju statički i dinamički pritisak
 
-Statički pritisak - pritisak vazduha na zidove u kutiji - ![Failed to load](./skica(1)(2).png)
+Statički pritisak - pritisak vazduha na zidove u kutiji - ![Failed to load](./skica(1)(2).jpg)
  , pritisak je normalan na površinu
 
-Dinamički pritisak - ![Failed to load](./skica3.png)
+Dinamički pritisak - ![Failed to load](./skica3.jpg)
 
 $P=P_s+P_d$
 
 2. Cas
 
-![Failed to load](./skica4.png) - samo kod podzvučnih v
+![Failed to load](./skica4.jpg) - samo kod podzvučnih v
 
 Kada se priča o pritisku, obično je statički
 Pritisak je const
 
-![Failed to load](./skica5.png) - konvergentna i divergentna cev
+![Failed to load](./skica5.jpg) - konvergentna i divergentna cev
 
 Kinetička I potencijalna energija
 
@@ -62,7 +62,7 @@ Veći P = veća T
 Manji P = manja T
 itd za ostalo 
 
-![Failed to load](./skica6.png) - konvergentnadivergentna ili kondiv cev, za nadzvucne brzine
+![Failed to load](./skica6.jpg) - konvergentnadivergentna ili kondiv cev, za nadzvucne brzine
 
 3. Čas
 
@@ -75,7 +75,7 @@ jednačina kontinuiteta: $qvA=const→vA=const$
 
 Četiri osnovna tipa gaso-turbinskih motora
 
-![Failed to load](./slika7.png)
+![Failed to load](./slika7.jpg)
 
 Prvi - turbo jet
 Ostali su njegovi derivati (turbo fan, turbo prop, turbo shaft)
@@ -119,7 +119,7 @@ Hladna sekcija ide do komore za sagorevanje, a sve posle toga je topla sekcija
 
 Brajtonov ciklus je ciklus gaso-turbinskih motora
 
-![Failed to load](./slika8.png)
+![Failed to load](./slika8.jpg)
 
 Brajtonov ciklus ima kao u 4-taktnom klipnom motoru ista 4 ciklusa, samo sve turbini.
 
@@ -139,11 +139,11 @@ $M=F*r$
 r - distanca
 
 Dijagram Propulzivne efikasnosti
-![Failed to load](./slika9.png)
+![Failed to load](./slika9.jpg)
 
-![Failed to load](./slika10.png)
+![Failed to load](./slika10.jpg)
 
 5. Cas
 
-![Failed to load](./slika11.png)
+![Failed to load](./slika11.jpg)
 
