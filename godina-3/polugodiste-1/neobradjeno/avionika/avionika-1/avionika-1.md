@@ -1,0 +1,137 @@
+Braća rajt su imali tahometar motora, anemometar i štopericu.
+
+Instrument se sastoji od senzora i indikatora.
+Kada su u sklopu zovu se instrumenti sa direktnim očitavanjem.
+Informacije do instrumenta dolaze preko žica, pneumatskih vodova ili digitalnih magistrala podataka.
+
+Instrumenti se dele na analogne, analog-digitalne i digitalne.
+
+Instrumenti se dele na hidraulične, pneumatske, električne i mehaničke.
+
+Instrumenti se dele prema poslu koji obavljaju na:
+- instrumente za letenje
+- motorske instrumente
+- navigacione instrumente
+
+Nekategorisani:
+- Položaj komandi leta
+- Sistema u putničkoj kabini (klima, pritisak)
+- električna energija
+- pomoćne jedinice za napajanje (APU)
+
+Instrumenti za letenje:
+Osnovni:
+- visinomer, 
+- ASI, 
+- magnetni pokazivač pravca.
+Sporedni:
+- veštački horizont
+- koordinator skretanja
+- VSI
+
+Motorski instrumenti:
+- merači količine goriva i ulja
+- manometri (psi)
+- tahometri (rpm)
+- termometri
+U centru kabine
+
+Navigacioni instrumenti:
+sat 
+kompas
+instrumenti za usmeravanje za pristup sletanja
+GPS
+ADF
+VOR
+DME
+
+Six-pack:
+ASI,horizont,visinomer
+koordinator skretanja, magnetni pokazivač pravca, VSI
+
+Klasifikacije instrumenta po principu rada:
+- mehanički
+- magnetni
+- žiroskopski
+- oni sa solid state senzorima
+
+Instrumenti za pritisak:
+
+- pritisak motornog ulja:
+(Koristi Bourdonovu cev. Meri se u psi; zeleni luk je normalni radni opseg)
+
+- pritisak u usisnoj grani:
+(manometar prikazuje psi u usisnoj grani motora, 
+kalibrisan u inčima žive; 
+Kada atmosferski pritisak deluje na aneroid u meraču, radi indikator;
+Linije koja ide od usisne grane do merača je 
+psi vazduha u usisnoj grani do aneroid;
+indikator kreće od žutog gde je mali pritisak do zelenog gde je dobar u crven gde previsok)
+
+- EPR (Engine Pressure Ratio):
+(indikacija psi koja se odnosi na razvijenu snagu motora;
+uporedi ukupni izduvni psi i psi usisanog na ulaz u motor;
+mera EPR predstavlja snagu;
+on je diferencijalni manometar jer upoređuje dva psi;
+on je instrument sa daljinskim senzorom koji 
+prima input od predajnika EPR-a ili od računara u digitalnim sistemima;
+predajnik EPR-a sadrži sklop mehova koji 
+upoređuje 2 psi-a i pretvara odnos u električni signal koji 
+manometar koristi za indikaciju)
+
+- Pritisak goriva:
+(manometri obaveštavaju pilota o 
+neispravnoj pumpi za gorivo ili 
+o rezervoaru koji je previše ispražnjen da bi 
+se održao dovoljan izlazni pritisak;
+Postoje merači za psi goriva sa direktnim senzorom sa 
+Bourdonovim cevima, membranama i mehovima, 
+ali cev za gorivo ne sme da se vodi u pilotsku kabinu jer 
+može doći do požara ako curi, pa se koriste predajni uređaji;
+Nekad se umesto merača pritiska goriva koriste 
+indikacije za praćenje protoka goriva;)
+
+- Hidraulični pritisak:
+(Hidraulični manometri se nalaze u pilotskoj kabini i 
+na mestu servisiranja sistema ili blizu njega, ali na trupu;
+Indikatori koje koriste avio tehničari su 
+skoro uvek tipa Bourdon sa direktnim očitavanjem;
+Manometri u kokpitu kazuju sistemski pritisak koji 
+se prenosi električnim putem;
+
+- Vakumski pritisak:
+(Žiro merač = vakum merač = usisni merač, prati vakum u sistemu koji 
+pokreće žiroskopske instrumente koji rade na vazdušni pogon;
+Vazduh se provlači kroz instrumente zbog čega se okreće žiroskop.
+Brzina okretanja je povezana sa 
+razvijenim usisnim pritiskom u sistemu;
+Vakum je indikacija diferencijalnog pritiska jer se 
+mereni pritisak upoređuje sa atmosferskim pomoću 
+zatvorene dijafragme ili kapsule;
+Merač je kalibrisan u inčima žive.)
+
+
+
+Ulje se koristi za podmazivanje i hlađenje ležajnih povrišina 
+koji se rotiraju ili klize na velikim brzinama.
+Kod digitalnih sistema se prikazuje pritisak ulja pored ostalih parametra motora
+
+Gorivo se ispumpava iz rezervoara da bi ga koristili motori
+
+Hidraulični sistemi se koriste za podizanje i spuštanje stajnog trapa, 
+upravljanje komandama leta, kočenje, itd.
+Za normalan rad hidrauličnih uređaja potreban je 
+dovoljan pritisak u hidrauličnom sistemu koji razvijaju pumpe.
+
+
+Prekidač pritiska otvori ili zatvori električni krug kada je 
+postignut određen pritisak u sistemu, odnosno instrukcija da kada je 
+pritisak prenizak uradi nešto, kada je previsok uradi nešto drugo.
+
+Funkcija pito-statičkog sistema je da meri i predaje 
+različite vazdušne pritiske instrumentima za letenje.
+Sastoji se od Pito cevi sa otvorima za 
+dinamički (totalni) i statički pritisak i 
+hermetičkih cevi koje povezuju tačke prikupljanja vazdušnog pritiska 
+sa instrumentima koji koriste taj vazduh za indikaciju.
+Pito statički instrumenti su visinomer, brzinomer i VSI.
