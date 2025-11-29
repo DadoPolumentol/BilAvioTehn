@@ -1,0 +1,407 @@
+Question
+Šta je glavna funkcija komore za sagorevanje?
+
+Answer
+Zagreva vazduh. 
+
+Question
+Do koje temperature se vazduh zagreva sabijanjem u kompresoru?
+
+Answer
+Do ____ °C.
+
+Question
+Do koje temperature se vazduh zagreva u komori za sagorevanje?
+
+Answer
+Do ____ °C.
+
+Question
+Koja je maksimalna dozvoljena temperatura vazduha iz komore da ne uništi turbinu?
+
+Answer
+1700 °C.
+
+Question
+Kolika je brzina ulaska vazduha u komoru?
+
+Answer
+500 ft/s.
+
+Question
+Kolika je brzina vazduha u komori?
+
+Answer
+30 ft/s.
+
+Question
+Na koje delove se deli vazduh koji ulazi u komoru za sagorevanje?
+
+Answer
+Primarni, sekundarni, tercijarni. 
+
+Question
+Koliko vazduha čini primarni tok?
+
+Answer
+20%.
+
+Question
+Šta radi primarni tok vazduha?
+
+Answer
+Meša se s gorivom i sagoreva.
+
+Question
+Koliko vazduha čini sekundarni tok?
+
+Answer
+20%.
+
+Question
+Kuda ide sekundarni tok?
+
+Answer
+Kroz air case oko flame tube-a. 
+
+Question
+Koliko vazduha čini tercijarni tok?
+
+Answer
+60%.
+
+Question
+Kuda ide tercijarni tok?
+
+Answer
+Kroz air case, kasnije.
+
+Question
+Gde se nalazi flame tube?
+
+Answer
+U komori za sagorevanje. 
+
+Question
+Šta okružuje flame tube?
+
+Answer
+Air case.
+
+Question
+Čemu služi inter-connector?
+
+Answer
+Prenosi plamen između više komora.
+
+Question
+Koje vrste komora za sagorevanje postoje?
+
+Answer
+Cevaste, prstenaste, cevasto-prstenaste. 
+
+Question
+Šta karakteriše cevaste komore?
+
+Answer
+Više cevi, zajednička komora, drenaža u najnižu cev.
+
+Question
+Šta karakteriše cevasto-prstenaste komore?
+
+Answer
+Više cevi, bez air casing, vazduh ide oko svih njih.
+
+Question
+Šta karakteriše prstenaste komore?
+
+Answer
+Flame tube oko pregrade osovine, air case oko njega.
+
+Question
+Koji je idealan stehiometrijski odnos vazduh–gorivo kod mlaznih motora?
+
+Answer
+15:1.
+
+Question
+Kolika je efikasnost komore za sagorevanje?
+
+Answer
+95–99%.
+
+Question
+Kolika je efikasnost komore u praznom hodu?
+
+Answer
+95%.
+
+Question
+Kolika je efikasnost komore u radu?
+
+Answer
+99%.
+
+Question
+Koji režimi rada svećica postoje?
+
+Answer
+A, B, A+B, continuous.
+
+Question
+Kako rade svećice u continuous režimu?
+
+Answer
+Pod nižim naponom.
+
+Question
+Šta je brzina gorenja?
+
+Answer
+Brzina prostiranja plamena kroz cev.
+
+Question
+Šta znači FADEC?
+
+Answer
+Fuel Authority Digital Engine Control.
+
+Question
+Šta se dešava sa parametrima vazduha u turbini?
+
+Answer
+Svi opadaju. 
+
+Question
+Koji je glavni posao turbine?
+
+Answer
+Da okreće kompresor.
+
+Question
+Šta turbina radi sa vazduhom pre izduvnika?
+
+Answer
+Smiruje ga i šalje laminarno.
+
+Question
+Koji redosled elemenata postoji u turbini?
+
+Answer
+Prvo statori, zatim rotori.
+
+Question
+Šta se dešava na početku izduvnika?
+
+Answer
+Pada brzina, pritisak i temperatura.
+
+Question
+Kolika je masa malih lopatica u izduvniku?
+
+Answer
+60 g.
+
+Question
+Koliko opterećenje trpe male lopatice izduvnika?
+
+Answer
+2 tone.
+
+Question
+Gde je najviša temperatura u motoru?
+
+Answer
+U turbini.
+
+Question
+Kolika je maksimalna temperatura vazduha koji ulazi u turbinu?
+
+Answer
+1700 °C.
+
+Question
+Zašto su lopatice turbine šuplje?
+
+Answer
+Radi hlađenja i izduženja.
+
+Question
+Šta je clearance?
+
+Answer
+Rastojanje lopatice od kućišta.
+
+Question
+Kako se održava clearance?
+
+Answer
+Hlađenjem vazduhom, active turbine clearance control.
+
+Question
+Čime se oštećuju lopatice turbine?
+
+Answer
+Kristalnim sistemom.
+
+Question
+Kako se izrađuju bolje lopatice?
+
+Answer
+Od jednog kristala.
+
+Question
+Primer motora sa slobodnom turbinom?
+
+Answer
+APU.
+
+Question
+Koliko spool-ova mogu imati motori?
+
+Answer
+1, 2 ili 3.
+
+Question
+Šta je LP?
+
+Answer
+Low pressure compressor/turbine.
+
+Question
+Šta je HP?
+
+Answer
+High pressure compressor/turbine.
+
+Question
+Koje vrste lopatica turbine postoje?
+
+Answer
+Impulsne, reakcione, impuls-reakcija. 
+
+Question
+Koje lopatice su najčešće?
+
+Answer
+Impuls-reakcija.
+
+Question
+Kolika je minimalna efikasnost turbine?
+
+Answer
+95%.
+
+Question
+Šta se dešava sa efikasnošću kad je turbina veća?
+
+Answer
+Raste.
+
+Question
+Kako se lopatice montiraju na disk turbine?
+
+Answer
+Jelkica.
+
+Question
+Koliko puta vazduh prolazi kroz kanale lopatice radi hlađenja?
+
+Answer
+5 puta.
+
+Question
+Koji ležaj je najopterećeniji u motoru?
+
+Answer
+Ležaj broj 4.
+
+Question
+Zašto ima poseban drenaž?
+
+Answer
+Za curenje ulja.
+
+Question
+Koji je najkritičniji deo motora?
+
+Answer
+Turbina.
+
+Question
+Šta se radi kada se lopatica ošteti?
+
+Answer
+Zameni se.
+
+Question
+Šta turbina okreće?
+
+Answer
+Kompresor.
+
+Question
+Koje su komponente izduvnika?
+
+Answer
+Izduvni konus, repna cev, mlaznica. 
+
+Question
+Čemu služi repna cev?
+
+Answer
+Odaljava tople gasove od motora.
+
+Question
+Čemu služe upornice?
+
+Answer
+Drže konus, centriraju ga, upravljaju protokom.
+
+Question
+Koji deo stvara potisak kod turbofana i turbojeta?
+
+Answer
+Izduvna mlaznica.
+
+Question
+Koji deo kod turboshaft motora može stvoriti mali potisak?
+
+Answer
+Izduvna mlaznica.
+
+Question
+Koja je uloga izduvnog konusa?
+
+Answer
+Pretvara konvergentno u divergentno.
+
+Question
+Kakvi su Ps i v na izlazu iz mlaznice?
+
+Answer
+Ps = spoljašnjem, v najveće.
+
+Question
+Šta repna cev i mlaznica čine kod M>1?
+
+Answer
+Kondiv cev.
+
+Question
+Šta radi thrust reverser?
+
+Answer
+Menja smer izduvnih gasova radi kočenja. 
+
+Question
+Koji su primeri thrust reversera?
+
+Answer
+Bucket, clamshell, cold stream.
+
+Question
+Kako radi thrust reversal?
+
+Answer
+Pneumatski ili hidraulično.
