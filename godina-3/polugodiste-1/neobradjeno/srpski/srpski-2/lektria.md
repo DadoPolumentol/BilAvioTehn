@@ -1,6 +1,6 @@
 Koštana, Bora Stanković
 
-Hadži-Toma, Vaska, Stana, Koca, Stojan, Koštana, Kata, Arsa, Policaja, Marko, Magda, Salče, Grkljan, Mitka
+Hadži-Toma, Vaska, Stana, Koca, Stojan, Koštana, Kata, Arsa, Policaja, Marko, Magda, Salče, Grkljan, Mitka, (Asan), Kurta, Kmet, Ahmet
 
 Vranje, sadašnjost.
 
@@ -42,3 +42,28 @@ Koštana, Salče, itd., Mitka.
 Tomi se sviđa Koština pesma.
 
 Treći čin
+
+Tomina gostinska soba.
+Stojan, Stana, Kata, Marko, Toma.
+Mitka, Stojan, Toma, puška
+Stana, Toma, Arsa, Mitka.
+Arsa otera cigane.
+Toma, Arsa, Toma oće da ubije Koštanu
+Koštana bolesna, Toma miriše.
+
+Mitkina kuća
+Mitka sa ciganima
+Koštana peva
+Mitka jatagan na sebe.
+Arsa, Policaja, 2-3 pandura
+Arsa preti da ubije Mitka ako ga opet vidi sa ciganima u mehani
+Arsa, Mitka, Grkljan (krivi Salče što je naučila Koštanu da peva), Salče
+
+Četvrti čin
+
+Koštanino venčanje za Asana
+Kurta, Kmet, Ahmet.
+Koštana, Kmet, Stojan.
+Policaja.
+Mitka, Koštana
+Policaja
