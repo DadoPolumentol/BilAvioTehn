@@ -1,3 +1,4 @@
+[knjiga](https://gimnazijadg.wordpress.com/wp-content/uploads/2022/11/b.-stankovic-kostana.pdf)
 Koštana, Bora Stanković
 
 Hadži-Toma, Vaska, Stana, Koca, Stojan, Koštana, Kata, Arsa, Policaja, Marko, Magda, Salče, Grkljan, Mitka, (Asan), Kurta, Kmet, Ahmet
