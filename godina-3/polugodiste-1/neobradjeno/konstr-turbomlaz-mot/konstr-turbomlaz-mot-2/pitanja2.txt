@@ -1,0 +1,197 @@
+Question
+Zašto nadzvučna struja ne može da uđe u motor kada avion leti brže od zvuka?
+
+Answer
+Zbog kosih udarnih talasa.
+
+Question
+Kako radi motor sa hiperpotiskom (ruski koncept)?
+
+Answer
+Pali azot ekspanzionim udarnim talasom (??????).
+
+Question
+Šta se dešava sa vazduhom pri savijanju ulaznog toka?
+
+Answer
+Vazduh ulazi u kompresor, zapremina se smanjuje.
+
+Question
+Šta prikazuje SK 12?
+
+Answer
+Realan i idealan ciklus.
+
+Question
+Koje vrste kompresora postoje?
+
+Answer
+Aksijalni i radijalni.
+
+Question
+Kako se kreće vazduh u aksijalnom kompresoru?
+
+Answer
+Ide pravo kroz kompresor.
+
+Question
+Kako se kreće vazduh u radijalnom kompresoru?
+
+Answer
+Ide ka centru i razbacuje se ka zidu zbog centrifugalne sile.
+
+Question
+Koliko se stepena može imati kod aksijalnog kompresora?
+
+Answer
+Koliko god je potrebno.
+
+Question
+Koliko se stepena može imati kod radijalnog kompresora?
+
+Answer
+Samo dva stepena lopatica.
+
+Question
+Šta je impeler?
+
+Answer
+Lopatice radijalnog kompresora.
+
+Question
+Šta rade statorske lopatice?
+
+Answer
+Rotiraju se oko svoje ose.
+
+Question
+Šta znači VSV?
+
+Answer
+Variable stator vanes.
+
+Question
+Kako funkcioniše Rolls-Royce Trent raspodela kompresora i turbina?
+
+Answer
+Low PSI kompresor pokreće low PSI turbina, high PSI kompresor high PSI turbina, medium PSI kompresor medium PSI turbina.
+
+Question
+Šta znači 100% na indikatoru broja obrtaja?
+
+Answer
+Najveći broj obrtaja motora a da ne dođe do kvara.
+
+Question
+Šta je turboshaft motor?
+
+Answer
+Motor sa aksijalno-radijalnim kompresorom.
+
+Question
+Gde se koriste radijalni kompresori?
+
+Answer
+APU, helikopteri itd.
+
+Question
+Gde se koriste aksijalni kompresori?
+
+Answer
+Turbofan motori itd.
+
+Question
+Šta je stoling kompresora?
+
+Answer
+Napadni ugao je prevelik, ne ulazi dovoljno vazduha, temperatura raste, vibracije i plamen izlazi napred.
+
+Question
+Šta je pumpanje motora?
+
+Answer
+Nestabilan protok vazduha kroz motor (kompresorski povratni tok).
+
+Question
+Kako se vrši kontrola protoka vazduha?
+
+Answer
+Varijabilne statorske lopatice menjaju ugao i oblikuju tok vazduha.
+
+Question
+Šta radi variable bleed vane?
+
+Answer
+Ispušta višak vazduha.
+
+Question
+Šta znači IP?
+
+Answer
+Intermediate pressure.
+
+Question
+Koje kombinacije kompresora mogu da postoje?
+
+Answer
+Low-high ili low-medium-high PSI kompresori i turbine.
+
+Question
+Koje vrste kompresorskih lopatica postoje?
+
+Answer
+Fenske lopatice sa osloncem.
+
+Question
+Koje indikatore broja obrtaja motora možemo imati?
+
+Answer
+N1 i N2 ili APR i N2.
+
+Question
+Šta su variable inlet guide vanes?
+
+Answer
+Prve lopatice koje usmeravaju vazduh u kompresor i menjaju napadni ugao.
+
+Question
+Šta je ATA 36?
+
+Answer
+Pneumatika.
+
+Question
+Šta je ATA 30?
+
+Answer
+Deicing/anti-icing system.
+
+Question
+Šta je ATA 21?
+
+Answer
+Klima / air conditioning.
+
+Question
+Šta je ATA 29?
+
+Answer
+Hidraulika.
+
+Question
+Šta je ATA 80?
+
+Answer
+Startni sistem motora.
+
+Question
+Koje vrste komora za sagorevanje postoje?
+
+Answer
+Cevaste i prstenaste.
+
+Question
+Šta je FCU?
+
+Answer
+Fuel control unit.
