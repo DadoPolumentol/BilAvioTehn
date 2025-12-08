@@ -1,0 +1,347 @@
+Question
+Šta se dešava sa parametrima vazduha u turbini?
+
+Answer
+U turbini padaju svi parametri vazduha.
+
+Question
+Koji je glavni posao turbine?
+
+Answer
+Da okreće kompresor; ostatak energije izlazi kroz izduvnik.
+
+Question
+Kako turbina „šalje“ vazduh u izduvnik?
+
+Answer
+Smiruje ga i laminarno usmerava u izduvnik.
+
+Question
+Koji je redosled elemenata u turbini?
+
+Answer
+Prvo idu statori pa rotori (za razliku od kompresora).
+
+Question
+Šta pada na početku izduvnika?
+
+Answer
+Brzina, pritisak i temperatura.
+
+Question
+Kolika je masa malih lopatica izduvnika i koje opterećenje trpe?
+
+Answer
+Masa ~60 g, a trpe oko 2 tone opterećenja.
+
+Question
+Gde je najviša temperatura u motoru?
+
+Answer
+U turbini.
+
+Question
+Kolika je maksimalna dozvoljena temperatura vazduha iz komore za sagorevanje?
+
+Answer
+Ne sme biti veća od 1700 °C.
+
+Question
+Zašto su lopatice turbine šuplje?
+
+Answer
+Zbog hlađenja i zbog termičkog izduženja.
+
+Question
+Šta se dešava ako se lopatica previše izduži?
+
+Answer
+Može da udari u kućište motora.
+
+Question
+Zašto lopatica mora prolaziti blizu kućišta?
+
+Answer
+Da bi vazduh pravilno tekao; potrebno je mali clearance.
+
+Question
+Šta je clearance?
+
+Answer
+Rastojanje između vrha lopatice i kućišta turbine.
+
+Question
+Kako se održava clearance?
+
+Answer
+Hlađenjem i ubacivanjem vazduha (active turbine clearance control system).
+
+Question
+Šta najviše oštećuje lopatice turbine?
+
+Answer
+Kristalni sistem materijala.
+
+Question
+Kako se izrađuju moderne lopatice turbine?
+
+Answer
+Od jednog kristala da bi se sprečila korozija.
+
+Question
+Primer motora sa slobodnom turbinom?
+
+Answer
+APU.
+
+Question
+Koji su osnovni tipovi spool konfiguracija?
+
+Answer
+1 spool (1 kompresor + turbina), 2 spool (LP i HP), 3 spool (LP, IP, HP).
+
+Question
+Od čega zavisi stepen turbine?
+
+Answer
+Od snage koju mora da prenese kompresoru i ostalim delovima.
+
+Question
+Šta znači LP i HP u turbini?
+
+Answer
+LP – low pressure; HP – high pressure.
+
+Question
+Koje su vrste lopatica turbine?
+
+Answer
+Impuls, reakcija, impuls-reakcija.
+
+Question
+Kako izgledaju impulsne lopatice?
+
+Answer
+Zakrivljene kao „smajli“.
+
+Question
+Kako izgledaju reakcione lopatice?
+
+Answer
+Kao „banana“.
+
+Question
+Koja je najčešća vrsta lopatica?
+
+Answer
+Impuls-reakcija.
+
+Question
+Kolika je efikasnost turbine?
+
+Answer
+Minimum 95%.
+
+Question
+Kako veličina turbine utiče na efikasnost?
+
+Answer
+Veća turbina = efikasnija, ali teža i veći otpor vazduha.
+
+Question
+Da li su lopatice turbine fiksirane za disk?
+
+Answer
+Ne, montirane su preko „jelkice“ kao i kod kompresora.
+
+Question
+Koliko puta vazduh prolazi kroz kanale lopatice radi hlađenja?
+
+Answer
+Pet puta.
+
+Question
+Kako su se lopatice nekada štitile?
+
+Answer
+Prevlačenjem keramikom.
+
+Question
+Koji je najopterećeniji ležaj na osovini turbine?
+
+Answer
+Ležaj broj 4.
+
+Question
+Zašto je ležaj broj 4 problematičan?
+
+Answer
+Najopterećeniji je i ima poseban drenažni sistem.
+
+Question
+Koji je najkritičniji deo motora?
+
+Answer
+Turbina.
+
+Question
+Šta se radi kad se lopatica turbine ošteti?
+
+Answer
+Proceni se da li može da se popravi, ali se uglavnom menja.
+
+Question
+Šta turbina radi kompresoru?
+
+Answer
+Pokreće ga.
+
+Question
+Koje su osnovne komponente izduvnika?
+
+Answer
+Izduvni konus, repna cev, mlaznica.
+
+Question
+Čemu služi repna cev?
+
+Answer
+Odaljava tople izduvne gasove od motora.
+
+Question
+Šta rade upornice u izduvniku?
+
+Answer
+Drže konus centriran i služe kao upravljačke lopatice.
+
+Question
+Kakva je uloga izduvne mlaznice kod turbofana i turbojeta?
+
+Answer
+Stvara potisak.
+
+Question
+Da li turboshaft ima potisak?
+
+Answer
+Teorijski mali potisak kod nekih motora.
+
+Question
+Šta radi izduvni konus?
+
+Answer
+Pretvara konvergentnu u divergentnu geometriju na ulazu.
+
+Question
+Kakav je odnos pritiska na izlazu mlaznice?
+
+Answer
+Ps = spoljašnjem pritisku, ali je brzina najveća.
+
+Question
+Šta repna cev i mlaznica čine pri M>1?
+
+Answer
+Kondiv (konvergentno-divergentnu) cev.
+
+Question
+Čemu služi thrust reverser?
+
+Answer
+Menja pravac izduvnih gasova i usporava avion.
+
+Question
+Primeri thrust reversera?
+
+Answer
+Bucket, clamshell, cold stream.
+
+Question
+Kako se upravlja thrust reverserom?
+
+Answer
+Pneumatski ili hidraulično.
+
+Question
+Šta je APU?
+
+Answer
+Turbomlazni motor sa radijalnim kompresorom u repu aviona.
+
+Question
+Šta APU obezbeđuje?
+
+Answer
+Struju i pneumatski vazduh za start motora itd.
+
+Question
+Gde su komore za sagorevanje kod APU?
+
+Answer
+Iznad kompresora.
+
+Question
+Šta je uvodnik APU?
+
+Answer
+Vrata APU usisnika.
+
+Question
+Može li se regulisati gas na APU?
+
+Answer
+Ne, ali APU termostat reguliše obrtaje i gorivo.
+
+Question
+Na kojoj strani pneumatskog sistema je APU?
+
+Answer
+Na levoj strani.
+
+Question
+Zašto APU mora biti na levoj strani?
+
+Answer
+Da bi mogao da upali levi motor, koji zatim uključuje desni preko isolation ventila.
+
+Question
+Koji rezervoar goriva koristi APU?
+
+Answer
+Levi rezervoar, pa mora da se balansira.
+
+Question
+Šta je ITOCS?
+
+Answer
+Flight with APU as reserve; obavezan za long-range letove sa 2 motora.
+
+Question
+Koliko dugo avion sme da leti bez APU?
+
+Answer
+10 dana, ali mora biti postavljen teret na mestu APU.
+
+Question
+Zašto je APU obavezan?
+
+Answer
+Zbog grejanja i drugih funkcija.
+
+Question
+Šta je bio GPU?
+
+Answer
+Ground Power Unit pre APU, nije bio standardizovan.
+
+Question
+Koja je frekvencija električne energije u avionu?
+
+Answer
+400 Hz.
+
+Question
+Kako se prati stanje APU?
+
+Answer
+Po frekvenciji, ne po broju obrtaja.
