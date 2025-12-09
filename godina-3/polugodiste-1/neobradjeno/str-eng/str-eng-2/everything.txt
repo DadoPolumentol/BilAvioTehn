@@ -1,0 +1,50 @@
+Here are the **general “Write everything about X” questions** followed by **complete, concise answers** fully based on your text.
+Flashcard-friendly, minimal wording, no skipped info.
+
+---
+
+### **1. Write everything you know about the magnetic compass.**
+
+The magnetic compass is one of the oldest aircraft direction indicators. It contains a float with two magnets attached, sealed inside a bowl filled with compass fluid (mineral spirits/kerosene). Around the float is a graduated card with N-E-S-W markings, numbers every 30°, long 10° marks, short 5° marks, seen through a glass window with a lubber line. A hardened steel pivot sits in a spring-loaded jewel cup; buoyancy removes weight from the pivot and fluid damps oscillations. The float can tilt ~18°; beyond that indications become erratic. The case is completely full of fluid and has a flexible diaphragm or metal bellows to absorb thermal expansion. Magnets align with Earth’s magnetic field; the pilot reads heading opposite the lubber line and sees the card from the backside, so graduations appear reversed. A compensator assembly with E-W and N-S shafts and small adjustable magnets cancels deviation from aircraft magnetic fields. Compass compensation adjusts the compass using these magnets. Terms: lubber line = reference line; magnetic field = lines of magnetic force; magnet = object attracting iron; pivot = rotation shaft; buoyancy = float tendency.
+
+---
+
+### **2. Write everything you know about autopilots.**
+
+Autopilot is a device that guides an aircraft without direct pilot control (“George”). Created to reduce pilot fatigue—first Sperry autopilot (1912) used gyroscopic heading + attitude indicators to drive hydraulically operated elevators and rudder, keeping straight and level flight. Early autopilots held constant heading and altitude. Modern autopilots use computers and flight control systems to control nearly all phases from after take-off to landing; some include thrust control (auto-throttle) for optimized airspeed.
+
+---
+
+### **3. Write everything you know about the autopilot from a pilot’s perspective.**
+
+Autopilot uses sensors detecting speed, altitude, turbulence → data to the computer → aircraft control inputs. Integrated with FMS and auto-throttle if installed. Software + navigation system controls the aircraft in all flight phases. Pilot enters the route with waypoints, speeds, altitudes before take-off. Autopilot does not steer/taxi on ground; pilot handles take-off, then engages autopilot for most of flight. Some modern aircraft allow autoland. Regulations require two crew in cockpit; one must monitor the system because autopilot can disengage (e.g., turbulence). Pilot must take over when alerted. Safe operation requires knowledge of capabilities and design.
+
+---
+
+### **4. Write everything you know about the autopilot from a technician’s perspective.**
+
+Different aircraft may have different autopilot systems; several may be certified for one type. Technician must understand system function before maintenance. Autopilot deviation can be caused by paint damage or protruding rivets disturbing airflow. Replacing a nose compartment lock with one that protrudes ~3 mm more can disturb airflow over the static port and cause deviation. Overuse/underuse testing is important—crews often use only one isolation method, leaving others unexercised; lack of use causes problems similar to overuse. Maintenance programs should include periodic testing of all autopilot functions. Even basic maintenance must consider effects on the pilot and autopilot.
+
+---
+
+### **5. Write everything you know about GPS in aviation.**
+
+GPS is essential for modern air navigation. GPS aircraft tracking uses a receiver communicating with satellites to provide real-time data to a ground server, which passes it to users (ATC, airlines). ADS-B can transmit GPS-based positions to ATC, allowing reduced separation. Airlines can track fleets using ACARS. GPS helps locating aircraft after accidents. ACARS/ADS-B antennas are avionics (external). Non-installed devices (T-PEDS) must be turned off during critical flight phases; they usually sit inside the airframe with satellite visibility (e.g., cockpit window).
+
+GPS gives precise 3D/4D position (lat, lon, altitude, time) using triangulation. Receiver measures travel time of satellite’s CA code radio signal to calculate pseudo-range. Distance = time × speed of light. Satellite also transmits ephemeris (exact orbital position). Satellites broadcast L1 and L2 signals; receiver usually captures L1. Position requires 4 satellites: 1 → sphere, 2 → intersecting spheres, 3 → three possible points, 4 → one point.
+
+Terms: ephemeris = satellite trajectory; acquisition = process of obtaining signal; triangulation = position by triangle geometry.
+
+---
+
+### **6. Write everything you know about primary flight instrument sensors (AHRS, ADC, ADAHRS).**
+
+Primary flight instruments on the PFD use advanced instrument sensor systems. Attitude is measured by sensitive microelectronic sensors detecting pitch, roll, yaw from a known reference. Heading is obtained using a magnetometer or magnetic flux valve. AHRS (Attitude and Heading Reference System) integrates attitude sensors, heading sensors, and onboard computer. AHRS must be initialized on the ground before departure to set a reference attitude; errors accumulate over time, so AHRS continually self-corrects during stable flight. Turbulence reduces correction accuracy. Some AHRS can be reinitialized in flight. Pilots must know system procedures and limits.
+
+Altitude/airspeed info comes from static and ram air pressure and temperature sensors. The ADC (air data computer) combines these sensors with a processor to compute pressure altitude, IAS, vertical speed, true airspeed. ADAHRS integrates AHRS + ADC + air data sensors into one unit.
+
+Conventional instruments = mechanical predecessors. AHRS = electronic attitude/heading system with sensors + computer.
+
+---
+
+If you want, I can format them exactly as your flashcards (Q→A pairs with your preferred list style).

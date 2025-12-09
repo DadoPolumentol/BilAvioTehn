@@ -1,0 +1,91 @@
+MAGNETIC COMPASS
+Construction:
+Float + 2 magnets + graduated card; pivot + jewel cup; filled with mineral spirits/kerosene; diaphragm/bellows for temperature expansion; lubber line; card read “backwards.”
+Limits: usable up to ~18° bank; beyond that → errors.
+Errors:
+• Variation – difference between true/magnetic.
+• Deviation – internal aircraft magnetism (corrected by compensator).
+• Acceleration/deceleration (ANDS) – Accelerate North, Decelerate South.
+• Northerly turning error (UNOS) – Undershoot North, Overshoot South.
+Compensator: two screws → E–W and N–S adjustment.
+
+AUTOPILOT — NOTES
+Purpose: reduces workload; maintains heading/altitude; modern systems can control full flight.
+Early system (Sperry): gyro heading + attitude → hydraulic elevators + rudder → straight & level.
+Modern system:
+Computer + sensors (speed, altitude, turbulence).
+May include auto-throttle.
+Integrated with FMS.
+Controls flight from after take-off to landing.
+Pilot’s use:
+Pilot enters route pre-flight; autopilot cannot taxi/take-off; pilot takes off then engages AP; some systems auto-land.
+Crew must monitor AP and take over if it disengages (turbulence, malfunction).
+Regulations require 2 crew.
+Technician notes:
+Systems differ by aircraft; must understand certified system.
+Even small surface changes (paint/rivets/locks) can disturb airflow → errors.
+Both overuse and underuse cause faults → scheduled full-function tests required.
+
+GPS
+Uses: navigation, reduced separation (ADS-B), fleet tracking (ACARS), accident location, ADS-B broadcasts.
+Installed vs non-installed devices:
+External antenna = avionics.
+Internal portable devices = T-PEDS → must be OFF during critical phases.
+
+GPS PRINCIPLES
+Provides: lat, lon, altitude, time (4D).
+Method: triangulation/pseudo-range.
+Satellite sends CA code + ephemeris.
+Receiver measures signal travel time × speed → distance.
+Frequencies: L1, L2 (receiver mainly uses L1).
+Satellites needed:
+3 → 2 possible positions;
+4 → 1 true position.
+
+FLIGHT INSTRUMENT SENSOR SYSTEMS
+AHRS: electronic attitude + heading sensors + computer.
+Measures: pitch, roll, yaw from attitude reference.
+Uses magnetometer/flux valve for heading.
+Requires ground initialization.
+Errors accumulate → continual corrections; turbulence reduces accuracy.
+ADC: static pressure + ram pressure + temperature → computes pressure altitude, IAS, vertical speed, TAS.
+ADAHRS: AHRS + ADC in one unit.
+PFD inputs: attitude, heading, altitude, airspeed all from sensor suites (AHRS/ADC/ADAHRS).
+
+DEFINITIONS
+Lubber line = reference line.
+Ephemeris = satellite orbital data.
+Triangulation = position from geometry.
+Pseudo-range = distance from signal travel time.
+cup – jewel
+assembly – compensator
+error – deviation
+marks – graduation
+scale – graduated
+field – magnetic
+line – lubber
+directions – cardinal
+housing – compass
+Klaxon → an electric horn or warning hooter
+Baffled → confused; perplexed; puzzled
+Jolt → an abrupt rough or violent movement; jerk
+To regain → obtain possession of something again after losing it; retrieve; recover
+To coax → to persuade; to manoeuvre
+To medevac → to transport casualties to hospital in a helicopter or aeroplane
+Laceration → a deep cut or tear in skin or flesh
+To take in, feed into = ingest / ingested
+To merge with, combine with, join with = integrated with
+To step in, assume, undertake = take over
+To cut loose, disconnect = disengage / disengage itself
+Automatic dependent surveillance–broadcast → ADS-B
+Aircraft communications, addressing and reporting system → ACARS
+Automatic dependent surveillance–broadcast (again) → ADS-B
+Transmitting portable electronic devices → T-PEDS
+FMS → Flight Management System
+L1 → GPS L1 frequency band
+L2 → GPS L2 frequency band
+CA code → Course/Acquisition code (GPS signal code)
+AHRS → Attitude and Heading Reference System
+AHRSS → Attitude and Heading Reference Sensor/System
+ADC → Air Data Computer
+ADAHRS → Air Data Attitude and Heading Reference System

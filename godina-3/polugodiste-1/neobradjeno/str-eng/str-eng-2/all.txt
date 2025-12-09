@@ -1,0 +1,183 @@
+COMPASS
+One of the oldest and simplest instruments for indicating direction is the magnetic compass. An aircraft magnetic compass has two small magnets attached to a metal float sealed inside a bowl of clear compass fluid similar to kerosene. A graduated scale, called a card, is wrapped around the float and viewed through a glass window with a lubber line across it. The card is marked with letters representing the cardinal directions, north, east, south, and west, and a number for each 30° between these letters. There are long and short graduation marks between the letters and numbers, with each long mark representing 10° and each short mark representing 5°.
+The float and card assembly has a hardened steel pivot in its center that rides inside a special, spring-loaded, hard-glass jewel cup. The buoyancy of the float takes most of the weight off the pivot, and the fluid damps the oscillation of the float and card. This jewel-and-pivot type mounting allows the float freedom to rotate and tilt up to approximately 18° angle of bank. At steeper bank angles, the compass indications are erratic and unpredictable.
+The compass housing is entirely full of compass fluid. To prevent damage or leakage when the fluid expands and contracts with temperature changes, the rear of the compass case is sealed with a flexible diaphragm, or with a metal bellows in some compasses.
+The magnets align with the Earth's magnetic field and the pilot reads the direction on the scale opposite the lubber line. The pilot sees the compass card from its backside. When the pilot is flying north as the compass shows, east is to the pilot's right. On the card, "33", which represents 330° (west of north), is to the right of north. The reason for this apparent backward graduation is that the card remains stationary, and the compass housing and the pilot turn around it, always viewing the card from its backside.
+A compensator assembly mounted on the top or bottom of the compass allows an aviation maintenance technician (AMT) to create a magnetic field inside the compass housing that cancels the influence of local outside magnetic fields. This is done to correct for deviation error. The compensator assembly has two shafts whose ends have screwdriver slots accessible from the front of the compass. Each shaft rotates one or two small compensating magnets. The end of one shaft is marked E-W, and its magnets affect the compass when the aircraft is pointed east or west. The other shaft is marked N-S and its magnets affect the compass when the aircraft is pointed north or south.
+
+
+
+
+
+
+1. The reference line of a magnetic compass, directional gyro, or cathode-ray tube to indicate the nose of the aircraft. Lubber line
+2. The lines of force surrounding a permanent magnet or a moving charged particle. Magnetic field
+4. A body that can attract certain substances, such as iron or steel, as a result of a magnetic field. Magnet
+5. A short rod or shaft on which a related part rotates or swings. Pivot
+6. The tendency to float in water or other liquid. Buoyancy
+7. A revolving rod that transmits motion or power: usually used of axial rotation. Shaft
+8. The procedure of adjusting the magnetic compass in an aircraft for deviation caused by magnetic forces within the aircraft. Compass compensation
+
+
+As one of the most basic instruments, the magnetic compass consists only of a compass card that swings on a pivot assembly. Attached to that assembly are two magnets and an
+float. These pieces are submerged in mineral spirits or kerosene, which stabilizes the
+compass card and makes it easier to read. The glass face includes a reference point called the lubber line where the direction is referenced.
+
+
+
+
+
+
+
+
+AUTOPILOT
+An autopilot is a device used to guide an aircraft without direct assistance from the pilot. The autopilot system is sometimes colloquially referred to as "George" (e.g. "we'll let George fly for a while").
+In the early days of aviation, aircraft required the continuous attention of a pilot to fly safely. As aircraft range increased, allowing flights of many hours, the constant attention led to serious fatigue. An autopilot is designed to perform some of the tasks of the pilot.
+The first aircraft autopilot was developed by Sperry Corporation in 1912. The autopilot connected a gyroscopic heading indicator and attitude indicator to hydraulically operated elevators and rudder. It permitted the aircraft to fly straight and level on a compass course without a pilot's attention, greatly reducing the pilot's workload.
+Early autopilots were only able to maintain a constant heading and altitude. However, modern autopilots are capable of controlling every part of the flight envelope from just after take-off to landing. Modern autopilots use computer software to control the aircraft. The software reads the aircraft's current position, and then controls a flight control system to guide the aircraft. In such a system, besides classic flight controls, many autopilots incorporate thrust control capabilities that can control throttles to optimize the airspeed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUTOPILOT FROM A PILOT'S PERSPECTIVE
+The autopilot system relies on a series of sensors around the aircraft that pick up information like speed, altitude and turbulence. That data are ingested into the computer, which then makes the necessary changes. Modern autopilots are normally integrated with the flight management system (FMS) and, if it is installed, the auto-throttle system. Autopilot software, which is integrated with the navigation systems, is capable of providing control of the aircraft throughout each phase of flight. Basically, it can do almost everything a pilot can do.
+Before take-off, the pilot will enter the route into the computer, giving it a start and end position and exactly how to get there. Throughout that route there are a series of points that the computer will note, each having its own speed and altitude.
+The autopilot does not steer the airplane on the ground or taxi the plane at the gate. Generally, the pilot will handle take-off and then initiate the autopilot to take over for most of the flight. In some newer aircraft models, autopilot systems will even land the plane. Although aviation regulations vary between countries, at least two crew members must remain in the cockpit at all times. From a flying perspective, the pilot or the co-pilot must remain at the controls to keep an eye on the computer to make sure everything is running smoothly. As the autopilot may sometimes disengage itself, in the event of extreme turbulence for example, it is necessary for the pilot to be ready to, when alerted, take over control of the plane. But standard procedure for most airlines is the use of automation for much of the flight. The safe and efficient operation of automatic systems relies on clear understanding of the capabilities and the design of the equipment.
+AUTOPILOTS FROM A TECHNICIAN'S PERSPECTIVE
+Autopilot systems in different aircraft will rarely work the same. In fact, some specific types of aircraft may have several different autopilot systems certified for use. Prior to conducting maintenance on any auto-flight system, it is important to have a good understanding of how the system should work.
+Some of the causes of autopilot deviation can be paint damage, or protruding rivets, as they may distort airflow. Some cases of autopilot deviation have been attributed to replacement of a nose compartment key lock with one possessing better theft-resistant tendencies. Unfortunately, these new and improved type locks protrude into the airstream about three millimetres further than the original, and disrupt the airflow over the static port.
+Testing for overuse and underuse is very important in ensuring the autopilot to be in good repair, too. In many situations, flight crews get used to using only one means of isolating the auto- flight system and none of the alternate methods get exercised. Most of us in the aircraft maintenance field realize that the lack of use of a device causes almost as many problems as overuse. If not already incorporated in the aircraft normal maintenance schedule, it would be worthwhile to include a designated time where all the autopilot functions can be tested.
+And finally, when performing even the most basic maintenance on an aircraft, it is worth considering not only how it could affect the pilot but also how it could affect the autopilot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GLOBAL POSITIONING SYSTEM IN AVIATION
+The global positioning system is a vital component of modern air navigation. GPS aircraft tracking is a means of tracking the position of an aircraft fitted with a GPS receiver. By communication with GPS satellites, detailed real-time data on flight variables can be passed to a server on the ground. This server stores the flight data, which can then be transmitted via telecommunications networks to organizations wishing to interpret it. Accurate real-time data provided by GPS aircraft tracking may be offered to air traffic control using ADS-B technology. This can safely reduce airspace separation of aircraft. GPS aircraft tracking also enables airlines to track their fleet of aircraft over the ACARS system, and allows aircraft to be more easily located in
+the event of an accident.
+ACARS and ADS-B devices are components of avionics (if so, the receiving and transmitting antennas are usually located outside of the airframe). In cases where the devices are not installed as avionics components, they have to be completely independent from the aircraft, and they are typically placed inside of the airframe (in a location where the GPS and communication satellites are directly visible to the device, e.g. through the cockpit window). The output signal must also be able to penetrate the aircraft. Authorities classify non-installed components as T-PEDS and, as such, require them to be switched off during the critical phases of flight.
+How does GPS work?
+GPS data allows pilots to obtain precise three-dimensional or four-dimensional location data. The GPS system uses triangulation to determine an aircraft's exact location, as well as speed, track, distance to or from checkpoints, and time.
+The aircraft GPS receiver measures distance from a satellite using the travel time of a radio signal. Each satellite transmits a specific code, called a course/acquisition (CA) code, which contains information on the satellite's position, the GPS system time, and the health and accuracy of the transmitted data. Knowing the speed at which the signal travelled (approximately 186,000 miles per second) and the exact broadcast time, the distance travelled by the signal can be computed from the arrival time. The distance derived from this method of computing distance is called a pseudo- range because it is not a direct measurement of distance, but a measurement based on time. In addition to knowing the distance to a satellite, a receiver needs to know the satellite's exact position in space; this is known as its ephemeris. Each satellite transmits information about its exact orbital location. The GPS receiver uses this information to precisely establish the position of the satellite. As each GPS satellite transmits two frequencies (referred to as L1 and L2), there is a strong probability that the receiver will capture the frequency L1.
+Four satellites are needed for determining the position:
+One satellite: Each satellite sends out a signal that includes its own position and the time. The receiver can calculate the time it took the signal to travel and multiply that by the speed of the signal (the speed of light) to compute the distance. That distance ("r" in the figure) defines a sphere. The receiver could be at any point on that sphere. On the diagram - it is the entire outer shell of the sphere.
+Two satellites: With two satellites you have an intersection of two spheres and the receiver could be in any position along those intersecting spheres. The position could be at any point inside the three-dimensional shape described by the black line.
+
+
+
+
+
+
+
+Three satellites: With three satellites the possible location is narrowed down to one of three points.
+Four satellites: With one more satellite, the possible location is narrowed down to just one point.
+
+
+
+Ephemeris → In astronomy and celestial navigation, it gives the trajectory of astronomical objects and satellites (position over time).
+Acquisition → …is the process of getting something.
+Triangulation → The division of a map/area into triangles for measurement or the calculation of positions and distances
+
+
+
+
+
+
+The primary flight instruments that appear on a PFD are driven by instrument sensor systems that are more sophisticated than conventional instrument systems.
+
+The attitude of the aircraft may be measured using microelectronic sensors that are more sensitive and reliable than traditional gyroscopic instruments.
+These sensors measure pitch, roll, and yaw movements away from a known reference attitude.
+
+Aircraft heading may be determined using a magnetic direction-sensing device such as a magnetometer or a magnetic flux valve.
+
+Attitude and heading systems are typically integrated reference system (AHRS), which contains not only the sensors used to measure attitude and heading, but also a computer that bundled together as an attitude heading sensor inputs and performs calculations.
+
+AHRSS must be initialized on the ground prior to departure.
+Some The initialization procedure allows the system to establish a reference attitude used as a benchmark for all future attitude changes.
+
+As in any navigation system, attitude heading reference systems accumulate over time.
+For this reason, AHRSS continually make small corrections to the reference attitude, using periods of stable flight to correct themselves.
+
+The system's ability to correct itself can be diminished during prolonged periods of turbulence.
+
+Some AHRSs can be reinitialized in flight, while others cannot.
+The pilot must become familiar with the operating procedures and capabilities of a particular system.
+
+Information on altitude and airspeed is provided by sensors that measure static and ram air pressure and temperature.
+
+An air data computer (ADC) combines sensors with a computer processor that is capable of calculating pressure altitude, indicated airspeed, vertical speed, and true airspeed.
+
+An air data attitude heading reference system (ADAHRS) combines all of the systems previously described into one integrated unit.+
+
+
+Conventional flight instruments are traditional, mechanically driven instruments used before modern electronic displays.
+AHRS provides aircraft attitude and heading information using advanced electronic sensors and computers.
+AHRS stands for Attitude and Heading Reference System.
+Over time AHRS sensors accumulate errors and therefore need continual small corrections.
+Sensors measuring static and ram air pressure provide altitude, airspeed, and temperature data to the air data computer.
+
+
+
+
+
+
+
+
+
+cup – jewel
+assembly – compensator
+error – deviation
+marks – graduation
+scale – graduated
+field – magnetic
+line – lubber
+directions – cardinal
+housing – compass
+Klaxon → an electric horn or warning hooter
+Baffled → confused; perplexed; puzzled
+Jolt → an abrupt rough or violent movement; jerk
+To regain → obtain possession of something again after losing it; retrieve; recover
+To coax → to persuade; to manoeuvre
+To medevac → to transport casualties to hospital in a helicopter or aeroplane
+Laceration → a deep cut or tear in skin or flesh
+To take in, feed into = ingest / ingested
+To merge with, combine with, join with = integrated with
+To step in, assume, undertake = take over
+To cut loose, disconnect = disengage / disengage itself
+Automatic dependent surveillance–broadcast → ADS-B
+Aircraft communications, addressing and reporting system → ACARS
+Automatic dependent surveillance–broadcast (again) → ADS-B
+Transmitting portable electronic devices → T-PEDS
+FMS → Flight Management System
+L1 → GPS L1 frequency band
+L2 → GPS L2 frequency band
+CA code → Course/Acquisition code (GPS signal code)
+AHRS → Attitude and Heading Reference System
+AHRSS → Attitude and Heading Reference Sensor/System
+ADC → Air Data Computer
+ADAHRS → Air Data Attitude and Heading Reference System
