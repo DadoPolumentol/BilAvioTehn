@@ -90,7 +90,6 @@ Zadatci:
 
 *1 - Šta su Lapurlartizam i utilitarizam
 *2 - Šta su parnasizam, simbolizam, impresionizam
-*3 - dela 
 *4 - https://vakademija.org/mod/url/view.php?id=32717
 
 Môderna (obuhvata period 1890-1914) ili dekadenca.
