@@ -1,0 +1,58 @@
+Najmanji zajednički deo reči iz jedne porodice je koren reči.
+
+Prosta reč je koren- + -a, veće su tvorenice.
+
+Koren reči nađeš tako što uporediš reč sa drugima iz njene porodice ili ako imaš prostu reč odbiješ joj nastavak u genitivu jednine (koga, čega)
+
+Tvorba reči se sastoji od:
+- Tvorbene osnove (*vod-* + -en)
+- Tvorbenih afiksa (prefiksi (*do-* + -trčati), sufiksi (mlad- + *-ost*), spojni vokali (jug- + *-o-* + -istok)
+- Prefiksoidi (*hidro-* + -centrala)
+- Sufiksoidi (biblio- + *-fil*)
+
+Izvođenje (derivacija/sufiksacija) je kada od tvorbene osnove i sufiksa nastane nova reč, a takva reč se zove izvedenica.
+
+Nastavak za oblik reči (kuć-: -a, -e, -i, -o, -om) nije isto što i sufiks (kuć- -ni)
+
+
+Izvođenje imenica:
+Vršilac radnje / zanimanja (pis- -ac, uči- -telj, košark- -aš, sladole- -džija, pev- -ač, ekonom- -ista, mes- -ar)
+Stanovnik, pripadnik naroda (beograd- -(j)anin, niš- -lija, britan- -(a)c)
+Prostori i prostorije uopšte (gvožđ- -ara, kugl- -ana, uči- -onica, sud- -nica, šeta- -lište)
+Apstraktna i uopštena značenja (osud- -a, bor- -ba, lep- -ota, hladn- -oća, brz- -ina, slikar- -stvo, hrabr- -ost)
+Glagolske imenice (svanu- -će, disa- -nje, lov (nulti sufiks))
+Mocioni sufiks - promena roda bez promene značenja reči (frizer- -ka, pevač- -ica, rob- -inja)
+
+Izvođenje prideva:
+Značenje osobine (slobod- -a(n), kliz- -av, kock- -ast, stid- -ljiv)
+Značenje prisvojnosti (milan- -ov, đorđ- -ev, žen- -in)
+Veze i pripadnosti (žen- -ski, gr- -čki, knji- -ški, deč- -ji, sever- -ni, gor- -nji)
+
+Izvođenje glagola:
+Radnja, stanje i zbivanje (cvet- -a(ti), oštr- -i(ti), napred- -ova(ti), gu- -ka(ti), adres -ira(ti), kanal- -isa(ti))
+Promena glagolskog vida (zav- -ija(ti), kaz- -iva(ti), dod- -ava(ti), pad- -a(ti), vik- -nu(ti))
+
+
+Izvođenjem nastaju imenice subjektivne ocene, a to su:
+demunitivi (umanjenice) (brod- -ić, sin- -čić, bub- -ica, cvet- -a(k), zvon- -ce, prozor- -če, sak- -uta(ti), čit- -ucka(ti), kuc- -ka(ti))
+augmentativi (uvećanice) (junač- -ina, ruč- -etina, glav- -urda, tuž- -aka(ti))
+hipokoristike (tepanje, milje) (sun- -ašce, trav- -ica, zub- -ić)
+pejorativi (pogrdno) (nož- -urina, bar- -uština, budal- -čina)
+
+
+
+Sufiksoidi su morfeme grčkog ili latinskog porekla koje dolaze na kraj tvorenice:
+bio- -log, mikro- -fon, mikro- -skop, kseno- -fob, biblio- -teka, hipo- -drom, auto- -bus.
+
+Slaganje reči je način građenja reči gde srastenjem dve reči ili osnove ili dve reči ili osnove sa spojnim vokalima O i E nastaju složene reči ili složenice. (beo- -grad, brod- -o- -gradnja, kuć- -e- -pazitelj)
+
+Prefiksacija je kada se od prefiksa i cele reči dobija nova reč (pod- -šišati, pred(t)- -postaviti)
+
+Dve reči koje čine jedinstven pojam i zadrže akcenat se pišu sa crticom i samo se drugi deo menja po padežima (remek-delo, video-klub, veš-mašina, kvarc-lampa, tuš-kabina, spomen-ploča, Sahat-kula, crno-beli film, Mehmed-paša Sokolović, crveno-bela zastava, Ovčarsko-kablarska klisura)
+
+Kombinovana tvorba je kada reč nastaje istovremeno slaganjem ili prefiksacijom i izvođenjem (po- -nedelj- -ak, pod- -krov- -je, pod- -brad- -ak, pun- -o- -glav- -ac, bez- -posl- -en, bez- duš- -an, plav- -o- -kos- nulti sufiks)
+
+Tvorba pretvaranjem je kada jedna vrsta reči pređe u drugu bez promene oblika.
+
+Poimeničavanje je vrsta tvorbe pretvaranjem kada od prideva nastaje imenica (mlada->mlada, lepa->Lepa)
+Popridevljavanje je vrsta tvorbe pretvaranjem kada od glagola nastaju pridevi (putujući po svetu -> putujući glumac, leteći nebom -> leteći tanjir)
