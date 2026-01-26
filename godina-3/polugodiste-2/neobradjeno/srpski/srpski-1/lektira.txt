@@ -1,8 +1,13 @@
-Nečista krv
+"Nečista krv" Borisav Stanković
 Proveri imena i pisanje likova
-Odredi mesto, vreme, rod, vrstu, piscac, itd.
 
-Stanković je pisac
+rod: epika
+vrsta: roman
+vreme: kraj 19, početak 20. v.
+mesto: Vranje
+tema: položaj žena u porodici
+ideja: da se prikaže stvarno stanje društva u to vreme i da istakne da potomci ispaštaju zbog grehova svojih predaka
+
 
 likovi: Sofka, Hadži-Trifun (Sofkin pramdeda), sin Hadži-Trifuna, Cona (Sofkina prambaba), učitelj Nikolča, Kavarola (Sofkin deda), Naza (Sestra od Kavarola), ludi Rista, efendi-Mita (Sofkin otac), Todora (Sofkina majka), Tone (sluga efendi-Mite), Magda (bivša sluškinja efendi-Mite), mutavi Vanko, Magdin sin, sveštenik Rista, gazda Marko, sluga Arsa (Markov sluga), Stana (Markova žena), Ahmet (Markov pobratim), Jusuf (Ahmetov usvojen sin), Tomča (Markov sin jedinac), 
 
@@ -173,6 +178,7 @@ Gori vatra
 
 Marko povede Sofku u njenu sobu, otvori sanduk sa zlatom i kaže da je sad sve to njeno.
 Marko pita Sofku da li ih stvarno sve voli, ona kaže da, onda joj Marko stavi ruku na rame.
+
 23.
 
 Nečista krv
