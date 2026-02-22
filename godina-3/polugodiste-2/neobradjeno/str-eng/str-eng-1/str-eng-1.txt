@@ -1,0 +1,33 @@
+1. Helicopter development lagged behind fixed-wing aircraft because helicopters need more power, withstand higher stresses, have more moving parts and are harder to control.
+2. Early problems: insufficient power, poor control, severe vibration, high maintenance and structural stress.
+3. First practical helicopter: Focke-Wulf Fw-61 (1938).
+4. Early contemporaries: Weir W-5 and Sikorsky VS-300.
+5. WWII accelerated helicopter R&D and production; German work by Anton Flettner and Heinrich Focke led early advances.
+6. Focke-Achgelis Fa-223 crossed the English Channel on 6 Sept 1945.
+7. Post-war understanding of dynamics and stability produced safer, easier-to-fly helicopters.
+8. First certified helicopter: Bell 47 (1946).
+9. First British certified helicopter: Bristol Sycamore (1952) — noted for light control forces (no power assistance).
+10. Turbine engines (higher power-to-weight, fewer moving parts) were introduced in the early 1950s, transforming performance and payload capacity.
+11. First turbine-powered helicopter flight: Kaman K-225 (1951); first twin-turbine Kaman in 1954.
+12. Bell Huey: Bell UH-1 Iroquois first flew in 1956 and typified the turbine era.
+13. 1960s marked system-level maturity in helicopter design; durable, upgradeable designs emerged and remain in service.
+14. Long-lived designs: Sikorsky S-61 and Boeing CH-47 Chinook.
+15. Since the 1960s progress has been incremental refinements (composites, lighter engines, improved transmissions) rather than radical breakthroughs.
+16. Composite materials (fiber-impregnated resin layers) reduced weight, increased fatigue life, and damped vibration.
+17. Modern mechanical refinements produced lighter engines and transmissions with longer service life.
+18. Some components (main gearbox, rotor head) remain single-point catastrophic-failure items.
+19. Electronic condition monitoring (HUMS: Health and Usage Monitoring Systems) measures stress and exposure time to predict remaining safe life and improve safety.
+20. Typical major components: airframe, fuselage, landing gear, powerplant, transmission, main rotor system, tail (anti-torque) rotor.
+21. Airframe materials: metal, wood or composites; composites are lighter and better damped.
+22. Fuselage houses cabin, crew, passengers, cargo, engine, transmission, avionics and controls; fuel tanks are placed close to the center of mass to minimize trim changes as fuel is used.
+23. Landing gear types: wheels (fixed or retractable), skids (fixed), skis, floats; wheels are heavier and more complex (tires, brakes, oleo struts, hydraulics); retractable wheels reduce drag.
+24. Skid gear is lighter, simpler, lower maintenance; skid patent and adoption followed operational experience on soft or uneven terrain.
+25. Powerplant: pistons for small helicopters, gas turbines for most larger types; turbine assemblies include compressor, combustion chamber, turbine and accessory gearbox; ~75% of incoming airflow often used for engine cooling.
+26. Transmission reduces engine rpm to optimum rotor rpm and supplies tail rotor and accessories; includes main rotor transmission, tail drive, clutch and freewheeling unit.
+27. Main rotor system: mast (hollow shaft), hub (attachment point), rotor blades — rotating assembly that generates lift.
+28. Tail (anti-torque) rotor counters main-rotor torque and controls yaw.
+29. Operational roles where helicopters beat aeroplanes: no runway, confined or uneven landing areas, hovering/transfer operations, amphibious operations, rescue/medevac, offshore refuelling/operations, troop/cargo transport and disaster response.
+30. Military use (e.g., Vietnam) emphasized troop insertion/removal, resupply, casualty evacuation and recovery missions.
+31. Failure causes: corrosion and stress-corrosion cracking can initiate fractures in landing-gear and pylon/flange areas; inspections must detect corrosion pits, microcracks and branched cracks.
+32. Maintenance emphasis: monitor critical items, schedule life-limited components by measured stress/time, prioritize gearbox and rotor-head integrity.
+33. Summary takeaway for exam: know timeline (early problems → WWII acceleration → postwar stability → 1950s turbines → 1960s system maturity → modern refinements), key examples (entities above), main components and functions, landing-gear types and evolution, composites and HUMS, and which parts remain catastrophic if they fail.
