@@ -1,0 +1,233 @@
+# A SHORT TECHNICAL HELICOPTER HISTORY
+
+• Helicopter development came after fixed-wing aircraft
+• Helicopters require more power than airplanes
+• Helicopters withstand higher stresses
+• Harder to control
+• More moving parts
+• Early helicopters lacked sufficient power
+• Once powered → control problems appeared
+• Once control understood → vibration and maintenance problems appeared
+• Development progressed by overcoming obstacles one by one
+
+• First practical helicopter: Focke-Wulf Fw-61 (1938)
+• Weir W-5 flew in 1938
+• Sikorsky VS-300 followed
+• War accelerated helicopter development
+• Anton Flettner and Heinrich Focke led German development
+• Fa-223 crossed the English Channel (6 Sept 1945)
+
+• After WWII → better understanding of dynamics and stability
+• Helicopters became safer and less stressful to fly
+• Bell 47 (1946) → first certified helicopter
+• Sycamore (1952) → first certified British helicopter
+• Light control forces, no power assistance
+
+• Introduction of turbine engine → major breakthrough
+• Turbine lighter than piston engine
+• Fewer moving parts
+• Greater payload
+• Reduced maintenance
+
+• First turbine helicopter: modified Kaman K-225 (1951)
+• First twin turbine: Kaman (1954)
+• Bell Huey flew in 1956
+
+• 1960s → helicopter design mastered as a system
+• Sikorsky S-61 and Boeing Chinook → long service life
+• Few breakthroughs after 1960s
+• Continuous refinement
+• Composite materials reduced weight
+• Extended service life
+• Improved engines and transmissions
+
+• Some failures catastrophic (gearboxes, rotor heads)
+• Helicopters can survive engine failure
+• Electronic monitoring improved safety
+• Spontaneous failures rare
+
+• HUMS = Health and Usage Monitoring System
+• Measures stress and time applied
+• Calculates remaining safe life of components
+
+# APPLICATIONS OF THE HELICOPTER
+
+• Can land almost anywhere
+• No runway required
+• Can hover
+• Can land on water (amphibious types)
+• Can transfer goods in hover
+• Ideal rescue vehicle
+• Used for war casualties
+• Shipwreck rescue
+• Mountain rescue
+• Natural disaster response
+• Can refuel from ships or oil rigs
+• Operates in bad weather
+
+• Originally designed for military use
+• Vietnam War → major helicopter role
+• Insert troops
+• Withdraw troops
+• Deliver ammunition and food
+• Evacuate wounded
+• Recover downed crews
+
+# HELICOPTER MAIN COMPONENTS
+
+• Airframe
+• Fuselage
+• Landing gear
+• Power plant
+• Transmission
+• Main rotor system
+• Tail rotor system
+
+# AIRFRAME
+
+• Fundamental structure
+• Made of metal / wood / composite / combination
+• Composite = fiber + resin layers
+• Aluminum commonly used
+• Stainless steel / titanium in high stress areas
+
+# FUSELAGE
+
+• Main body section
+• Houses cabin
+• Houses engine
+• Houses transmission
+• Houses avionics
+• Houses flight controls
+• Houses powerplant
+• Transfers loads
+• Protects occupants
+• Provides visibility
+• Fuel tanks near center of mass (CM)
+• May float (amphibious)
+
+• Early Bell 47 → steel tube lattice frame
+• Stressed skin structure in tail cone
+• Doors and windows prevent full load skin structure
+• Pylon = welded tube frame
+• Composite materials → lighter, well damped, long fatigue life
+
+# LANDING GEAR
+
+• Supports helicopter on ground
+• Absorbs landing forces
+• Fixed or retractable
+
+Types:
+• Wheels
+• Skids
+• Skis
+• Floats
+
+Retractable gear:
+• Reduces drag
+• Reduces fuel consumption
+• Operated by hydraulic actuators
+
+Wheeled gear includes:
+• Tires
+• Wheels
+• Brakes
+• Oleo struts
+• Shock absorbers
+
+Skid gear includes:
+• Forward cross tube
+• Aft cross tube
+• Saddle assemblies
+• Skid tubes
+• Damper assemblies
+• Abrasion strip
+
+# POWER PLANT
+
+Types:
+• Piston engine
+• Turbine engine
+
+Turbine components:
+• Compressor
+• Combustion chamber
+• Turbine
+• Accessory gearbox
+
+• 75% airflow used for cooling
+• Exhaust does not produce forward thrust
+
+# TRANSMISSION
+
+• Transfers power from engine
+• Drives main rotor
+• Drives tail rotor
+• Drives accessories
+
+Components:
+• Main rotor transmission
+• Tail rotor drive system
+• Clutch
+• Freewheeling unit
+
+• Reduces engine RPM to rotor RPM
+
+# MAIN ROTOR SYSTEM
+
+• Generates lift
+• Consists of:
+• Mast
+• Hub
+• Rotor blades
+
+• Mast = hollow cylindrical shaft
+• Hub = blade attachment point
+• Rotor disc = circular swept area
+
+# TAIL ROTOR SYSTEM
+
+• Also called anti-torque rotor
+• Counteracts main rotor torque
+• Prevents fuselage spin
+• Keeps helicopter straight
+
+# IMPORTANT VOCABULARY
+
+• withstand = resist
+• overcome = defeat
+• accelerate = speed up
+• master = fully understand
+• survive = continue operating after failure
+• monitor = observe continuously
+• certify = officially approve
+• reduce = make smaller
+
+• inherently = naturally
+• pylon = structural support frame
+• unduly = excessively
+• lattice = crisscross framework
+• trim = balance in flight
+• vibration = rapid shaking
+• canopy = cockpit cover
+• damped = reduced vibration
+• welded = joined by heat
+• framework = supporting structure
+
+# FAILURE ANALYSIS TERMS
+
+• fail = stop functioning
+• rear cross tube = back transverse tube
+• flange = projecting rim
+• spring tube = elastic tube element
+• clamp = holding device
+• stress corrosion cracking = cracking due to stress + corrosion
+
+# ABBREVIATIONS
+
+• RPM = Revolutions Per Minute
+• HUMS = Health and Usage Monitoring System
+• CM = Center of Mass
+• LG = Landing Gear
+• WW II = World War II
