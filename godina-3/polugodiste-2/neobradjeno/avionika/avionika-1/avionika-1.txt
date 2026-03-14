@@ -1,0 +1,40 @@
+Za test da nacrtamo, objasnimo i obeležimo
+
+Dve osnovne vrste žiroskopa:
+- vakumski
+- električni / elektronski
+
+mana vakumskog: instrumenti moraju biti čisti iznutra, veća težina, teži za servisiranje.
+prednost elektronskog: laki, malo precizniji, lakše servisiranje (samo se zameni ceo), malo troši struje.
+
+postoji i mems / digitalni žiroskop
+
+
+Koordinator skretanja: 
+- pomaže pri skretanju
+- slika 1
+
+Indikator skretanja:
+-slika 2
+
+Indikator skretanja i klizanja:
+- ima žiroskop
+
+indikator skretanja i klizanja na PFD:
+- slika 3
+
+Prvi auto pilot je bilo trimovanje.
+
+Postoji otvoreni i zatvoreni sistem auto pilota.
+
+Otvoreni: signal ide u jednom pravcu
+
+Auto pilot se sastoji od 4 osnovna i 1 elementa.
+elementi:
+1. - element opažanja (osnovna uloga da prate rad drugih instrumenata)(npr. sistem opažanja vetra,...)
+2. - element računanja
+3. - izlazni element (output od 2.)
+4. - komandni element
+5. - povratni element (vraća sa kraja output-a)
+
+zatvoreni sistem nema 5.
