@@ -1,0 +1,73 @@
+Integers or signed whole numbers - all positive and negative whole numbers including 0
+
+Product - result of multiplication
+
+Dividend / divisor = quotient
+
+Multiple - a number that is divisible by another number is the multiple of that number
+10 / 2 = 5
+10 - multiple of 2
+multiple / n = number
+
+Factor - a number that another number is divisible by
+10 / 2 = 5
+2 - factor of 10
+factor * n = number
+
+Lowest common multiple - smallest positive number which is a multiple of two or more numbers
+LCM(12,80)=?
+12=2*2*3
+80=2*5*2*2*2
+LCM(12,80)=2*2*3*5*2*2=240
+
+Highest common factor - biggest number that will divide two or more numbers
+HCF(240,924)=?
+240=2*5*2*2*2*3
+924=2*2*3*7*11
+HCF(240,924)=2*2*3=12
+
+Prime number - only divisible by itself and 1
+
+Reciprocal - reciprocal of a number is = 1 / number
+
+Numerator - top part of fraction
+1/2
+1 - numerator
+
+Denominator - bottom part of a fraction
+1/2
+2 - denominator
+
+Proper fraction - numerator < denominator
+
+Improper fraction - numerator >= denominator
+
+Mixed number - whole number and fraction
+1½
+
+Power / exponent / indecie - x^y
+y - power
+x - base
+
+Equilateral triangle - 3 equal sides
+Isoceles triangle - 2 equal sides
+Scalene triangle - 3 different sides
+
+Acute triangle - all the angles < 90°
+Right triangle - one angle = 90°
+Obtuse triangle - one angle > 90°
+
+Parallelogram - surface A=ah
+
+Trapezoid - surface A=((a_1+a_2)/2)*h
+
+Circle - 
+circumference = 2rπ
+Area = (r^2)π
+
+Elipse - 
+Circumference = 2π\sqrt{\frac{a^2+b^2}{2}}
+Area = abπ
+a - r_1
+b - r_2
+
