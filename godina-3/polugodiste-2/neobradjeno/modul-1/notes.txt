@@ -1,3 +1,5 @@
+~~~~~~~~~~~Arithmetic~~~~~~~~~~~
+
 Integers or signed whole numbers - all positive and negative whole numbers including 0
 
 Product - result of multiplication
@@ -71,3 +73,114 @@ Area = abπ
 a - r_1
 b - r_2
 
+Wing area - 
+S - wingspan (wing length wingtip to wingtip)
+C - chord (average wing width from leading to trailing edge)
+Area = SC
+
+Cylinder - 
+Volume = (r^2)πH
+
+Sphere - 
+Volume = \frac{4}{3}(r^3)π
+
+Cone -
+Volume = \frac{1}{3}(r^2)πH
+
+Engineering notation - exponent of 10 must be divisible by 3
+
+
+
+
+~~~~~~~~~~~Algebra~~~~~~~~~~~
+
+
+Expanding brackets means getting rid of brackets.
+example: x(x+1) expanded = (x^2)+x
+
+Quadratic equations:
+ax^2+bx+c=0
+a,b,c!=0
+
+Factorize - turn quadratic equation into (x+d)(x+e)=0
+Example: factorize x^2+5x+6=0 -> a=1,b=5,c=6 -> d+e=5, d*e=6 -> d=3, e=2 -> (x+3)(x+2)=0 -> x^2+2x+3x+6=x^2+5x+6=0
+
+log_x(y)=z
+z = exponent of x that makes it equal to y
+log_2(16)=4
+log(y)=z - assumed that x=10
+log(MN)=log(M)+log(N)
+log(\frac{M}{N})=log(M)-logN()
+log(M^x)=log(M)x
+
+Natural log - a=e, written as ln(x)=y
+ln(MN)=ln(M)+ln(N)
+ln(\frac{M}{N})=ln(M)-ln(N)
+ln(M^x)=ln(M)x
+
+
+
+
+
+~~~~~~~~~~~Geometry~~~~~~~~~~~
+
+
+A circle has 360 degrees and 2π radians
+90°=π/2
+180°=π
+270°=3π/2
+360°=2π
+
+Degrees to radians = x°\frac{π}{180}\text(rad)
+
+Radians to degrees = x\frac{180}{π}\text(rad)
+
+Rhombus - 4 equal sides, unequal diagonals
+
+Parallelogram - opposite parallel sides, unequal diagonals
+
+Trapezium - two opposite parallel sides
+
+Kite - two unequal pairs, single equal pairs
+
+Slope - how much y is increasing relative to x
+y=kx+n
+k - slope
+
+Gradient - slope but vector
+
+In linear function y=kx+n
+n - opposite of point where y=0
+
+Quadratic functions:
+y=ax^2+bx+c
+a>0 -> graph has minimum point
+a<0 -> graph has maximum point
+
+Trigonometry:
+Triangle ABC, 
+a=opposite side, 
+b=adjecent side, 
+c=hypotenuse
+
+sinα=a/c
+cosα=b/c
+tanα=a/b
+
+degrees: 0,90,180,270
+sin: 0, 1, 0, -1
+cos: 1, 0, -1, 0
+tan: 0, inf, 0, inf
+
+Inverste trigonometric ratios:
+sinα=x
+arcsinx=α
+cosα=x
+arccosx=α
+tanα=x
+arctanx=α
+
+Trigonometric functions:
+y=ksinx
+Amplitute - distance from x=0 to max or min of function
+Wavelength / Period - how long until cycle repeats
