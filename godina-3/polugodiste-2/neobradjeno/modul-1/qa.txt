@@ -1,0 +1,87 @@
+Reciprocal - reciprocal of a number is = 1 / number
+
+Equilateral triangle - 3 equal sides
+Isoceles triangle - 2 equal sides
+Scalene triangle - 3 different sides
+
+Acute triangle - all the angles < 90°
+Right triangle - one angle = 90°
+Obtuse triangle - one angle > 90°
+
+Parallelogram - 
+surface A=ah
+opposite parallel sides, unequal diagonals
+
+Trapezoid - surface A=((a_1+a_2)/2)*h
+
+Circle - 
+circumference = 2rπ
+Area = (r^2)π
+
+Elipse - 
+Circumference = 2π\sqrt{\frac{a^2+b^2}{2}}
+Area = abπ
+a - r_1
+b - r_2
+
+Wing area - 
+S - wingspan (wing length wingtip to wingtip)
+C - chord (average wing width from leading to trailing edge)
+Area = SC
+
+Cylinder - 
+Volume = (r^2)πH
+
+Sphere - 
+Volume = \frac{4}{3}(r^3)π
+
+Cone -
+Volume = \frac{1}{3}(r^2)πH
+
+Engineering notation - exponent of 10 must be divisible by 3
+
+Factorize - turn quadratic equation into (x+d)(x+e)=0
+
+log(MN)=log(M)+log(N)
+log(\frac{M}{N})=log(M)-logN()
+log(M^x)=log(M)x
+
+Natural log - a=e, written as ln(x)=y
+
+90°=π/2
+180°=π
+270°=3π/2
+360°=2π
+
+Degrees to radians = x°\frac{π}{180}\text(rad)
+
+Radians to degrees = x\frac{180}{π}\text(rad)
+
+Rhombus - 4 equal sides, unequal diagonals
+
+Trapezium - two opposite parallel sides
+
+Kite - two unequal pairs, single equal pairs
+
+Quadratic functions:
+y=ax^2+bx+c
+a>0 -> graph has minimum point
+a<0 -> graph has maximum point
+
+degrees: 0,90,180,270
+sin: 0, 1, 0, -1
+cos: 1, 0, -1, 0
+tan: 0, inf, 0, inf
+
+Inverste trigonometric ratios:
+sinα=x
+arcsinx=α
+cosα=x
+arccosx=α
+tanα=x
+arctanx=α
+
+Trigonometric functions:
+y=ksinx
+Amplitute - distance from x=0 to max or min of function
+Wavelength / Period - how long until cycle repeats
