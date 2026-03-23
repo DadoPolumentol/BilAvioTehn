@@ -1,5 +1,26 @@
-dela: Jablanovi, Iskrena Pesma, Dolap, Možda spava, Tamnica, Cvetkovina, Necista krv, Mračajski Proto, Proces, Plava Grobnica.
+dela: Jablanovi, Iskrena Pesma, Dolap, Možda spava, Tamnica, Cvetkovina, Necista krv, Mračajski Proto, Plava Grobnica.
 gramatika
+
+"Svetkovina" Sima Pandurović
+rod: lirika
+vrsta: misaona, simbolistička pesma
+tema: prolaznost života i besmisao postojanja
+motiv: smrt, ništavilo, svetkovina kao ironija života
+raspoloženje: pesimizam, nihilizam
+stih: slobodan
+poruka: život je prolazan i bez konačnog smisla
+
+"Plava Grobnica" Milutin Bojić 
+rod: lirika
+vrsta: rodoljubiva, elegična pesma
+tema: stradanje srpskih vojnika u Prvom svetskom ratu
+motiv: more kao grobnica, smrt, heroji, žrtva
+mesto: ostrvo Vido (Krf)
+strofa: katren (14 strofa)
+rima: ukrštena
+kompozicija: 3 celine (prošlost–budućnost–prošlost)
+osnovna ideja: slava i večni pomen stradalih vojnika
+posebno: više od 5000 vojnika sahranjeno u moru
 
 "Nečista Krv" Borisav Stanković
 vreme: od kraja 19. do početka 20. veka
@@ -10,7 +31,7 @@ rod: roman
 vrsta: psihološki, socijalni
 tema: položaj žene u patrijarhalnom društvu
 motiv: nečista krv
-likovi: Sofka, Marko, Hadži-Toma, Cona, Efendi-Mita, Tomča
+likovi: Sofka, Marko, Cona, Efendi-Mita, Tomča
 
 "Jablanovi" Jovan Dučić
 Jablanovi su čovekove misli i želje.
