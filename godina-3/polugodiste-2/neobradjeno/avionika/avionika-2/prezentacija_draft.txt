@@ -1,0 +1,51 @@
+Direct reading gauges are sometimes impractical or impossible.
+This is overcome by utilizing remote sensors and transmitting data electrically via wires or by optical cables to the cockpit indicators.
+The data can be processed at dedicated computers before being transmitted, like in the engine for example.
+The computers outputs the processed data which is then further transmitted electrically or digitally to the cockpit displays.
+
+Remote sensing instruments are highly reliable, accurate and powered by the aircraft electrical system.
+
+
+# Analogue indication 
+
+Electric motors in instrument housing position pointer instead of mechanical linkages.
+Motors recieve current from ADC or other computers.
+They also recieve input from transmitters or converters.
+Change in electrical signal causes rotation of motors which moves the pointer to a new location.
+
+
+# Digital indication (LCD)
+
+Digital cockpit displays recieve all information from the DADC and other computers via digital data bus.
+They don't use electric motors.
+
+
+# Synchro-type remote indication instruments
+
+Synchro system is an electrical system that transmits data from A to B.
+Synchro means synchronous.
+it relates to any line of similar electrical systems with 2 units that can measure, transmit and indicate a certain aircraft parameter.
+Synchro systems are used for remote indication in landing gear, autopilot systems, radar, etc.
+Most common are autosyn, selsyn and magnesyn.
+
+
+# Remote indication of fuel and oil pressure
+
+Indication of fuel and oil pressure can be obtained using synchro systems.
+We avoid directly routing fuel and oil to the cockpit for direct measurement due to increased fire risk and increased piping weight.
+A synchro transmitter is used so that fluid pressure can be applied remotely without piping.
+Pressure moves a diaphragm in the transmitter, the movement of the diaphragm is transferred to the transmitter rotor which makes it rotate proportionally to the detected pressure which changes voltages in the synchro stator windings and then these voltages are transmitted to indicator coils which generate a magnetic field that positions the pointer appropriately.
+Sometimes cheaper and simpler technologies are used instead.
+
+
+Not used:
+
+Many remote indicating systems consist of: 1. a sensor/transmitter unit, 2. a cockpit indicator unit, connected by wires.
+For pressure-based flight instruments, ADC and sensing devices (pitot tubes, static ports, etc.) include sensor and transmitter units.
+
+Most instruments that indicate position are designed around the synchro system.
+Fluid pressure indicators also use them often.
+
+Solve:
+
+What is ADC, DADC
