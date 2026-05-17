@@ -1,0 +1,71 @@
+vocabulary:
+atoll, thermal expansion, sea levels, emerge, grow crops, soil, geological makeup, import, home-grown food, groundwater, drought, emergency shipment, forefathers, inevitable, draw up, outline.
+
+reported speech:
+- converting direct speech to reported speech
+- converting reported speech to direct speech
+
+examples:
+d(direct speech), r(reported speech)
+
+d("I want to join Greenpeace," Ben said)
+r(Ben said (that) he wanted to join Greenpeace
+
+d("I'm watching a video on deforestation," Ian said to me)
+r(Ian told me (that) he was watching a video on deforestation)
+
+d("I've put the recyclables in the bin," Tom said)
+r(Tom said (that) he had put the recyclables in the bin.)
+
+d("The forest burnt down last year," Adam told us)
+r(Adam told us (that) the forest had burnt down the year before.)
+
+d("They were trying to save a beached whale," Lyn said.)
+r(Lyn said (that) they had been trying to save a beached whale.)
+
+d("I'll donate my salary to charity," Peter told me.)
+r(Peter told me (that) he would donate his salary to charity.)
+
+d("I can help you with your project," Frank said to Lisa)
+r(Frank told Lisa (that) he could help her with her project.)
+
+
+Questions:
+
+d("Are you coming?" he asked me.)
+r(He asked me if/whether I was going.)
+
+d("When did she leave?" he asked.)
+r(He asked when she had left.)
+
+
+Commands/Orders:
+
+d("Leave them on my desk," Sue said.)
+r(Sue told me to leave them on her desk.)
+
+d("Don't tell anyone," she said to me.)
+r(She told me not to tell anyone.)
+
+
+Reporting modal verbs:
+will/would -> would, may -> might, must -> must/had to, can -> could (present)/ would be able to (future)
+
+
+d(Present simple)(I like hot weather.)
+r(Past simple)(She said (that) she liked hot weather.
+
+d(Present continuous)(It's raining)
+r(Past continuous)(He said (that) it was raining.)
+
+d(Present perfect)(They have evacuated the city.)
+r(Past perfect)(She said (that) they had evacuated the city.)
+
+d(Past simple)(We saw the landslide.)
+r(Past simple or Past perfect)(She said (that) they saw/had seen the landslide)
+
+d(Past continuous)(I was driving the rescue vehicle)
+r(Past continuous or Past Perfect continuous)(She said (that) she was driving / had been driving the rescue vehicle.)
+
+d(Will)(I will donate some money.)
+r(Would)(He said (that) he would donate some money.)
