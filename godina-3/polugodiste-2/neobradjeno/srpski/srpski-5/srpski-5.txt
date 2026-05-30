@@ -1,0 +1,118 @@
+Sintaksa
+
+Sintaksa je nauka koja se bavi proučavanjem rečeničnih članova (Služba reči u rečenici).
+
+U sintaksičke jedenice ubrajamo:
+- Komunikativne rečenice
+- Predikatske rečenice
+- Sintagme
+- reči
+
+Komunikativna rečenica je svaka rečenica koja počinje velikim slovom i završava se interpunkcijskim znakom (.!?)
+
+Predikatska rečenica je rečenica koja ima predikat.
+Prosta predikatska rečenica ima jedan predikat.
+Složena predikatske rečenica ima dva ili više predikata.
+Prostoproširena predikatska rečenica ima jedan predikat, (subjekat) i neku dopunsku odredbu (objekat, priloška odredba, ...)
+
+Sintagme su skupovi reči
+Vrste sintagmi:
+- Imenička sintagma
+- Pridevska
+- Priloška 
+- Glagolska
+- Paukalna
+- Partititivna
+Gramatički subjekat: stoji u nominativu
+Logički subjekat: Genitiv uz egzistencijalne glagole(npr. Danas ima/nema nastave), dativ, akuzativ
+
+Osnovni rečenični članovi su subjekat i predikat.
+
+Subjekat:
+- Vršilac radnje
+- Razlikujemo gramatički i logički (Miloša (logički) boli zub (gramatički))
+
+
+Predikat
+
+Vrste predikata: glagolski, imenski, priloški.
+
+Predikat označava radnju (šta radi subjekat)
+Glagolski predikat: iskazan galogolom u ličnom glagolskom obliku (npr. Miloš svira / je bio svirao)
+Imenski predikat: sastoji se od pomoćnnih glagola i imenske reči ili sintagme.
+
+Kopula (spona / veza) + imenski kopulativni predikativ (imenski deo predikata) = imenski predikat
+npr.:
+Miloš (je učenik)
+Miloš (je dobar)
+Miloš (je prvi)
+Miloš (je on)
+Miloš (je dobar učenik)
+Miloš (je bio dobar učenik)
+je je ovde kopulativ, ali je nije uvek kopulativ
+
+Priloški predikat: Sastoji se od pomoćnog glagola i priloške sintagme 
+
+Glagolski predikat može biti prost - sastoji se od jednog glagola koji označava radnju.
+može biti složen - sastoji se od dva glagola od kojih je jedan nepotpun glagol. Nepotpuni su modalni i fazni glagoli.
+Modalni glagoli su morati, moći, smeti, oteti, trebati
+
+
+
+Miroslav Krleža "Gospoda Glembajevi"
+Vreme: 1913; traje oko pet sati.
+Mesto: Zagreb, kuća Glembajevi.
+Vrsta: Psihološko-sociološka drama.
+ima tri čina.
+"Gospoda Glembajevi", "U agoniji" i "Leda" čine trilogiju
+
+
+Miloš Crnjanski "Seobe"
+- ima deset poglavlja
+- dva paralelna toka radnje 
+- kružna kompozicija
+- prvo i poslednje poglavlje imaju isti naslov Beskrajni, plavi krug. U njemu, zvezda (bez tačke!!!)
+glavni junaci: Vuk Isakovič, Aranđel, gospoža Dafina, Slavonsko-podunavski polk.
+zvezda je spas, nada, san, ...
+Vukova zvezda je Rusija.
+Dafinina zvezda je Vuk.
+Aranđelova zvezda je Dafina.
+Naslovi poglavlja zajedno čine lirsku pesmu
+tip romana: istorijski, psihološki, lirski.
+Ovo je roman zbivanja i roman stanja.
+vreme radnje: proleće 1744 - leto 1745
+mesto: Zemun, Pečuj, evropska ratišta
+tema: bračni trougao, sudbina naroda, seobe, usamljenost, moralne dileme, ...
+Crnjanski je građu za roman našao u M/memoarima Simeona Piščevića.
+
+
+Miloš Crnjanski "Sumatra"
+
+Dela Miloša Crnjanskog: Lirika Itake, Dnevnik o Čarnojeviću, Seobe, Druga knjiga Seoba, Stražilovo, Lament nad Beogradom
+
+Vladimir Majakovski "Oblak u pantalonama"
+vrsta: poema
+poema je lirsko-epska pesma
+Ova poema se sastoji od Prologa (veliko P) i četri pesme.
+Ispod naslova pesme stoji odrednica tetraptih.
+tetraptih je četvorokrilna ikona
+prvobitni naslov - trinaesti apostol, pošto proglašen za hulina boga Isusa i 12 apostola, Majakovski menja ime pesme.
+Svaka pesma je po jedan poklič: ljubav, umetnost, uređenje, religija.
+
+
+Međuratna književnost
+
+Ratna i međuratna književnost obuhvata Prvi i Drugi svetski rat i vreme između.
+avangardni pravci: ekspresionizam, nadrealizam, futurizam, dadaizam.
+
+Ekspresionizam - dominira alegorija, umetnici imaju potrebu da šokiraju, javljaju se uglavnom prozna i dramska dela.
+Futurizam - Razlikujemo Italijanski i Ruski, Italijanski je fašistički, njegova osnovna teza je čišćenje, začetnik je Filipo Tomazo Marineti koji je napisao "Manifest Futurizma", Ruski futurizam je revolucionaran, začetnik je Vladimir Majakovski.
+Dadaizam - Razvijao se u Francuskoj, Švajcarskoj i Nemačkoj.
+Nadrealizam - predstavlja skrivenu realnost u kojoj vlada haos; u delima je odsustvo logičkog rauđivanja.
+Predstavnici avangarde i moderne: Filipo Tomazo Marineti, Vladimir Majakovski, Maksim Gorki, Ernest Hemingvej; u Srbiji Miloš Crnjanski, Momčilo Nastasijević, Isidora Sekulić, Desanka Maksimović, Oskar Davičo, Miroslav Krleža, Tin Ujević i Ivo Andrić.
+
+Franc Kafka "Proces"
+Proces je posle Kafkine smrti objavio njegov prijatelj Maks Brad.
+"kafkijanski" - pridev koji se odnosi na atmosferu u književnom delu (tamne boje, mračne prostorije, zagušljiv vazduh)
+Kafkin stil: realizam, ekspresionizam, nadrealizam.
+Franc Kafkina dela: "Preobražaj"

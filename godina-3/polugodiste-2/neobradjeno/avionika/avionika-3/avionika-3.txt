@@ -1,0 +1,60 @@
+1. Sistem komunikacije je ATA?
+   ATA 23 – Communications.
+
+2. Za komunikaciju na manjim rastojanjima, tornjem i kontrolom letenja, posada uglavnom koristi:
+   VHF 
+
+3. Za komunikaciju na većim daljinama (na primer 3000 km) se koristi?
+   HF
+
+4. Gde se kod savremenih-kompleksnih aviona nalazi HF antenna?
+   Na napadnoj ivici vertikalnog stabilizatora.
+
+5. Gde se nalaze STACOM (satelitska komunikacija) antene?
+   Na vrhu aviona
+
+6. Šta je SELCALL?
+   (SELective CALLing) Selective Call sistem 
+
+7. Šta je ACARS 
+   Aircraft Communication Addressing and Reporting System.
+
+8. Šta je INTERCOM sistem?
+   Sistem interne komunikacije u avionu. Obuhvata: Service interphone, Cabin 
+
+9. Čemu služi Radio Kontrolni paneli (Radio control panel) tzv. Auto-tuning?
+   Za automatsko podešavanje navigacionih uređaja preko FMC-a.
+
+10. Koji uređaj na avionu koristi najvišu frekvenciju, pa je time i najopasniji po zdravlje?
+    Weather radar.
+
+11. Koji uređaj na avionu šalje podatke kontroli leta (ATC) o brzini, visini i kodu aviona?
+    Transponder (Mode-S).
+
+12. Automatic Direction Finder (ADF) indikator pokazuje?
+    Pravac ka predajniku.
+
+13. Very High Frequency Omni-range (VOR) je uređaj?
+    Radio-navigacioni uređaj za određivanje pravca.
+
+14. VOR frekvencija iznosi?
+    108.00 MHz - 112 MHz samo parne, 112 - 118 sve
+
+15. Gde se nalaze VOR antene kod većine aviona?
+
+    Na vrhu vertikalnog stabilizatora, dve antene koje stoje jedna pored druge.
+
+16. DME (Distance Measuring Equipment) se razlikuje od VOR-a?
+    DME pokazuje rastojanje, VOR ne pokazuje.
+
+17. Instrument Landing System (ILS) se koristi za automatsko sletanje. Sastoji se od podsistema:
+    Localizer (LOC), Glide Slope (GS), Marker Beacon.
+
+18. Gde se nalaze antene za Instrument Landing System (ILS)?
+    U radarskoj kupoli, dve vertikalno, dve horizontalno.
+
+19. Koja se frekvencija Instrument Landing System (ILS) podešava prilikom sletanja na svaki aerodrom?
+    108–112 MHz samo neparne
+
+20. Autopilot je ATA:
+    ATA 22 – Autopilot.

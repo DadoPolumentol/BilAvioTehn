@@ -1,0 +1,696 @@
+Task 1
+Read the text carefully and arrange the following sentences into the chronological order:
+In the beginning the inventors had encountered difficulties with power and control in order to make the first helicopters fly safely.
+Composite materials made helicopter's essential components lighter and long-lasting.
+Recent advanced in electronical monitoring helicopter's critical components has made it more reliable.
+The introduction of HUMS systems which can measure stress in major components enabled airplane technicians to determine and predict how long they may last.
+In the 50s helicopters hosted the first turbine engines which were lighter thus allowing them to carry more load.
+The first helicopters had been able to cross the English Channel by the end of the WW II. Some advancement in its design combined with the ability to withstand constant upgrading during the 60s made some models still relevant today, Sikorsky's S-61 and Boeing's Chinook being perfect examples of it.
+After the world wars the better perception of helicopter dynamics and stability led to the production of the helicopters which were safer and easier to fly.
+Technical developments and production of helicopters were prompted by the wars.
+Task 2
+Match the letters and number, and then make your own sentences using these phrases. a) withstand b) overcome c) accelerate d) master e) survive f) monitor g) certify h) reduce 1. weight 2. stress 3. disciplines 4.critical components 5.technical development 6.engine failure 7.helicopter 8.an obstacle
+
+1. inherently 2. pylon
+3. unduly
+4. lattice 5. trim
+6. vibration
+7. canopy
+8. damped
+9. welded
+10. framework
+MATCH
+continuous quick, slight shaking movement
+decreased in amplitude over time, especially because of the use of a damper
+a supporting structure around which something can be built the transparent cover of an aircraft cockpit
+decreased in amplitude over time, especially because of the use of a damper
+in a way that exists as a natural or basic part of something an open framework made of strips of metal, wood, or similar material overlapped or overlaid in a regular, usually crisscross pattern
+a streamlined aircraft structure for attaching an engine pod, external fuel tank, etc, to the main body of the aircraft
+balance in flight by regulating the control surfaces excessively, too much
+
+
+Find the words that mean: otkazati / zadnja poprečna greda prirubnica /cevasti elastični element / držač / naponska korozija
+The skid landing gear of a military helicopter failed while the helicopter was moored on the ground at the airport. The rear cross tube of the landing gear assembly was found fractured into two separate pieces. The fracture occurred in the right flange of the rear cross tube, where a connection with the spring tube is established using a clamp. The initial visual inspection of the fracture zone revealed a presence of heavy corrosion and significant damage of the anti-corrosion protective layer on the outer surface of the flange of the rear cross tube. Fractographic analysis highlighted corrosion as the main cause of the failure. Evidence was found to show that the fracture was initiated from corrosion pits located on the exterior, underside of the cylindrical part of the flange. Metallographic examination discovered corrosion pits with micro cracks and multiple branched secondary cracks in the crack origin area, indicating the occurrence of stress corrosion cracking.
+
+
+Task 1
+Read the text and answer the questions:
+a) What is the basis of the classification of the main rotor systems?
+b) Name the three basic classifications of the main rotor systems.
+c) What would the fourth one be?
+d) What are the three types of motions that rotor blades perform relative to the main rotor hub?
+e) Describe the three types of motions that rotor blades perform relative to the main rotor hub.
+f) What is the function of hinges and bearings?
+g) Are all of the three blade motions possible in all main rotor systems?
+h) Which type of rotary system has the fewest number of blades?
+Task 2
+Complete the following phrases:
+According
+Relative
+Referred
+Depending
+
+Task 2
+Find in the text the words that mean:
+a)
+free from outside control or influence; separately
+b)
+be fastened; be coupled; be joined
+c)
+d)
+e)
+the act of making equal or uniform; levelling
+'to and fro'; in a constant movement backwards and forwards, or from side to side
+counteract (something unwelcome) by exerting an opposite effect
+f)
+occurring again repeatedly
+g)
+take the place of a thing that was previously in use
+h)
+more than is necessary; too much
+ог
+
+
+Task 1
+Read the text again and find the appropriate term to complete the paragraph below: a) is contact between an inner part of a main rotor blade or a rotor hub and the main rotor drive shaft (mast). Helicopters with the semi-rigid two- bladed rotor systems are susceptible to conditions.
+might be fatal for those on board.
+b)
+during low-G flight can lead to the helicopter breaking up in flight, which
+is an irregular motion of the air resulting from eddies
+and vertical currents. It may be as insignificant as a few annoying bumps or severe enough to momentarily throw an airplane out of control or to cause structural damage. is associated with fronts, wind shear, thunderstorms, etc.
+c) The area within the tip-path plane of the main rotor is known as the disc area or In simple words, is the area swept
+by the blades of a rotor.
+Task 2
+There is one mistake in each sentence. Underline it and correct it:
+-The rigid rotor system is a rare design but potential offers the best properties of both the fully articulated and semirigid rotors.
+parts.
+In this design, the blade roots are rigidly attaching to the rotor hub.
+The blades do not have hinges to allow lead-leg or flapping.
+Instead, the blades accommodate these motions by useless elastomeric bearings.
+Elastometric bearings are molded, rubber-like materials that are bonded to the appropriate
+Inspite of rotating like conventional bearings, they twist and flex to allow proper movement of the blades.
+
+
+Task 1
+Circle the correct answer:
+"Klackati se, njihati se, naginjati se" can be translated into English as:
+a) to seesaw;
+b) to go up and down;
+c) to wobble; to to rock;
+d) to tilt;
+e) to teeter;
+f) all of the above.
+"Zglob, šarka" can be translated into English as:
+a) pitch horn
+b) hinge
+c) cyclic pitch
+d) all of the above.
+"Način" can be translated into English as:
+a) manner
+b) fashion
+c) way
+ลธ
+b)
+d) all of the above.
+Task 2
+Read the text Rotorhead Types, find and write in your notebook:
+at least five (groups of) words to which number '2' refers, either explicitly or implicitly; at least two (groups of) words to which number '3' refers, either explicitly or implicitly; at least three (groups of) words of which there are MORE THAN THREE, either explicitly or implicitly;
+c)
+There are 2 basic categories of rotorhead designs: fully articulated and hingeless. The former uses 3 hinges for each blade; one for the feathering axis, one to support flapping up and down, and one to support lead-lag blade movements. On the other hand, a hingeless rotorhead (known as rigid) uses materials that are both strong and, to some degree, flexible. Moreover, the blades are also designed to incorporate some form of flexibility.
+Both designs have their advantages and disadvantages. For example, a fully articulated system requires a lot of maintenance because of a lot of hinges, whilst the rigid rotor system requires less maintenance because there are no hinges. On the other hand the fully articulated rotor system can be lighter than the rigid one as its rotorhead doesn't have to be very strong.
+Of course, in between these 2 solutions, other designs also exist, an important example being the 2 bladed, semi rigid, rotorhead which uses feathering hinges for pitch control. Its 2 opposite blades are mounted in one, teetering, hinge. So, if one blade flaps up, the other has to flap down. In this design, the blades are mounted (fixed) in the rotorhead at the average coning angle, in order to prevent blade stress. By using a gimballed teetering head, the rotordisc can tilt in any direction. In this way, there is no need for lead-lag hinges. This 2 bladed teetering rotorhead system has already been in operation for many years, ever since the famous designs from Hiller and Bell.
+
+
+
+Task 2
+Read the text carefully and insert the missing words
+flexibility, support, manufacturers, composites, fore-and-aft, connection, shaft, shafting, materials, at all times, vibration, speed, stil, drive, length, turns
+The 1.
+least by a 2.
+4.
+for the tail rotor is supplied from the transmission of the helicopter, or at with the transmission. It is necessary for the tail rotor to rotate 3. during flight, even if the engine is not operational. The tail rotor is driven through from the transmission down the 5. of the tail boom. Tail booms generally
+have some limited 6.
+a 7.
+only 8.
+, which means the shafting must also have some ability to move in direction. This is normally accomplished by the use of hanger bearings, which not the shaft, but also provide 9. alignment. Alignment is very
+important from a 10.
+Some 12.
+standpoint.
+The tail rotor gearbox changes direction and increases or decreases the 11. prefer to increase the speed while others decrease the output shaft. In either faster than the main rotor. Tail rotors are made of a number and with different designs. Many of the newer blades are 15.
+situation the tail rotor 13. of different 14.
+with some metal blades 16.
+in use.
+
+
+Task 1
+Read the text and fill in the missing phrases:
+overhead rail, rear doors, economically efficient, flight engineer seat,
+cargo compartment, mid-fuselage section, take-off weight, electrically de-iced,
+combat vehicles, hydraulic crane, closed-circuit television, nose wheels
+Mi-26 Features
+The Mi-26 features eight main rotor blades and five tail rotor blades fitted above the on hump. The heavy load carrying capacity and high cruise speed
+feature allow the helicopter to be 2.
+4.
+The helicopter also comprises a 3.
+on the rear side of the cockpit.
+The compartment, which is 12m long, 3.3m wide and 3.2m high, can hold two of approximately 1,000kg each. Two electric winches on the are used to move loads into the cabin. It also boasts a camera to monitor the positioning of slung load.
+5.
+6.
+main and tail rotor blades. The Mi-26 features
+The
+The Mi-26 boasts 7. non-retractable tricycle-type landing gear with two steerable 8.
+9.
+10.
+11.
+The
+allows for the cargo loading of different surfaces through (tail fuselage) using ladders and sub ladders. can be displayed in the sensor or electronic device fitted on the main
+gear's shelf on the rear side of the 12.
+winch - a hoisting machine
+
+
+Task 1
+Read the recommendations from a Helicopter Maintenance Manual and replace some of the verbs with similar and, in some cases, more appropriate ones from the box:
+A
+more appropriate
+verb:
+Instead of
+Rotate
+Verify
+Lower
+Return
+Lift
+Examine Ensure
+Inspection Task Description: Controls
+1. Inspect the anti-torque control pedals for condition and security and minimum friction; and the copilot anti-torque control pedals if installed.
+2. Raise collective stick full up.
+3. Push down collective stick full down.
+4. Confirm minimum friction of control pedals and readjust as required.
+5. Check freedom of full throttle grip travel and idle release operation.
+6. Restore to closed position.
+7. Twist throttle grip to idle detent.
+8. Establish proper throttle friction.
+200
+Task 2
+Look at the picture and name the flight controls inside the helicopter cockpit:
+The pink controls are:
+b) The green controls are:
+c) The turquoise controls are:
+
+
+Task 1
+Match the words in column A to their definitions in column B:
+A Lever
+Collective
+Operate
+Pitch angle
+Control Equal
+Friction
+Inadvertent
+B
+Simultaneous
+control the functioning of (a machine, process, or system). Not done on purpose; unintentional
+a force between two surfaces that are sliding, or trying to slide, across each other.
+| being the same in quantity, size, degree, or value.
+a rigid bar resting on a pivot, used to move a heavy or firmly fixed load with one end when pressure is applied to the other the angle between the chord line of a blade and rotor hub.
+the angle between the propeller blade chord line and the horizontal plane of rotation of the propeller.
+Angle of incidence Command
+(AOI)
+a)
+Task 2
+Write appropriate questions to the given answers:
+Answer: "Collective" or "thrust lever".
+b)
+Answer: Because it is located on the left side of the pilot's seat.
+c)
+Answer: Because it changes the pitch angle of all the main rotor blades simultaneously.
+d)
+Answer: To prevent the pilot from moving the collective lever accidentally.
+e)
+Answer: A change in drag.
+
+
+Task 1
+Answer the questions:
+a) Describe the appearance and location of the cyclic pitch control.
+b) What is the cyclic pitch control usually called?
+c) In what different directions can a helicopter fly? What about an airplane?
+d) What is meant by this: it changes the mechanical pitch angle of each main rotor blade independently..."?
+e) When will the helicopter bank left?
+f) What will happen if the cyclic is moved to the right?
+Task 2
+a) Group the words from the box into four categories, and Write the main topic into the central circle
+b)
+stick; to seesaw; backwards; rod; aft; to tilt; to lean; referred to as; titled; to teeter; named; labelled; column; to tip; rearwards; pole
+
+
+Task 2
+Match
+1. Three or more blades attached to rotor hub through hinges. Flapping hinge allows blades go up and down. Lead-lag or drag hinge allows blades go back and forth.
+2. Combines principles of other rotor systems. Flexible hubs allow blade bending without bearings or hinges. Elastomeric bearings instead of conventional.
+3. Blades, hub and mast are rigid with respect to each other. No vertical or horizontal hinges. Blades can be feathered.
+4. Two blades are rigidly mounted to the main rotor hub. Main rotor hub tilts with respect to the main rotor shaft on a teetering hinge. Blades flap together as a unit.
+a) Semirigid
+b) Rigid rotor
+c) Combination
+d) Fully articulated
+
+
+Task 3
+a) Read the description and determine which rotor configuration it belongs to.
+1. One rotor is located on the top of the other. Rotors turn in opposite directions but are mounted on the mast with the same axis of rotation one above the other.
+2. Rotors mounted on the end of wings or outriggers perpendicular to the body of the helicopter. Two sets of shorter blades.
+3. Two large horizontal rotor assemblies. Two sets of shorter blades. Counter-rotating rotors cancel each other's torque.
+4. Set of two rotors turning in the opposite direction. Masts mounted with a slight angle to avoid blades' collision.
+
+
+Task 4
+Fill in the missing words:
+helibuckets/air ambulances/conduct/aerial crane / submerging / wildland/ military forces/helitack/slings / assistance
+fires.
+1. A helicopter used to carry loads connected to long cables or is the use of helicopters to combat are usually filled by
+2.
+3.
+tanks.
+4.
+is called an
+the bucket into lakes, rivers, reservoirs, or portable
+use attack helicopters to
+aerial attacks on ground targets.
+5. Helicopters are used as ambulance cannot easily or quickly reach the scene.
+for emergency medical
+in situations when an
+Task 5
+Insert the following words into the text below: landing gear wheels_____, mast_ main rotor prevailing wind_____, mooring rings_____, tight_
+blade
+ramp hub
+restraint provisions flexing, skid gear_
+tail rotor wind
+Mooring
+If a helicopter is to be stored outside, it should be properly moored. Whenever parked, it should face the 1._________ or wind direction of an expected storm. If the helicopter is equipped with 2._________ the wheels should always be retracted or removed any time the helicopter is to remain in a static position. If the helicopter is equipped with 3. , they must be properly chocked.
+Most helicopters have 4.
+for tiedowns on the fuselage. These may also be the jackpoints of the aircraft. These tiedowns, or 5._________ on the fuselage may be used to anchor the helicopter to the 6. Any time the helicopter is parked the rotors must be tied down. The tiedown will always include the 7. and may include the 8. It will prevent damage from 9. and other helicopters landing in the immediate area. The tiedowns should be 10. absorb 11. flexing associated with fully articulated rotors and the 12. semirigid rotors. If too much 13. of the blade takes place, the tiedown may
+14. may be damaged if flapping of the rotor occurs. The tail rotor 15. enough to prevent tail rotor damage.
+enough to movement of come off. The
+must be strong
+
+
+Task 6
+Read the text:
+Fuselage maintenance - Sudden stoppage
+Sudden stoppage of the main rotor occurs when there is a sudden deceleration after contact with an object such as the ground, trees, etc. This force will be transmitted throughout the system, not only the point of impact. Damage to the blades is normally quite obvious at the point of impact, but they may also have secondary damage in the root area of the blade. The bonds may be loosened and spars may have cracks, etc. In addition, this may be transmitted to the rotor head. The inspection could require complete disassembly of the rotor head and the normal overhaul inspection performed. On some rotor heads certain parts may be required to be replaced without inspection. On others, it may require replacement of the entire rotor head.
+Inspection could include teardown and inspection of the mast bearings, transmission, transmission mounting, structural bolts, and tail rotor drive assembly. The extent of this inspection is often governed by the extent of the damage found in one or more areas such as bent drag braces, damaged mast bearings, etc. Sudden stoppage of the tail rotor can also lead to secondary damage; which may include twisting of the tail boom structure and structural damage to tail boom attachment points.
+Once you have read the text match the words in bold with their meaning:
+-the state of inactivity following an interruption
+- to decrease the velocity of
+- an arm of a rotating mechanism
+-the striking of one body against another
+- a connection that fastens things together
+- a main structural member in an airplane wing or a tail assembly that runs from
+tip to tip or from root to tip
+standard dimensions
+fuselage
+-the act of taking something apart
+- whole, complete
+-the act or process of taking apart or demolishing
+-the putting together of complex machinery from interchangeable parts of
+- a support, guide, or locating piece for a rotating or reciprocating mechanical part - a spar, or small-diameter structure, that connects tail surfaces to a pod-type
+- an adjustable brace used to adjust the blade alignment of a semi-rigid rotor - the component that supports the main rotor
+
+
+Task 1
+Circle ALL the right answers:
+1. Powerplant is...
+a) any unit that converts some form of energy into electrical energy, such as a hydroelectric or steam-generating station, a diesel-electric engine in a locomotive, or a nuclear power plant.
+b) a headquarter of a military regiment.
+c) the complete installation of an aircraft engine, propeller, and all accessories required for its proper functioning.
+d) a building or a group of buildings where force is produced.
+e) a thick network of pipes and lines that carries different types of liquids.
+2. Engine is...
+a) a large vehicle that pulls a railway train.
+b) a vehicle that carries cargo only.
+c) a machine that converts energy into mechanical power.
+d) the part of a vehicle that produces power to make the vehicle move.
+e) an implement, esp. one held in the hand, as a hammer, saw, or file, for performing or facilitating mechanical operations.
+3. Spark plug is...
+a) a forked part of the lead that comes into a socket.
+b) an electrical device that fits into the cylinder head of an internal-combustion engine and ignites the gas by means of an electric spark.
+c) a person or thing that inspires, activates, or advances something.
+d) a small piece of metal or other substance that is used to take an electric current to or from a source of power, a piece of equipment, or a living body.
+e) a device in the ignition system of a reciprocating engine that produces the spark which ignites the fuel-air mixture inside the cylinder.
+4. Gas is
+motion.
+a) a toxic or suffocating substance in suspension in air used against an enemy
+b) a fluid substance with the ability to expand indefinitely, as opposed to a solid or a liquid. c) a change in velocity rate.
+d) a driving force or pressure.
+e) one of the three basic forms of matter composed of molecules in constant random
+5. Drag is
+a) the attractive force existing between any two particles of matter.
+b) the resistance to the motion of a body passing through a fluid, esp. through air.
+c) the component of aerodynamic forces acting on the wing or the airfoil section, which is
+parallel and opposite to the relative airflow.
+d) the force that causes an object to move forward
+e) a slow, laborious procedure.
+
+
+Task 1
+Circle ALL the right answers
+1. Shaft is ...
+a) a structural member that moves back and forth within restricted space.
+b) a revolving rod that transmits motion or power.
+c) a ray of light.
+d) a vertical passageway through a building
+(as for an elevator).
+e) a cell or dungeon
+2. Compressor is...
+a) an electronic device for controlling and balancing sounds from various sources for broadcast or recording.
+b) a machine used for increasing the pressure of a gas or vapor.
+c) a rotor that draws air into the engine and is driven by a turbine.
+d) the part of a gas turbine that compresses the air before it enters the combustion chambers. e) the act or process of initiating combustion.
+3. Spool is...
+a) a cylinder of wood, plastic, cardboard, or other material on which wire, thread, or string is wound.
+b) a turbine engine component which is shaped like a drum on which several stages of compressor blades are mounted.
+c) a very small root or twig
+d) a machine for hoisting and moving heavy objects by means of cables attached to a movable
+boom.
+e) a part or surface, such as a wing, propeller blade, or rudder, that interacts with a flow of air to provide stability, rotation, lift, or thrust.
+4. Turbine is
+a) strength exerted upon an object. b) a strong heavy rope.
+c) any of various machines having a rotor, usu. with vanes or blades, driven by the pressure or thrust of a moving fluid, as steam, water, hot gases, or air, either in the form of free jets or as a fluid filling housing around the rotor.
+d) a safety device that protects an electric circuit from becoming overloaded.
+e) any of various types of machine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate.
+5. Fan is
+a) a device for producing a current of air by the movement of one or more broad surfaces.
+b) a hand tool consisting of a handle with a head of metal or other heavy rigid material that is attached at a right angle, used for striking.
+c) any vaned rotary device for producing a current or stream of air.
+d) a rotating device consisting of a number of blades attached to a central hub.
+e) a tool or device for cutting, typically a thin blade of metal with a series of sharp teeth. 6. Pressure is
+a) the condition of being subjected to physical, mental, social, or economic distress. b) a rate of decrease in velocity.
+c) a hollow cylinder, especially one that conveys a fluid.
+d) a measure of force applied uniformly over a given unit of surface area.
+e) the force per unit surface area at any point in a gas or liquid.
+
+
+Task 2
+Fill in the missing words.
+In an aircraft gas turbine, all of the turbine power is used to drive the c
+may also have an associated f
+or p
+(which
+The gas flow leaving the t_
+is then accelerated to the atmosphere through an exhaust nozzle to provide t
+P
+Gas turbine or jet engine thrust p
+the mass flow from engine i
+force produced in the e components of pressure f
+f
+ог
+is equal to the momentum increase in
+to exit, multiplied by the flight velocity. The actual thrust (and pulling the plane forward) is the summation of all the axial
+on the internal surfaces of the engine exposed to the gas path
+
+
+Vocabulary corner
+convergent - tending to move toward one point or to approach each other
+divergent - tending to move apart in different directions
+convergent-divergent inlet - a supersonic inlet duct; the forward section is convergent to increase air pressure and reduce air velocity while aft section is divergent to increase air pressure still further and slow airflow to approximately Mach 0.5 before entering the engine
+FOD-Foreign Object Damage
+Task 1
+Finish the following sentences.
+1. Engine inlet ducts...
+2. Air inlet duct design...
+3. The air inlet duct is located...
+4. Aircraft with engines mounted inside the wings ...
+5. Fuselage mounted engines are sometimes located...
+6. The aft section of the supersonic inlet duct increases in area ... 7. Compressor inlet screen is sometimes placed ...
+8. Many supersonic inlet ducts ...
+Task 2
+Insert the missing preposition.
+Since
+incoming air comes
+ice air is bled
+forming
+most modern turbofan engines the huge fan is the first part of the aircraft the contact with, icing protection must be provided. This prevents chucks of the leading edge of the inlet, breaking loose, and damaging the fan. Warm the engine's compressor and is ducted the inlet to prevent ice from ice or debris
+forming. Turboprops and turboshafts can use an inlet screen to help filter
+entering the engine.
+
+
+Vocabulary corner
+airflow - the flow of air, especially around a moving aircraft or vehicle
+impeller - the rotating part of a centrifugal pump, compressor, or other machine designed to move a fluid by rotation
+manifold - a pipe or chamber branching into several openings
+diffuser - a part that is attached to a piece of equipment to make air flow more slowly and over a wider area
+duct - a hollow tube used to transmit and direct the flow of air through aircraft
+annular - ring-shaped; of or forming a ring
+divergent - developing or moving in different directions
+vane - stationary airfoils within an engine
+overall - on the whole; generally
+impart - transmit, pass, convey
+Task 1
+Insert the words from the box into the text.
+extinguish, before, though, entry, after, function, slower, continuously
+DIFFUSER
+The diffuser is the divergent section of the engine
+the combustion section. It has the all-important
+discharge air to increased pressure at a
+the compressor and
+of reducing high-velocity compressor
+velocity. This prepares the air for
+into
+the flame burning area of the combustion section at a lower velocity so that the flame of combustion
+can burn
+the flame area at a high velocity, it could
+If the air passed
+the flame.
+Task 2
+Finish the following sentences.
+1. The centrifugal-flow compressor...
+2. Airflow is directed....
+
+
+Task 1
+1. contour
+2. spindle
+3. stage 4. impel
+5. consecutive
+6. ratio
+7. latter
+Task 2
+proportional relation; rate
+Match
+to push, drive, or force into motion
+further advanced in time or sequence
+any of various rotating shafts that serve as axes for larger rotating parts
+following one after another without interruption; successive the outline of a mass of land, figure, or body; a defining line a single turbine wheel having a number of turbine blades
+a) Centrifugal compressor: advantage (A) or disadvantage (D) 1. High pressure rise per stage.
+2. Simplicity of manufacture and low cost.
+3. Losses in turns between stages.
+4. Low weight.
+b) Axial compressor: advantage (A) or disadvantage (D)
+1. Difficulty of manufacture and high cost.
+2. Increased pressure rise by increasing number of stages, with negligible losses.
+3. Relatively high weight.
+4. High peak efficiencies.
+Task 3
+Insert: primary, secondary, critical, stages, final
+functions. Its
+The compressor section of the gas turbine engine performs function is to supply air in sufficient quantity to satisfy the requirements of the combustion burners. A function of the compressor is to supply air for various purposes in the engine and aircraft. This bleed-air is taken from any of the various pressure or highest pressure stage since, at this point,
+the compressor. Air is often bled from the
+of
+pressure and air temperature are at a maximum.
+
+
+exciter - a small auxiliary generator that provides field current for an alternating-current generator
+outlet elbow - also known as combustion chamber inlet duct is a duct that redirects primary airflow from a radial to an axial direction
+capacitor discharge ignition system – a type of high-energy ignition system that produces a hot spark for starting a gas turbine engine
+capacitor - an electrical component made of two conductors separated by an insulator gum - any of sticky or viscous substances or deposits
+residue - a small amount of something that remains at the end of a process
+shroud - a protective covering for a piece of equipment
+Task 1
+Circle the right option:
+The combustion section houses the combustion process, which raises/lowers/reduces the temperature of the air passing through the engine. This process captures/releases/consumes energy contained in the air/fuel mixture. The major part of this energy is required at the turbine or turbine stages to drive/pull/roll the compressor. About 2/3 of the energy is used to drive the gas generator compressor. The remaining energy passes through the remaining turbine stages that inhale/absorb/ disperse more of the energy to drive the fan, output shaft, or propeller. The primary function of the combustion section is, of course, to burn/lubricate/extinguish the fuel/air mixture, thereby adding heat energy to the air.
+Task 2
+True (T) or False (F)
+To efficiently burn the fuel/air mixture, a combustion chamber must:
+1. Mix fuel and air effectively in the best ratio for good combustion.
+2. Burn the mixture as efficiently as possible.
+3. Cool the hot combustion gases to a temperature that the turbine blades can tolerate.
+4. Distribute hot gases evenly to the turbine section.
+5. Freeze the hot gasses to a certain temperature.
+6. Separate fuel/air mixtures as efficiently as possible.
+
+
+Task 1
+Choose the best option
+While not common / obvious / usual in large engines, some small turboshaft engines hire/ feature / present counter-rotating turbine wheels. Counter-rotating turbines are used for their effectiveness / achievements / abilities in dampening gyroscopic effects and dragging / counteracting / reducing engine vibration, but this design provides / facilitates / views no aerodynamic advantage.
+Task 2
+Insert the missing words
+a) performance, thrust, section, components, design, operation, temperature
+Temperature control is an important consideration in the
+temperature of the turbine
+is the most limiting factor in the
+of a turbine section. The of a gas
+of the incoming air, the more
+turbine engine. However, the higher an engine raises the power, or , an engine can produce. Therefore, the effectiveness of a turbine engine's cooling system significantly affects engine One of the most common ways of cooling
+the
+in the turbine section is by using engine bleed air.
+b) assembly, blades, operation, temperatures, vanes, shaft, engine
+The rotor element of the turbine section consists essentially of a turbine wheel is a dynamically balanced unit consisting of The disk, in turn, is attached to the main power-transmitting shaft of the gases leaving the turbine inlet nozzle
+and a wheel. The attached to a rotating disk. The exhaust
+act on the blades of the turbine wheel, causing the
+to rotate at a very high rate of speed. The high rotational speed imposes severe centrifugal loads on the turbine wheel, and at the same time the elevated
+result in a
+lowering of the strength of the material. Consequently, the engine speed and temperature must be controlled to keep turbine
+within safe limits.
+
+
+Task 1
+Insert the missing words.
+The exhaust section is located directly b
+gases are ejected at the r
+the turbine section and ends when the
+in the form of a high-velocity exhaust gases. The c
+of the exhaust section include the exhaust cone, t
+The exhaust cone c
+(if required), and the exhaust nozzle.
+the exhaust gases discharged from the turbine section and gradually of the gases is
+them into a solid flow of gases. In performing this, the v increased.
+decreased slightly and the p
+
+
+Task 2
+Advanced Vocabulary. Insert the missing phrases from the text
+igniter plugs, in-flight flameout, monitored parameter, ignition source,
+operational value,
+engine start, discharge pressure, continuous-duty circuit, pressure sensor,
+brief periods
+The primary function of a turbine engine ignition system is to ignite the fuel in the combustion After ignition, combustion is self-sustaining and an
+chamber during an (1).
+(2)
+is no longer required. Therefore, most turbine engine ignition systems
+are normally operated only for (3)
+A secondary function of the ignition
+system is to provide standby protection against an (4)
+Most turbine engine
+ignition systems have continuous or automatic relight settings that can be selected in flight. Engines
+equipped with a continuous setting contain a separate low-tension (5)
+pilot can select continuous ignition for one or both (6).
+The
+On engines equipped
+with an automatic relight setting, the system provides ignition only when a (7)
+falls below a particular (8)
+A common method of
+system activation is a (9)
+installed at the compressor discharge; a drop in (10)
+automatically activates the ignition system.
+
+
+Task 1
+Insert the missing words.
+accessory drives, engine profile, aircraft accessories, exhaust locations, accessory section, reduction gears
+The
+drive engine and
+or accessory drive gearbox, of a gas turbine engine is used to including electric generators, hydraulic pumps, fuel
+pumps, and oil pumps. The location of an accessory drive gearbox is designed to maintain a Secondary functions include acting as an oil reservoir (or
+streamlined
+sump) and housing the accessory drive and
+be located on the front, midsection, or rear of an engine. Inlet and
+may
+typically
+dictate the location of the accessory.
+Task 2
+Finish the following sentences.
+1. The primary function of accessory section is....
+2. The secondary function of an accessory section is...
+3. Accessory section includes...
+4. Accessory section consists of...
+5. Most turboprops and turboshafts....
+Task 3
+Circle the right option
+1. Nearly all modern turbofan engines found on passenger jets have centrifugal/axial flow compressor.
+2. The rotor/stator blades spin around the shaft, and the stators/rotors are static. Some engines have variable rotors/stators that change pitch, but still don't rotate around the engine shaft.
+Accessory Drive Train
+Aircraft engine
+
+
+1. Jet propulsion is a practical application of Newton's
+Law of motion.
+2. The four types of gas turbine engines are the
+and the
+3. The inlet duct of a turbine engine is norn1ally considered to be a part of the
+4. When subsonic air passes through a section of a duct that has a divergent shape, its velocity will
+5. Subsonic inlet ducts are usually of a fixed geometry and 6. Supersonic aircraft typically utilize a
+7. The two basic types of colnpressors used on turbine engines are:
+8. The three main components of a centrifugal compressor are:
+9. The two main elements of an axial flow compressor are
+10. The rotating elements of an axial flow compressor are referred to as
+in shape.
+inlet duct
+11. The stationary elements of an axial flow compressor are referred to as
+12. The section of a turbine engine directly behind the compressor is known as the
+13. The pressure in the
+the engine.
+section of a gas turbine engine is the highest of any section in
+14. As primary air flow enters a combustor, it passes through a set of
+air a radial motion.
+15. The three types of combustion chambers that may be found in turbine engines are:
+a.
+b.
+C.
+which give the
+
+
+Advanced Vocabulary. Insert the words into the text.
+accessories, directly, rotates, propeller, transfer, blades, stage, additional, functions, drives, drive, convert, mechanically, significant, shaft
+TURBOPROP ENGINES
+A turboprop engine is a gas turbine engine that (1)
+a propeller to produce
+thrust. Turboprops, like all gas turbine engines, have a compressor section, combustion section, turbine section, and exhaust section. These sections carry out the same (2)
+as if they were installed in a turbojet engine. However, a turboprop engine has a few (3) differences. The turbine in a turboprop engine extracts more energy from exhaust found in a turbojet engine. A turboprop uses multiple (5) _turbines to extract up to 85 percent of an engine's total power to rotate the propeller.
+gases than (4)
+In addition to the turbine used to drive the compressor and (6)
+turboprop engines use a free turbine to independent as it is not (8)
+drive the (7)
+most
+The free turbine is connected with the main turbine. This free (or power)
+turbine is in the exhaust stream, downstream from the main turbine, and (9)
+the propeller.
+only
+Another method to (10)
+exhaust gas energy to the propeller is through a
+fixed (11)
+In this case, the main turbine has an (12)
+turbine
+wheel to extract the energy needed to (13).
+a propeller. With a fixed shaft engine,
+the main power shaft goes (14)
+the high-speed, low-torque turbine output into low speed, high-torque energy to drive the propeller.
+into a reduction gearbox to (15)
+
+
+Complete the text with the correct form of the words in capitals:
+TURBOFAN ENGINES
+A turbofan is a
+(MODIFICATION) version of a turbojet engine. Both shares
+the same basic core of an inlet, compressor, burner, turbine, and nozzle, but the turbofan has an (ADD) turbine to turn a large, many-bladed fan
+the front of the engine.
+A turbofan engine consists of a multibladed, ducted propeller
+by a gas turbine engine. Turbofans were developed to
+(LOCATE) at
+(DUCTING)
+(PROVISION) a
+compromise between the best features of the turbojet and the turboprop. Turbofan engines have
+turbojet type cruise speed capability, yet retain some of the short-field takeoff capability of a turboprop. (NEAR) all present day airliners are powered by turbofan engines for
+these reasons as well as because turbofans are
+(RELATIVE) fuel-efficient.
+A turbofan engine can have the fan mounted either in the
+(FRONTAL) or
+back of the engine. Engines that have the fan mounted in front of the (COMPRESS) are called forward-fan engines, and turbofan engines that have the fan mounted to the (SECTIONAL) are called aft-fan engines.
+turbine
+Inlet air
+two
+and a second stream
+(PASSAGE) through a turbofan engine is usually divided into (SEPARATION) streams of air. One stream passes through the engine core (COAXIAL) bypasses the engine core. From this bypass
+stream of air, this powerplant is
+(REFERENCE) to as a bypass engine.
+
+

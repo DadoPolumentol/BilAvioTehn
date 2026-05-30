@@ -1,0 +1,459 @@
+
+A SHORT TECHNICAL HELICOPTER HISTORY
+The history of the helicopter has been very short indeed. In comparison with fixed wing aircraft, helicopters need more power, have to withstand higher stresses, are harder to understand and control and have more moving parts. It is hardly surprising that the development of the helicopter took place well after that of the fixed-wing aircraft.
+Early helicopters lacked enough power to fly. Once helicopters were powerful enough to leave the ground, they were found to be uncontrollable. Once the principles of control were understood, they were found to vibrate and to need a lot of maintenance and so on. Today's helicopters represent the sum of a tremendous number of achievements in overcoming one obstacle after another.
+The first practical helicopter was the Focke-Wulf Fw-61 of 1938, followed in the same year by the Weir W-5 that flew two years before Sikorsky's VS-300. The urgencies of war accelerated all technical development with the emergence of production helicopters, where the work of Anton Flettner and Heinrich Focke was far in advance of anything taking place elsewhere. The Focke- Achgelis Fa-223 became, on 6 September 1945, the first helicopter to cross the English Channel.
+After World War II great progress was made in the understanding of helicopter dynamics and stability. This led directly to machines that were less stressful to fly and correspondingly safer. The Bell 47 based on the research of Arthur Young was in 1946 the first helicopter to be certified. The Sycamore of 1952 designed by Hafner was the first British helicopter to be certified and was noted not just for its performance, but also for its light control forces which needed no power assistance.
+Advances in constructional techniques and materials continued to improve the service life of components, especially blades. Possibly the most significant single step was the introduction of the turbine engine which was much lighter than the piston engine for the same power, yet had fewer moving parts. This allowed greater payload and a reduction in maintenance.
+The first turbine-powered helicopter to fly was a modified Kaman K-225 in 1951 and in 1954 the first twin-turbine machine, also a Kaman, flew. The Bell Huey first flew in 1956. It was in the 1960s that the many disciplines in helicopter design were finally mastered allowing the machine to be considered as a system. Some elegant and definitive designs emerged during this period. Such was the validity of their basic concepts that they could accept a steady succession of upgrades that would allow them in some cases to remain in service to the present day. Sikorsky's S-61 and Boeing's Chinook are good examples of longevity.
+Since that time there have been few breakthroughs; instead there has been a steady process of refinement. The introduction of composite materials in blades, rotor heads and body parts has reduced weight and extended service life. Refinements in mechanical engineering have produced lighter engines and transmissions having longer life.
+Helicopters can survive engine failures and the failure of a variety of parts, but there remain some parts such as gearboxes and rotor heads in which failure will be catastrophic. The technique of electronically monitoring critical components has made a great contribution to safety. Spontaneous failures are very rare.
+The life of a component may be reduced if it is subjected to higher stress. Modern electronic systems (HUMS: Health and Usage Monitoring Systems) can measure stress and the time for which it has been applied in order to calculate the safe remaining life in major components.
+
+
+
+APPLICATIONS OF THE HELICOPTER
+If you're in trouble anywhere in the world, an airplane can fly over and drop flowers, but a helicopter can land and save your life. - Igor Sikorsky
+The modern helicopter is a sophisticated device that merges a surprising number of technologies together. This wide range of disciplines is one of the fascinations of the helicopter, but it also makes a complete understanding difficult. The unique capabilities, complexity and inherent limitations are part of a helicopter's charm.
+In most cases helicopters cannot compete economically with aeroplanes, and so their use is restricted to applications for which aeroplanes, or other forms of transport, are unsuitable. In remote areas, there will be no airstrips; in wartime, runways are targets, and, with the exception of the aircraft carrier, are fixed. The helicopter's ability to hover means that it can land almost anywhere a flat firm surface exists. Some of them are amphibious, landing on water or land. If the ground is unsuitable (or if the waves are too high) many helicopters can transfer goods and passengers whilst in the hover. This hovering ability makes the helicopter the ideal rescue vehicle. Many lives have been saved because the helicopter can get to places that would otherwise be difficult or impossible to reach. War casualties, the victims of shipwrecks, mountain climbing accidents and natural disasters such as earthquake or flood today have significantly higher chances of survival because a helicopter can get them rapid treatment. The accounts of helicopter rescues make more thrilling reading than novels because they are true. Helicopters have flown far out of range of the shore by taking fuel from oilrigs and ships, sometimes taking fuel in the hover if a landing was impossible. This would be remarkable in good weather, but emergencies occur in all weather conditions and the helicopter has evolved to handle the worst.
+Most of today's helicopters were originally designed for military use. As military fixed-wing aircraft became faster and faster, they found it harder to attack ground targets or to support ground troops. During the Vietnam War, it was found that the helicopter had a major role. Transport helicopters excelled inserting and withdrawing troops, delivering ammunition and food, evacuating the wounded, recovering the crews of downed planes and even the planes themselves.
+
+
+
+
+HELICOPTER: MAIN COMPONENTS
+Helicopters come in a variety of sizes and shapes, but most share the same major components: airframe, fuselage, landing gear, power plant, transmission, main rotor system, and tail rotor system. Airframe
+Airframe is the fundamental structure of a helicopter. It can be made of either metal, wood, or composite materials, or some combination of them.
+Fuselage
+The fuselage is the helicopter's main body section. The fuselage houses the cabin that holds the crew, passengers, and cargo; the engine; the transmission; avionics; flight controls; and the powerplant.
+Landing gear
+Helicopters have two basic types of landing gears: wheels and skids. Wheels can be fixed or retractable. Skid gear is always fixed. In addition to wheels and skids, helicopter LG can consist of skis or floats, too.
+Power plant
+Piston engines are generally used in smaller helicopters. Turbine engines are more powerful and are used in a wide variety of helicopters. However, the turbine engine used in helicopters operates differently from those used in airplane applications. In most applications, the exhaust outlets simply release expended gases and do not contribute to the forward motion of the helicopter. Approximately 75 percent of the incoming airflow is used to cool the engine. The gas turbine engine mounted on most helicopters is made up of a compressor, combustion chamber, turbine, and accessory gearbox assembly.
+Transmission
+The transmission system transfers power from the engine to the main rotor, tail rotor, and other accessories during normal flight conditions. The main components of the transmission system are: the main rotor transmission, tail rotor drive system, clutch, and freewheeling unit. The primary purpose of the main rotor transmission is to reduce engine output rpm to optimum rotor rpm.
+Main rotor system
+The rotor system is the rotating part of a helicopter which generates lift. The rotor consists of a mast, hub, and rotor blades. The mast is a hollow cylindrical metal shaft which extends upwards from and is driven and sometimes supported by the transmission. At the top of the mast is the attachment point for the rotor blades called the hub. The rotor blades are then attached to the hub by any number of different methods.
+Tail rotor system
+Helicopters with a single, main rotor system require a separate anti-torque system. The torque applied to the rotor system causes the helicopter's fuselage to spin in the opposite direction. The tail rotor, or more accurately called the anti-torque rotor, applies a force opposing the main rotor torque to stop the fuselage from spinning. Its main function is to pull against the torque of the main rotor and hold the helicopter straight.
+
+
+
+
+AIRFRAME AND FUSELAGE
+The airframe, or fundamental structure, of a helicopter can be made of either metal, wood, or composite materials, or some combination of the two. Typically, a composite component consists of many layers of fiber-impregnated resins, bonded to form a smooth panel. Tubular and sheet metal substructures are usually made of aluminum, though stainless steel or titanium are sometimes used in areas subject to higher stress or heat. The fuselage, the outer core of the airframe, is an aircraft's main body section that houses the cabin that holds the crew, passengers, and cargo. Helicopter cabins have a variety of seating arrangements, the most usual being with the pilot seated on the right side. The fuselage also houses the engine, the transmission, avionics, flight controls, and the powerplant.
+The fuselage or hull has a number of jobs to perform. One obvious task is to hold all of the components in the correct position and to transfer forces from the rotors, the tail surfaces, the landing gear and any internal or underslung payload. It also protects the occupants and the mechanisms from the elements whilst still allowing good visibility for the pilot. Space has to be found for fuel tanks close to the center of mass (CM) as single rotor machines are sensitive to trim shifts as fuel burns off. In some cases the hull will also be designed to float in case the machine is forced down over water, whereas in others, amphibious operation is planned.
+Fuselage construction varies considerably, but the materials and techniques are not much different from those used in any aircraft. Early machines such as the Bell 47n were no more than a steel tube lattice frame with a blown acrylic canopy for the crew. The tail cone is often a stressed skin structure, but the center section has too many doors, windows and access hatches for the skin to carry all the loads, and alloy frames or steel tubes are often used beneath the skin. The main landing gear often shares the same framework as the engine and transmission so that the skin is not unduly stressed on landing. The landing skids, engine, fuel tanks and transmission are all attached to a welded tube frame known as a pylon. A stressed skin tail cone is attached to the rear of the pylon structure, and the aluminum seat and cabin floor is attached to the front. The cabin is glass fiber with plastics glazing. Composite materials are ideal for airframe construction and are becoming increasingly important since they are less dense than metals and are inherently well damped, which helps to control the inevitable vibration that characterizes helicopters. They can also have an indefinite fatigue life.
+and additional strength
+Vocabulary corner
+underslung load - in helicopter transport operations, any external load hanging under the helicopter fuselage
+payload - part of the useful load of an aircraft that is over and above the load necessary for the operation of the vehicle; it includes the commercial load of a civil aircraft and armament carried on board a military aircraft
+stressed skin- any construction that relies wholly or in part on a skin - with or without reinforcement - to carry main loads and provide stiffness
+
+
+
+
+LANDING GEAR
+Landing gear assembly supports the helicopter when it is in contact with the ground. It can withstand loads made during landing and ground handling. The landing gear primarily absorbs normal landing forces, with the capabilities to absorb severe landing forces during overload conditions. The landing gears may be fixed or retractable. A fixed gear always remains extended and has the advantage of simplicity combined with low maintenance. In flight, retractable landing gears are set to a stowed or withdrawn position, in which the wheels are housed inside housings to reduce drag and fuel consumption of the helicopter, and are moved by hydraulic actuators between the stowed position and a lowered or deployed position for landing or takeoff.
+The most common type of helicopter landing gear consists of wheels, skids or skis for landing on land or snow, and floats for water operations.
+The wheeled type of landing gear is complex and heavy. The design features include, tires, wheels, braking devices, oleo struts and other hydraulic equipment. Energy absorption takes place through brakes and shock absorbers. These types of landing gears also have to accommodate retracting mechanisms.
+Skids are used mainly because they weigh less than wheels. Skid landing gear main components are: forward and aft cross tubes; forward and aft saddle assemblies; abrasion strip; damper assemblies; and skid tubes.
+
+
+
+MAIN ROTOR
+A helicopter main rotor, or rotor system, is the rotating part of a helicopter which generates lift. The rotor consists of a mast, hub, and two to six rotary wings that are called rotor blades. The rotor blades are attached by a rotor hub to a rotor shaft which extends approximately vertically from the fuselage. They form the rotor. It turns independently through the rotor mast.
+The mast is a hollow cylindrical metal shaft which extends upwards from, and is driven and sometimes supported by, the transmission. The mast connects the transmission to the rotor assembly. The mast rotates the upper swash plate and the blades. As the engine turns the rotor shaft, it also turns the upper swash plate and the rotor blade system. This system includes blade grips, which connect the blades to a hub.
+The main rotor blade performs the same function as an airplane's wings, providing lift as the blades rotate. The rotor blades are connected to the rotor hub, at an angle to the plane of rotation, called the pitch angle. A pilot can change the lift by changing the rotor's revolutions per minute or its angle of attack, which refers to the angle of the rotary wing in relation to the oncoming wind. The forward facing edge of the rotor blade is called the leading edge; the back facing edge is called the trailing edge; and, the distance from the leading edge to the trailing edge of the rotor blade is called the chord.
+The rotor hub is the component that holds the blades and connects them to the main shaft. Hub is mounted atop the mast. It connects the rotor blades to the control tubes.
+In addition to the mast, blades and hub, there are other parts that compose a rotor, such as:
+-
+-
+Root: The inner end of the blade where the rotors connect to the blade grips. Blade Grips: Large attaching points where the rotor blade connects to the hub. Control Tubes: Push pull tubes that change the pitch of the rotor blades.
+Pitch Change Horn: The armature that converts control tube movement to blade pitch.
+Pitch: Increased or decreased angle of the rotor blades to raise, lower, or change the direction of the rotors thrust force.
+Jesus Nut: Is the singular retaining nut that holds the hub onto the mast. (If it fails, the next person you see will be Jesus).
+
+
+SWASH PLATE
+A helicopter's main rotor is the most important part of the vehicle. It provides the lift that allows the helicopter to fly, as well as the control that allows the helicopter to move laterally, make turns and change altitude. To handle all of these tasks, the rotor must first be incredibly strong. It must also be able to adjust the angle of the rotor blades with each revolution they make. The pilot communicates these adjustments through a device known as the swash plate assembly. Swash plate assembly is also known as slant disk, or star assembly.
+People often mistake helicopter control as tilting the rotor disc. While this may make for simple explanation and visualization, it is more accurate to think of helicopter control as the tilting and lifting of the swash plate.
+The swash plate assembly consists of two parts -- the upper and lower swash plates. The upper swash plate connects to the mast, or rotor shaft, through special linkages. As the engine turns the rotor shaft, it also turns the upper swash plate and the rotor blade system. This system includes blade grips, which connect the blades to a hub. Control rods from the upper swash plate have a connection point on the blades, making it possible to transfer movements of the upper swash plate to the blades. And the hub mounts to the mast via the Jesus nut.
+The lower swash plate is fixed and doesn't rotate. Ball bearings lie between the upper and lower swash plates, allowing the upper plate to spin freely on top of the lower plate. Control rods attached to the lower swash plate connect to the cyclic- and collective-pitch levers. When the pilot operates either of those two levers, his or her inputs are transmitted, via the control rods, to the lower swash plate and then, ultimately, to the upper swash plate.
+Using this rotor design, a pilot can manipulate the swash plate assembly and control the helicopter's motion. With the cyclic, the swash plate assembly can change the angle of the blades individually as they revolve. This allows the helicopter to move in any direction around a 360- degree circle, including forward, backward, left and right. The collective allows the swash plate assembly to change the angle of all blades simultaneously. Doing this increases or decreases the lift that the main rotor supplies to the vehicle, allowing the helicopter to gain or lose altitude.
+
+
+
+ROTOR SYSTEMS CLASSIFICATION
+Main rotor systems are classified according to how the main rotor blades move relative to the main rotor hub. There are three basic classifications of the main rotor systems:
+- Fully articulated rotor system,
+-
+-
+Semirigid rotor system, and
+Rigid rotor system
+Some modern rotor systems use a combination of these types.
+The three different types of motions that rotor blades perform relative to the main rotor hub are: flapping, feathering and dragging (also referred to as: lead-lag).
+Blade feathering refers to a change in the blade angle (pitch); a blade feathers along its longitudinal axis.
+Blade flapping is the up and down movement of a rotor blade.
+Lead-lag (dragging) is a movement of a blade forward or aft in the plane rotation.
+Generally these movements are enabled through hinges and bearings. But not all of these three motions are possible in all rotor systems mentioned above. So, in a rigid rotor system the blades can only feather, and not flap or lead-lag. Blades in a semirigid rotor system can flap and feather, but not lead-lag. Only the blades in a fully articulated rotor system can move in all three ways - they can flap, feather and lead-lag.
+The number of blades also varies depending on the type of rotary system: in a fully articulated rotor system and in a rigid rotor system there are usually three or more blades; in a semirigid rotor system there are usually two blades.
+
+
+
+FULLY ARTICULATED ROTOR SYSTEM
+Fully articulated rotor systems allow each blade to feather, lead-lag, and flap independently of other blades. As we have already learned, to feather means to rotate about the pitch axis to change lift; to lead and lag means to move back and forth in-plane; and, to flap means to move up and down about an inboard mounted hinge. Fully articulated rotor systems are rotor systems with three or more than three blades. In a fully articulated rotor system, each rotor blade is attached to the rotor hub through a series of hinges. The hinges allow the blade to move independently of the others.
+The horizontal hinge, called the flapping hinge, is a hinge that connects a rotor blade to the hub. The flapping hinge allows the blade to move up and down, i.e. to flap. The blade flaps about the flapping hinge during its rotation, which permits equalization of lift. Flapping is designed to compensate for dissymmetry of lift (the unequal production of lift across a rotor disc as a result of airspeed). The flapping hinge may be located at varying distances from the rotor hub, and there may be more than one hinge.
+The vertical hinge, called the lead-lag or drag hinge, allows the blade to move back and forth. This movement can be referred to as: lead-lag, dragging, or hunting. Dampers are usually used to prevent excess back and forth movement around the drag hinge. The purpose of the drag hinge and dampers is to compensate for the acceleration and deceleration caused by Coriolis Effect.
+Each blade can also be feathered, that is, rotated around its spanwise axis. Feathering the blade means changing the pitch angle of the blade. By changing the pitch angle of the blades you can control the thrust and direction of the main rotor disc.
+Older hinge designs relied on conventional metal bearings. As they were at the root of the problem of recurring maintenance, elastomeric bearings superseded them. Elastomeric bearings used in newer rotor systems are the main components of the helicopter rotor hub. They may act as a hinge to three motions of the rotor blade: flapping, lagging and pitching. The elastomeric bearings are generally made of rubber and steel. Apart from solving some kinematic issues, the elastomeric bearings can be readily inspected, which is crucial for avoiding the problem of excessive maintenance.
+
+
+
+RIGID ROTOR SYSTEM
+In a rigid rotor system, the blades, hub, and mast are rigid with respect to each other. There are no vertical or horizontal hinges. Accordingly, the blades cannot flap or drag. However, the blades can be feathered. Feathering the blade means changing the pitch angle of the blade. By changing the pitch angle of rotor blades you can control the thrust and direction of the main rotor disc. Feathering of the blade is its rotation along its feathering (spanwise) axis. This movement is enabled by means of a feathering hinge.
+Feathering hinge
+Because of the lack of the flapping and lead-lag hinges in a rigid rotor system, flapping and lead-lag forces must be absorbed through blade bending. In other words, the operating loads are absorbed by bending of blades. Each blade flaps and drags about flexible sections of the root. Due to all that, the rigid rotor system is mechanically simple, but structurally complex.
+FEATHERING HINGE
+Allows the blades to rotate along their length (= feathering)
+• Rods connect the pitchhorn to the upper swashplate, the position and rotation of the swashplate assembly controls amount and direction of the lift.
+Rotor blade is connected to the rest of the rotor using 6 angular contact ball bearings.
+As advancements in helicopter aerodynamics and materials continue to improve, rigid rotor systems may become more common because the system is easier to design and very responsive. Also rigid rotor system is usually not susceptible to mast bumping because the rotor hubs are mounted solid to the main rotor mast. There is also a reduction in the weight and drag of the rotor hub and a larger flapping arm, which significantly reduces control inputs. Without the complex hinges, the rotor system becomes much more reliable and easier to maintain than the other rotor configurations.
+A disadvantage of this system is the quality of ride in turbulent or gusty air. Because there are no hinges to help absorb the larger loads, vibrations are felt in the cabin much more than with other rotor head designs.
+
+
+
+
+SEMIRIGID ROTOR SYSTEM
+A semirigid rotor system is usually composed of two blades that are rigidly mounted to the main rotor hub. The blades are rigidly attached to the hub, with the hub and blades able to teeter like a seesaw. The hub tilts with respect to the main rotor shaft on what is known as a teetering hinge. The teetering hinge is only present in 2 blade rotors. It allows the blades to flap together as a single unit: as one blade flaps up, the opposite blade flaps down.
+Because the rotors are tied together rigidly in-plane, there is no lead-lag between them. In other words, there is no vertical drag hinge in a semirigid rotor system. Because of that the lead-lag forces are absorbed through blade bending.
+Semi-rigid rotors are found on aircraft with two rotor blades, such as Robinson, Hiller, and many Bell products. The Robinson system, although basically teetering, permits some independent flapping of each blade and operates in a similar fashion.
+
+
+
+MAIN ROTOR CONFIGURATIONS
+A rotor provides lift, which can be employed to keep the aircraft airborne and to provide thrust. A rotor can also counteract torque. Several rotor designs and configurations have been implemented over time. The most common helicopter type is a single main rotor helicopter. A single main rotor helicopter needs an anti-torque device to counteract the twisting momentum produced by the main rotor. The most common anti-torque device designed to compensate the torque produced by the main rotor is a tail rotor. In a single main rotor helicopter part of the power generated by the powerplant(s) is employed to counteract torque. In other words,, a single main rotor helicopter has one main rotor and one tail rotor.
+In addition to single rotor helicopters, there are also helicopters which are powered by two rotors instead of just one. Such helicopters do not rely on an antitorque tail rotor. Instead, they have two large horizontal main rotors that turn in opposite directions, thus counteracting the torque effect on the aircraft. These helicopters are called dual-rotor helicopters, but are also known as counter- rotating rotor helicopters, or twin-rotor helicopters.
+There are four basic configurations of dual-rotor helicopters:
+-
+-
+Tandem;
+Coaxial;
+Transverse; and
+- Intermeshing.
+Tandem rotors are two rotors one mounted behind the other. Coaxial rotors are two rotors mounted one above the other on the same axis. Transverse rotors are two rotors that are mounted at each end of a wing-type structure or outrigger. Intermeshing rotors are two rotors mounted close to each other at a sufficient angle to let the rotors intermesh over the top of the aircraft.
+The advantages of dual-rotor helicopter configurations over the conventional rotor helicopters are numerous. To begin with: dual-rotor helicopters are more stable in flight. Another advantage is their ground safety - since coaxial-rotor helicopters do not require a tail rotor, they are safer to approach while rotors are still in motion. Also, the dual-rotor helicopters are generally capable of higher speeds, and have the advantage of being able to hold more weight than single-rotor aircraft.
+
+
+
+TANDEM ROTOR
+Most dual-rotor helicopters are tandem rotor systems. The tandem rotor is the configuration of the helicopters that have two large horizontal rotor assemblies, a twin rotor system, instead of one main assembly and a smaller tail rotor. A large fuselage is inherent in the design, being required to support the two rotors. Tandem rotor aerodynamics is a complex subject. The rear rotor works in the aerodynamic shadow of the front rotor, which reduces its efficiency. This loss can be minimized by increasing the distance between the two rotor hubs, and by elevating one hub over the other.
+This configuration also has the advantage of being able to hold more weight with shorter blades, since there are two sets. In addition, all of the power from the engines can be used for lift, whereas a single rotor helicopter uses power to counter the torque. Because of this, tandem helicopters are among some of the most powerful and fastest. The major disadvantage is a more complex transmission system and control system. There is also more drag due to its shape and excessive weight. Having two rotor heads means a higher cost to operate; because most components on a rotor head are time-limited (expensive components must be replaced frequently).
+Though tandem rotor helicopters have been successful and safe, very few companies in the world have built helicopters with the tandem design.
+CH-47D Chinook
+The CH-47 Chinook is a twin-engine, tandem-rotor, heavy-lift transport helicopter in service with the US Army and other Armed Forces worldwide. With a top speed of 170 knots or 196 mph for the CH-47F, it is 17 knots faster than the Apache and 11 knots faster than the Blackhawk. It is enabled to transport ground forces, supplies, ammunition, and other battle-critical cargo. In addition, the CH-47 Chinook can be employed for medical evacuation, aircraft recovery, firefighting. parachute drops, heavy construction, civil
+development, disaster relief and search and
+rescue.
+FACTS AND FIGURES
+The CH-47D has triple hooks, night goggle- compatible cockpit, advanced rotors and improved crash protection
+• The lower fuselage is completely sealed to allow emergency ditching in the water
+In the Falklands War, a British Chinook carried 82 paratroopers in a single lift and survived a minor crash
+
+
+
+
+COAXIAL ROTOR
+Co-axial propeller systems have been used successfully in commercial and military aircraft for many years due to their inherent efficiency savings (39%) over conventional single propeller systems.
+A coaxial rotor is defined as one having an upper and a lower rotor that rotate in opposite directions to each other. Since torque balance is achieved with the main rotor system, a tail rotor is not required.
+One rotor is located on top of the other. The two rotors turn in opposite directions, but are mounted on the mast, with the same axis of rotation, one above the other. Depending on which rotor produces more lift, the helicopter will turn to the left or right, because of the torque.
+The coaxial helicopter needs two swash plates. The first connects the stationary cyclic controls to the lower rotor, and the second allows the cyclic control to pass from the lower rotor to the upper rotor. The cyclic control thus tilts both rotors.
+In coaxial designs, the improved ability to hover and maintain stable flight ultimately makes it a better configuration. They are easier to control and much safer for the occupants. Theoretically, if one rotor broke in a coaxial system, the craft could still be landed safely.
+The application of coaxial rotors means that there is no inherent need for the craft to have a gyroscope to provide stability. The rotational effects of both rotors provide for a near-perfect gyroscope, improving the stability of the craft once more.
+Kamov Ka 226
+The Kamov Ka-226 is a small utility helicopter with coaxial rotors. It is a new generation version of the successful Ka-26. This helicopter was developed both for military and civil customers. The Ka-226 made its first flight in 1997. Unusual feature of the Ka-226 is that it has an interchangeable mission module, attached to its bubble-shaped cockpit, instead of conventional cabin. Various modules have been developed, optimized for search and rescue, medical evacuation, disaster relief, patrol, police, fire fighting, crop-dusting, and so on. The helicopter can fly with or without module attached. The Ka-226 is operated by one or two pilots. With the passenger module installed, it accommodates 6 - 9 passengers, depending on the module.
+
+
+
+
+TRANSVERSE ROTORS
+Transverse rotors are mounted on the end of wings or outriggers, perpendicular to the body of the aircraft. Similar to tandem rotors and intermeshing rotors, the transverse rotor also uses differential collective pitch. However, like the intermeshing rotors, the transverse rotors use the concept for changes in the roll attitude of the rotorcraft. This configuration also has the advantage of being able to hold more weight with shorter blades, since there are two sets. Furthermore, all of the power from the engines can be used for lift, whereas a single rotor helicopter uses power to counter the torque.
+V-22 Osprey Tilt-Rotor Aircraft
+The V-22 is fully shipboard compatible, with the world's first complete blade fold and wing stowage system. It is able to operate off all US Navy L-class amphibious ships, the LHA/LHD assault carriers, and can be stowed on full-size CV/CVN carriers. For stowage, the wings are rotated to lie above and parallel to the fuselage to create a compact rectangular volume. The automatic wing and rotor folding sequence can be completed in 90 seconds in a 60kt wind.
+
+
+
+
+INTERMESHING ROTORS
+Intermeshing rotors on the helicopter are a set of two rotors turning in the opposite directions, with each rotor mast mounted on the helicopter with a slight angle to the other so that the blades intermesh without colliding. The arrangement allows the helicopter to function without the need for a tail rotor. This configuration is sometimes referred to as a synchropter. In machines having two- bladed rotors the blades are phased 90- apart so that one blade is safely oriented fore and aft when the other passes overhead. Although there is no tail rotor, there is no consequent safety advantage. The outward tilt causes the rotors to pass close to the ground at the sides. Synchropters are usually placarded with warnings to ground personnel to approach from the front.
+The Kaman K-MAX
+FRY
+The K-MAX is categorized as a "synchropter" which is a helicopter making use of an intermeshing rotor system, the rotors turning in opposite directions and at opposing angles. The K- MAX essentially utilizes a modernized form of the concept and has proven it a most viable rotary- wing aircraft. The intermeshed rotor arrangement provides the K-MAX with an in-born hover capability that makes it relatively easier to control during precise actions.
+The K-MAX was designed to perform under the most extreme conditions and circumstances, maintaining full capabilities in hot temperatures and at high altitudes. This provides a measurable performance advantage for operators conducting rescue missions or dropping water on fires in mountainous areas. Heavy-lift capabilities make the K-MAX ideal for disaster relief, as well. It is capable of working long hours while performing repeated lift operations, such as delivering supplies to areas devastated by floods, removing debris from earthquake-ravaged regions, or rescuing individuals trapped on top of a high rise building.
+
+
+
+TAIL ROTORS
+Sir Isaac Newton's Third Law of Motion says that for every action there is an equal and opposite reaction and for a helicopter, it means that when the main rotors are spinning in one direction, the rest of the aircraft wants to spin in the opposite direction, unless acted upon by some other force. In early helicopters, the "other force" was generated by a smaller rotor flipped vertically, so it would force the tail-and by extension the rest of the airframe to resist that unwanted torque.
+The tail rotor (sometimes referred to as an antitorque rotor) is used for directional control of the single main rotor helicopters. This system, like other systems on the helicopter, has as many variations as there are helicopters.
+For many years the tail rotor was one of the areas that tormented the would-be inventers of the helicopter. The absence of the tail rotor idea brought about coaxial main rotors, tandem rotors, rotors located side by side, and intermeshing main rotors. Even after Sikorsky first used the tail rotor, these other designs continued. The majority of helicopters are equipped with tail rotors. Those not utilizing a tail rotor are used primarily by the military.
+The drive for the tail rotor is supplied from the transmission of the helicopter, or at least by a connection with the transmission. It is necessary for the tail rotor to rotate at all times during flight, even if the engine is not operational. The tail rotor may be driven by either the engine or by the transmission during autorotation.
+Even though the tail rotor has disadvantages, the main rotor/tail rotor system seems to be the best compromise at this time; the tandem main rotor being second best because of the complexity of design.
+
+
+
+CONVENTIONAL TAIL ROTOR
+The conventional tail rotor is mechanically a small main rotor. The term small being relative because, for example, the tail rotor of the Mi-26 is about the same size as the main rotor of an MD- 500 and produces a similar thrust. The tail rotor needs no cyclic pitch control, only a collective mechanism actuated by the pedals.
+Conventional tail rotors consist of between two and five blades constructed from metal and composite materials. Tail rotor blades are made with both symmetrical and asymmetrical airfoil construction. They rotate vertically or near-vertically at the end of the tail of a traditional single- rotor helicopter. The tail rotor drive system consists of a shaft powered from the main transmission and a gearbox mounted at the end of the tail boom.
+The teetering rotor has many advantages for use at the tail, and the disadvantages it has as a main rotor are not relevant. The two-bladed teetering tail rotor is simple and therefore light and has become extremely common. Teetering can still be used with four-blade rotors. Mounting the blades in an X or scissors configuration produces less noise because there is no longer a dominant blade- passing frequency.
+Though the tail rotor is considered essential for safe flight, the loss of tail rotor function does not necessarily result in a fatal crash. In cases where the failure occurs due to contact with the ground, the aircraft is already at low altitude and the pilot may be able to reduce collective and land the helicopter before it spins completely out of control. The tail rotor itself is a hazard to ground crews working near a running helicopter. For this reason, tail rotors are painted with stripes of alternating colors to increase their visibility to ground crews while the tail rotor is spinning.
+Mi-26
+MD-500
+Vocabulary corner:
+teetering rotor - an arrangement in which a pair of rotor blades are joined at the hub, which is free to move in a flapping sense, with the flapping hinge line lying on the rotor axis; also called a seesaw rotor
+blade-passing frequency (BPF) - a potential vibration frequency on any bladed machine (turbine, fan, etc.), the number of blades x shaft speed
+
+
+
+АЯН-а
+FENESTRON
+The fenestron is basically a ducted fan built into an opening in the tail fin. It is actually a form of tail rotor commonly known as a Fantail. In application, a fenestron performs the same as a conventional tail rotor but there are design differences.
+The fenestron or "fan-intail" system uses a series of rotating blades shrouded within a vertical tail. Because the blades are located within a circular duct, they are less likely to come into contact with people or objects. It has between 8 and 18 blades, compared to a standard tail rotor having merely 2-4 blades and offers many advantages and a few disadvantages over a normal tail rotor.
+The advantages include safety. Fenestrons are much safer for ground operations because the tail rotor is enclosed in housing. Moreover, there is less possibility for foreign objects to get into the tail rotor and cause damage. The fenestron presents a much reduced hazard to ground personnel and is quieter. However, as the fenestron is inseparable from its duct assembly, a powerful fenestron can become quite large and ground clearance may be an issue. Some machines equipped with fenestrons have a sacrificial collapsing bumper intended to absorb the energy of an unintended ground contact after which it must be replaced.
+The disadvantages include higher weight and higher air resistance that leads to increased fuel consumption. Fenestrons are also more expensive to produce and less efficient.
+Vocabulary corner:
+bumper - a protective device for absorbing shocks or impeding contact
+duct - a hollow tube used to transmit and direct the flow of air through an aircraft
+shroud - to cover, envelop, or hide
+merely - only, just
+
+
+Bell developing fan-driven electric anti-torque system
+VERTICAL Posted on February 19, 2020 by Oliver Johnson
+Tail rotor plays a crucial role as an anti-torque device - it prevents the helicopter from spinning around in circles in response to the movement of the main rotor, and also allows the pilot to adjust the direction the nose is pointing when the chopper is hovering.
+But helicopter-maker Bell has been flying a new experimental craft with a totally different tail rotor, a system that could be safer in some cases, and is also quieter than a traditional tail rotor. It consists of four spinning fans enclosed in ducts, and what's more, they're electrically powered. Bell claims this is the first helicopter with this type of tail to ever fly.
+With the new Bell aircraft, the four fans in the back aren't connected mechanically to the chopper's engines and main rotor. Generators connected to the top rotor's gearbox produce electrical power, which zaps through wires in the helicopter's tail boom to power the motors that spin the fans.
+This new setup allows Bell to do some interesting things with that tail. The most dramatic is that they can simply turn those fans off in some cases, even when the main rotor is spinning- something that's impossible to do with a conventional craft. That means that when the helicopter is on the ground with its main rotor twirling, there's no dangerous tail rotor spinning near people.
+
+
+
+
+NOTAR
+In the 1980s, McDonnell Douglas developed a viable system which they called NOTAR (the name is an acronym derived from the phrase No Tail Rotor) and which does not require any more power than the conventional tail rotor. The NOTAR system has two components, a unidirectional system that provides about 60% of the anti-torque requirement, and a bi-directional system that provides the remainder of the thrust as well as providing yaw control
+Using the natural characteristics of helicopter aerodynamics, the NOTAR antitorque system provides safe, quiet, responsive, foreign object damage (FOD) resistant directional control. The enclosed variable-pitch composite blade fan produces a low pressure, high volume of ambient air to pressurize the composite tailboom. The air is expelled through two slots which run the length of the tailboom on the right side, causing a boundary-layer control called the Coanda effect. The result is that the tailboom becomes a "wing." flying in the downwash of the rotor system, producing up to 60 percent of the antitorque required in a hover. The balance of the directional control is accomplished by a rotating direct jet thruster. In forward flight, the vertical stabilizers provide the majority of the antitorque; however, directional control remains a function of the direct jet thruster.
+Vocabulary corner:
+viable - feasible, workable
+FOD - Foreign Object Debris
+Coanda Effect - a stream of air flowing over a curved surface will follow the curvature of the surface; as the surface drops away from the stream of air, the Coanda effect causes the air to speed up, and according to Bernoulli's principle, when the velocity of air increases, its pressure decreases.
+ambient air - air that surrounds an object
+downwash air forced down by aerodynamics action below and behind the wing of an airplane or rotor of a helicopter; aerodynamic lift is produced when air is deflected downward, the upward force of the aircraft is the same as the downward force on the air; when the mass of air in the downwash is equal to the weight of the aircraft forcing it down, the aircraft rises
+
+
+
+
+Task 2
+Insert the missing words:
+The NOTAR® anti-torque system p.
+damage r
+safe, quiet, responsive, foreign object
+directional control. The e
+variable-pitch composite-blade fan
+produces a low-pressure, high-volume airflow to pressurize the composite tail boom. Air is
+e
+of the tail boom on the right side, causing
+through two slots which run the 1
+a boundary-layer control that results in the tail boom acting as a w
+d
+flying in the
+of the rotor system, and producing up to 60-percent of the anti-torque required in a
+hover. The balance of the direction control is accomplished by a r
+the e
+of the tail boom.
+direct jet thruster on
+
+
+
+HELICOPTER FLIGHT CONTROLS
+Helicopter flight controls allow the control of
+(1) movement about the three axes of the aircraft,
+(2) the engine power,
+(3) the rotor system lift.
+The controls consist of the: collective control, cyclic control, antitorque pedals (or tail rotor control), and throttle. These are the four major controls in a helicopter that the pilot must use during flight in order to fly the helicopter.
+These control systems are employed in one form or another in most helicopter configurations. Principles of helicopter control:
+When maneuvering in the air, the helicopter moves around the three axes of flight which all act through the helicopter's center of gravity (cg):
+longitudinal axis (roll or bank)
+lateral axis (pitch)
+vertical axis (yaw)
+A helicopter with a common single-lifting rotor and anti-torque rotor is controlled through the manipulation of the four above-mentioned interfaces: the collective control, the cyclic control, the anti-torque pedals and the throttle. For the main rotor each blade can be "pitched". That means that the amount of lift generated can be varied, either for all the blades simultaneously (collective control) or dependent on its position in the rotor disc (cyclic control). This allows the pilot to either generate an overall lift to ascend or descend (collective control), or to generate differential lift across the rotor disc (cyclic control). The combination of these controls allows pitch, roll and vertical adjustments.
+Adjustment of the anti-torque pedals changes the level of thrust created by the anti-torque device. In the case of a tail rotor type device, this is very similar to the collective control of the main rotor, and allows the yaw adjustment of the aircraft.
+The throttle control is utilised to vary the overall power being supplied to the rotors.
+
+
+
+COLLECTIVE PITCH CONTROL
+The collective pitch control is also referred to as "collective" or "thrust lever". It is located on the left side of the pilot's seat and is operated with the left hand.
+The collective is used to make changes to the pitch angle of the main rotor blades and does this collectively. Collectively means simultaneously, i.e. all at the same time. Hence the name - collective pitch control.
+When the collective pitch control is raised, there is a simultaneous and equal increase in pitch angle of all main rotor blades; when it is lowered, there is a simultaneous and equal decrease in pitch angle. This is done through a series of mechanical linkages, and the amount of movement in the collective lever determines the amount of blade pitch change. An adjustable friction control helps prevent inadvertent collective pitch movement.
+Changing the pitch angle on the blades changes the angle of incidence on each blade. With a change in angle of incidence comes a change in drag, which affects the speed or revolutions per minute (rpm) of the main rotor. As the pitch angle increases, angle of incidence increases, drag increases, and rotor rpm decreases. Decreasing pitch angle decreases both angle of incidence and drag, while rotor rpm increases.
+In order to maintain a constant rotor rpm, which is essential in helicopter operations, a proportionate change in power is required to compensate for the change in drag. This is accomplished with the throttle control or governor, which automatically adjusts engine power.
+Raising the collective pitch control increases the pitch angle by the same amount on all the blades
+
+
+
+CYCLIC PITCH CONTROL
+The cyclic pitch control is a control column that is usually projected upward from the cockpit floor, between the pilot's legs or between the two pilot seats in some models. It is operated by the pilot's right hand. The cyclic pitch control is usually referred to as just "cyclic".
+This primary flight control allows the pilot to fly the helicopter in any direction of travel: forward, rearward, left, and right. The cyclic controls the direction of flight by tipping the plane of rotation in the desired direction. The control is called the cyclic because it changes the mechanical pitch angle or feathering angle of each main rotor blade independently, depending on its position in the cycle. The pitch of each blade is altered consecutively from minimum to maximum and back to the minimum, as determined by the position of the pilot's control, during each revolution of the rotor. The process of cyclic-pitch change is also called cyclic feathering.
+The pilot exercises cyclic pitch control via fore/aft/left/right movement of the upright cyclic stick. The rotor disk tilts in the same direction the cyclic pitch control is moved. If the cyclic is moved forward, the rotor disk tilts forward; if the cyclic is moved aft, the disk tilts aft, and so on.
+
+
+THROTTLE CONTROL
+The throttle control is mounted directly to the collective pitch control. The function of the throttle is to regulate engine rpm. If the correlator or governor system does not maintain the desired rpm when the collective is raised or lowered, or if those systems are not installed, the throttle must be moved manually with the twist grip in order to maintain rpm. In most helicopters, rotating the twist-grip throttle away from the pilot (counter-clockwise), increases engine rpm; rotating the twist- grip throttle towards the pilot (clockwise) decreases engine rpm.
+Governor
+The governor switch is located at the very end of the collective lever. A governor is a sensing device that senses rotor and engine rpm and makes the necessary adjustments in order to keep rotor rpm constant. In normal operations, once the rotor rpm is set, the governor keeps the rpm constant, and there is no need to make any throttle adjustments. Governors are common on all turbine helicopters (as it is a function of the fuel control system of the turbine engine) and used on some piston powered helicopters.
+Correlator
+A correlator is a mechanical connection between the collective lever and the engine throttle. When the collective lever is raised, power is automatically increased; when lowered, power is decreased. This system maintains rpm close to the desired value, but still requires adjustment of the throttle for fine tuning. Some helicopters do not have correlators or governors and require coordination of all collective and throttle movements. When the collective is raised, the throttle must be increased; when the collective is lowered, the throttle must be decreased. As with any aircraft control, large adjustments of either collective pitch or throttle should be avoided.
+
+
+ANTITORQUE PEDALS
+The antitorque pedals, located on the cabin floor by the pilot's feet, control the pitch and therefore the thrust of the tail rotor blades or other antitorque system.
+Newton's Third Law, stating that for every action there is an equal and opposite reaction, applies to the helicopter fuselage and its rotation in the opposite direction of the main rotor blades unless counteracted and controlled. To make flight possible and to compensate for this torque, most helicopter designs incorporate an antitorque rotor or tail rotor.
+The antitorque pedals allow the pilot to control the pitch angle of the tail rotor blades, which in forward flight puts the helicopter in longitudinal trim and, while at a hover, enables the pilot to turn the helicopter 360°. The antitorque pedals are connected to the pitch change mechanism on the tail rotor gearbox and allow the pitch angle on the tail rotor blades to be increased or decreased.
+
+
+SPECIAL PURPOSE EQUIPMENT
+Since the helicopter is used for a variety of purposes, special equipment is often needed to perform these tasks. Some of these items will be available from the manufacturer as optional equipment. Other items will be built by individuals or companies that will have the item certified. The units are usually in kit form which may include high skid gear, pop-out floats, rescue hoists, ambulance configurations, cargo hooks and spotlights..
+1. High skid gear
+One item which is quite commonly used is the high skid gear. This may be available from the manufacturer as optional equipment. This gear is advantageous when the helicopter is to be landed in unimproved landing areas. By keeping the fuselage higher, less tail rotor strikes occur. In arctic regions the helicopter may also be fitted with extra plates on the bottom of the skid, in addition to the high skid gear. This prevents the skids from sinking into the tundra. These plates give more area for the helicopter to rest on.
+2. Floats
+Another option is pop-out floats. They may be installed with the high skid gear. These are used when overwater flights are made. This type of flotation device will require repacking and inspection periodically to insure their safe operation when required. Pop-out floats as found on the Be/1206 devices. They will be mounted on the bottom side of the circumference of the fuselage. Regardless of the location, these are emergency type devices. If normal water landings are made routinely, permanent floats are installed. These may be patched and repaired. Often, the use of this type of float limits the flight envelope of the helicopter. A few helicopters have been built with provisions for amphibious landings. However, this is not a very common configuration for civilian helicopters.
+3. Rescue hoists
+The rescue hoists are most often used by civil agencies, such as police departments and fire departments. These allow the helicopter to act as a hoist platform for rescue work. It is capable of lifting comparatively light loads.
+4. Cargo hooks
+A cargo hook is used for heavy loads, such as sling loads. This type of lift work is usually very specialized. The hook normally has an electrical and a manual release. This is a safety device to insure that the load may be jettisoned at any time, should difficulties arise. Weight limitations are required with external loads. These may at times exceed the normal gross weight of the helicopter when operating in a restricted category. The normal location of the hook is as close to the center of gravity as possible.
+5. Light installations
+A few helicopters may be equipped as a light platform. There are many uses for Xenon lights, especially in police work. Some of these lights are controlled from the cyclic control, with tilt and rotation axis, as well as flood and spot capabilities. Some of these lights are capable of producing 65 million candlepower.
+
+
+6. Spray equipment
+Equipment used for spraying is not built by the aircraft manufacturer. Spray equipment is constructed by specialized companies holding supplemental type certificates. Some of this equipment is mounted on the aircraft, while other units are self-contained and connect to the cargo hook
+7. Litter installations
+Another modification sometimes used is a litter configuration. This may involve rather extensive modification, or may be quite simple. Some of the more extensive modifications, such as the Bell 206, involve the cutting of the door post, so litters may be placed in the helicopter. This member is structural and must include a latch mechanism to insure the integrity of the airframe. It will also include a latching mechanism for the litters. Another configuration may be special wider doors. Wider doors facilitate movement of the stretchers in and out of the aircraft. Use of this type of helicopter is generally limited to civil government and charter operations.
+
+
+INTRODUCTION TO ENGINES
+"What is propulsion?" The word is derived from two Latin words: pro meaning before or forwards and pellere meaning to drive. Propulsion means to push forward or drive an object forward. A propulsion system is a machine that produces thrust to push an object forward. On airplanes and space-craft, thrust is generated through some application of Newton's third law of action and reaction. A gas, or working fluid, is accelerated by the engine, and the reaction to this acceleration produces a force on the engine.
+Why are there different types of engines? If we think about Newton's first law of motion, we realize that an airplane propulsion system must serve two purposes. First, the thrust from the propulsion system must balance the drag of the airplane when the airplane is cruising. And second, the thrust from the propulsion system must exceed the drag of the airplane for the airplane to accelerate. In fact, the greater the difference between the thrust and the drag, called the excess thrust, the faster the airplane will accelerate.
+Some aircraft, like airliners and cargo planes, spend most of their life in a cruise condition. For these airplanes, excess thrust is not as important as high engine efficiency and low fuel usage. Since thrust depends on both the amount of gas moved and the velocity, we can generate high thrust by accelerating a large mass of gas by a small amount, or by accelerating a small mass of gas by a large amount. Because of the aerodynamic efficiency of propellers and fans, it is more fuel efficient to accelerate a large mass by a small amount. That is why we find high-bypass fans and turboprops on cargo planes and airliners.
+Some aircraft, like fighter planes or experimental high-speed aircraft require very high excess thrust to accelerate quickly and to overcome the high drag associated with high speeds. For these airplanes, engine efficiency is not as important as very high thrust. Military aircraft typically employ afterburning turbojets to gain extra thrust for short periods of time.
+AMAZING FACTS!
+Engines are fully disassembled when they're overhauled. On average, a jet engine consists of around 40,000 parts, which means this process can take 50 to 60 days!
+Engine life is measured in flight hours and flight cycles. One cycle = one takeoff + one landing.
+
+
+TURBINE ENGINE TYPES
+One of the greatest single factors influencing the construction features of any gas turbine engine is the type of compressor or compressors for which the engine is designed. Four types of gas turbine engines are used to propel and power aircraft. They are the turbo-fan, turboprop, turboshaft, and turbojet.
+The term "turbojet" was used to describe any gas turbine engine used in aircraft. As gas turbine technology evolved, these other engine types were developed to take the place of the pure turbojet engine. The turbojet engine has problems with noise and fuel consumption in the speed range that airliners fly (.8 Mach). Due to these problems, use of pure turbojet engines is very limited. So, almost all airliner-type aircraft use a turbofan engine.
+Turbofan engines were developed to turn a large fan or set of fans at the front of the engine and produces about 80 percent of the thrust from the engine. This engine is quieter and has better fuel consumption in the high sub- Mach speed range. Turbofan engines have more than one shaft in the engine; many are two-shaft engines. This means that there are compressors and turbines that drive it. These two shafted engines use two spools (a spool is a compressor and a shaft and turbines that drive that compressor). In a two-spool engine, there is a high-pressure spool and a low-pressure spool. The low-pressure spool generally contains the fan(s) and the turbine stages it takes to drive them. The high-pressure spool is the high-pressure compressor, shaft, and turbines. This spool makes up the core of the engine, and this is where the combustion section is located. The high- pressure spool is also referred to as the gas generator because it contains the combustion section.
+
+
+GAS TURBINE ENGINE CONSTRUCTION
+A significant feature of the gas turbine engine is that separate sections are devoted to each function, and all functions are performed simultaneously without interruption. A typical gas turbine engine consists of:
+1. An air inlet,
+2. Compressor section,
+3. Combustion section,
+4. Turbine section,
+5. Exhaust section,
+6. Accessory section, and
+7. The systems necessary for starting, lubrication, fuel supply, and auxiliary purposes, such as anti-icing, cooling, and pressurization.
+Another common nomenclature describing the various sections of a turbine engine is known as the "cold section" and the "hot section". Cold section refers to the parts of the engine from the inlets up through the compressors and/or diffusers. Hot section refers to the areas past the compressors from the combustion chambers through the exhaust.
+The major components of all gas turbine engines are basically the same; however, the nomenclature of the component parts of various engines currently in use varies slightly due to the difference in each manufacturer's terminology. These differences are reflected in the applicable maintenance manuals.
+Vocabulary corner
+nomenclature - terminology; a system of words used to name things in a particular discipline;
+feature - characteristic, aspect, quality
+diffuser - a duct installed in the compressor outlet in a turbine engine to reduce the velocity of the air leaving the compressor increase its pressure
+auxiliary supporting; serving as an aid
+accessory - having a secondary, supplementary, or subordinate function
+currently - at present time; presently
+applicable - relevant; suitable; appropriate
+Write the opposite
+applicable
+inlet
+intake
+significant
+compress
+
+
+AIR INLET DUCT
+The air inlet duct on a turbojet engine is normally considered part of the airframe, not the powerplant. Many types of air inlet ducts have been designed to accommodate variations in airframe and engine combinations as well as engine-mounting locations. In addition, air inlets are designed differently for operation at different airspeeds. Some of the most common engine inlet duct mounting locations are on the engine itself, in the wing, and on the fuselage. Finally, aircraft speed plays a major part in air inlet ducts design, with special consideration given to subsonic flight, supersonic flight, and engine operation at very slow or no forward speed at all
+The air inlet duct is located directly in front of the compressor and is mounted to the engine. Integral mounting of the inlet with an engine reduces air inlet length, which increases efficiency.
+Several large commercial aircraft and large military aircraft use wing-mounted engines .Some aircraft with engines mounted inside the wings feature air inlet ducts in the wing's leading edge. Typically, wing-mounted inlet ducts are positioned near the wing root area.
+Engines mounted inside a fuselage typically use air inlet ducts located near the front of the fuselage. Some modern supersonic military aircraft have inlet ducts located just under the aircraft nose. Although using an air inlet duct of this type enables the aircraft manufacturer to build a more aerodynamically efficient aircraft, the increased length of the inlet duct introduces some inefficiency.
+Bellmouth inlet ducts have a convergent profile that is designed for obtaining high aerodynamic efficiency when stationary or in slow flight. Bellmouth inlet ducts are typically used on helicopters, some slow-moving aircraft, and on engines being run in ground test stands.
+On supersonic aircraft, a typical air inlet duct has either a fixed or variable geometry with a diameter that progressively decreases, then increases from front to back. This convergent-divergent shape is used to slow the incoming airflow to subsonic speed before it reaches the compressor. Many supersonic inlet ducts employ a movable plug or throat that changes duct geometry according to flight conditions. This variable geometry is necessary so that the duct can accommodate a wide range of flight speeds. A typical subsonic air inlet consists of a fixed geometry duct with a diameter that progressively increases from front to back.
+To prevent the engine from readily ingesting any items that can be drawn in the intake, a compressor inlet screen is sometimes placed across the engine air inlet at some location along the inlet duct. Engines that incorporate inlet screens, such as turboprop and APUs are not as vulnerable to FOD.
+
+
+COMPRESSOR TYPES AND APPLICATIONS
+The two principal types of compressors currently being used in gas turbine aircraft engines are centrifugal flow and axial flow. The centrifugal-flow compressor achieves its purpose by picking up the entering air and accelerating it by centrifugal action. The axial-flow compressor compresses air while the air continues in its original direction of flow, thus avoiding the energy loss caused by turns. Axial flow compressors are normally found on turbofan engines which are widely used in aviation. Centrifugal flow compressors are commonly used in turboprop and turboshaft engines.
+CENTRIFUGAL-FLOW COMPRESSORS
+The centrifugal-flow compressor consists of an impeller (rotor), a diffuser (stator), and a compressor manifold. The impeller, whose function is to pick up and accelerate the air outwardly to the diffuser, may be either of two types-single entry or double entry. The principal differences between the two types of impellers are size and ducting arrangement. The double-entry type has a smaller diameter, but is usually operated at a higher rotational speed to assure sufficient airflow. Although slightly more efficient in receiving air, the single entry impeller must be large in diameter to deliver the same quantity of air as the double-entry type. This, of course, increases the overall diameter of the engine.
+The diffuser is an annular chamber provided with a number of vanes forming a series of divergent passages into the manifold. The diffuser vanes direct the flow of air from the impeller to the manifold at an angle designed to retain the maximum amount of energy imparted by the impeller. They also deliver the air to the manifold at a velocity and pressure satisfactory for use in the combustion chambers. The compressor manifold diverts the flow of air from the diffuser, which is an integral part of the manifold, into the combustion chambers. The manifold has one outlet port for each chamber so that the air is evenly divided.
+
+
+
+AXIAL-FLOW COMPRESSOR
+The axial-flow compressor has two main elements: a rotor and a stator. The rotor has blades fixed on a spindle. These blades impel air rearward in the same manner as a propeller because of their angle and airfoil contour. The rotor, turning at high speed, takes in air at the compressor inlet and impels it through a series of stages. The stator blades act as diffusers at each stage, partially converting high velocity to pressure. Each consecutive pair of rotor and stator blades constitutes a pressure stage. The number of rows of blades (stages) is determined by the amount of air and total pressure rise required. Compressor pressure ratio increases with the number of compression stages. Most engines utilize up to 16 stages and more.
+The stator has rows of vanes, which are in turn attached inside an enclosing case. The stator vanes, which are stationary, project radially toward the rotor axis and fit closely on either side of each stage of the rotor blades. In some cases, the compressor case, into which the stator vanes are fitted, is horizontally divided into halves. Either the upper or lower half may be removed for inspection or maintenance of rotor and stator blades.
+The casings of axial-flow compressors not only support the stator vanes and provide the outer wall of the axial path the air follows, but they also provide the means for extracting compressor air for various purposes. The stator vanes are usually made of steel with corrosion- and erosion-resistant qualities. The rotor blades are usually made of stainless steel with the latter stages being made of titanium.
+The combination of the compressor stages and turbine stages on a common shaft is an engine referred to as an engine spool. The common shaft is provided by joining the turbine and compressor shafts by a suitable method. The engine's spool is supported by bearings, which are seated in suitable bearing housings. There are two configurations of the axial compressor currently in use: the single rotor/ spool and the dual rotor/spool, sometimes referred to as solid spool and split spool (two spool, dual spool).
+
+
+COMBUSTION SECTION
+A combustion section is typically located directly between the compressor diffuser and turbine section. All combustion sections contain the same basic elements: one or more combustion chambers (combustors), a fuel injection system, an ignition source, and a fuel drainage system.
+The combustion chamber or combustor in a turbine engine is where fuel and air are mixed and burned. A typical combustor consists of an outer casing with a perforated inner liner. The perforations are various sizes and shapes, all having a specific effect on the propagation of the flame within the liner.
+The fuel injection system meters the appropriate amount of fuel through the fuel nozzles into the combustors. Fuel nozzles are located in the combustion chamber case or in the compressor outlet elbows.
+A typical ignition source for gas turbine engines is the high-energy capacitor discharge system consisting of an exciter unit, two high-tension cables, and two spark igniters. This ignition system produces 60 to 100 sparks per minute.
+A fuel drainage system accomplishes the important task of draining unburned fuel after engine shutdown. Draining unburned fuel helps prevent gum deposits caused by fuel residue in the fuel manifold, nozzles, and combustion chambers.
+The three basic types of combustion chambers are the multiple-can type, the annular (basket) type, and the can-annular type. They are the same functionally, but their design and construction are different.
+The multiple-can combustion chamber consists of a series of individual combustor cans that function as individual burner units. This type of combustion chamber is well suited to centrifugal compressor engines because of the way compressor discharge air is equally divided at the diffuser.
+An annular combustion chamber consists of a housing and perforated inner liner, or basket. Today, annular combustors are commonly used in both small and large engines. From a standpoint of thermal efficiency, weight, and physical size, the annular combustor is the most efficient.
+Can-annular combustion sections are a combination of the multiple-can and the annular type combustors. It consists of a removable steel shroud that encircles the entire combustion section. This design combines the ease of overhaul and testing of the multiple-can arrangement with the compact design of the annular combustor.
+Vocabulary corner
+drainage - the process by which water or liquid waste is removed from an area
+perforated - having a number or series of holes
+liner - a protective covering that protects an inside surface
+propagation - the process of spreading to a larger area or greater number
+
+
+TURBINE SECTION
+A turbine transforms a portion of the kinetic energy in the hot exhaust gases into mechanical energy to drive the compressor and accessories. The turbine section of a turbo jet engine is located downstream of the combustion section and consists of four basic elements: a case, a stator, a shroud, and a rotor.
+The turbine case encloses the turbine rotor and stator assembly and provides either direct or indirect support to the stator elements. A typical case has flanges on each end to provide attachment points to the combustion section and the exhaust assembly.
+The stator element is most commonly referred to as the turbine nozzle. However, the stator elements can also be called turbine guide vanes or the nozzle diaphragm. The turbine nozzle is located directly aft of the combustion section and immediately ahead of the turbine wheel. The purpose of the turbine nozzle is to collect the high-energy airflow from the combustors and direct the flow to strike the turbine rotor at the appropriate angle. The vanes of a stator are contoured and positioned to form a number of converging nozzles that convert some of the exhaust gas pressure energy to velocity energy. Furthermore, the angle of the stator vanes is set in the direction of turbine wheel rotation to most efficiently convert the velocity into mechanical energy.
+The stator assembly consists of an inner and outer shroud that retains and surrounds the nozzle vanes. The number of vanes employed varies with the type and size of an engine. The stator vanes are assembled between the outer and inner shrouds (or rings) in a variety of ways. Although the actual elements might vary slightly in their configuration and construction, one aspect is common to all turbine nozzles: the nozzle vanes are constructed to permit thermal expansion.
+The rotating elements of a turbine section consist of a shaft and a turbine rotor, or wheel. The turbine wheel is a dynamically balanced unit consisting of blades attached to a rotating disk. The turbine disk anchors the turbine blades and is bolted or welded to the main shaft.
+Turbine blades are airfoil-shaped components designed to extract the maximum amount of energy from the flow of hot gases. Blades are either forged or cast, depending on their alloy composition. Turbine blades fit loosely into a turbine disk when an engine is cold, but expand to fit tightly at normal operating temperatures. Turbine blades can be open or shrouded at their ends. Open-ended blades are used on high-speed turbines, while shrouded blades are commonly used on turbines having slower rotational speeds.
+Vocabulary corner
+flange - a ridge that protrudes from a device and is used for attaching something to the device, or for connecting two objects together
+nozzle - a pipe or duct, esp. in a jet engine that directs the effluent and accelerates or diffuses the flow to generate thrust
+nozzle vanes - also turbine inlet guide vanes; the special series of stator vanes immediately ahead of the turbine which divert the air to the proper direction to enter the first-stage turbine
+anchor - to fix something in position so that it cannot move
+
+
+EXHAUST SECTION
+The design of the exhaust section a turbojet engine directly affects the amount of thrust developed. For example, the shape and size of an exhaust section and its components affect the temperature of the air entering the turbine, the mass airflow through the engine, and the velocity and pressure of the exhaust jet. A typical exhaust section extends from the rear of the turbine section to the point where the exhaust gases leave the engine. An exhaust section is made of several components including the exhaust cone, the exhaust duct which is often referred to as the tailpipe, and the exhaust nozzle.
+The purpose of an exhaust cone assembly is to channel and collect turbine discharge gases into a single jet. A tailpipe is an extension of the exhaust section that directs exhaust gases safely from the exhaust cone to the exhaust, or jet nozzle. Tailpipes are used almost exclusively with engines installed within a fuselage, in which case the tailpipe protects the surrounding airframe. Engines installed in a nacelle (or pod) typically do not require a tailpipe, in which case the exhaust nozzle is mounted directly to the exhaust cone assembly. An exhaust, or jet nozzle, provides the exhaust gases with a final boost in velocity. An exhaust nozzle mounts to the rear of a tailpipe, when installed, or the rear flange of the exhaust duct.
+
+
+ACCESSORY SECTION
+The accessory section of the gas turbine engine has various functions. The primary function is to provide space for the mounting of accessories necessary for operation and control of the engine. Generally, it also includes accessories concerned with the aircraft, such as electric generators and hydraulic pumps. Secondary functions include acting as an oil reservoir and/or oil sump and housing the accessory drive gears and reduction gears.
+The arrangement and driving of accessories has always been a major problem on gas turbine engines. Driven accessories on turbofans are usually mounted on the accessory gear box, which is on the bottom of the engine. The location of the accessory gear box varies but most turboprops and turboshafts have the accessory cases mounted to the back section of the engine.
+The components of the accessory section of all gas turbine engines have essentially the same purpose, even though they often differ quite extensively in construction details and nomenclature. The basic elements of the accessory section are the accessory case and the gear train, which is housed within the accessory case.
+
+
+Vocabulary corner
+accessory section - the part of an engine that provides the necessary mounting pads for accessory units such as magnetos, fuel pumps, oil pumps and generators;
+accessory drive gear box - provides mounting space for engine accessories
+reduction gear - the gear arrangement in an aircraft engine that allows the engine to turn at a faster speed than the propeller
+drive gear - in a gear train, the gear nearest the power source
+accessory gear trains - drive system used in different types of engines for driving engine components and accessories
+
+
