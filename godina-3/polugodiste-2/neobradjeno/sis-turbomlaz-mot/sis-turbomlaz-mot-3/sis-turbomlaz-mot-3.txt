@@ -1,0 +1,103 @@
+Vazduh koji uzimamoo s kompresora cemu sluzi?
+
+Vazduh uzet s kompresora motora (bleed air) koristi se za:
+- Klimatizaciju i ventilaciju kabine (ATA 21 – Air Conditioning)
+- Pritisak u kabini (Pressurization)
+- Anti-icing sistema – krila i motori (ATA 30)
+- Startovanje motora (ATA 80 – Starting)
+- Hidrauličke rezervoare – pritisak (pressurisation of hydraulic reservoirs)
+- Vodeni sistem – pritisak rezervoara vode
+
+Za koje sve sisteme se koristi vazduh (dobijas primere)?
+
+| Klimatizacija kabine | ATA 21 |
+| Anti-icing (krila, motori) | ATA 30 |
+| Startovanje motora | ATA 80 |
+| Pritisak hidrauličnih rezervoara | ATA 29 |
+| Vodeni sistem (lavabo, kuhinja) | ATA 38 |
+| Pneumatska rezervna pumpa | ATA 36 |
+
+Cime hladimo ulje u sistemu?
+
+Ulje u motornom sistemu se hladi pomoću:
+- FCOC – Fuel Cooled Oil Cooler – gorivo prolazi kroz izmjenjivač topline i hladi ulje (ujedno i predgrijava gorivo)
+- ACOC – Air Cooled Oil Cooler – na nekim motorima koristi se i vazduh za hlađenje
+> Ključna tačka: Na CFM56 (A320) koristi se FCOC – gorivo hladi ulje, a ulje greje gorivo. Ovo je dvostruka funkcija jednog izmjenjivača
+
+Anti icing systen sta koristi koji vazduh?
+
+Izvor: ATA 30 – Ice and Rain Protection / FCOM DSC-30
+- Wing Anti-Ice (WAI): Koristi hot bleed air uzet iz HP (High Pressure) kompresora motora – vod ide u prednje ivice krila (leading edge slats)
+- Engine Anti-Ice (EAI): Koristi bleed air koji se usmjerava u motor inlet (ulaznu ivicu motora/nacelle)
+- Window heating, probe heating: Električno (ne pneumatsko)
+
+Znate proceduru kad se dodaje gorivo kad se svecice pale startovanje motora?
+/ 
+Procedura startovanja motora.?
+
+Izvor: FCOM PRO-NOR-SOP / ATA 74 (Ignition), ATA 73 (Fuel), ATA 80 (Starting)
+Normalna procedura startovanja (A320, CFM56):
+ MASTER switch → ON (otvara se fuel valve – gorivo ulazi)
+2. ENG MODE selector → IGN/START (aktivira starter i sistem paljenja)
+3. N2 raste – starter (pneumatski) okreće motor
+4. Na ~22-25% N2 – automatski se aktivira paljenje (ignition) i ubrizgavanje goriva Svjećice pucaju, gorivo se zapali → Light-off (EGT počinje rasti) Na ~50% N2 – starter se automatski isključuje Motor dostiže IDLE 
+> FADEC kontroliše cijeli proces automatski
+
+Stateri jedan i drugi motora:?
+/
+Starteri motora i jedan i drugi.?
+
+Izvor: ATA 80 – Starting / FCOM DSC-80
+- Oba motora imaju pneumatski starter (Air Turbine Starter – ATS)
+- Starter prima bleed air iz:
+  - APU (najčešće na zemlji)
+  - Zemaljskog izvora – GPU/HP Air Cart
+  - Drugog motora (cross-bleed start – jedan motor startuje drugi)
+Razlika Motor 1 i Motor 2:
+- Motor 1 (lijevi) i Motor 2 (desni) imaju identične startere po tipu
+- Za cross-bleed start: Motor 2 se startuje prvim (ili obratno), zatim se koristi njegov bleed za startovanje Motor 1, uz zatvoreni APU bleed valve
+
+Svecice opste?
+
+Izvor: ATA 74 – Ignition System
+- A320/CFM56 ima 2 svjećice po motoru (Igniter A i Igniter B)
+- Tip: High-energy surface discharge igniters
+- Energija: ~1-4 Joule po iskri
+- Koriste se:
+  - Tokom startovanja (obje ili jedna)
+  - Tokom leta u uslovima icing-a, turbulencije, kiše – kontinuirano paljenje (CONT mode)
+  - Automatski aktivira FADEC u određenim uslovima
+
+Gorivo se greje ili hladi?
+
+Izvor: ATA 73 / ATA 79 – FCOC
+Gorivo se GREJE – pasivno, kroz FCOC (Fuel Cooled Oil Cooler):
+- Hladno gorivo iz tanka prolazi kroz izmjenjivač
+- Ulje predaje toplotu gorivu → gorivo izlazi toplije
+- Ovo je bitno za sprečavanje wax crystals / icing u gorivu pri niskim temperaturama
+> Dakle: Ulje se hladi, gorivo se greje – u istom izmjenjivaču
+
+Delovi FADECa (Ima dva), ?
+
+Izvor: ATA 73/76 – FADEC / FCOM DSC-73
+FADEC = Full Authority Digital Engine Control
+Sastoji se od 2 kanala (Channel A i Channel B) – redundantnost:
+| Komponenta | Opis |
+|---|---|
+| EEC – Engine Electronic Controller | Glavni računar (dva kanala A/B) |
+| Sensors (N1, N2, EGT, EPR, P0/T0...) | Ulazni parametri |
+| Fuel Metering Unit (FMU) | Mjeri i reguliše protok goriva |
+| Variable Stator Vanes (VSV) actuator | Regulacija kompresora |
+| Variable Bleed Valves (VBV) | Sprečava stall kompresora |
+| Hydromechanical Unit (HMU) | Rezervna mehanička kontrola |
+| Throttle Resolver Angle (TRA) | Signal položaja gasa
+
+
+novi FADEC prepoznaj karakteristiku?
+/
+Karakteristike novog FADEC-a.?
+
+- Dual channel, self-monitoring
+- Jedan kanal uvijek ACTIVE, drugi STANDBY
+- Automatski prelaz pri grešci
+- Napaja se permanentnim magnetnim generatorom (PMG) direktno s motora – nezavisan od avionskog napajanja
