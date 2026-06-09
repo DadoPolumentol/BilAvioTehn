@@ -35,47 +35,35 @@ Znate proceduru kad se dodaje gorivo kad se svecice pale startovanje motora?
 / 
 Procedura startovanja motora.?
 
-Izvor: FCOM PRO-NOR-SOP / ATA 74 (Ignition), ATA 73 (Fuel), ATA 80 (Starting)
-Normalna procedura startovanja (A320, CFM56):
- MASTER switch → ON (otvara se fuel valve – gorivo ulazi)
-2. ENG MODE selector → IGN/START (aktivira starter i sistem paljenja)
-3. N2 raste – starter (pneumatski) okreće motor
-4. Na ~22-25% N2 – automatski se aktivira paljenje (ignition) i ubrizgavanje goriva Svjećice pucaju, gorivo se zapali → Light-off (EGT počinje rasti) Na ~50% N2 – starter se automatski isključuje Motor dostiže IDLE 
-> FADEC kontroliše cijeli proces automatski
+Starter zavrti motor.
+Na oko 21% N2 prvo se pale svećice.
+Zatim se dodaje gorivo.
+Gorivo se pali preko ignition sistema.
+Posle uspešnog starta gase se svećice i starter.
+FADEC sam gasi svećice i starter.
 
 Stateri jedan i drugi motora:?
 /
 Starteri motora i jedan i drugi.?
 
-Izvor: ATA 80 – Starting / FCOM DSC-80
-- Oba motora imaju pneumatski starter (Air Turbine Starter – ATS)
-- Starter prima bleed air iz:
-  - APU (najčešće na zemlji)
-  - Zemaljskog izvora – GPU/HP Air Cart
-  - Drugog motora (cross-bleed start – jedan motor startuje drugi)
-Razlika Motor 1 i Motor 2:
-- Motor 1 (lijevi) i Motor 2 (desni) imaju identične startere po tipu
-- Za cross-bleed start: Motor 2 se startuje prvim (ili obratno), zatim se koristi njegov bleed za startovanje Motor 1, uz zatvoreni APU bleed valve
+Električni starter (manji motori, starter/generator).
+Vazdušni starter (veći motori, koristi vazduh preko start ventila i gearboxa za okretanje motora).
 
 Svecice opste?
 
-Izvor: ATA 74 – Ignition System
-- A320/CFM56 ima 2 svjećice po motoru (Igniter A i Igniter B)
-- Tip: High-energy surface discharge igniters
-- Energija: ~1-4 Joule po iskri
-- Koriste se:
-  - Tokom startovanja (obje ili jedna)
-  - Tokom leta u uslovima icing-a, turbulencije, kiše – kontinuirano paljenje (CONT mode)
-  - Automatski aktivira FADEC u određenim uslovima
+Svaki motor ima 2 svećice (A i B).
+Rade nezavisno.
+Jedna svećica pali gorivo.
+Rade i na AC i na DC.
+Stare: 25000 V, 60–100 varnica u minuti.
+Nove: 20000 V, isti broj varnica.
+Kod continuous ignition rade ređe (6–10 varnica u minuti).
+Exciter povećava napon za svećice.
+Jedan exciter radi, drugi je standby.
 
 Gorivo se greje ili hladi?
 
-Izvor: ATA 73 / ATA 79 – FCOC
-Gorivo se GREJE – pasivno, kroz FCOC (Fuel Cooled Oil Cooler):
-- Hladno gorivo iz tanka prolazi kroz izmjenjivač
-- Ulje predaje toplotu gorivu → gorivo izlazi toplije
-- Ovo je bitno za sprečavanje wax crystals / icing u gorivu pri niskim temperaturama
-> Dakle: Ulje se hladi, gorivo se greje – u istom izmjenjivaču
+Kod fuel-oil cooler sistema gorivo se zagreva dok hladi ulje.
 
 Delovi FADECa (Ima dva), ?
 
@@ -101,3 +89,5 @@ Karakteristike novog FADEC-a.?
 - Jedan kanal uvijek ACTIVE, drugi STANDBY
 - Automatski prelaz pri grešci
 - Napaja se permanentnim magnetnim generatorom (PMG) direktno s motora – nezavisan od avionskog napajanja
+- Sam gasi svećice i starter.
+- Prima parametre i kontroliše motor preko EEC-a.
