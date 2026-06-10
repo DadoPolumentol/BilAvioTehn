@@ -1,0 +1,35 @@
+1. Precooler deo pneumatskog sistema dobija vazduh sa:
+✅ a) Kompresora visokog pritiska
+
+2. Izvori pneumatike su sledeći:
+✅ b) Engines, APU, ground pneumatic source
+
+3. Vazduh iz motora, za potrebe avionskih sistema, se uzima sa:
+✅ c) Kompresora, 5. i 9. stepena
+
+4. Bleed Trip Off indikacija predstavlja upozorenje da je:
+✅ b) Temperature vazduha u datom sistemu preniska i da ga treba zatvoriti
+
+5. Da bi se omogućio Cross start motora, mora se prethodno:
+✅ a) Otvoriti bleed air Isolation valve
+
+6. Pumpe u pneumatskim sistemima su:
+✅ c) Krilne, rotacione, električne (stdby)
+
+7. Nominalni pritisak u Pneumatskom sistemu je:
+✅ b) 38–40 PSI
+
+8. Koji od sledećih navoda je tačan:
+✅ c) Hidraulika se koristi za pokretanje komandnih površina, jer je odziv brži usled nestišljivosti
+
+9. Jednačina stanja idealnog gasa je:
+✅ b) PV = mRT
+
+10. Koje komponente pripadaju Pneumatskom sistemu motora (ATA 36):
+✅ b) Engine bleed valve, Precooler, High stage regulator, APU Thermostat
+
+11. Koja komponenta je zadužena da, po potrebi, otvori dotok visokog pritiska:
+✅ a) High stage regulator
+
+12. Vazduh sa APU-a dolazi u sistem sa:
+✅ b) Leve strane Isolation ventila odnosno strane 1 pneumatskog sistema
