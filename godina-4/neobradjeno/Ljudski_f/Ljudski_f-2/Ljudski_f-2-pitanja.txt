@@ -1,0 +1,183 @@
+# Ljudski faktor – pitanja i odgovori
+
+## Atmosfera
+
+**1. Šta je atmosfera?**
+Vazdušni omotač koji okružuje Zemlju.
+
+**2. Koji je sastav atmosfere?**
+78% azot, 21% kiseonik i 1% ostali gasovi (argon, ugljen-monoksid, vodena para).
+
+**3. Koje uloge ima atmosfera?**
+- Daje živom svetu neophodan kiseonik.
+- Štiti Zemlju od manjih meteora jer izaziva njihovo sagorevanje.
+- Azot i kiseonik, zajedno sa magnetnim poljem, štite površinu od radijacije koja bi bila pogubna za život.
+- Zadržava toplotu Sunca i štiti Zemlju od rashlađivanja.
+- Omogućava kruženje vode u prirodi, a time i postojanje kopnenih voda i života.
+
+**4. Koji su slojevi atmosfere, njihove visine i karakteristike?**
+- **Troposfera** (do oko 12 km): najniži i najgušći sloj, u njemu se dešavaju sve vremenske pojave, sadrži mnogo vodene pare.
+- **Stratosfera** (do oko 50 km): sadrži ozon koji štiti od štetnog zračenja. Temperatura je u nižim slojevima stalna, a u višim raste.
+- **Mezosfera** (do oko 80 km): najhladniji sloj (do -90 °C), nastaju srebrnasti oblaci i duvaju izuzetno hladni vetrovi.
+- **Termosfera** (do oko 400 km): sadrži jone, pa se zove i jonosfera. U njoj nastaje polarna svetlost.
+- **Egzosfera** (iznad 400 km): prelazno područje prema vakuumu, sloj sa vrlo razređenim gasom.
+
+**5. Kako delimo atmosferu prema funkcionisanju organizma i šta se dešava u zonama?**
+- **Indiferentna zona (do 1800 m):** nema promena u organizmu sa visinom.
+- **Zona potpune kompenzacije (do 3000 m):** kod zdravih ljudi nema promena, ali se kod bolesnika mogu javiti prvi poremećaji zbog nedostatka kiseonika.
+- **Zona nepotpune kompenzacije (3000–5000 m):** psihofiziološki poremećaji (euforija, glavobolja, pospanost, umor, otežano disanje).
+- **Smrtna zona (iznad 5000 m):** teški poremećaji do smrtnog ishoda (drhtanje, pomodrela koža, grčevi, težak poremećaj svesti).
+
+## Hipoksija
+
+**6. Šta je hipoksija i zašto nastaje?**
+Hipoksija je pad parcijalnog pritiska kiseonika u tkivima organizma i krvi. Na visini nastaje zbog razređenog vazduha. Uzroci mogu biti i bolesti srca i krvnih sudova, malokrvnost ili trovanje (vidi pitanje 11).
+
+**7. Kolika je normalna zasićenost krvi kiseonikom i kako se menja sa visinom?**
+Normalno je 98%. Na 1500 m pada na 94%, na 3000 m na 90%, a na 6000 m na samo 64%.
+
+**8. Ko je prvi sproveo istraživanja o hipoksiji?**
+Francuski lekar Pol Ber. Objavio je 1878. istraživanja pod naslovom „Barometarski pritisak" i sproveo 670 pojedinačnih istraživanja, što je osnova vazduhoplovne medicine. Njegovi saradnici Sivel i Kros-Spineli postali su 1875. prve žrtve visinskog leta, jer su u balonu „Zenit" poneli premalo kiseonika.
+
+**9. Koji su simptomi hipoksije?**
+- **Euforija:** stanje razdraganosti i veselosti.
+- **Subjektivni:** otežano disanje, strah, glavobolja, poremećaj vida, crvenilo pred očima, dvostruko viđenje, konfuzija, pospanost, umor, opšta slabost.
+- **Objektivni:** ubrzano disanje, zevanje, drhtanje, znojenje, bledilo, pomodrela koža, nesvestica, grčevi, dubok poremećaj svesti, prestanak disanja i smrt.
+
+**10. Koje su faze hipoksije, njihove visine i osobine?**
+1. **Indiferentna** (do 10 000 stopa, ≈3000 m): bezbolna granica za ljudski organizam.
+2. **Kompenzatorna** (do 15 000 stopa, ≈4600 m): zahteva napor, uključuju se kompenzatorni mehanizmi.
+3. **Faza poremećaja** (do 20 000 stopa, ≈6100 m): psihičke i fizičke funkcije padaju na minimum, javljaju se euforija, prolazna paraliza CNS-a i subjektivni simptomi.
+4. **Kritična** (preko 20 000 stopa): brzo se javljaju objektivni simptomi, potpuno onesposobljavanje, snažni grčevi i smrt.
+
+**11. Koje su vrste hipoksije i njihove osobine?**
+- **Hipoksična:** posledica boravka na visinama sa veoma razređenim vazduhom.
+- **Zastojna:** javlja se zbog bolesti srca i krvnih sudova.
+- **Anemijska:** posledica malokrvnosti.
+- **Histotoksična:** nastaje zbog trovanja alkoholom ili ugljen-monoksidom.
+
+**12. Kako se organizam sam brani od hipoksije (kompenzatorni mehanizmi)?**
+- **Hiperventilacija:** ubrzano i produženo disanje, pojačano provetravanje pluća i veći gubitak ugljen-dioksida.
+- **Mobilizacija rezervnih depoa krvi:** krv iz jetre, slezine, creva i kože usmerava se u vitalne organe (srce, pluća, mozak).
+- **Povećanje sposobnosti hemoglobina da vezuje kiseonik:** privremeno sprečava pojavu anemije.
+- **Aktiviranje enzim-ekonomik mehanizama:** ekonomičnije korišćenje preostalog kiseonika u ćelijama.
+
+**13. Kako se leči blaža hipoksija i koje su posledice lečenja?**
+Udisanjem čistog kiseonika, uz oporavak nakon 10–15 minuta. Stanje se vraća u normalu, ali je ponekad moguća retrogradna amnezija (gubitak sećanja na događaje neposredno pre hipoksije).
+
+## Disbarizam (dekompresiona bolest)
+
+**14. Šta je disbarizam i kada se javlja?**
+Oboljenje koje nastaje posle nagle promene pritiska (dekompresije) u sredini sa sniženim ili povišenim pritiskom. Javlja se u kesonima, tokom ronjenja i na visini u avijaciji i astronautici.
+
+**15. Ko je glavni uzročnik disbarizma?**
+Gasni mehurići azota. Iz rastvorenog stanja u krvi i tkivima naglo prelaze u slobodne mehuriće i nagomilavaju se u telesnim tečnostima i tkivima, zbog presićenja organizma inertnim gasom (azotom).
+
+**16. Koje su vrste disbarizma?**
+- **Kesonska bolest:** nastaje u okruženju visokog pritiska (ronioci, kesonski radnici, bolesnici u barokomorama).
+- **Pilotska bolest** (subatmosferska): nastaje u okruženju sniženog pritiska (piloti, kosmonauti, putnici aviona, padobranci).
+
+**17. Za koje situacije u vazduhoplovstvu se vezuje pojava disbarizma?**
+- Uspon iznad 8000 m bez zaštitne opreme.
+- Otkaz motora (pogonske grupe) i gubitak pritiska u kabini.
+- Nagli gubitak pritiska u kabini zbog mehaničkog oštećenja.
+- Prinudno napuštanje vazduhoplova na velikim visinama.
+- Fiziološka tren​aža u hipobaričnim barokomorama.
+
+**18. Koji su simptomi disbarizma?**
+Javljaju se obično 15 minuta do 12 sati posle izronjavanja, a kod teških slučajeva i ranije. Mehurići su najčešći u predelu ramena, laktova, kolena i članka. Simptomi:
+- umor ili slabost
+- svrab i peckanje, kožni osip
+- bol u rukama, nogama, zglobovima ili mišićima
+- obamrlost, trnci, odsutnost osećaja
+- otežano disanje
+- nestabilnost pri stajanju i hodu
+- intenzivni kašalj
+- kolaps, nesvest
+
+**19. Šta je vreme čiste svesti i koliko traje na raznim visinama?**
+To je vreme od početka dekompresije do pojave prvih psihofizičkih poremećaja. Trajanje zavisi od visine:
+- 6500 m: 10 minuta
+- 8000 m: 3 minuta
+- 9000 m: 90 sekundi
+- 12 000 m: 30 sekundi
+- 14 000 m: 15 sekundi
+- 16 000 m: trenutna onesposobljenost
+
+**20. Koje su mere prevencije kod disbarizma?**
+- Fiziološka tren​aža pilota, kosmonauta i ronilaca (uključujući barokomore).
+- Redovne zdravstvene kontrole i dobra psihofizička kondicija.
+- Edukacija iz vazduhoplovne i hiperbarične medicine i obuka iz prve pomoći.
+- Redovna i pravilna upotreba zaštitne letačke i ronilačke opreme.
+- Redovna kontrola ispravnosti (hermetičnosti) kabina.
+- Izbegavanje napornog rada ili vrućeg tuša posle ronjenja i letenja.
+- Izbegavanje letenja u roku od 24 sata posle ronjenja.
+- Pravilan izron prema dekompresionim tablicama.
+
+**21. Kako se leči disbarizam?**
+1. Prva pomoć na mestu sletanja vazduhoplova nakon incidenta.
+2. 100% normobarični kiseonik preko dobro prijanjajuće maske.
+3. Nadoknada tečnosti preko usta.
+4. Utopljavanje.
+5. Pravilan položaj povređenog tokom transporta i lečenja (leži na levom boku, na čvrstoj podlozi, bez podizanja ekstremiteta).
+
+## Kinetoza (bolest kretanja)
+
+**22. Šta je kinetoza i šta obuhvata?**
+Kinetoza (morska bolest) je uobičajen i normalan poremećaj različitog intenziteta, izazvan kretanjem tela. Učestalost raste sa trajanjem putovanja. Javlja se u automobilu, autobusu, vozu, avionu i brodu. Letenje je posebno pogodno za razvoj kinetoze zbog kretanja kroz trodimenzionalni prostor.
+
+**23. Zašto nastaju tegobe? Šta je teorija neuronske neusklađenosti (senzorni sukob)?**
+Simptome objašnjava „neusklađenost" ili „sukob" senzornih signala u nervnom sistemu. Tokom vožnje telo miruje, a očima dobijamo informacije o spoljašnjem svetu (brzo pomeranje objekata). To pravi konfuziju između tri sistema (vid, mišići i ravnoteža), koji šalju različite impulse ka mozgu.
+
+**24. Koji su simptomi kinetoze?**
+Tri glavna su mučnina, povraćanje i hladan znoj (uz bledilo). Ostali: glavobolja, vrtoglavica, opšta malaksalost, neprijatan osećaj u želucu i dehidratacija.
+
+**25. Koje su mere prevencije kinetoze?**
+- **Smanjiti izlaganje kretanju:** sedeti u sredini aviona, broda ili autobusa, zauzeti polusedeći položaj, smanjiti broj i brzinu pokreta glave.
+- **Smanjiti vizuelnu aktivnost:** gledati u horizont ili stabilan objekat, ne gledati predmete koji se kreću, ne čitati, zatvoriti oči.
+- Poboljšati ventilaciju i ukloniti štetne spoljašnje uticaje.
+- **Smanjiti obim pokreta:** izbegavati ubrzanja, usporenja i nagle zaokrete.
+- **Preusmeriti pažnju:** upravljanje vozilom ili neka mentalna aktivnost.
+- **Regulisati ishranu:** ne jesti mnogo pre vožnje, više puta jesti male obroke, izbegavati alkohol.
+
+## Ubrzanja
+
+**26. Koje su vrste ubrzanja prema obliku kretanja?**
+Ubrzanje na pravolinijskoj putanji kretanja aviona i ubrzanje na lučnoj putanji (pri manevrisanju).
+
+**27. Šta se dešava sa krvlju pri pozitivnom i negativnom Gz?**
+Kad je Gz pozitivan (+Gz), krv se potiskuje ka nogama. Kad je negativan (-Gz), krv ide ka glavi.
+
+**28. Koje promene nastaju u organizmu pilota kod ubrzanja duž +Z ose?**
+- **Moždana tečnost (likvor):** pomera se prema kičmenoj moždini, što izaziva jače ili slabije zamućenje vida.
+- **Krvni sudovi:** centrifugalna sila potiskuje krv iz gornjih delova tela u donje. Nedostatak krvi u mozgu izaziva hipoksiju i nesvesticu.
+- **Priliv krvi u srce:** smanjen je, a srce teško izbacuje i tu manju količinu zbog povećanog pritiska ispod srca.
+- **Osećaj težine u donjim ekstremitetima:** jak osećaj posle +3 do +4 g, a na +5 g nastaje potpuna nepokretljivost.
+
+**29. Šta je siva koprena?**
+Prva faza poremećaja vida pri +Gz od 3 do 4 G. Smanjuje se periferni vid („tunelski vid"), a instrumente pilot vidi kao kroz maglu. Ako Gz opadne, koprena odmah nestaje.
+
+**30. Šta je crna koprena?**
+Potpun gubitak vida koji nastaje ako ubrzanje ostane isto ili nastavi da raste. Pilot je pritom potpuno svestan i pravilno se orijentiše, a vid se vraća pet sekundi nakon prestanka ubrzanja. Ona je krajnji znak upozorenja pre gubitka svesti (4,5–6 G).
+
+**31. Od čega zavisi preživljavanje tokom udesa vazduhoplova?**
+Gradivo to ne navodi direktno. Iz njega proizlazi da zavisi od veličine ubrzanja (G), brzine prirasta i trajanja ubrzanja, pravca dejstva sile (+Gz i -Gz se podnose slabije od Gx) i prethodne tren​ažne pripreme. Primer: čovek podnosi bez posledica do +9 Gz u trajanju od 40 sekundi ili do -3 Gz uz tren​ažu.
+
+**32. Na koji način možemo zaštititi organizam od dejstva ubrzanja?**
+Gradivo navodi prethodnu tren​ažnu pripremu i pilotsku zaštitnu opremu, a poznato je i da se pravcem dejstva sile štiti telo (Gx i Gy se bolje podnose jer su organi zaštićeni koštanim zidom). Ako ste na času obrađivali anti-G odelo ili tehniku zatezanja mišića, dodajte to.
+
+## Aklimatizacija
+
+**33. Šta su aklimatizacija i deaklimatizacija na visinu?**
+- **Aklimatizacija** je spor i postepen fiziološki odgovor organizma na promenu barometarskog pritiska na dostignutoj visini. Omogućava organizmu da boravi i preživi u uslovima nedovoljne količine kiseonika (hipoksije) i da postigne maksimalnu efikasnost radnih, umnih i fizičkih mogućnosti.
+- **Deaklimatizacija** je gubitak aklimatizacije pri povratku na niže nadmorske visine. Oko 80–90% sposobnosti se gubi u prve tri do četiri nedelje nakon povratka.
+
+**34. Koji se fiziološki mehanizmi pokreću usled aklimatizacije?**
+- Dubina disanja raste, što obezbeđuje bolju ventilaciju pluća.
+- Pritisak u arterijama pluća se povećava, pa veći priliv krvi ide u delove pluća koji inače nisu u funkciji.
+- Organizam proizvodi više crvenih krvnih zrnaca (eritrocita), što doprinosi većem prenosu kiseonika.
+- Organizam proizvodi veće količine enzima koji olakšavaju oslobađanje kiseonika od hemoglobina u tkivima.
+
+---
+
+Dve napomene: vaš tekst koristi termin „vreme korisne svesti", dok materijal piše „vreme čiste svesti" (isto značenje). Faze hipoksije sam uzeo iz materijala, a ako profesor insistira na određenom izvoru, uporedite brojke sa njegovim beleškama.
