@@ -1,0 +1,142 @@
+Lekcija prva prva
+
+- konvencija o međunarodnom civilnom vazduhoplovstvu (Čikaška konvencija)
+- Privremeni sporazum o međunarodnom civilnom vazduhoplovstvu (PICAO)
+Konvencija je trajala od 1. novembra 1944 do 7. decembra 1944, tada su svi ovi dokumenti smišljeni.
+- Međunarodni ugovor o tranzitu u vazduhoplovnom saobraćaju (dve slobode)
+- Međunarodni sporazum o vazduhoplovnom saobraćaju (5 sloboda)
+- Nacrti 12 tehničkih dodatka
+- Standardni oblik bilateralnog sporazuma za razmenu ruta u vazduhoplovu usluga
+
+Koliko država je učestvovalo?
+
+Lekcija prva druga
+
+Koliko ima dokumenta? 6.
+ICAO je osnovan za civilno vazduhoplovstvo na toj konvenciji.
+ICAO ima određen broj ciljeva (može svojim rečima):
+1. Podstiče planiranje i razvoj međunarodnog vazduhoplovnog prevoza kako bi se osigurao siguran i uredan rast međunarodnog civilnog vazduhoplovstva širom sveta.
+2. Podstiče izradu dizajna i rada aviona u miroljubive svrhe.
+3. Podstiče ...
+.
+.
+.
+9. ...
+
+ICAO se deli na: Skupštinu (36 članova, odnosno država, mandat od 3 godine, skupština bira članove saveta (države najvećeg značaja, doprinosa, ostale da se čuje njihov glas)
+
+Lekcija prva treća
+
+Odgovornosti EASE: 
+
+
+
+Lekcija kao 1
+
+Aneksi
+- Aneks 1: LICENCIRANJE OSOBLJA
+Najbitnija jedinica za nas, kako ko dolazi do licence je tu zapisano, za nas je vezan PART66
+Svi učesnici u vazduhoplovstvu moraju da imaju neku licencu
+- Aneks 2: Pravila letenja
+Kao pravila saobraćaja na zemlji, znači načini i zakoni kretanja
+Imamo vizuelno i instrumentalno letenje (AFD, DME, VOR, LOC, GS služe za to), 
+ovde su pravila za kad možeš da letiš vizuelno, s kojim avionima, itd.
+- Aneks 3: Meteorološka služba za međunarodnu vazdušnu plovidbu
+Svaki aerodrom koji se bavi komercijalnim letenjem mora da ima stručno lice za meteorologiju, odn. meteorološku službu.
+Pilot uvek mora da ima lekarski i letačku dozvolu i meteorološki izveštaj.
+U okviru SMATSA imamo srpsku meteorološku službu. Mora biti osoba školovana za meteorologiju.
+- Aneks 4: Vazduhoplovne karte
+Moramo posedovati avionsku kartu za letenje po određenoj državi, karta ima informacije kako da pilot dođe od A do B,
+postoje karte za instrumentalno letenje, svaka država ima svoju organizaciju za te table, 
+za instrumentalno letenje imamo iscrtane vazdušne puteve
+- Aneks 5: Merne jedinice koje će se koristiti u vazdušnim i zemaljskim operacijama
+Merne jedinice se obično ne menjaju od kad su definisanje, najskorije su prebacili sa milibare na hektopaskale.
+Evropa i Amerika koriste različite merne jedinice, u avijaciji Amerika koristi Kelvine.
+U americi koriste galone, kod nas litre.
+- Aneks 6: Korišćenje vazduhoplova
+Zakon o zašto, kako, pod kojim uslovima, itd. možemo da koristimo vazduhoplov.
+Svaka letelica ima svoje uslove za kad može da se koristi.
+Ako je letelica za kargo i sertifikovana za to, ne sme da se koristi za prevoz putnika.
+- Aneks 7: Oznake nacionalne pripadnosti i registracija vazduhoplova
+Svaki vazduhoplov mora da ima zastavu države na koju je registrovan i njenu registraciju.
+Airbus, boeing, itd. imaju registraciju na repu, ide zastava, pa registracija, isto imaju ispod levog krila.
+Neki vazduhoplovi imaju i na gornjoj strani krila, jedrilice imaju na gornjem delu vertikalca.
+Zmajevi imaju na stajnim trapovima.
+Registracije nisu iste na svim letelicama.
+Registraciji su 2 slova pa 3 ???
+Jedrilice imaju 2 slova pa 4 broja
+Obeležje za Srbiju je YU-
+- Aneks 8: Plovidbenost vazduhoplova
+Bitan aneks za nas jer su ovde minimumi plovidbenosti definisani.
+Nisu iste definicije plovidbenosti za npr. kargo, putnike, prenos životinja, garderobe, itd.
+- Aneks 9: Olakšice u vazdušnom prevozu
+U ovom se olakšavaju kriterijumi koji moraju da se urade za plovidbenost.
+Npr. strane kompanije na aerodromu imaju isti prioritet kao domaće.
+- Aneks 10: Vazduhoplovne telekomunikacije
+Komunikacije između pilota i aviona i radio sredstva, itd.
+Svako radio sredstvo mora biti registrovano i van vazduhoplova i obnavljava se na svake 1 godinu.
+Imamo radio tornje, svaki toranj ima svoju frekvenciju. U BG ima frekvencija za naš aerodrom, 
+ista radio frekvencija se koristi za što dalji aerodrom, odn. na drugoj strani planete.
+VOR, ADF, itd. imaju svoje frekvencije.
+- Aneks 11: Vazduhoplovne službe
+Sve službe aerodrome, hitna pomoć, ketering, prihvat i utovar putnika, karga, obezbeđenje, vatrogasci, itd.
+Svi su definisani kako da rade u ovom aneksu.
+Aerodrom da bi se koristio mora da ima određenu količinu službi i kvalitet službi.
+Za određene avione aerodromi moraju imaju određene uslove.
+- Aneks 12: Traganje i spasavanje
+Ako se izgubi vazduhoplov, ima mehanizam traganje i spasavanja.
+U većini slučaja postoji avion ili helikopter za traganje, 
+ima i zemaljska posada kao kamioni, motori, pešadinci, bespilotne letelice, itd.
+Moraju biti ljudi koji dežuraju 24/7.
+Ima sistem za testiranje transpondera za traganje i spasavanje
+- Aneks 13: Analiza vazduhoplovnih udesa
+Svaka država ima svoju agenciju s glavnim istraživačem.
+- Aneks 14: Aerodromi
+Moraju ispunjavati
+dužina poletno sletne staze, platforma za parking, količina mostova, autobusi, itd. 
+su kriterijumi koji aerodromi moraju da ispunjavaju da bi dobili kategoriju
+- Aneks 15: Vazduhoplovne informativne službe
+Postoje službe, da zoveš pilota, aviotehničara, inžinjera, itd.
+- Aneks 16: Zaštita životne sredine
+Gleda se da se što više fokusira na zaštitu sredine, da se ne zagađuje ozonski omotač itd.
+Tipovi letelice koji proizvode neki nivo buke
+Aneks 17: bezbednost
+Aneks 18: Bezbedni transport opasnih materija
+Aneks 19: Upravljanje bezbednošću
+
+
+Kako su doneta 6 važnih dokumenta?
+
+---------------------------------------- Drugi čas ----------------------------------------
+
+Šta EASA radi: 
+Kandidat za obuku pilota mora imati 16 godina, EASA moze to da dize, ne moze da smanji i tako isto za ostale zakone
+Moze da ublazi nas direktorat zakone samo ako izdaje svoju licencu za njih
+Пружанје мogućnosti upoznavanje odn. svako ima pravo da pita EASA ili direktorat to šta ga interesuje.
+Inspekcija trening i ... svuda u svim državama    je proces obuke i dobijanja sertifikata isti, jer se poštuju EASA standardi
+Bezbednost životne sredine ... 
+Odobrenje organizacije za konstruisanja vazduhoplova ... odn. svi avioni kad se prave moraju da ispunjavaju standarde
+Ovlašćenje operaterima iz trećih zemalja
+Kordinacija programa evropske zajedince i nešto bezbednost aerodroma ... vazduhoplov registrovan u Srbiji može da leti u EASA, 
+ali da ispoštuje šta te države na kojima leti traže
+Prikupljanje podataka za poboljšenje nečeg ... koliko tehničari prave greške, koliko su šteta napravile, itd.
+Poenta i veoma bitna stvar EASA je da može sa dokumentacijom da se ode u bilo koju državu EASA i da tamo i dalje radi
+
+
+Mi imamo našu lokalnu licencu s kojom može da se radi u Srbiji i eventualno u BiH i MNE.
+EASA zakoni su svi dostupni na 32 jezika
+Treba da pogledamo strukturu EASA iz prezentacije
+
+---------------------------------------- Treći čas ----------------------------------------
+
+Postoji hard i soft law
+
+Osnovna regulacija usvojena od strane evropskog parlamenta i još nekog (?) je hard law
+Države ne mogu da modifikuju te zakone.
+Soft law (IMC / GM su primeri soft law) - preporuke EASA odnosno neobavezujući zakonu, 
+npr. preporuka da Avio-Tehničari imaju 21 godinu jer su tad zreliji
+part M - pravila o kontinuiranju plovidbenosti
+part E - isto što i part M, samo ako je vazduhoplov registrovan u drugoj državi
+
+Šema koja prikazuje kako funkcioniše EASA, odn. koje su njene grane, iz prezentacije nije za test
+Na testu će biti 5 partova koja su šta su čemu služe, part 66, part 147, part 145, part M, part E
