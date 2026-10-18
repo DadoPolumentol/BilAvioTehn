@@ -1,0 +1,70 @@
+Osnove vazduhoplovnih propisa: ICAO, aneksi i EASA
+Beleške sa predavanja, dopunjene i ispravljene. Mesta koja treba proveriti u prezentaciji ili kod profesora označena su sa (proveri).
+1. Čikaška konvencija i ICAO
+Konferencija u Čikagu trajala je od 1. novembra do 7. decembra 1944. godine. Pozvano je 54 države, a prisustvovale su 52 (Sovjetski Savez je bio pozvan, ali nije došao). Na konferenciji je nastalo 6 dokumenata:
+1. Konvencija o međunarodnom civilnom vazduhoplovstvu (Čikaška konvencija).
+2. Privremeni sporazum o međunarodnom civilnom vazduhoplovstvu (PICAO).
+3. Međunarodni ugovor o tranzitu u vazduhoplovnom saobraćaju (dve slobode).
+4. Međunarodni sporazum o vazduhoplovnom saobraćaju (pet sloboda).
+5. Nacrti 12 tehničkih dodataka (aneksa).
+6. Standardni oblik bilateralnog sporazuma za razmenu ruta u vazduhoplovnim uslugama.
+Kako su dokumenta doneta i šta je bilo posle: delegati država su ih usvojili na konferenciji, a Konvencija je potpisana 7. decembra 1944. Na snagu je stupila 4. aprila 1947, kada ju je ratifikovalo 26 država. Tada je ICAO zvanično osnovan, a do tada je privremeno radio PICAO. Široko su prihvaćeni samo Konvencija i sporazum o tranzitu (dve slobode). Sporazum o pet sloboda nije dobio dovoljnu podršku.
+ICAO je osnovan na toj konvenciji za civilno vazduhoplovstvo. Ciljevi (član 44 Konvencije):
+1. Podstiče planiranje i razvoj međunarodnog vazduhoplovnog prevoza kako bi se osigurao siguran i uredan rast međunarodnog civilnog vazduhoplovstva širom sveta.
+2. Podstiče izradu dizajna i rad aviona u miroljubive svrhe.
+3. Podstiče razvoj vazdušnih puteva, aerodroma i sredstava za navigaciju.
+4. Zadovoljava potrebe naroda sveta za sigurnim, redovnim, efikasnim i ekonomičnim vazdušnim prevozom.
+5. Sprečava ekonomsko rasipanje izazvano nerazumnom konkurencijom.
+6. Obezbeđuje poštovanje prava država ugovornica i pravednu mogućnost svake od njih da održava međunarodne avio-linije.
+7. Izbegava diskriminaciju između država ugovornica.
+8. Unapređuje bezbednost letenja u međunarodnoj vazdušnoj plovidbi.
+9. Podstiče razvoj svih oblika međunarodnog civilnog vazduhoplovstva.
+Struktura ICAO:
+• Skupština čine sve države članice (193). Zaseda najmanje jednom u 3 godine i bira članove Saveta.
+• Savet ima 36 članova sa mandatom od 3 godine. Bira se u tri grupe: 11 država najvećeg značaja u vazdušnom saobraćaju, 12 država koje najviše doprinose obezbeđivanju sredstava i 13 država radi geografske zastupljenosti, da bi se čuo glas i ostalih.
+2. Aneksi Čikaške konvencije
+Aneks 1 – Licenciranje osoblja. Najbitniji za nas: ovde je zapisano kako se dolazi do licence, a za nas je vezan Part-66. Svi učesnici u vazduhoplovstvu moraju imati neku licencu.
+Aneks 2 – Pravila letenja. Kao pravila saobraćaja na zemlji: načini i zakoni kretanja. Postoji vizuelno i instrumentalno letenje (za instrumentalno služe ADF, DME, VOR, LOC, GS). Ovde su pravila kada se sme leteti vizuelno, kojim avionima itd.
+Aneks 3 – Meteorološka služba za međunarodnu vazdušnu plovidbu. Svaki aerodrom koji se bavi komercijalnim letenjem mora imati meteorološku službu, odnosno stručno lice za meteorologiju (školovano za to). Pilot uvek mora imati lekarsko uverenje, letačku dozvolu i meteorološki izveštaj. U okviru SMATSA postoji srpska meteorološka služba.
+Aneks 4 – Vazduhoplovne karte. Za letenje u određenoj državi mora se posedovati karta sa informacijama kako pilot dolazi od A do B. Postoje karte za instrumentalno letenje, na kojima su iscrtani vazdušni putevi, a svaka država ima svoju organizaciju za izradu karata.
+Aneks 5 – Merne jedinice u vazdušnim i zemaljskim operacijama. Merne jedinice se retko menjaju kad se jednom definišu. Najskorija promena je prelazak sa milibara na hektopaskale. Evropa i Amerika koriste različite jedinice: kod nas hPa i litre, u SAD inHg i galone. Za temperaturu ICAO koristi Celzijus, a u SAD je u svakodnevnoj upotrebi Farenhajt (u beleškama je pisalo Kelvin, što verovatno nije tačno (proveri)).
+Aneks 6 – Korišćenje vazduhoplova. Zašto, kako i pod kojim uslovima se vazduhoplov sme koristiti. Svaka letelica ima svoje uslove upotrebe. Ako je letelica sertifikovana za kargo, ne sme se koristiti za prevoz putnika.
+Aneks 7 – Oznake nacionalne pripadnosti i registracija. Svaki vazduhoplov mora imati oznaku države u kojoj je registrovan i svoju registraciju. Kod Airbusa, Boeinga itd. oznaka je na repu, a ista je i ispod levog krila. Neki vazduhoplovi je imaju i na gornjoj strani krila, jedrilice na gornjem delu vertikalca, a zmajevi na stajnim trapovima. Registracije nisu iste na svim letelicama. Format je oznaka države, crtica i slova. Za Srbiju je to YU- pa tri slova (npr. YU-APA). Jedrilice imaju oznaku države i četiri broja.
+Aneks 8 – Plovidbenost vazduhoplova. Bitan za nas jer su ovde definisani minimumi plovidbenosti. Definicije nisu iste za npr. kargo, putnike, prenos životinja, prtljag itd.
+Aneks 9 – Olakšice u vazdušnom prevozu (Facilitation). Odnosi se na što brži i lakši prelazak granice za vazduhoplov, putnike, posadu i teret (carina, imigracija, zdravstvene kontrole). Npr. strane kompanije na aerodromu imaju isti prioritet kao domaće. (Nije o olakšavanju plovidbenosti.)
+Aneks 10 – Vazduhoplovne telekomunikacije. Komunikacija između pilota i zemlje i radio sredstva. Svako radio sredstvo mora biti registrovano i obnavlja se svake godine. Svaki toranj ima svoju frekvenciju (u Beogradu postoji frekvencija za naš aerodrom), a ista frekvencija može se koristiti na dalekom aerodromu, npr. na drugoj strani planete. VOR, ADF itd. imaju svoje frekvencije.
+Aneks 11 – Službe vazdušnog saobraćaja (ATS). Kontrola leta, letno-informativna služba i služba alarmiranja. Kod nas je to SMATSA. (Ketering, vatrogasci, hitna pomoć, prihvat putnika i karga spadaju pod aerodromske operacije i Aneks 14.)
+Aneks 12 – Traganje i spasavanje. Ako se izgubi vazduhoplov, postoji mehanizam traganja i spasavanja: avion ili helikopter za traganje, zemaljske ekipe (kamioni, motori, pešaci, bespilotne letelice). Ljudi moraju dežurati 24/7. Postoji sistem za testiranje lokatorskih predajnika za traganje i spasavanje, najverovatnije ELT (Emergency Locator Transmitter) (proveri).
+Aneks 13 – Istraga udesa i nezgoda vazduhoplova. Svaka država ima svoju agenciju sa glavnim istražiteljem.
+Aneks 14 – Aerodromi. Aerodromi moraju ispunjavati kriterijume da bi dobili kategoriju: dužina poletno-sletne staze, platforma za parking, broj mostova, autobusi, spasilačke i vatrogasne službe, ketering, hitna pomoć, obezbeđenje itd. Za određene avione aerodromi moraju imati određene uslove. Da bi se aerodrom koristio, mora imati određen broj i kvalitet službi.
+Aneks 15 – Vazduhoplovne informativne službe (AIS). AIP, NOTAM-i i AIRAC ciklusi, tj. objavljivanje informacija potrebnih za letenje.
+Aneks 16 – Zaštita životne sredine. Fokus na smanjenju zagađenja (emisije, ozonski omotač) i buke. Tipovi letelica se razlikuju po nivou buke koju proizvode.
+Aneks 17 – Zaštita (security). Zaštita od nezakonitih akata (otmice, bombe, sabotaže): kontrola putnika, prtljaga i pristupa aerodromu.
+Aneks 18 – Bezbedan transport opasne robe vazdušnim putem. Klasifikacija, pakovanje i obeležavanje (ICAO Technical Instructions).
+Aneks 19 – Upravljanje bezbednošću. SMS (sistem upravljanja bezbednošću) kod operatera i državni program bezbednosti SSP.
+3. EASA
+EASA (Evropska agencija za bezbednost vazduhoplovstva) osnovana je 2002, sedište joj je u Kelnu.
+Šta EASA radi:
+• Daje stručne savete Evropskoj uniji pri izradi propisa i izrađuje provedbena pravila.
+• Sertifikuje tipove vazduhoplova, motora i delova. Svi avioni pri izradi moraju ispunjavati standarde.
+• Odobrava organizacije za projektovanje (DOA) i proizvodnju (POA), a van EU i organizacije za održavanje i obuku.
+• Vrši standardizacione inspekcije država članica, pa je proces obuke i dobijanja sertifikata isti u svim državama, jer se poštuju EASA standardi.
+• Ovlašćuje operatere iz trećih zemalja (TCO).
+• Koordiniše programe evropske zajednice, uključujući SAFA (provere stranih vazduhoplova na aerodromima), i bezbednost aerodroma. Vazduhoplov registrovan u Srbiji može leteti u EASA području, ali mora poštovati ono što države u kojima leti zahtevaju.
+• Prikuplja i analizira podatke radi poboljšanja bezbednosti: koliko tehničari prave greške, kolika je šteta nastala itd.
+• Brine o zaštiti životne sredine (buka, emisije).
+• Svako ima pravo da pita EASA ili direktorat šta ga interesuje.
+Bitna poenta: sa EASA dokumentacijom i licencom može se raditi u bilo kojoj državi EASA. Naša lokalna licenca važi u Srbiji i eventualno u BiH i Crnoj Gori.
+Odnos EASA i nacionalnog direktorata: kandidat za obuku pilota mora imati 16 godina. EASA to može podići, ali ne može smanjiti, i isto važi za ostale propise. Naš direktorat može ublažiti zahteve samo ako izdaje svoju (nacionalnu) licencu za to.
+Jezici: EASA propisi dostupni su na svim službenim jezicima EU. Službenih jezika EU ima 24, a u beleškama je pisalo 32 (proveri).
+Struktura EASA: pogledati šemu u prezentaciji (nije za test).
+4. Hard i soft law
+• Hard law: osnovna uredba koju usvajaju Evropski parlament i Savet EU (trenutno Uredba (EU) 2018/1139). Države ne mogu modifikovati ove propise.
+• Soft law: neobavezujuće preporuke EASA, AMC/GM (Acceptable Means of Compliance / Guidance Material). Primer: preporuka da aviotehničari imaju 21 godinu jer su tada zreliji. Zvanični minimum za dozvolu Part-66 je 18 godina, a 21 godina je poznatija kod ATPL dozvole (proveri).
+5. Partovi za test
+Na testu će biti 5 partova: šta su i čemu služe.
+• Part-66: licence osoblja za održavanje.
+• Part-147: organizacije za obuku.
+• Part-145: organizacije za održavanje.
+• Part-M: pravila o kontinuiranoj plovidbenosti (održavanje plovidbenosti).
+• Part-E: po beleškama isto što i Part-M, samo ako je vazduhoplov registrovan u drugoj državi. Ne postoji kao uobičajen deo EASA niza (proveri). Često se na testu umesto njega pojavljuje Part-21 (projektovanje i proizvodnja).
