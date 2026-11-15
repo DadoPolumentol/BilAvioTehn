@@ -1,0 +1,467 @@
+Question
+Odakle pneumatski sistem uzima vazduh?
+
+Answer
+Iz motora ili iz posebnih kompresora.
+
+Question
+Šta je BLEED vazduh?
+
+Answer
+Vrući vazduh uzet sa motora ili APU-a; glavni izvor vrućeg vazduha na avionu.
+
+Question
+Sa čega se BLEED vazduh uzima na motoru?
+
+Answer
+Sa stepena kompresora motora.
+
+Question
+Kolika je količina BLEED vazduha u odnosu na vazduh za sagorevanje?
+
+Answer
+Relativno mala.
+
+Question
+Koliki je pritisak BLEED vazduha?
+
+Answer
+2 do 5,17 bar (30 do 75 psi).
+
+Question
+Na kojoj temperaturi je zaštita BLEED vazduha od pregrevanja (overheat)?
+
+Answer
+Na oko 200 °C.
+
+Question
+Koje se zaštite, osim zaštite od pregrevanja, nalaze u BLEED sistemu?
+
+Answer
+Zaštita od prevelikog pritiska.
+
+Question
+Kako se kontroliše količina BLEED vazduha?
+
+Answer
+Uzimanjem sa nižeg stepena kompresora (npr. 5. od 11), a pri većim zahtevima i sa višeg stepena (npr. 9. i 11.).
+
+Question
+Kako najnoviji avioni (npr. Boeing 787) dobijaju vazduh?
+
+Answer
+Ne uzimaju ga sa motora, već iz spoljne atmosfere pomoću električnih kompresora.
+
+Question
+Šta snabdeva pneumatski razvodnik (Manifold)?
+
+Answer
+PACK-ove, zaštitu od leda, presurizaciju hidrauličnog rezervoara i rezervoara pitke vode, startovanje motora.
+
+Question
+Kakav je kompresor kod manjih aviona?
+
+Answer
+Kompresor specijalnog oblika sa dva zavojna klipa, čiji presek ima oblik broja 8.
+
+Question
+Šta pokreće kompresor kod manjih aviona?
+
+Answer
+Klipni motor.
+
+Question
+Za šta se vazduh koristi kod manjih aviona?
+
+Answer
+Za delimičnu presurizaciju i klimatizaciju, odleđivanje i presurizaciju hidro rezervoara.
+
+Question
+Gde se kod manjih aviona može nalaziti grejanje kabine?
+
+Answer
+Oko izduvnih vodova.
+
+Question
+Zašto su vodovi grejanja kabine dupli?
+
+Answer
+Da se produkti sagorevanja ne mešaju sa čistim vazduhom.
+
+Question
+Koji su izvori vazduha visokog pritiska kod evropskog savremenog putničkog aviona?
+
+Answer
+BLEED motora, APU i zemaljski izvor (HP GPU).
+
+Question
+Koji računari nadziru BLEED sistem i koliko ih ima?
+
+Answer
+Dva računara BMC, po jedan za svaki motor.
+
+Question
+Šta se dešava ako jedan BMC računar otkaže?
+
+Answer
+Drugi preuzima većinu funkcija.
+
+Question
+Odakle se uzima vazduh pri maloj snazi motora?
+
+Answer
+Sa stupnja visokog pritiska (HP); otvara se ventil visokog pritiska (HPV).
+
+Question
+U kom je stanju HPV u krstarenju i zašto?
+
+Answer
+Zatvoren, radi efikasnosti motora.
+
+Question
+Šta radi PRV?
+
+Answer
+Reguliše protok BLEED vazduha i služi kao zaštitni zatvarajući ventil.
+
+Question
+Šta radi OPV i gde se nalazi?
+
+Answer
+Nalazi se nizvodno od BLEED ventila i štiti od nadpritiska.
+
+Question
+Šta radi FAV?
+
+Answer
+Dozira vazduh sa fena kroz prehladnjak (precooler), izmenjivač vazduh–vazduh, radi regulacije temperature BLEED vazduha.
+
+Question
+Šta radi crossbleed ventil?
+
+Answer
+Povezuje ili izoluje levi i desni BLEED sistem.
+
+Question
+Na koju se stranu priključuje HP GPU i kako se napaja druga strana?
+
+Answer
+HP GPU se priključuje na levu stranu, a desna se napaja preko crossbleed ventila.
+
+Question
+Koja je glavna svrha zemaljskog agregata?
+
+Answer
+Startovanje motora kada APU ne radi.
+
+Question
+Kakav sistem mora biti pre rada prema AMM-u?
+
+Answer
+Sistem mora biti bez pritiska.
+
+Question
+Koliko dugo komponente motora mogu ostati vruće (bezbednost po AMM)?
+
+Answer
+Do jedan sat.
+
+Question
+Koja je razlika u stišljivosti vazduha i ulja?
+
+Answer
+Vazduh je stišljiv, ulje nestišljivo.
+
+Question
+Kako se pneumatski sistem razlikuje od hidrauličnog po pritisku i snazi?
+
+Answer
+Pneumatski sistem ima niži pritisak i manju snagu.
+
+Question
+Kako je sa curenjem i povratnim vodom kod pneumatskog sistema?
+
+Answer
+Curenje se toleriše; nema povratnog voda (vazduh ističe u atmosferu).
+
+Question
+Koliko je psi u 1 baru?
+
+Answer
+1 bar ≈ 14,5 psi.
+
+Question
+Šta obezbeđuje sistem ATA 21?
+
+Answer
+Životne uslove bez obzira na režim leta: pritisak, temperaturu i vlažnost, kao i provetravanje i klimatizaciju odeljaka sa opremom.
+
+Question
+Kako radi mlazna pumpa (jet pump)?
+
+Answer
+Podsisava spoljni vazduh preko Venturijeve cevi.
+
+Question
+Koja je prednost mlazne pumpe?
+
+Answer
+Nema pokretnih delova.
+
+Question
+Koje su mane mlazne pumpe?
+
+Answer
+Daje samo malu zapreminu i nema hlađenja.
+
+Question
+Kako radi atmosferski kompresor?
+
+Answer
+BLEED pokreće turbinu, koja preko kompresora na istoj osovini usisava spoljni vazduh.
+
+Question
+Gde se često koristi atmosferski kompresor?
+
+Answer
+Kod turboelisnih aviona.
+
+Question
+Koji je najčešći metod kod turbomlaznih aviona?
+
+Answer
+AIR CYCLE (vazdušni ciklus sa ekspanzionom turbinom).
+
+Question
+Šta znači PACK?
+
+Answer
+Pneumatic Air Cycle Kit.
+
+Question
+Gde se nalazi PACK?
+
+Answer
+U donjoj polovini trupa ili u repu.
+
+Question
+Koliko je obično PACK sistema i kakvi su?
+
+Answer
+Dva nezavisna sistema (levi i desni), sinhronizovana.
+
+Question
+Od čega se sastoji ACM (rashladna mašina)?
+
+Answer
+Od ekspanzione turbine i kompresora na zajedničkom vratilu.
+
+Question
+Koliko je brzina obrtanja ACM-a?
+
+Answer
+Oko 40 000 min⁻¹.
+
+Question
+Kakav je ACM po veličini i protoku?
+
+Answer
+Mala je, a ima veliki protok.
+
+Question
+Šta APU daje na zemlji?
+
+Answer
+Vazduh za startovanje motora i za rad PACK-ova.
+
+Question
+Koji je redosled toka vazduha kroz sistem klimatizacije?
+
+Answer
+PACK ventil → primarni izmenjivač → kompresor ACM (sabija i zagreva) → sekundarni izmenjivač → turbina ACM (ekspandira – najhladniji vazduh) → separator vlage → MIX ventil.
+
+Question
+Šta radi kompresor ACM-a?
+
+Answer
+Sabija i zagreva vazduh.
+
+Question
+Šta radi turbina ACM-a?
+
+Answer
+Ekspandira vazduh; izlazni vazduh je najhladniji.
+
+Question
+Koje tri struje dolaze kroz MIX ventil?
+
+Answer
+Potpuno ohlađena (minus), delimično ohlađena i vruća.
+
+Question
+Koliko izmenjivača ima u svakom sistemu i koji su?
+
+Answer
+Po dva: primarni i sekundarni.
+
+Question
+Kakva je građa izmenjivača?
+
+Answer
+Saće; topao vazduh unutra, hladan spolja.
+
+Question
+Kako se izmenjivači hlade u letu, a kako na zemlji?
+
+Answer
+U letu dinamička vrata, na zemlji ventilator (fen).
+
+Question
+Šta radi separator vlage?
+
+Answer
+Odvaja vlagu iz hladnog vazduha turbine pre MIX ventila.
+
+Question
+Kakva je građa separatora vlage?
+
+Answer
+Dve zarubljene kupe spojene osnovama, od nerđajućeg čelika.
+
+Question
+Kako separator vlage izdvaja vodu?
+
+Answer
+Vrtloženjem; centrifugalnom silom kapi udaraju u drugu kupu i slivaju se u karter.
+
+Question
+Šta se dešava ako se separator zaledi?
+
+Answer
+Otvara se lutkasti ventil, a senzor od 35 °F otvara dovod vrelog vazduha u separator da se odmrzne.
+
+Question
+Šta radi MIX ventil?
+
+Answer
+Meša topli, hladni i vazduh usisan iz kabina i razvodi ga do kabina.
+
+Question
+Šta još ulazi u MIX ventil osim vazduha iz sistema?
+
+Answer
+Klimatizovani vazduh sa zemaljskog priključnog voda.
+
+Question
+Šta se dešava sa vazduhom u prednjem delu kabine?
+
+Answer
+Cirkuliše u krug preko fenova za recirkulaciju, hladi elektronsku opremu i prolazi kroz oba prtljažnika.
+
+Question
+Gde se nalaze senzori temperature?
+
+Answer
+U putničkoj i pilotskoj kabini i u klimatizovanim i distributivnim vodovima.
+
+Question
+Kako je moguća regulacija temperature?
+
+Answer
+Automatski i manuelno.
+
+Question
+Koje su funkcije kontrole temperature?
+
+Answer
+Kontrola protoka svežeg vazduha, kontrola temperature kabina, recirkulacija – ventilacija.
+
+Question
+Koja je ugodna temperatura u kabini?
+
+Answer
+20 °C (22 °C kad putnici spavaju).
+
+Question
+Kolika je ugodna vlažnost u kabini?
+
+Answer
+30 %.
+
+Question
+Iznad koje visine je kabina pod pritiskom obavezna?
+
+Answer
+Iznad 2 500 m.
+
+Question
+Koliki su pritisak i temperatura spolja na 12 000 m?
+
+Answer
+Oko 0,187 bar i −56 °C.
+
+Question
+Kolika je visina kabine kada je avion na 12 000 m?
+
+Answer
+Oko 2 500 m.
+
+Question
+Šta je visina kabine?
+
+Answer
+Pritisak u kabini izražen kao atmosferska visina sa istim pritiskom.
+
+Question
+Šta sistem presurizacije mora da spreči?
+
+Answer
+Brze promene pritiska.
+
+Question
+Zašto se vazduh odvodi napolje iz kabine?
+
+Answer
+Da se uklone mirisi.
+
+Question
+Kuda ide vazduh iz kabine?
+
+Answer
+U spoljnu atmosferu.
+
+Question
+Ko reguliše pritisak u kabini i preko čega?
+
+Answer
+Računar, preko izlaznog ventila (outflow valve).
+
+Question
+Kakvi motori pokreću izlazni ventil?
+
+Answer
+Motori naizmenične struje; rezervni (standby / ručni rad) su jednosmerni.
+
+Question
+Na kom pritisku se otvaraju sigurnosni ventili (safety valve)?
+
+Answer
+Na 0,55 – 0,69 bar (8 – 10 psid).
+
+Question
+Čemu služe negativni ventili?
+
+Answer
+Kad je pritisak spolja veći nego u kabini (naglo poniranje), puštaju vazduh u kabinu.
+
+Question
+Gde još postoje ventili za izjednačavanje pritiska?
+
+Answer
+Između kabine i kargo prostora.
+
+Question
+Do koje visine vojni avioni mogu biti nepresurizovani?
+
+Answer
+Do oko 8 000 m, uz kiseoničku masku.
