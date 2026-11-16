@@ -1,0 +1,572 @@
+Question
+Koja je uloga nervnog sistema?
+
+Answer
+Prima informacije iz okoline, obrađuje ih i šalje telu naredbe kako da reaguje. Usklađuje rad organizma, a u njemu su i svest, inteligencija i kreativnost.
+
+
+Question
+Šta su neuroni?
+
+Answer
+Nervne ćelije od kojih je izgrađen nervni sistem. Ima ih preko sto milijardi, a oko dve trećine je u mozgu.
+
+
+Question
+Koja je uloga neurona?
+
+Answer
+Stvaraju, primaju i sprovode nervne impulse.
+
+
+Question
+Koje vrste neurona postoje?
+
+Answer
+Senzitivni, motorni i umetnuti neuroni.
+
+
+Question
+Šta su senzitivni neuroni?
+
+Answer
+Neuroni koji povezuju organe sa centralnim nervnim sistemom.
+
+
+Question
+Šta su motorni neuroni?
+
+Answer
+Neuroni koji povezuju centralni nervni sistem sa mišićima i organima.
+
+
+Question
+Šta su umetnuti neuroni?
+
+Answer
+Neuroni koji povezuju delove centralnog nervnog sistema međusobno.
+
+
+Question
+Od čega se sastoji neuron?
+
+Answer
+Od tela ćelije, dendrita i aksona.
+
+
+Question
+Šta je telo ćelije neurona?
+
+Answer
+Glavni deo neurona, u kome se nalazi jedro.
+
+
+Question
+Šta su dendriti neurona?
+
+Answer
+Kratki nastavci neurona koji primaju impulse.
+
+
+Question
+Šta je akson neurona?
+
+Answer
+Dugi nastavak neurona koji sprovodi impuls do sledećeg neurona.
+
+
+Question
+Na koje dve celine se deli nervni sistem?
+
+Answer
+Na centralni i periferni nervni sistem.
+
+
+Question
+Šta čini centralni nervni sistem?
+
+Answer
+Mozak i kičmena moždina.
+
+
+Question
+Šta čini periferni nervni sistem?
+
+Answer
+Autonomni i cerebrospinalni nervni sistem.
+
+
+Question
+Kako radi autonomni nervni sistem?
+
+Answer
+Samostalno i nesvesno, putem refleksa.
+
+
+Question
+Koje funkcije kontroliše autonomni nervni sistem?
+
+Answer
+Rad srca, disanje i varenje, tj. rad unutrašnjih organa i žlezda.
+
+
+Question
+Kako radi cerebrospinalni nervni sistem?
+
+Answer
+Pod uticajem naše volje.
+
+
+Question
+Šta čini autonomni nervni sistem?
+
+Answer
+Simpatički i parasimpatički sistem, koji imaju suprotne funkcije.
+
+
+Question
+Šta čini cerebrospinalni nervni sistem?
+
+Answer
+Moždani nervi (polaze iz mozga) i kičmeni nervi (polaze iz kičmene moždine).
+
+
+Question
+Koliko parova moždanih nerava ima cerebrospinalni nervni sistem?
+
+Answer
+12 pari.
+
+
+Question
+Koliko parova kičmenih nerava ima cerebrospinalni nervni sistem?
+
+Answer
+31 par.
+
+
+Question
+Čemu služi respiratorni sistem?
+
+Answer
+Razmenjuje gasove između organizma i okoline: unosi kiseonik, a izbacuje ugljen-dioksid.
+
+
+Question
+Kako se disanje deli prema nivou na kome se odvija?
+
+Answer
+Na unutrašnje i spoljašnje disanje.
+
+
+Question
+Šta je unutrašnje disanje?
+
+Answer
+Razmena gasova na nivou tkiva i ćelija.
+
+
+Question
+Šta je spoljašnje disanje?
+
+Answer
+Razmena gasova preko respiratornih površina koje su u dodiru sa spoljašnjom sredinom.
+
+
+Question
+Šta utiče na uspešnost razmene gasova u respiratornom sistemu?
+
+Answer
+Respiratorna površina treba da bude što veća i dobro snabdevena krvnim sudovima.
+
+
+Question
+Koje su bolesti respiratornog sistema?
+
+Answer
+Prehlada, veliki kašalj, upala grla, upala pluća, rak pluća i tuberkuloza.
+
+
+Question
+Šta je prehlada?
+
+Answer
+Upala sluzokože disajnih puteva. Ako je ograničena na nos, zove se kijavica.
+
+
+Question
+Šta je veliki kašalj?
+
+Answer
+Bolest sa jakim, grčevitim napadima kašlja, najčešće kod dece. Izaziva je bakterija koja se prenosi kapljičnim putem.
+
+
+Question
+Šta je upala grla?
+
+Answer
+Upala sluzokože i glasnih žica, zbog koje se javljaju kašalj i promukao glas.
+
+
+Question
+Šta je upala pluća?
+
+Answer
+Bolest koju izazivaju bakterije pneumokoke. Javljaju se groznica, visoka temperatura, kašalj i bol u grudima.
+
+
+Question
+Šta je rak pluća?
+
+Answer
+Teško i često smrtonosno oboljenje, najčešće povezano sa dugotrajnim pušenjem.
+
+
+Question
+Šta je tuberkuloza?
+
+Answer
+Najraširenija zarazna bolest respiratornog sistema. Izaziva je bacil tuberkuloze, a izlečiva je ako se leči na vreme.
+
+
+Question
+Od čega se sastoji kardiovaskularni sistem?
+
+Answer
+Od krvi, krvnih sudova i srca.
+
+
+Question
+Koja je uloga krvi u kardiovaskularnom sistemu?
+
+Answer
+Tečnost koja cirkuliše kroz organizam i donosi materije ćelijama.
+
+
+Question
+Koja je uloga krvnih sudova u kardiovaskularnom sistemu?
+
+Answer
+Služe kao kanali kojima krv cirkuliše.
+
+
+Question
+Koja je uloga srca u kardiovaskularnom sistemu?
+
+Answer
+Pumpa krv kroz krvne sudove, a reguliše i količinu krvi i krvni pritisak.
+
+
+Question
+Šta je veliki krvotok?
+
+Answer
+Počinje u levoj komori. Aorta nosi oksigenovanu krv kroz telo, a redukovana krv se šupljim venama vraća u desnu pretkomoru.
+
+
+Question
+Šta je mali krvotok?
+
+Answer
+Počinje u desnoj komori. Plućna arterija nosi redukovanu krv u pluća, gde se ona oksigeniše, a plućne vene je vraćaju u levu pretkomoru.
+
+
+Question
+Koju krv prenose arterije, a koju vene?
+
+Answer
+Arterije nose krv od srca, a vene ka srcu. U velikom krvotoku arterije nose oksigenovanu, a vene redukovanu krv. U malom krvotoku je obrnuto.
+
+
+Question
+Šta je oksigenovana krv?
+
+Answer
+Krv bogata kiseonikom, u kojoj je hemoglobin vezan za kiseonik (oksihemoglobin).
+
+
+Question
+Šta je redukovana krv?
+
+Answer
+Krv siromašna kiseonikom, koja nosi ugljen-dioksid (vezan za hemoglobin kao karbamino-hemoglobin).
+
+
+Question
+Kako se ugljen-dioksid izbacuje iz organizma?
+
+Answer
+Iz ćelija prelazi u krv, krv ga nosi do pluća, a odatle se izdisajem izbacuje u okolinu.
+
+
+Question
+Koji su osnovni delovi oka?
+
+Answer
+Zaštitni, pomoćni i glavni deo.
+
+
+Question
+Šta spada u zaštitne delove oka?
+
+Answer
+Trepavice, obrve i očni kapci.
+
+
+Question
+Šta spada u pomoćne delove oka?
+
+Answer
+Očni nerv, očni mišići, suzne žlezde i suzni kanali.
+
+
+Question
+Šta spada u glavne delove oka?
+
+Answer
+Očna jabučica.
+
+
+Question
+Kakva je građa očne jabučice?
+
+Answer
+Loptastog je oblika i ima tri omotača: beonjaču, sudovnjaču i mrežnjaču.
+
+
+Question
+Koji su još delovi oka pored omotača očne jabučice?
+
+Answer
+Rožnjača, zenica, dužica, sočivo, staklasto telo, očni nerv, slepa mrlja i žuta mrlja.
+
+
+Question
+Šta je karakteristično za beonjaču?
+
+Answer
+Spoljna, čvrsta i beličasta opna koja drži oblik oka. Sprijeda prelazi u providnu rožnjaču.
+
+
+Question
+Šta je karakteristično za sudovnjaču?
+
+Answer
+Srednja opna sa krvnim sudovima i pigmentom koji daje boju oku. U njoj je mišić dužica koji reguliše širinu zenice.
+
+
+Question
+Šta je karakteristično za mrežnjaču?
+
+Answer
+Unutrašnja opna sa fotoreceptorima (čepići i štapići). Njihovi impulsi idu očnim nervom do centra za vid u mozgu.
+
+
+Question
+Šta je akomodacija oka?
+
+Answer
+Sposobnost oka da se prilagodi udaljenosti predmeta tako da slika na mrežnjači bude oštra.
+
+
+Question
+Šta je kratkovidost?
+
+Answer
+Greška vida kod koje se svetlosni zraci prelamaju ispred mrežnjače. Udaljeni predmeti se vide mutno, a bliski relativno dobro.
+
+
+Question
+Šta je dalekovidost?
+
+Answer
+Greška vida kod koje se svetlost ne prelama pravilno na mrežnjači. Udaljeni predmeti se vide jasno, a bliski mutno.
+
+
+Question
+Na koje delove se deli uho?
+
+Answer
+Na spoljašnje, srednje i unutrašnje uho.
+
+
+Question
+Šta čini spoljašnje uho?
+
+Answer
+Ušna školjka, slušni kanal i bubna opna.
+
+
+Question
+Šta čini srednje uho?
+
+Answer
+Čekić, nakovanj, uzengija i Eustahijeva truba.
+
+
+Question
+Šta čini unutrašnje uho?
+
+Answer
+Ovalna opna, puž i polukružni kanalići.
+
+
+Question
+Koja je uloga ušne školjke?
+
+Answer
+Hvata zvuk iz okoline.
+
+
+Question
+Koja je uloga slušnog kanala?
+
+Answer
+Vodi zvuk do bubne opne, a dlačice u njemu štite uho.
+
+
+Question
+Koja je uloga bubne opne?
+
+Answer
+Treperi pod dejstvom zvuka i prenosi treperenje u srednje uho.
+
+
+Question
+Koja je uloga Eustahijeve trube?
+
+Answer
+Povezuje srednje uho sa ždrelom.
+
+
+Question
+Koja je uloga ovalne opne u uhu?
+
+Answer
+Njome počinje unutrašnje uho, a na nju se prenose treperenja iz srednjeg uha.
+
+
+Question
+Koja je uloga puža u uhu?
+
+Answer
+U njemu se nalaze receptori za sluh.
+
+
+Question
+Koje kosti se nalaze u uhu i gde?
+
+Answer
+Čekić, nakovanj i uzengija, u srednjem uhu. To su najsitnije kosti u ljudskom telu.
+
+
+Question
+Koja je uloga čekića, nakovnja i uzengije?
+
+Answer
+Prenose treperenje sa bubne opne na ovalnu opnu unutrašnjeg uha.
+
+
+Question
+Gde se nalazi centar za ravnotežu?
+
+Answer
+U unutrašnjem uhu, u polukružnim kanalićima.
+
+
+Question
+Kakvog su oblika polukružni kanalići u uhu?
+
+Answer
+Polukružnog su oblika (horizontalni i vertikalni, odnosno prednji i zadnji kanali).
+
+
+Question
+Šta su iluzije u letenju?
+
+Answer
+Pogrešna opažanja predmeta ili pojava tokom leta, izazvana fizičkim, fiziološkim ili psihološkim uzrocima. Zbog njih pilot pogrešno procenjuje stvarnost, što može biti vrlo opasno.
+
+
+Question
+Koje vrste iluzija u letenju postoje prema čulu koje je uključeno?
+
+Answer
+Vestibularne, vizuelne i kinestetičke.
+
+
+Question
+Šta su vestibularne iluzije?
+
+Answer
+Iluzije koje nastaju kad se poremeti saradnja čula vida i organa za ravnotežu u uhu.
+
+
+Question
+Šta su vizuelne iluzije?
+
+Answer
+Pogrešna opažanja preko čula vida (npr. nagiba ili širine piste i horizonta), u dnevnim i noćnim uslovima.
+
+
+Question
+Šta su kinestetičke iluzije?
+
+Answer
+Lažan osećaj pravog leta, zaokreta ili promene brzine, nastao nadražajem receptora u koži, mišićima i zglobovima.
+
+
+Question
+Koje su vrste vestibularnih iluzija?
+
+Answer
+Iluzija kretanja u suprotnom pravcu, iluzija penjanja ili poniranja i iluzija naginjanja.
+
+
+Question
+Koje su vrste vizuelnih iluzija?
+
+Answer
+Vizuelne iluzije u dnevnim uslovima letenja i vizuelne iluzije u noćnim uslovima letenja.
+
+
+Question
+Koje vizuelne iluzije nastaju u dnevnim uslovima letenja?
+
+Answer
+Iluzija nagnute konture oblaka, iluzija vazdušne perspektive i iluzije pri konačnom prilazu.
+
+
+Question
+Koje vizuelne iluzije nastaju u noćnim uslovima letenja?
+
+Answer
+Autokinetička iluzija, iluzija lažnog horizonta, iluzija noćnog sletanja i iluzija niskog prilaza.
+
+
+Question
+Koje vrste dezorijentacije pilota postoje?
+
+Answer
+Tip I, tip II i tip III.
+
+
+Question
+Šta je karakteristično za dezorijentaciju tipa I?
+
+Answer
+Pilot ne primećava poremećaj ili ga iluzije zavedu, pa upravlja avionom na osnovu pogrešne slike. To je ozbiljna opasnost za bezbednost aviona.
+
+
+Question
+Šta je karakteristično za dezorijentaciju tipa II?
+
+Answer
+Pilot primećava sukob između svog osećaja i instrumenata. U većini slučajeva se uspešno reši i retko dovodi do incidenta.
+
+
+Question
+Šta je karakteristično za dezorijentaciju tipa III?
+
+Answer
+Nastaje pri otkazu instrumenata uz potpuni gubitak vizuelnog kontakta sa okolinom. Skoro uvek dolazi do gubitka kontrole nad avionom, uz mučninu, grčeve mišića ili paniku.
