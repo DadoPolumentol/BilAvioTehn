@@ -1,152 +1,50 @@
 Question
-Od koje reči potiče reč kultura i šta ona znači?
+Od koje reči potiče reč kultura i šta znači?
 
 Answer
-Od latinske reči colere, što znači gajiti (biljke), negovati, obrađivati (zemljište).
-
-Question
-Šta reč kultura znači u prenesenom smislu?
-
-Answer
-Gajenje i oplemenjivanje ljudskog duha.
+Od latinskog colere – gajiti, negovati, obrađivati; u prenesenom smislu gajenje i oplemenjivanje ljudskog duha.
 
 Question
 Šta je kultura na najopštijem nivou?
 
 Answer
-Sve što je čovek stvorio, bilo materijalne ili nematerijalne (duhovne) prirode.
+Sve što je čovek stvorio, materijalno i nematerijalno. Tejlor: „Ono što nije priroda to je kultura“.
 
 Question
-Kako kultura nastaje i šta o tome piše Tejlor?
+Šta je kultura na konkretnijem nivou, a šta u najužem smislu?
 
 Answer
-Nastaje u čovekovom odnosu prema prirodi; Tejlor piše: „Ono što nije priroda to je kultura“.
+Konkretnije: način života neke zajednice (običaji, verovanja, vrednosti, norme, jezik). Najuže: proizvodi duhovnog stvaranja (umetnost, filozofija, nauka).
 
 Question
-Šta je kultura na konkretnijem nivou?
+Koja su tri značenja reči civilizacija?
 
 Answer
-Odlike načina života neke zajednice, najčešće naroda, po čemu se razlikuje od drugih naroda.
+1) Poslednje razdoblje razvoja društva posle divljaštva i varvarstva (Morgan: pismo, metal, privatna svojina, država). 2) Materijalno-tehnički napredak. 3) Šire kulturnoistorijske celine, tj. skup sličnih kultura (npr. evropska, kineska).
 
 Question
-Šta se ima u vidu kada se kultura posmatra kao način života zajednice?
+Sa čim je povezan nastanak pojma civilizacija?
 
 Answer
-Običaji, verovanja, vrednosti, norme, jezik itd.
-
-Question
-Šta kultura znači u najužem smislu?
-
-Answer
-Proizvode čovekovog duhovnog stvaranja – umetnost, filozofiju, nauku.
-
-Question
-Šta sve obuhvata kultura?
-
-Answer
-Čovekovo svesno i plansko preobražavanje prirode, ali i stvaranje duhovnih vrednosti kojima se potvrđuje njegov položaj u svetu.
-
-Question
-Koliko značenja ima reč civilizacija?
-
-Answer
-Više značenja (tri navedena).
-
-Question
-Prvo značenje civilizacije (Morgan)?
-
-Answer
-Poslednje razdoblje u razvoju kulture i ljudskog društva, nastalo posle perioda divljaštva i varvarstva.
-
-Question
-Koje su odlike civilizacije prema Morganu?
-
-Answer
-Čovek počinje da se služi pismom, da proizvodi i koristi oruđe i oružje od metala; nastaju privatna svojina i država.
-
-Question
-Drugo značenje civilizacije?
-
-Answer
-Materijalno-tehnički napredak, tj. visok stepen razvoja proizvodnje i raspodele dobara; više se odnosi na materijalnu nego na duhovnu kulturu.
-
-Question
-Šta spada u materijalno-tehnički napredak?
-
-Answer
-Ishrana, stanovanje, odevanje, saobraćaj, rad, rekreacija, znanje, tehnologija, dostignuća i nivo podele rada u društvu.
-
-Question
-Šta iz drugog značenja civilizacije proizlazi o društvima?
-
-Answer
-Da postoje više i niže civilizovana društva.
-
-Question
-Treće značenje civilizacije?
-
-Answer
-Šire prostorno-vremenske/kulturnoistorijske celine sa temeljnim kulturnim sličnostima, tj. skup sličnih kultura.
-
-Question
-Navedi primere civilizacija u trećem značenju.
-
-Answer
-Hrišćanska, evropska, mediteranska, istočnjačka, afrička, kineska civilizacija.
-
-Question
-Sa čim je povezan ideološki razlog nastanka pojma civilizacija?
-
-Answer
-Sa kolonijalizmom.
-
-Question
-Koje države su se u osvajačkim pohodima davale sebi pravo da „civilizuju“ narode?
-
-Answer
-Engleska, Francuska, Španija.
-
-Question
-Šta su Evropljani smatrali svojim pravom i dužnošću u kolonijama?
-
-Answer
-Da „civilizuju“, zapravo prinudno prosvete i preobrate tzv. „primitivne“ narode.
-
-Question
-U kojim delovima sveta su se nalazile kolonije?
-
-Answer
-U Africi, Aziji, Južnoj Americi, Australiji.
-
-Question
-Koje ideje su tada nastale?
-
-Answer
-Ideja o evrocentrizmu, superiornosti zapadne civilizacije, kao i rasističke teorije.
-
-Question
-Šta je ideologija?
-
-Answer
-Sistem ideja i verovanja u kojima su na prikriven način izraženi položaj, interesi i vrednosti pojedinaca i grupa, a koji žele da se predstave kao opšti društveni interesi.
+Sa kolonijalizmom; Evropljani su davali sebi pravo da „civilizuju“ tzv. primitivne narode, što je dovelo do evrocentrizma i rasističkih teorija.
 
 Question
 Šta je kulturni relativizam?
 
 Answer
-Sve kulture se proučavaju „iznutra“, iz perspektive njenih tvoraca (nezavisno od drugih kultura), i sve su kulture jednako vredne.
+Sve kulture se proučavaju „iznutra“ i sve su jednako vredne.
 
 Question
 Šta je evrocentrizam?
 
 Answer
-Sve kulture se procenjuju na osnovu evropskih merila; veoma pristrasno uverenje o superiornosti evropske civilizacije u odnosu na „primitivna“ društva.
+Procenjivanje svih kultura po evropskim merilima, uz uverenje o superiornosti evropske civilizacije.
 
 Question
 Šta je kulturni šok?
 
 Answer
-Stanje nelagodnosti, začuđenosti, iznenađenja koje nastaje kao posledica prilagođavanja mnogo drugačijoj kulturi.
+Nelagodnost i začuđenost zbog prilagođavanja mnogo drugačijoj kulturi.
 
 Question
 Koji su elementi kulture?
@@ -158,1840 +56,448 @@ Question
 Šta su vrednosti?
 
 Answer
-Skup uverenja, mišljenja i stavova o tome šta je ispravno, dobro i poželjno.
-
-Question
-Šta su vrednosti u smislu ideala?
-
-Answer
-Ideali i vizije koje pripadnici društva ili grupe dele u određenom istorijskom trenutku.
-
-Question
-Kako se vrednosti formiraju i usvajaju?
-
-Answer
-Tokom procesa socijalizacije.
-
-Question
-Čemu služe vrednosti?
-
-Answer
-Kao merila za prosuđivanje pojava i postavljanje ciljeva.
-
-Question
-Šta čini sistem vrednosti (vrednosnu orijentaciju)?
-
-Answer
-Veći broj povezanih vrednosti.
-
-Question
-Da li se vrednosti menjaju?
-
-Answer
-Da, menjaju se tokom istorije.
+Uverenja o tome šta je ispravno, dobro i poželjno; ideali koje društvo deli, usvajaju se socijalizacijom, služe kao merila i menjaju se kroz istoriju.
 
 Question
 Šta su norme?
 
 Answer
-Pravila ponašanja kojima se uređuju odnosi u jednoj zajednici, tj. reguliše društveni život.
+Pravila ponašanja koja regulišu društveni život; mogu biti nepisane (običajne, moralne) i pisane (zakoni); njihovo kršenje povlači sankcije.
 
 Question
-Šta norme određuju?
+Šta su običaji i koje su im odlike?
 
 Answer
-Šta je poželjno, a šta neprihvatljivo ponašanje u određenim situacijama („kako bi trebalo da bude“).
+Ustaljeni oblici ponašanja koji su prešli u naviku; nastaju sporo, opstaju dugo, snaga im je u kolektivnoj prihvaćenosti, a nema jasne svesti o njihovom razlogu („tako su naši stari činili“).
 
 Question
-Kakve mogu biti norme?
+Koje sankcije prate kršenje običaja?
 
 Answer
-Nepisane (običajne, moralne) i pisane (zakoni).
+Spoljašnje (podsmeh, izolacija, izgon, kažnjavanje) i unutrašnje (griža savesti, strah od božje kazne).
 
 Question
-Šta se dešava pri nepoštovanju normi?
+Šta je tradicija?
 
 Answer
-Podleže sankcijama.
-
-Question
-Šta su običaji?
-
-Answer
-Ustaljeni oblici ponašanja ljudi koji su se toliko ponavljali da su prešli u naviku i tradiciju.
-
-Question
-Koja je svrha običaja?
-
-Answer
-Da se odredi najprikladniji, jednoobrazan način ponašanja u datoj situaciji (predvidivost ponašanja).
-
-Question
-Šta običaji regulišu?
-
-Answer
-Svakodnevne aspekte društvenog života (npr. pozdravljanje) ili one koji se redovno ponavljaju (svadba, krsna slava, krštenje, sahrana, verski praznici).
-
-Question
-Kakva je svest o nastanku i svrsi običaja?
-
-Answer
-Odsustvo jasne svesti o njihovom nastanku, svrsi i razlozima opstanka – „tako valja“ ili „tako su naši stari činili“.
-
-Question
-Kako običaji nastaju i opstaju?
-
-Answer
-Nastaju sporo, održavaju se dugo.
-
-Question
-U čemu leži snaga običaja?
-
-Answer
-U kolektivnoj prihvaćenosti i trajanju.
-
-Question
-Koje su spoljašnje sankcije za nepoštovanje običaja?
-
-Answer
-Podsmeh, prezir, izrugivanje, pretnja, kletva, izolacija, izgon, fizičko kažnjavanje, kamenovanje, smrt.
-
-Question
-Koje su unutrašnje sankcije za nepoštovanje običaja?
-
-Answer
-Griža savesti, strah od osvete mističnih sila, božje kazne.
-
-Question
-Šta je tradicija i odakle potiče reč?
-
-Answer
-Od lat. traditio – prenošenje, predaja; kulturni sadržaji (ideje, verovanja, vrednosti, običaji) koji se u zajednici prenose sa generacije na generaciju.
+Kulturni sadržaji (ideje, verovanja, vrednosti, običaji) koji se prenose sa generacije na generaciju (lat. traditio – prenošenje).
 
 Question
 Šta su rituali?
 
 Answer
-Sistem pravila koja određuju ponašanje pojedinaca.
+Sistem tačno utvrđenih pravila koja se ponavljaju i imaju simboličko značenje; kolektivni fenomen koji potvrđuje solidarnost zajednice.
 
 Question
-Šta je potrebno da bi neka praksa postala ritual?
+Navedi primere rituala.
 
 Answer
-Da se ponavlja i da ima neko simboličko značenje; pravila su tačno utvrđena.
-
-Question
-Kakav je ritual kao fenomen i šta potvrđuje?
-
-Answer
-Kolektivni fenomen koji potvrđuje solidarnost među članovima određene zajednice.
-
-Question
-Koji su najpoznatiji rituali?
-
-Answer
-Religijski, ali se srećemo i u sportu, vojsci, državnim ustanovama itd.
-
-Question
-Navedi primere rituala društvenih ustanova.
-
-Answer
-Podizanje zastave u vojsci, polaganje zakletve novoizabranih sudija, inauguracija predsednika države.
-
-Question
-Kada izvodimo rituale periodično?
-
-Answer
-Pri obeležavanju značajnih trenutaka – rođenje, krštenje, venčanje, rođendan, završetak školovanja, smrt.
+Religijski obredi, podizanje zastave u vojsci, zakletva sudija, inauguracija predsednika, rođendan, venčanje, sahrana.
 
 Question
 Šta je simbol?
 
 Answer
-Pojava koja stoji umesto neke druge pojave, predstavlja je ili ukazuje na nju.
+Pojava koja stoji umesto neke druge ili ukazuje na nju; značenje je utvrđeno društvenim dogovorom i može biti višestruko (npr. krst, bela boja, beli golub – mir).
 
 Question
-Kako je utvrđeno značenje simbola?
+Šta je jezik i koje su mu odlike?
 
 Answer
-Društvenim dogovorom; značenje simbola svi pripadnici jedne kulture umeju da prepoznaju.
+Simbolički sistem zvučnih i grafičkih znakova; osnovno sredstvo komunikacije, element identiteta i društvene kohezije, čuvar i prenosilac kulture.
 
 Question
-Može li simbol imati više značenja?
+Šta postoji u kulturi pored standardnog jezika?
 
 Answer
-Da, više različitih značenja koja nisu međusobno povezana.
-
-Question
-Navedi primere simbola i njihovih značenja.
-
-Answer
-Reči su simboli; krst – simbol hrišćanstva, a „+“ matematičke operacije i zdravstvene ustanove; zec – brzine, plašljivosti, plodnosti (Uskrsa); bela boja – nevinosti, moralne čistoće, u nekim kulturama žalosti i smrti.
-
-Question
-Čiji je simbol beli golub?
-
-Answer
-Simbol mira.
-
-Question
-Šta je jezik?
-
-Answer
-Simbolički sistem sačinjen od zvučnih i grafičkih (slova) znakova.
-
-Question
-Koje su važne odlike jezika?
-
-Answer
-Osnovno sredstvo komunikacije; element individualnog i kolektivnog identiteta; deo kulture i istovremeno njen stvaralac, čuvar i prenosilac; kroz njega izražavamo svoje predstave o stvarnosti.
-
-Question
-Šta jezik razvija kao element identiteta?
-
-Answer
-Osećanje pripadnosti i solidarnosti, tj. društvenu koheziju.
-
-Question
-Šta postoji u svakoj kulturi pored standardnog jezika?
-
-Answer
-Brojni dijalekti i žargonski govor (specifični govor društvenih grupa).
+Dijalekti i žargon.
 
 Question
 Šta su materijalna dobra?
 
 Answer
-Objekti i predmeti koje su ljudi stvorili i koji utiču na njihov način života.
+Predmeti koje su ljudi stvorili i koji utiču na njihov način života; trajna (građevine, putevi, mašine) i potrošna (hrana, odeća); to je materijalna kultura, tj. civilizacija.
 
 Question
-Koja mogu biti materijalna dobra?
+Koje vrste kulture razlikujemo?
 
 Answer
-Trajna (nasebine, građevine, putevi, mašine, zapisi) i potrošna (hrana, odeća...).
+Visoku (elitnu), narodnu, masovnu i popularnu.
 
 Question
-Kako se još naziva element materijalna dobra?
+Šta je visoka (elitna) kultura?
 
 Answer
-Materijalna kultura, tj. civilizacija.
+Umetnička i intelektualna dela visokih etičko-estetskih dometa (klasična muzika, slikarstvo, opera, balet, književnost); stvaraju je obrazovani stvaraoci, a vrednost ocenjuju kritičari i istoričari umetnosti.
 
 Question
-Koje vrste kulture razlikujemo ako je shvatimo kao tvorevinu ljudskog duha?
+Koja su dva stava o visokoj kulturi?
 
 Answer
-Visoku (elitnu), narodnu, masovnu i popularnu kulturu.
+Da je samo za elitu i statusni simbol, ili da je namenjena i masi koju treba obrazovati i oplemeniti.
 
 Question
-Šta predstavlja visoka (elitna) kultura?
+Kako nastaje narodna kultura?
 
 Answer
-Umetnička i intelektualna dela visokih etičko-estetskih dometa.
-
-Question
-Kakva je vrednost dela visoke kulture?
-
-Answer
-Opšte priznata.
-
-Question
-Ko stvara visoku kulturu?
-
-Answer
-Uglavnom obrazovani stvaraoci.
-
-Question
-Ko ocenjuje kvalitet dela visoke kulture?
-
-Answer
-Istoričari umetnosti i kritičari (pozorišni, filmski, književni...).
-
-Question
-Koje čovekove odlike izražavaju tvorevine visoke kulture?
-
-Answer
-Inteligenciju, duh, talenat.
-
-Question
-Na šta se odnosi visoka kultura?
-
-Answer
-Na duhovnu kulturu i umetničko stvaralaštvo.
-
-Question
-Navedi primere visoke kulture.
-
-Answer
-Klasična muzika, slikarstvo, vajarstvo, arhitektura, književnost, balet, pozorišna umetnost, opera.
-
-Question
-Šta visoka kultura oplemenjuje?
-
-Answer
-Duh i razum oslobođen predrasuda.
-
-Question
-Šta karakteriše visoku kulturu?
-
-Answer
-Kreativnost, autentičnost, nepovrativost (neponovljivost).
-
-Question
-Koji su suprotstavljeni stavovi o visokoj kulturi?
-
-Answer
-Da nastaje samo za odabrane (elitu) i predstavlja statusni simbol; ili da nije namenjena samo eliti, već i masi koju treba vaspitavati, obrazovati i činiti plemenitijom.
-
-Question
-Koje je delo Mikelanđela Buonarotija navedeno kao primer visoke kulture?
-
-Answer
-Stvaranje Adama.
-
-Question
-Gde je nastala narodna kultura?
-
-Answer
-U ruralnim (seoskim) lokalnim zajednicama.
-
-Question
-Ko su autori narodne kulture?
-
-Answer
-Najčešće nepoznati.
-
-Question
-Ko su stvaraoci narodne kulture u odnosu na publiku?
-
-Answer
-Stvaraoci su istovremeno i publika.
-
-Question
-Šta izražava narodna kultura?
-
-Answer
-Životna iskustva pripadnika određene zajednice i tradiciju jedne zajednice, najčešće naroda.
-
-Question
-S čim je usklađena narodna kultura?
-
-Answer
-S prirodnim životnim i radnim ritmovima.
-
-Question
-Kako se narodna kultura prenosi?
-
-Answer
-S kolena na koleno, i tako postaje tradicionalna.
-
-Question
-Ko neguje sadržaje narodne kulture?
-
-Answer
-Kulturno-umetnička društva, pokušavajući da je sačuvaju od zaborava.
+U ruralnim zajednicama; autori su najčešće nepoznati, stvaraoci su istovremeno i publika, prenosi se s kolena na koleno.
 
 Question
 Šta čini narodnu kulturu?
 
 Answer
-Narodne pesme, igre, instrumenti, bajke i epovi, umotvorine, običaji, nošnje, rukotvorine, verovanja, jezik, narodna jela i pića, simboli, oruđa...
+Pesme, igre, instrumenti, bajke, epovi, običaji, nošnje, rukotvorine, verovanja, narodna jela; negovanjem se bave kulturno-umetnička društva.
 
 Question
-Kada nastaje masovna kultura?
+Kada i kako nastaje masovna kultura?
 
 Answer
-Sredinom 20. veka.
-
-Question
-U kakvom društvu nastaje masovna kultura?
-
-Answer
-U industrijskom društvu (standardizacija, serijska proizvodnja).
-
-Question
-Čiji je proizvod masovna kultura?
-
-Answer
-Masovnih medija (pre svih TV, zatim radija, štampe, interneta), ali i potrošačkog društva, industrijalizacije, urbanizacije, razvoja opšteg obrazovanja, viška slobodnog vremena i sl.
-
-Question
-Kome je namenjena masovna kultura i koji su primeri?
-
-Answer
-Široj publici (filmovi, TV serije, rijaliti programi, muzika, tzv. laka literatura).
+Sredinom 20. veka u industrijskom društvu, kao proizvod masovnih medija i potrošačkog društva.
 
 Question
 Šta odlikuje masovnu kulturu?
 
 Answer
-Kič i šund.
+Namenjena je širokoj publici, kič i šund, komercijalni karakter (kultura je roba, publika potrošač), zato se zove kulturna industrija.
 
 Question
-Šta je kič, a šta šund (prema ovom tekstu)?
+Šta je kič, a šta šund?
 
 Answer
-Kič – bezvredna umetnička dela; šund – kič u književnosti.
+Kič je bezvredno umetničko delo za publiku bez izgrađenog ukusa; šund je kič u književnosti.
 
 Question
-Kakav je karakter masovne kulture?
+Koje su negativne strane masovne kulture?
 
 Answer
-Tržišni/komercijalni: kultura je roba, a publika potrošač.
+Svodi kulturu na plitku zabavu, propagira osrednjost, stvara pasivne potrošače, ima reproduktivan karakter, sužava prostor za pravu umetnost i može doprineti totalitarizmu.
 
 Question
-Kako se još naziva masovna kultura?
+Koje su pozitivne strane masovne kulture?
 
 Answer
-Kulturna industrija.
+Nastaju nove umetnosti (film), znanje je dostupnije, demokratičnost i internacionalizacija kulturnih vrednosti.
 
 Question
-Na šta masovna kultura svodi kulturu?
+Po čemu se popularna kultura razlikuje od masovne?
 
 Answer
-Samo na prizemnu, ispraznu zabavu.
-
-Question
-Šta masovna kultura propagira?
-
-Answer
-Osrednjost – svima je razumljiva, ne zahteva intelektualni napor, ne pokreće na akciju i razmišljanje.
-
-Question
-Šta se dešava sa ljudima kojima se sadržaji masovne kulture nameću?
-
-Answer
-Postaju samo pasivni potrošači, bez vlastitog mišljenja i ukusa.
-
-Question
-Kako masovna kultura utiče na mlade?
-
-Answer
-Stvara „zvezde“ koje postaju uzori mladima.
-
-Question
-Kakav karakter ima masovna kultura?
-
-Answer
-Reproduktivan, sve manje produktivan (neoriginalna, šablonska, standardizovana).
-
-Question
-Kako širenje masovne kulture utiče na umetnost i društvo?
-
-Answer
-Sužava prostor za istinsku umetnost i može doprineti stvaranju totalitarnih društava.
-
-Question
-Šta su totalitarna društva?
-
-Answer
-Društva u kojima država kontroliše i sferu javnog i privatnog života.
-
-Question
-Šta je kič (detaljnije)?
-
-Answer
-Bezvredno umetničko delo koje se obraća široj publici bez izgrađenog umetničkog ukusa, prenaglašava određene elemente da bi privuklo pažnju; „falsifikat originala“.
-
-Question
-Šta je šund (detaljnije)?
-
-Answer
-Oznaka za kič u književnosti; romani i tekstovi pisani prvenstveno da bi zabavili ili kod publike izazvali emotivnu reakciju.
-
-Question
-Koje su pozitivne odlike masovne kulture?
-
-Answer
-Nastaju nove umetnosti (npr. film); znanje postaje pristupačnije većem broju ljudi; demokratičnost; internacionalizacija kulturnih vrednosti.
-
-Question
-Navedi primere pristupačnijeg znanja zahvaljujući medijima.
-
-Answer
-Besplatni univerzitetski kursevi, tutorijali, knjige na internetu.
-
-Question
-Šta je demokratičnost kao odlika masovne kulture?
-
-Answer
-Težnja ka smanjenju socijalnih i kulturnih razlika u društvu.
-
-Question
-Na šta se odnosi popularna kultura?
-
-Answer
-Na iste sadržaje kao i masovna kultura, ali je različit stav prema tim sadržajima.
-
-Question
-Šta je zajedničko popularnoj i masovnoj kulturi?
-
-Answer
-Usmerene su ka mnoštvu ljudi s ciljem da budu prihvaćene.
-
-Question
-Koliko vredna se smatra popularna kultura?
-
-Answer
-Može biti jednako vredna kao elitna kultura.
-
-Question
-Da li popularna kultura ima negativnu konotaciju?
-
-Answer
-Ne, za razliku od masovne (kultura – roba; publika – masa).
-
-Question
-Kakvi su potrošači popularne kulture?
-
-Answer
-Nisu pasivni primaoci, već individue sa sopstvenim ukusom, voljom i sposobnošću rasuđivanja.
-
-Question
-Čija je kreacija popularna kultura?
-
-Answer
-Samosvojna kreacija običnih ljudi, a ne nešto što se nameće odozgo.
+Isti sadržaji, ali drugačiji stav: potrošači nisu pasivni nego imaju svoj ukus i rasuđivanje, nema negativnu konotaciju i može biti jednako vredna kao elitna.
 
 Question
 Navedi primere popularne kulture.
 
 Answer
-Pop art (Endi Vorhol), džez, muzika Dejvida Bouvija, grafiti, stripovi, knjige i filmovi o Hariju Poteru, serije poput „Igre prestola“.
+Pop art (Endi Vorhol), džez, Dejvid Bouvi, grafiti, stripovi, Hari Poter, „Igre prestola“.
 
 Question
-Šta postoji u svakom društvu u pogledu kulture?
+Šta je dominantna kultura, a šta supkultura?
 
 Answer
-Dominantna kultura koja predstavlja temeljne vrednosti koje prihvata većina članova društva.
+Dominantna kultura nosi temeljne vrednosti koje prihvata većina. Supkultura je kultura posebne grupe sa svojim vrednostima i normama koja ne dovodi u pitanje dominantnu kulturu (npr. hipsteri, skejteri, gejmeri).
 
 Question
-Kakva su moderna i savremena postindustrijska društva?
+Na osnovu čega se formiraju supkulture?
 
 Answer
-Multikulturna – u njima žive ljudi različitog kulturnog porekla, zato imaju mnoštvo supkultura.
-
-Question
-Šta je supkultura?
-
-Answer
-Kultura posebne grupe unutar društva sa posebnim skupom vrednosti, normi i načinom života, koja se razlikuje od dominantne kulture, ali ne dovodi u pitanje njene vrednosti i norme.
-
-Question
-U čemu se supkultura može razlikovati od dominantne kulture?
-
-Answer
-U domenu vrednosti, normi, obrazaca ponašanja, stvaranja i upotrebe simbola, govora (žargon) itd.
-
-Question
-Na osnovu čega se supkulture mogu formirati?
-
-Answer
-Uzrasta, etničke pripadnosti, veroispovesti, profesije, seksualnog opredeljenja, sličnog ukusa (muzika, moda) i interesovanja.
-
-Question
-Koja grupa je navedena kao primer supkulture na slici?
-
-Answer
-Hipsteri.
+Uzrasta, etničke pripadnosti, veroispovesti, profesije, ukusa (muzika, moda) i interesovanja.
 
 Question
 Šta je kontrakultura?
 
 Answer
-Posebna vrsta supkulture koja je u suprotnosti sa vladajućim vrednostima društva i dovodi u pitanje vrednosti dominantne kulture.
+Vrsta supkulture koja je u suprotnosti sa vladajućim vrednostima i dovodi ih u pitanje.
 
 Question
-Kakav izazov mogu predstavljati kontrakulture?
+Kako se kontrakultura javlja?
 
 Answer
-Mogu biti izazov za kulturu i uticati na promenu vrednosti i normi u društvu.
-
-Question
-Kako se kontrakultura može javljati?
-
-Answer
-Kao društvena patologija ili kao otvoreno suprotstavljanje establišmentu.
-
-Question
-Šta spada u društvenu patologiju?
-
-Answer
-Narkomanija, kriminal, prostitucija, kocka, alkoholizam.
-
-Question
-Navedi primere otvorenog suprotstavljanja establišmentu.
-
-Answer
-Hipi pokret, panker, navijači.
+Kao društvena patologija (narkomanija, kriminal, kocka) ili kao otvoreno suprotstavljanje establišmentu (hipi pokret, panker, navijači).
 
 Question
 Koji su razlozi pojave kontrakulture?
 
 Answer
-Prinuđenost pojedinca ili grupe na lišavanje (blokirane profesionalne ambicije, isključenje iz komunikacije); poremećaj i konfuzija u sistemu vrednosti; nedostatak socijalne kontrole, tj. autoriteta.
+Prinudno lišavanje (blokirane ambicije, isključenje), poremećaj sistema vrednosti i nedostatak socijalne kontrole.
 
 Question
-Na koja dva načina dominantna kultura pokušava da odgovori na izazove supkultura?
+Kako dominantna kultura odgovara na supkulture?
 
 Answer
-Asimilacijom i multikulturalizmom.
-
-Question
-Šta je asimilacija?
-
-Answer
-Stapanje potkulture sa dominantnim kulturnim obrascem, npr. putem komercijalizacije njenog stila (npr. danas svi nose patike Najk).
-
-Question
-Šta je multikulturalizam?
-
-Answer
-Zalaganje za poštovanje kulturnih različitosti i ideju jednake vrednosti različitih kultura.
-
-Question
-Navedi primere supkultura.
-
-Answer
-Hakeri, bajkeri, panker, hipici, umetnici, hipsteri, programeri, gejmeri, skejteri, vegani itd.
+Asimilacijom (stapanje, npr. komercijalizacijom stila) ili multikulturalizmom (poštovanje različitosti i jednaka vrednost kultura).
 
 Question
 Šta je religija?
 
 Answer
-Svako verovanje u apsolutnu i mističnu moć (nemaju sve religije pojam boga), od koje čovek zavisi, koja kontroliše njegov život i smrt, ali na koju može uticati ako se ponaša na određene načine.
+Verovanje u apsolutnu i mističnu moć od koje čovek zavisi i na koju može uticati svojim ponašanjem; jedan od najstarijih oblika društvene svesti (lat. religare – povezati).
 
 Question
-Zašto je religija važna za proučavanje društva?
+Čime se sociologija religije bavi, za razliku od teologije?
 
 Answer
-Proučavanje društva bez razumevanja uloge religije ne bi bilo celovito.
+Društvenim aspektima religije (uticaj na društvo, funkcije, organizacija, rast i pad broja vernika), a ne Bogom ni ličnim iskustvom vernika.
 
 Question
-Kakav je oblik društvene svesti religija?
+Šta je magija i po čemu se razlikuje od religije?
 
 Answer
-Jedan od najstarijih oblika društvene svesti, koji je značajno doprinosio promenama društva.
-
-Question
-Čime se sociologija bavi u odnosu na religiju, za razliku od teologije?
-
-Answer
-Ne bavi se Bogom niti ličnim religijskim iskustvom vernika, već društvenim aspektima religije.
-
-Question
-Koja pitanja interesuju sociologiju religije?
-
-Answer
-Kako religija utiče na društvo i koje su njene društvene funkcije; zašto broj vernika raste ili opada; kako su religije organizovane; u čemu su razlike i sličnosti među religijama i kako utiču jedna na drugu.
-
-Question
-Od koje reči potiče reč religija i šta znači?
-
-Answer
-Od latinske reči religare – povezati; uspostaviti duhovnu vezu čoveka sa Bogom, višom, božanskom silom.
-
-Question
-Šta je magija?
-
-Answer
-Niz praktičnih radnji koje ljudi vrše da bi uticali na prirodu.
-
-Question
-Kada se magijske radnje vrše?
-
-Answer
-Povremeno, kada čovek svojim znanjem i iskustvom ne može da se suprotstavi prirodi.
-
-Question
-Koja je osnovna razlika između magije i religije?
-
-Answer
-Magijskim radnjama se pokušava uticati direktno na prirodu, pojavu, osobu, dok religija podrazumeva molitvu da bi se bogovi umilostivili.
+Radnje kojima se direktno utiče na prirodu; religija podrazumeva molitvu da bi se bogovi umilostivili.
 
 Question
 Šta je totem?
 
 Answer
-Sveta životinja, biljka ili predmet koji se poštuje i zaštićen je tabuom, kao rodonačelnik i plemenski duh zaštitnik u kome žive duše predaka.
+Sveta životinja, biljka ili predmet, zaštićen tabuom, koji se poštuje kao rodonačelnik i zaštitnik plemena.
 
 Question
 Šta je tabu?
 
 Answer
-Stroga zabrana koja se smatra svetom i natprirodnom i koju prate odlučne sankcije.
-
-Question
-Na šta se tabui mogu odnositi?
-
-Answer
-Na živa bića, objekte, mesta, aktivnosti, pojedine reči i izraze.
-
-Question
-Za koga i kada tabui mogu važiti?
-
-Answer
-Uvek i za svakoga, ili samo za neke osobe u određenim prilikama.
-
-Question
-Navedi primere tabua.
-
-Answer
-Na Badnje veče se ne čisti kuća; oko Mladenaca i Blagovesti se ne sme izgovarati reč zmija jer se veruje da bi se pojavila pred čovekom.
+Stroga, svetom smatrana zabrana praćena sankcijama (npr. na Badnje veče se ne čisti kuća).
 
 Question
 Koji su elementi religije?
 
 Answer
-Verovanje u Boga (bogove), religijska verovanja i ideje, religijsko iskustvo, religijska praksa, religijske zajednice, religijske organizacije.
-
-Question
-Šta znači latinsko credo i na šta se odnosi?
-
-Answer
-„Verujem“; ljudi su verom povezani sa Bogom (bogovima), što daje specifično religijsko iskustvo i osećanja.
-
-Question
-Koja su religijska osećanja?
-
-Answer
-Ljubav, zanos, ushićenje, strahopoštovanje.
-
-Question
-Kroz šta su izložena religijska verovanja i ideje?
-
-Answer
-Kroz mitove, proročanstva, svete knjige itd.
-
-Question
-Od čega je satkan diskurs religijskih verovanja?
-
-Answer
-Od simbola i metafora.
+Verovanje u boga (bogove), religijske ideje (mitovi, svete knjige), religijsko iskustvo, religijska praksa (obredi, kultovi), religijske zajednice i organizacije.
 
 Question
 Šta je mit?
 
 Answer
-Predanje o poreklu sveta, čoveka i drugih važnih stvari na kojima se zasniva kultura neke zajednice.
+Sveto predanje o poreklu sveta i čoveka; objašnjava poredak jedne kulture, ima socijalno-integrativnu funkciju i nije samo izmišljena priča.
 
 Question
-Šta mit pomaže ljudima da razumeju?
+Šta je religijska praksa?
 
 Answer
-Poreklo sveta i čoveka, značenje i smisao života, poreklo zla ili patnje.
+Obredi i kultovi kojima vernici uspostavljaju vezu sa bogom ili precima (npr. krsna slava); obred ima strogu proceduru, a greške se smatraju opasnim po poredak.
 
 Question
-Šta mit objašnjava i koja mu je primarna funkcija?
+Koje religije ima najviše sledbenika i koje su monoteističke?
 
 Answer
-Objašnjava kosmički i društveni poredak jedne kulture; funkcija mu je pre svega socijalno-integrativna.
+Najviše: hrišćanstvo, islam, hinduizam, budizam. Monoteističke: hrišćanstvo, islam, judaizam (više od polovine stanovništva).
 
 Question
-Kakva je priča mit?
+Na koje se organizacije dele religijske zajednice?
 
 Answer
-Sveta priča o bogovima, herojima i slavnim precima koji su osećali, mislili i činili nešto nadljudsko, što ljudima ostaje kao uzor ili nedosežna mogućnost.
+Crkve, sekte, denominacije i kultovi (Trelč je podelio na crkve i sekte, a ostale dve su dodate kasnije).
 
 Question
-Da li je mit samo izmišljena priča?
+Koje su odlike crkve?
 
 Answer
-Ne; to je priča koja je postala tradicionalna, pa time istinita i sveta u zajednici koja je usvaja i prepričava.
+Velika formalna organizacija sa hijerarhijom plaćenih sveštenika, pripada joj se rođenjem, univerzalna je, često povezana sa državom i ističe monopol nad verskom istinom. Inkvizicija je bila crkveni sud za jeretike.
 
 Question
-Kako treba tumačiti religijske simbole?
+Koje su odlike sekte?
 
 Answer
-Ne treba ih bukvalno tumačiti.
+Mala, čvrsta zajednica u koju se ulazi slobodnom voljom u odraslom dobu; nema hijerarhiju, vodi je harizmatski vođa, traži povlačenje iz društva. Primeri: sajentolozi, Hare Krišna.
 
 Question
-Zašto svako ne razume sveto pismo isto, iako ima istu poruku za svakoga?
+Koje su odlike denominacije?
 
 Answer
-Zavisi od verske tradicije, istorijskog, društvenog i kulturnog konteksta.
-
-Question
-Šta je religijsko iskustvo?
-
-Answer
-Lični doživljaj svetog i onoga što prevazilazi ovozemaljsko iskustvo.
-
-Question
-Na šta se odnosi religijska praksa?
-
-Answer
-Na rituale (obrede) koje izvode vernici i sveštenici da bi uspostavili duhovnu vezu sa Bogom (bogovima), i na kultove (prirode i predaka).
-
-Question
-Koji je primer kulta predaka?
-
-Answer
-Krsna slava – održavanje duhovne veze sa precima, tradicija.
-
-Question
-Kako se religijski obredi vrše i koji su primeri?
-
-Answer
-Periodično; individualni (rođenje, venčanje, smrt) i kolektivni (krunisanje vladara, zakletva, kolektivna molitva, sahrana).
-
-Question
-Šta obredi uključuju?
-
-Answer
-Upotrebu odabranih gestova, reči, tekstova, muzike, pesama, plesa, predmeta, hrane, pića, nekad i droga.
-
-Question
-Šta obred podrazumeva?
-
-Answer
-Strogu proceduru: kada, ko i na koji način ga obavlja; taj poredak je kosmički, društveni, moralni, ritualni.
-
-Question
-Šta se veruje o greškama u vršenju obreda?
-
-Answer
-Da donose nevolju i zlo, ugrožavaju poredak, a kažnjavaju se čak i smrću.
-
-Question
-Kojim religijama pripada većina ljudi u svetu?
-
-Answer
-Hrišćanstvu, islamu, hinduizmu i budizmu.
-
-Question
-Koje religije su monoteističke i koliki deo stanovništva ih prihvata?
-
-Answer
-Hrišćanstvo, islam i judaizam; prihvata ih više od polovine svetskog stanovništva.
-
-Question
-Na šta se dele religijske organizacije?
-
-Answer
-Crkve, sekte, denominacije i kulti.
-
-Question
-Ko je napravio široko prihvaćenu podelu religijskih organizacija na crkve i sekte?
-
-Answer
-Nemački istoričar religije Ernest Trelč (1865–1923).
-
-Question
-Čime je podela na crkve i sekte dopunjena?
-
-Answer
-Sa još dve kategorije – denominacijama i kultovima.
-
-Question
-Šta je crkva prema Trelču?
-
-Answer
-Velika formalna organizacija sa jasno izraženom hijerarhijom plaćenih sveštenika.
-
-Question
-Kako se pripada crkvi?
-
-Answer
-Rođenjem.
-
-Question
-Zašto je crkva univerzalna?
-
-Answer
-Jer obuhvata pripadnike iz svih društvenih slojeva.
-
-Question
-Sa čim je crkva često bila povezana tokom istorije?
-
-Answer
-Sa državom.
-
-Question
-Šta crkva ističe i kako gleda na alternativna tumačenja?
-
-Answer
-Ističe monopol nad verskom istinom, osuđujući svako alternativno tumačenje kao jeres.
-
-Question
-Šta je inkvizicija?
-
-Answer
-Crkveni sud u katoličkoj crkvi koji je pronalazio, progonio i kažnjavao jeretike.
-
-Question
-Koliko je trajala inkvizicija?
-
-Answer
-Šest vekova, od polovine 12. do početka 19. veka.
-
-Question
-Ko su jeretici?
-
-Answer
-Ljudi koji su o verskim pitanjima imali drugačije mišljenje od zvanične crkvene dogme.
-
-Question
-Koja crkva je prikazana kao primer?
-
-Answer
-Crkva Svetog Marka u Veneciji.
-
-Question
-Kakva je sekta u odnosu na crkvu?
-
-Answer
-Gotovo u potpunosti suprotna crkvi.
-
-Question
-Kakve su sekte po veličini i integrisanosti?
-
-Answer
-Male, čvrsto integrisane zajednice.
-
-Question
-Kako se ulazi u sektu?
-
-Answer
-Slobodnom voljom u odraslom dobu.
-
-Question
-Koji društveni slojevi uglavnom pristupaju sektama?
-
-Answer
-Pripadnici nižih društvenih slojeva.
-
-Question
-Kakva je organizacija sekte i ko je centralni autoritet?
-
-Answer
-Nisu hijerarhijski organizovane; centralni autoritet je obično harizmatski vođa.
-
-Question
-Šta se traži od pripadnika sekte?
-
-Answer
-Da se povuku iz društvenog života i u potpunosti posvete sekti.
-
-Question
-Koja je jedina sličnost sekte sa crkvom?
-
-Answer
-Isticanje monopola nad verskom istinom.
-
-Question
-Navedi primere sekti.
-
-Answer
-Sajentolozi, Hare Krišna, Misija božanske svetlosti.
-
-Question
-Šta su denominacije?
-
-Answer
-Religijske institucije koje su se razvile uglavnom u SAD-u.
-
-Question
-Koje su odlike denominacija?
-
-Answer
-Imaju hijerarhiju i plaćene sveštenike, prihvataju vladajuće norme i društvene vrednosti, ulaze pripadnici svih društvenih slojeva, ne teže monopolu nad verskom istinom i tolerantne su prema drugim verskim organizacijama.
-
-Question
-Navedi primere denominacija.
-
-Answer
-Metodisti, baptisti, pentekostalci.
+Razvile su se u SAD-u; imaju hijerarhiju, prihvataju društvene norme, tolerantne su i ne teže monopolu nad istinom (metodisti, baptisti).
 
 Question
 Šta je kult?
 
 Answer
-Mala religijska zajednica koju odlikuje privrženost vođi i jaka vezanost članova.
+Mala zajednica privržena vođi; začetak nove religije u radikalnom jazu sa dominantnom (Hram naroda – Džim Džonson, Čarls Menson).
 
 Question
-Na čemu se zasnivaju današnja sociološka shvatanja kulta?
+Šta je Marks rekao o religiji?
 
 Answer
-Na ideji da kult predstavlja začetak nove religije, uz radikalni jaz sa religijom dominantnom u društvu u kome nastaje.
+Da je „opijum za narod“: ublažava bol potčinjenih obećanjem nagrade posle smrti i sprečava ih da vide stvarne uzroke svog položaja.
 
 Question
-Navedi primere kultova.
+Kako je Dirkem video religiju?
 
 Answer
-Hram naroda predvođen Džimom Džonsonom, Hipi kult predvođen Šarlsom Mensonom.
+Kao sistem verovanja i običaja o svetim stvarima koji sjedinjuje vernike u moralnu zajednicu; njena uloga je jačanje društvene solidarnosti („Elementarni oblici religijskog života“).
 
 Question
-Šta znači teologija?
+Koje su funkcije religije?
 
 Answer
-Theos (bog) + logos (učenje) – učenje o bogu (veri).
+Saznajna (objašnjenje sveta), psihološka (utočište, savladavanje straha od smrti) i društvene: integrativna, društvena kontrola i opravdanje poretka.
 
 Question
-Koji klasici sociologije su pokušali da definišu religiju?
+Šta se desilo sa funkcijama religije s prosvetiteljstvom?
 
 Answer
-Marks i Dirkem.
+Njihov broj se smanjio, a saznajna funkcija je najviše izgubila na značaju.
 
 Question
-Šta je Marks mislio o religiji?
+Koje su vrste religija po broju bogova?
 
 Answer
-Da je religija „opijum za narod“.
+Politeističke (više bogova) i monoteističke (jedan bog).
 
 Question
-Zašto je religija opijum prema Marksu?
+Šta su univerzalne, a šta narodne religije?
 
 Answer
-Ublažava bol ljudima, posebno potčinjenim slojevima, obećavajući im nagradu u zagrobnom životu.
+Univerzalne su nadnacionalne (hrišćanstvo, islam, budizam); narodne su vezane za narod ili pleme (judaizam, hinduizam).
 
 Question
-Zašto je Marks kritički posmatrao religiju?
+Kada i gde je nastao hinduizam i u šta veruju hinduisti?
 
 Answer
-Jer onemogućava čoveka da vidi stvarne uzroke svog teškog položaja, pa ih ne pokušava promeniti.
+Oko 16–15. veka p.n.e. u Indiji; veruju u seobu duša (reinkarnaciju), a oblik novog života zavisi od karme.
 
 Question
-U kojoj knjizi je Dirkem izložio osnovne ideje o religiji?
+Šta su karma i darma?
 
 Answer
-„Elementarni oblici religijskog života“.
-
-Question
-Kako Dirkem definiše religiju?
-
-Answer
-Čvrsto povezan sistem verovanja i običaja koji se odnose na svete, tj. izdvojene i zabranjene stvari, koji sve svoje pristalice sjedinjuje u istu moralnu zajednicu zvanu crkva.
-
-Question
-Šta je Dirkem smatrao ulogom religije?
-
-Answer
-Jačanje društvene solidarnosti.
-
-Question
-Koje funkcije je religija imala tokom istorije?
-
-Answer
-Saznajnu, psihološku i društvene.
-
-Question
-Kada je saznajna funkcija religije bila dominantna?
-
-Answer
-U periodu pre prosvetiteljstva, kada je religija imala glavnu ulogu u objašnjavanju sveta.
-
-Question
-Šta je psihološka funkcija religije?
-
-Answer
-Utočište u teškim životnim momentima; sredstvo za savladavanje životnih problema i strahova, posebno univerzalnog straha od smrti.
-
-Question
-Koje su društvene funkcije religije?
-
-Answer
-Integrativna, funkcija društvene kontrole i funkcija opravdanja poretka.
-
-Question
-Šta je integrativna funkcija religije?
-
-Answer
-Dodatno integriše pojedinca u društvo i razvija osećaj društvene solidarnosti, kroz rituale i ceremonije.
-
-Question
-Šta je funkcija društvene kontrole religije?
-
-Answer
-Osigurava poštovanje normi i vrednosti i pomoću religije, interiorizacijom društveno poželjnih oblika ponašanja.
-
-Question
-Šta je funkcija opravdanja poretka?
-
-Answer
-Vladari su svoju vlast prikazivali kao izraz Božje volje; religija je opravdavala klasni sistem i nejednakost među ljudima.
-
-Question
-Šta se desilo sa funkcijama religije s prosvetiteljstvom i prodorom nauke?
-
-Answer
-Broj funkcija se smanjuje, a saznajna funkcija posebno gubi značaj.
-
-Question
-Koje dve vrste religija postoje?
-
-Answer
-Politeističke i monoteističke.
-
-Question
-Šta je karakteristično za politeističke religije?
-
-Answer
-Verovanje u više bogova (grč. poly – mnogo, theos – bog).
-
-Question
-Na čemu se zasnivaju monoteističke religije?
-
-Answer
-Na verovanju u jednog boga koji je tvorac sveta, jedan, večan i pravedan (mono – jedan).
-
-Question
-Koja je još važna podela religija?
-
-Answer
-Na univerzalne (svetske) i narodne (etničke).
-
-Question
-Šta su univerzalne (svetske) religije?
-
-Answer
-Nadnacionalne religije koje se ne ograničavaju na jedan narod ili jednu državu.
-
-Question
-Koje monoteističke religije su univerzalne?
-
-Answer
-Hrišćanstvo, islam, budizam.
-
-Question
-Šta su narodne (etničke) religije?
-
-Answer
-Religije čiji osnivač nije nužno poznat, a vezuju se za jedan klan, pleme, narod ili državu.
-
-Question
-Koje religije spadaju u narodne?
-
-Answer
-Judaizam i hinduizam.
-
-Question
-Kada i gde se razvio hinduizam?
-
-Answer
-Oko 16. i 15. veka pre nove ere u Indiji, gde je i danas glavna religija.
-
-Question
-Zašto hinduizam nije u potpunosti politeistička religija?
-
-Answer
-Jer deo pristalica veruje u mnogo bogova, a deo samo u jednog boga – Brahmana.
-
-Question
-U šta veruju pristalice hinduizma u vezi sa dušom?
-
-Answer
-U seobu duša.
-
-Question
-Kako hinduisti posmatraju čoveka i svemir?
-
-Answer
-Ciklično.
-
-Question
-Kako se svemir menja po hinduističkom shvatanju?
-
-Answer
-Stalno se kvari; posle zlatnog doba prelazi u fazu iskvarenja koja se završava potopom, nakon čega ponovo sledi zlatno doba.
-
-Question
-Šta se dešava sa čovekom posle smrti u hinduizmu?
-
-Answer
-Duša napušta telo i ponovo se rađa u telu druge osobe, životinje ili biljke.
-
-Question
-Kako se zove proces ponovnog rađanja?
-
-Answer
-Reinkarnacija.
-
-Question
-Od čega zavisi u kom telu će se duša naći?
-
-Answer
-Od zasluga i krivice osobe u ovozemaljskom svetu, tj. od njene karme.
-
-Question
-Koji su ključni pojmovi hinduističke etike?
-
-Answer
-Karma i darma.
-
-Question
-Šta je karma, a šta darma?
-
-Answer
-Karma – delovanje; darma – dužnosti, tačnije društveni poredak i zakon.
-
-Question
-Kako pristalice hinduizma doživljavaju sadašnje stanje?
-
-Answer
-Kao posledicu prethodnog života, i smatraju da su to zaslužili.
-
-Question
-Koja svetski poznata fizička disciplina je jedan od obreda hinduizma?
-
-Answer
-Joga.
+Karma je delovanje, darma su dužnosti, tj. društveni poredak i zakon.
 
 Question
 Šta je judaizam?
 
 Answer
-Najstarija monoteistička religija, nastala oko 13. veka p.n.e.
+Najstarija monoteistička religija (oko 13. veka p.n.e.); sveti spisi su Stari zavet i Talmud, prorok je Mojsije, praotac Avram.
 
 Question
-Šta judaizam predstavlja?
+Kako se zove bog u judaizmu?
 
 Answer
-Skup religijskih ideja i obreda, moralnih i pravnih načela, ali i način života, istoriju i mitologiju Jevreja.
+Jahve; ime se ne sme izgovarati (tabu), pa se kaže Adonaj ili Hašem.
 
 Question
-Koji su sveti spisi judaizma?
+Koji su hram, sveto mesto i simboli judaizma?
 
 Answer
-Stari zavet i Talmud (znači: učenje, izučavanje, poučavanje).
+Hram: sinagoga; sveto mesto: Zid plača; simboli: Davidova zvezda i menora (sedmokraka, simbol Božije mudrosti i sedam dana stvaranja).
 
 Question
-Ko je prorok jevrejske religije?
+Šta su kipa, cionizam i holokaust?
 
 Answer
-Mojsije.
+Kipa je kapa za molitvu; cionizam je težnja Jevreja da se vrate u Izrael; holokaust je sistematsko uništenje Jevreja u Drugom svetskom ratu (oko 6 miliona žrtava).
 
 Question
-Ko je praotac svih Jevreja?
+Kada je nastala država Izrael?
 
 Answer
-Avram.
+14. maja 1948. odlukom OUN.
 
 Question
-Koji su četiri jerarha (patrijarha) u judaizmu?
+Kada i gde je nastalo hrišćanstvo i ko je njegov rodonačelnik?
 
 Answer
-Avram, Isak, Jakov, Josif.
+U 1. veku n.e. u istočnim provincijama Rimske imperije; Isus Hrist.
 
 Question
-Kako se zove bog u judaizmu i zašto se ime ne izgovara?
+Koje su osnove hrišćanskog učenja?
 
 Answer
-Jahve; ime je tabuisano i ne sme se izgovarati.
-
-Question
-Šta se umesto imena Jahve upotrebljava?
-
-Answer
-Adonaj (Gospod) ili Hašem (Ime njegovo).
-
-Question
-Koji je hram u judaizmu?
-
-Answer
-Sinagoga.
-
-Question
-Koje je sveto mesto u judaizmu?
-
-Answer
-Zid plača ili Zapadni zid.
-
-Question
-Koji je sveti simbol u judaizmu?
-
-Answer
-Davidova zvezda.
-
-Question
-Šta je menora?
-
-Answer
-Simbol jevrejskog naroda čiji je izgled utvrđen za vreme primanja Deset zapovesti na gori Sinajskoj.
-
-Question
-Gde su Jevreji nosili menoru i gde su je kasnije postavili?
-
-Answer
-Nosili su je kroz Sinajsku pustinju, a kasnije je postavili u Zavetnom šatoru (pokretno svetilište).
-
-Question
-Čiji je simbol još menora?
-
-Answer
-Simbol Božije mudrosti.
-
-Question
-Koliko krakova ima menora i šta oni simbolišu?
-
-Answer
-Uglavnom sedam: šest krakova simbolišu ljudsko znanje vođeno svetlošću Božijom (sedmi krak u sredini).
-
-Question
-Šta još menora simboliše?
-
-Answer
-Sedam dana, koliko je bilo potrebno za stvaranje sveta.
-
-Question
-Šta je kipa?
-
-Answer
-Kapa koju Jevreji nose za vreme molitve.
-
-Question
-Šta je cionizam?
-
-Answer
-Težnja Jevreja raširenih po svetu da se ujedine i vrate u Izrael, tj. u svoju postojbinu Cion – Kanaansku tvrđavu na bregu Jerusalima.
-
-Question
-Šta je bio antisemitski rasizam u vreme Trećeg rajha?
-
-Answer
-Čisti rasizam zasnovan na ideologiji i praksi nacionalsocijalizma.
-
-Question
-Šta je holokaust?
-
-Answer
-Sistematsko uništenje Jevreja za vreme Drugog svetskog rata na teritorijama pod kontrolom nacističke Nemačke i njenih saveznika.
-
-Question
-Koliko je članova imala jevrejska zajednica u Jugoslaviji pred Drugi svetski rat (1939)?
-
-Answer
-71.342.
-
-Question
-Koliko Jevreja iz Jugoslavije je stradalo u logorima?
-
-Answer
-Oko 60.000.
-
-Question
-Koliko je Jevreja tada živelo na teritoriji današnje Srbije i koliko je ubijeno?
-
-Answer
-Živelo ih je 33.579, a ubijeno 27.024 (80,48%).
-
-Question
-Koliko je Jevreja stradalo u holokaustu?
-
-Answer
-Oko 6 miliona.
-
-Question
-Koliko članova ima jevrejska zajednica u Srbiji danas?
-
-Answer
-Manje od 4.000.
-
-Question
-Kada je i čijom odlukom stvorena država Izrael?
-
-Answer
-Odlukom OUN, 14. maja 1948.
-
-Question
-Koliko Jevreja živi u svetu i gde ih ima najviše?
-
-Answer
-Oko 13,5 miliona; najviše u SAD i Izraelu.
-
-Question
-Koje je mesto hrišćanstva među svetskim religijama?
-
-Answer
-Najrasprostranjenija svetska religija.
-
-Question
-Kada i gde je nastalo hrišćanstvo?
-
-Answer
-U 1. veku nove ere, u istočnim provincijama Rimske imperije.
-
-Question
-Ko je rodonačelnik hrišćanstva?
-
-Answer
-Isus Hrist, sin božiji.
-
-Question
-Kako se Bog otkriva prema hrišćanskoj doktrini?
-
-Answer
-Kao ličnost Svete Trojice – Otac, Sin i Sveti duh.
-
-Question
-Kakvu prirodu poseduje Isus Hrist?
-
-Answer
-I božansku i ljudsku.
-
-Question
-Šta Isus predstavlja za hrišćane?
-
-Answer
-Najviši moralni uzor čije ideje treba sledeti.
-
-Question
-Šta su glavni događaji hrišćanskog učenja i izvorište obreda i praznika?
-
-Answer
-Raspeće i vaskrsnuće i drugi značajni momenti iz života Isusa Hrista.
+Sveta Trojica (Otac, Sin, Sveti duh), Hristova božanska i ljudska priroda, raspeće i vaskrsnuće; svete knjige: Biblija (Stari i Novi zavet); simboli: krst i riba.
 
 Question
 Koji su glavni hrišćanski obredi i praznici?
 
 Answer
-Krštenje, evharistija (liturgija, misa zahvalnosti Bogu), Vaskrs (Dan Hristovog vaskrsenja), Božić (Dan Hristovog rođenja), nedelja kao dan mirovanja.
+Krštenje, evharistija, Vaskrs, Božić, nedelja kao dan mirovanja.
 
 Question
-Koji je hrišćanski sveti spis?
+Šta je Milanski edikt?
 
 Answer
-Biblija, koja se sastoji iz Starog i Novog zaveta.
+Edikt iz 313. godine cara Konstantina kojim je hrišćanstvo priznato; dotad su hrišćani bili proganjani.
 
 Question
-Koji su simboli hrišćanstva?
-
-Answer
-Krst i riba.
-
-Question
-Čime je hrišćanstvo proglašeno zvaničnom religijom Rimskog carstva?
-
-Answer
-Milanskim ediktom 313. godine, za vreme cara Konstantina.
-
-Question
-Kako su hrišćani tretirani do Milanskog edikta?
-
-Answer
-Surovo su proganjani.
-
-Question
-Na koje tri velike grupe je hrišćanstvo podeljeno?
+Na koje se grupe deli hrišćanstvo?
 
 Answer
 Pravoslavlje, katoličanstvo i protestantizam.
 
 Question
-Kada je došlo do podele na pravoslavni Istok i katolički Zapad?
+Kada i zašto je došlo do raskola 1054?
 
 Answer
-1054. godine.
+Zbog razlika u kulturi, jeziku i istoriji i doktrine o papi (pravoslavci ga poštuju samo kao „prvog među jednakima“); anateme su ukinute 1965.
 
 Question
-Šta je bio jedan od povoda za konačni raskol 1054?
+Kako je nastao protestantizam?
 
 Answer
-Doktrina o papi.
-
-Question
-Kako su pravoslavci gledali na papu?
-
-Answer
-Poštovali su ga, ali samo kao „prvog među jednakima“, a ne kao vrhovnog i nepogrešivog poglavara.
-
-Question
-Šta su 1054. učinile dve crkvene institucije i kada su te mere ukinute?
-
-Answer
-Bacile su anateme (kletve) jedna na drugu; ukinute su tek 1965. godine.
-
-Question
-Kada je nastao protestantizam?
-
-Answer
-U 16. veku, iz pokreta koji je nastojao da reformiše zapadno hrišćanstvo.
-
-Question
-Šta se zamerilo Crkvi kao uzrok reformacije?
-
-Answer
-Preveliko bogatstvo i korupcija.
-
-Question
-Ko se smatra vođom protestantske reformacije?
-
-Answer
-Martin Luter.
-
-Question
-Šta je Luter učinio 31. oktobra 1517?
-
-Answer
-Na vrata Vitenberške katedrale okačio je svojih 95 teza protiv prodaje indulgencija.
-
-Question
-Šta su indulgencije?
-
-Answer
-Opraštanje grehova za novac u Katoličkoj crkvi.
+U 16. veku iz pokušaja reforme Katoličke crkve zbog bogatstva i korupcije; Martin Luter je 1517. okačio 95 teza protiv prodaje indulgencija.
 
 Question
 Koje su glavne odlike protestantizma?
 
 Answer
-Poštovanje Svetog pisma kao konačnog izvora verovanja; nepriznavanje autoriteta pape; verovanje u predodređenost spasenja rođenjem; sveštenik ne posreduje između vernika i boga; jednostavni verski obredi.
+Sveto pismo kao izvor vere, nepriznavanje pape, predodređenost spasenja, sveštenik nije posrednik i jednostavni obredi.
 
 Question
-Koje je mesto islama među svetskim religijama po rasprostranjenosti?
+Šta je islam i kada je nastao?
 
 Answer
-Druga svetska religija.
-
-Question
-Šta znači reč islam?
-
-Answer
-Arapska reč: potčinjavanje Božjoj volji.
-
-Question
-Na šta se islam odnosi osim na religiju?
-
-Answer
-Na društvo, kulturu, civilizaciju.
-
-Question
-Kada je nastao islam i ko je njegov utemeljitelj?
-
-Answer
-U 7. veku; Muhamed.
-
-Question
-Od koga je Muhamed primio božansko otkrovenje?
-
-Answer
-Od anđela Džibrila.
-
-Question
-Gde je Muhamed propovedao Božju objavu?
-
-Answer
-Po ulicama Meke.
-
-Question
-Zašto se Muhamed preselio u Medinu i kada?
-
-Answer
-Da bi izbegao progon; 622. godine, sa svojim sledbenicima.
-
-Question
-Šta je Muhamed prema tradiciji osnovao u Medini?
-
-Answer
-Prvu džamiju (hram u islamu).
+Druga svetska religija po rasprostranjenosti (arap. potčinjavanje Božjoj volji); nastao u 7. veku, utemeljitelj je Muhamed, koji je otkrovenje primio od anđela Džibrila.
 
 Question
 Šta je hidžra?
 
 Answer
-Muhamedov prelazak iz Meke u Medinu; uzima se kao početak računanja islamske ere.
+Muhamedov prelazak iz Meke u Medinu 622. godine; početak računanja islamske ere.
 
 Question
-Koja je sveta knjiga muslimana?
+Koji su sveta knjiga, bog, zakon, hram i sveto mesto islama?
 
 Answer
-Kuran.
+Kuran; Alah; šerijat (božanski zakon); džamija; Kaba u Meki.
 
 Question
-Šta predstavlja Kuran?
+Koji su pet stubova islama?
 
 Answer
-Božje objave u pisanoj formi, prikupljene posle Muhamedove smrti.
+Potvrđivanje vere, molitva (pet puta dnevno), plaćanje poreza, post u Ramazanu, hodočašće u Meku.
 
 Question
-U šta veruju muslimani?
+Kada i gde je nastao budizam i ko ga je utemeljio?
 
 Answer
-Da postoji jedan i jedinstveni bog Alah.
+U Indiji oko 6. veka p.n.e.; Sidarta Gautama, zvani Buda.
 
 Question
-Šta je šerijat?
+Koje su četiri plemenite istine budizma?
 
 Answer
-Božanski zakon – religijski i svetovni, važi u svim oblastima života vernika.
+1) Život je patnja. 2) Uzrok patnje su žudnja i neznanje. 3) Patnja se može ukinuti ukidanjem žudnje i neznanja. 4) To se postiže nirvanom (prosvetljeno stanje bez poriva i mržnje).
 
 Question
-Koje je sveto mesto islama?
+Šta su lamaizam i zen-budizam?
 
 Answer
-Kaba (u gradu Meka, u Saudijskoj Arabiji).
-
-Question
-Koji je hram u islamu?
-
-Answer
-Džamija.
-
-Question
-Ko su sveštenici u islamu?
-
-Answer
-Imam, ulema.
-
-Question
-Koliko stubova vere ima islam i koji su?
-
-Answer
-Pet: potvrđivanje vere, molitva, plaćanje poreza, post, hodočašće u Meku.
-
-Question
-Šta je potvrđivanje vere kao stub islama?
-
-Answer
-Otvoreno ispovedanje vere.
-
-Question
-Šta je molitva kao stub islama?
-
-Answer
-Obaveza molitve pet puta dnevno, a petkom se mole kolektivno u džamiji.
-
-Question
-Šta je plaćanje poreza kao stub islama?
-
-Answer
-Ne odnosi se na milostinju, već na davanje određenog procenta vrednosti novca i imovine.
-
-Question
-Šta je post kao stub islama?
-
-Answer
-Obavezan je tokom Ramazana.
-
-Question
-Šta je hodočašće u Meku kao stub islama?
-
-Answer
-Svaki musliman, ako ima finansijske mogućnosti i ako je zdrav, treba da poseti svetilište u Meki.
-
-Question
-Koja džamija je prikazana kao primer?
-
-Answer
-Plava džamija u Istanbulu.
-
-Question
-Kada i gde je nastao budizam?
-
-Answer
-U Indiji, oko 6. veka pre nove ere.
-
-Question
-Ko je utemeljitelj budizma?
-
-Answer
-Sidarta Gautama, kasnije nazvan Buda.
-
-Question
-Sa koliko godina je Buda počeo da istražuje stvaran život?
-
-Answer
-Sa 29 godina.
-
-Question
-Šta je središte budizma?
-
-Answer
-Uvid u četiri plemenite istine.
-
-Question
-Koja je prva plemenita istina?
-
-Answer
-Život je patnja; čovek se ne oslobađa patnje ni kada umre zbog seobe duše.
-
-Question
-Koja je druga plemenita istina?
-
-Answer
-Poreklo patnje je neprestana žudnja i neznanje.
-
-Question
-Koja je treća plemenita istina?
-
-Answer
-Patnja se može ukinuti kada se ukine žudnja i neznanje.
-
-Question
-Koja je četvrta plemenita istina?
-
-Answer
-To se postiže dostizanjem nirvane.
-
-Question
-Šta je nirvana?
-
-Answer
-Prosvetljeno stanje u kome se gase svi porivi, neznanje, žudnja, mržnja.
-
-Question
-Šta se desilo sa budizmom posle Budine smrti?
-
-Answer
-Pojavile su se mnoge škole budističkih usmerenja; najpoznatije su lamaizam i zen-budizam.
-
-Question
-Gde i kada se razvio lamaizam?
-
-Answer
-U Tibetu, počev od 7. veka.
-
-Question
-Šta je dalaj-lama po učenju lamaizma?
-
-Answer
-Duhovni učitelj i vladar sveta.
-
-Question
-Kako se bira novi dalaj-lama?
-
-Answer
-Kad učitelj umre, po celoj zemlji se traži među novorođenom decom.
-
-Question
-Gde i kada se razvio zen-budizam?
-
-Answer
-U Kini, u 6. veku.
-
-Question
-Šta je cilj fizičke prakse zen-budizma?
-
-Answer
-Da oslobodi um stega tela.
-
-Question
-Kako se to najčešće postiže u zen-budizmu?
-
-Answer
-Meditacijom koja podrazumeva stroga pravila.
-
-Question
-Šta je koan?
-
-Answer
-Filozofska zagonetka zen-budizma čiji je cilj da dovede do prosvetljenja.
-
-Question
-Koji je primer koana?
-
-Answer
-Ako drvo padne u šumi, a u blizini nema nikoga, da li je napravilo zvuk?
+Lamaizam se razvio u Tibetu (dalaj-lama je duhovni vođa); zen-budizam u Kini (meditacija i koani, zagonetke koje vode do prosvetljenja).
 
 Question
 Šta je sekularizacija?
 
 Answer
-Proces tokom koga religija gubi uticaj u različitim sferama društvenog života.
-
-Question
-U čemu se slažu sve pomenute teorije o ulozi religije u modernom industrijskom društvu?
-
-Answer
-U predviđanju da će njena uloga opasti.
-
-Question
-Šta sociolozi religije danas debatuju?
-
-Answer
-Različite aspekte i procene toka sekularizacije.
+Proces u kome religija gubi uticaj u društvenom životu.
 
 Question
 Šta tvrde zagovornici teze o sekularizaciji?
 
 Answer
-Da se smanjuje uticaj religije i crkvenih organizacija na društveni život.
-
-Question
-Na osnovu čega zagovornici sekularizacije to zaključuju?
-
-Answer
-Sve manji broj vernika i sve nedovoljnije obavljanje verskih aktivnosti (odlasci u crkvu, učešće u važnim ritualima).
-
-Question
-Koji je drugi argument za tezu o sekularizaciji?
-
-Answer
-Smanjenje ugleda, moći i bogatstva verskih organizacija.
-
-Question
-Kakav je odnos crkve i politike prema tezi o sekularizaciji?
-
-Answer
-Crkva, nekada nerazdvojiva od države, ima sve manje uticaja na političare i javno mnjenje.
-
-Question
-Koji je treći argument za sekularizaciju?
-
-Answer
-Današnji svet je mnogo manje prožet religioznošću nego ranije.
+Opada broj vernika i verskih aktivnosti, smanjuje se ugled i moć crkve i svet je manje religiozan.
 
 Question
 Šta tvrde protivnici teze o sekularizaciji?
 
 Answer
-Da smo poslednjih decenija svedoci oživljavanja religije.
+Religija se oživljava: raste broj onih koji veruju u „višu silu“ i broj novih verskih pokreta, a u svetu u celini (posebno u bivšim socijalističkim zemljama) raste uticaj crkve.
 
 Question
-Koji je prvi argument protiv teze o sekularizaciji?
+Kako sociolozi objašnjavaju oživljavanje religije?
 
 Answer
-Iako opada broj tradicionalnih vernika, raste broj onih koji veruju u neku „višu silu“.
-
-Question
-Koji je drugi argument protiv teze o sekularizaciji?
-
-Answer
-Raste broj pripadnika različitih novih verskih pokreta.
-
-Question
-Koji je treći argument protiv teze o sekularizaciji?
-
-Answer
-Teza se zasniva na razvijenim zemljama; u svetu kao celini raste interesovanje za religiju i jača uticaj crkve, naročito u bivšim socijalističkim zemljama.
-
-Question
-Šta sociolozi najčešće ističu kao uzroke oživljavanja religije?
-
-Answer
-Reakciju pojedinih društvenih grupa na nagle i brze globalne promene u kojima se njihovi pripadnici ne snalaze.
-
-Question
-Kako globalizacija utiče na ekonomsko blagostanje?
-
-Answer
-Raste ukupno blagostanje, ali i njegova neravnomerna raspodela, tj. društvene nejednakosti.
-
-Question
-Šta stvara osećaj gubitka tla pod nogama?
-
-Answer
-Socijalna, ekonomska, politička i ekološka neizvesnost i nesigurnost.
-
-Question
-Šta stalne promene zahtevaju od pojedinaca?
-
-Answer
-Da se stalno prilagođavaju novim okolnostima, i dovode u pitanje ustaljene navike.
-
-Question
-Šta stvara moralni vakuum kod ljudi?
-
-Answer
-Utisak da nema pravila o tome šta je ispravno ponašanje, pa kod njih nastaje potreba da prate one koji tvrde da imaju univerzalne odgovore.
-
-Question
-Šta fundamentalisti propovedaju umesto tolerancije?
-
-Answer
-Isključivost.
-
-Question
-Čije simpatije fundamentalisti na taj način pridobijaju?
-
-Answer
-Nesigurnih, neukih, moralno neutemeljenih gubitnika procesa globalizacije.
+Kao reakciju na nagle globalne promene, nejednakost i nesigurnost; moralni vakuum navodi ljude da slede one koji nude univerzalne odgovore, a fundamentalisti propovedaju isključivost.
